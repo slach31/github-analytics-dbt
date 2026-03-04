@@ -1,0 +1,679 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35429,[compiler] Fix Symbol shadowing in generated code,closed,kenanAST,2025-12-31T07:46:08Z,2025-12-31T08:17:47Z,2025-12-31T08:17:08Z,,False,0,0,[]
+facebook/react,35428,fix: Add deprecation warning for removed flushSync API,open,gabrielfranca95,2025-12-30T19:48:08Z,2026-01-09T06:11:50Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35427,Dedupe effect dev warning,open,Don-Erfano,2025-12-30T12:12:29Z,2026-01-09T06:11:01Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35426,Fix controlled select reset behavior after form action,open,xuanxuan321,2025-12-30T06:15:52Z,2025-12-30T07:18:16Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35423,Fix lazy thenable suspension race,open,leeguooooo,2025-12-29T02:58:08Z,2026-01-16T16:59:03Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35420,Fix Report: ESLint Rules of Hooks Bug in Default Export Arrow Functions,open,afurm,2025-12-28T09:18:23Z,2025-12-28T09:18:29Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35419,[compiler] Fix setState-in-effect for React.useEffect namespace calls (#35377),closed,AntonChesnokov,2025-12-27T10:14:55Z,2026-02-07T11:32:33Z,2026-02-04T16:07:18Z,2026-02-04T16:07:18Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35418,Fix: Handle stale executionContext after breakpoint/alert interruption,open,hassanzadeh-mj,2025-12-27T07:07:11Z,2026-01-03T09:17:15Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35416,fix: add missing useState import in test fixture,open,PGrayCS,2025-12-26T15:13:14Z,2025-12-26T15:13:20Z,,,False,0,0,[]
+facebook/react,35415,Fix/unhandled promise rejection stylesheet loading,open,Lihexs,2025-12-26T09:51:40Z,2025-12-26T09:51:46Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35414,fix: Handle unhandled promise rejection in stylesheet loading,closed,Lihexs,2025-12-26T09:19:30Z,2025-12-26T10:23:43Z,2025-12-26T09:39:55Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35413,eslint-plugin-react-hooks: allow explicit undefined deps,open,leeguooooo,2025-12-26T06:17:58Z,2025-12-26T06:18:09Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35412,eslint-plugin-react-hooks: flag optional hook calls,open,leeguooooo,2025-12-26T06:17:44Z,2025-12-27T01:48:17Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35411,eslint-plugin-react-hooks: disallow hook arguments,open,leeguooooo,2025-12-26T06:17:31Z,2025-12-27T01:48:38Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35410,done,closed,Dipesh-Kumar1,2025-12-25T21:34:28Z,2025-12-25T23:39:39Z,2025-12-25T21:42:52Z,,False,0,0,[]
+facebook/react,35409,Spam,closed,sueannioanis,2025-12-25T16:56:58Z,2025-12-26T00:43:35Z,2025-12-25T18:30:30Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35408,Add Md Mushfiqur Rahim to contributors list,closed,MD-Mushfiqur123,2025-12-25T10:15:38Z,2025-12-25T21:57:34Z,2025-12-25T10:42:30Z,,False,0,0,[]
+facebook/react,35406,add space line 29,closed,Inge-isaac,2025-12-24T22:33:52Z,2025-12-25T00:13:32Z,2025-12-25T00:13:32Z,,True,0,0,[]
+facebook/react,35405,test,closed,CharlieEriksen,2025-12-24T19:24:55Z,2025-12-24T19:28:08Z,2025-12-24T19:28:08Z,,False,0,0,[]
+facebook/react,35404,[eprh] Check for namespaced useEffectEvent,open,chirokas,2025-12-24T08:19:49Z,2026-02-05T08:25:21Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35403,Add Deno CI workflow for linting and testing,closed,kaykwanele22,2025-12-23T10:45:38Z,2025-12-23T13:54:17Z,2025-12-23T13:54:16Z,,True,0,0,"[""CLA Signed""]"
+facebook/react,35401,Re-enable Activity in config panel,open,afurm,2025-12-21T17:41:23Z,2025-12-21T17:41:41Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35400,Add ReactChildren test for single-child key patterns,open,afurm,2025-12-21T16:57:38Z,2025-12-21T17:20:22Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35398,DevTools: Fix nested HOC name extraction in extractHOCNames,open,TerryTaoYY,2025-12-21T05:05:46Z,2025-12-21T05:11:54Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35392,[flags] Add `enableParallelTransitions`,closed,rickhanlonii,2025-12-19T16:42:54Z,2026-02-04T18:58:38Z,2026-02-04T18:58:34Z,2026-02-04T18:58:34Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35391,Use globalThis.Symbol.for to avoid Symbol shadowing,closed,Mudavath-Giri-Naik,2025-12-19T09:18:02Z,2025-12-19T09:31:30Z,2025-12-19T09:31:20Z,,False,0,0,[]
+facebook/react,35388,Add failing test for #35387,closed,gaearon,2025-12-17T18:23:56Z,2025-12-18T02:02:45Z,2025-12-18T02:02:44Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35385,dinesh added,closed,Dineshcs234,2025-12-17T10:50:13Z,2025-12-17T10:57:42Z,2025-12-17T10:57:42Z,,False,0,0,[]
+facebook/react,35384,Add helpful suggestion for `use(uncachedPromise)`.,open,cpojer,2025-12-17T10:28:01Z,2025-12-17T10:34:15Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35383,fix(compiler): use globalThis.Symbol to prevent shadowing by user components,open,gowthamrdyy,2025-12-17T10:25:13Z,2025-12-17T10:34:57Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35382,test(compiler): remove obsolete fixtures,closed,Nietzsche-Ubermensch,2025-12-17T06:45:47Z,2025-12-17T07:35:47Z,2025-12-17T07:35:47Z,,False,0,0,[]
+facebook/react,35380,Skip hydration errors when a view transition has been applied,closed,sebmarkbage,2025-12-17T04:11:10Z,2025-12-17T14:37:44Z,2025-12-17T14:37:43Z,2025-12-17T14:37:43Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35378,[react] Optimize escape function by hoisting regex and lookup table,open,suekou,2025-12-17T01:00:20Z,2025-12-17T01:03:32Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35376,[DevTools] Fix crash on reorder operation mismatch,open,shash-hq,2025-12-16T20:05:31Z,2025-12-17T17:05:24Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35375,Fix cyclic thenable detection for multi-node cycles (#35368),closed,parisaghm,2025-12-16T19:32:08Z,2025-12-17T11:26:38Z,2025-12-17T11:26:37Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35374,Bump @modelcontextprotocol/sdk from 1.9.0 to 1.24.0 in /compiler,closed,dependabot[bot],2025-12-16T17:05:35Z,2026-01-07T16:21:48Z,2026-01-07T16:21:46Z,,False,0,0,"[""CLA Signed"", ""dependencies"", ""javascript""]"
+facebook/react,35373,Bump jws from 3.2.2 to 3.2.3,open,dependabot[bot],2025-12-16T17:05:27Z,2025-12-16T17:14:18Z,,,False,0,0,"[""CLA Signed"", ""dependencies"", ""javascript""]"
+facebook/react,35371,Upgrade GitHub Actions for Node 24 compatibility,open,salmanmkc,2025-12-16T11:32:17Z,2025-12-19T00:55:44Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35370,Performance: store effects in array instead of linked list,open,romgrk,2025-12-16T09:44:39Z,2025-12-17T12:40:11Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35369,Improve cyclic thenable detection in ReactFlightReplyServer,closed,cvan20191,2025-12-16T08:50:34Z,2025-12-17T11:22:26Z,2025-12-17T11:22:26Z,2025-12-17T11:22:26Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35366,Fix: Make 'use no memo' apply recursively (#35350),closed,gowthamrdyy,2025-12-16T06:05:14Z,2025-12-17T03:36:32Z,2025-12-17T03:36:32Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35365,Add reporting modes for react-hooks/exhaustive-effect-dependencies and temporarily enable,closed,jackpope,2025-12-15T23:18:44Z,2025-12-15T23:59:30Z,2025-12-15T23:59:27Z,2025-12-15T23:59:27Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35364,[compiler] proof of concept to validate relay derived setStates,open,jorge-cab,2025-12-15T21:19:28Z,2025-12-15T22:25:55Z,,,True,0,0,"[""CLA Signed""]"
+facebook/react,35363,Upgrade node-forge to ^1.3.2,open,EugeneChoi4,2025-12-15T20:32:28Z,2025-12-16T16:40:25Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35362,Update license link in README.md,closed,aloky,2025-12-15T10:33:22Z,2025-12-16T10:21:52Z,2025-12-16T10:21:52Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35361,[test] Exclude repository root from assertions,closed,eps1lon,2025-12-15T09:42:49Z,2025-12-15T10:45:21Z,2025-12-15T10:45:17Z,2025-12-15T10:45:17Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35359,Fix: Controlled form inputs reset on form submission,open,rdanciu11,2025-12-15T01:46:10Z,2025-12-19T23:42:43Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35358,[jest] Handle Windows backslashes in preprocessor path matching,open,HM-23-HM,2025-12-14T19:04:16Z,2025-12-14T20:06:18Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35357,Update README.md,closed,VL9mHv0OoK,2025-12-14T16:25:39Z,2025-12-14T22:01:01Z,2025-12-14T22:01:01Z,,False,0,0,[]
+facebook/react,35356,Fix: Compiler now memoizes when const is between hooks (#35355),closed,pritjasani08,2025-12-13T13:21:03Z,2025-12-13T21:20:12Z,2025-12-13T21:20:11Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35354,Fix: Forms should not reset when action fails,closed,rdanciu11,2025-12-13T02:52:26Z,2025-12-18T15:53:12Z,2025-12-18T10:34:18Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35353,Upgrade nextjs for compiler playground,closed,jackpope,2025-12-12T13:28:56Z,2025-12-12T14:06:34Z,2025-12-12T14:06:31Z,2025-12-12T14:06:31Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35351,[Flight] Add extra loop protection,closed,sebmarkbage,2025-12-11T22:22:41Z,2025-12-27T11:26:54Z,2025-12-11T22:23:01Z,2025-12-11T22:23:01Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35348,[compiler] Fix VariableDeclarator source location,closed,nathanmarks,2025-12-11T20:53:33Z,2025-12-11T23:02:06Z,2025-12-11T23:02:06Z,2025-12-11T23:02:06Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35347,[test] Add tests for cyclic arrays in Flight and Flight Reply,closed,unstubbable,2025-12-11T20:29:36Z,2025-12-17T17:08:23Z,2025-12-17T17:08:17Z,2025-12-17T17:08:17Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35346,"Revert ""[compiler] Fix VariableDeclarator source location (#35129)""",closed,sebmarkbage,2025-12-11T20:26:56Z,2025-12-11T20:27:19Z,2025-12-11T20:27:07Z,2025-12-11T20:27:07Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35345,[Flight] Patch Promise cycles and toString on Server Functions,closed,sebmarkbage,2025-12-11T20:18:07Z,2025-12-11T20:24:24Z,2025-12-11T20:24:24Z,2025-12-11T20:24:24Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35344,Add initial devcontainer configuration,closed,kingoncloud69,2025-12-11T15:53:45Z,2025-12-13T10:50:50Z,2025-12-13T10:50:50Z,,False,0,0,[]
+facebook/react,35343,fix[devtools]: feature-check document with typeof instead of direct reference,closed,hoxyq,2025-12-11T11:53:41Z,2025-12-11T12:15:03Z,2025-12-11T12:15:00Z,2025-12-11T12:15:00Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35341,Attach instance handle to DOM in DEV for enableInternalInstanceMap,closed,jackpope,2025-12-10T18:21:11Z,2025-12-10T18:35:23Z,2025-12-10T18:35:20Z,2025-12-10T18:35:20Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35338,[eprh] Enable enableUseKeyedState and enableVerboseNoSetStateInEffect,closed,poteto,2025-12-09T17:33:59Z,2025-12-09T19:20:26Z,2025-12-09T19:20:23Z,2025-12-09T19:20:23Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35337,Fix ViewTransition crash in Mobile Safari,closed,gaearon,2025-12-09T12:40:05Z,2026-01-12T17:00:57Z,2025-12-09T18:35:16Z,2025-12-09T18:35:16Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35335,fix(compiler): avoid false-positive for destructured hook identifiers that are only called,closed,karankumbhare90,2025-12-09T08:42:18Z,2025-12-10T00:01:03Z,2025-12-10T00:01:02Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35334,[flow] Upgrade from 0.286 -> 0.292,open,poteto,2025-12-08T21:08:28Z,2025-12-10T07:39:34Z,,,True,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35333,[flow] Upgrade from 0.286 -> 0.288,open,poteto,2025-12-08T21:07:59Z,2025-12-08T21:08:39Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35332,[flow] Upgrade from 0.282 -> 0.286,open,poteto,2025-12-08T21:07:57Z,2025-12-08T21:17:45Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35331,[flow] Upgrade from 0.281 -> 0.282,open,poteto,2025-12-08T21:07:56Z,2025-12-08T21:19:14Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35330,[flow] Upgrade from 0.280 -> 0.281,open,poteto,2025-12-08T21:07:54Z,2025-12-08T23:43:50Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35329,[flow] Upgrade from 0.279 -> 0.280,open,poteto,2025-12-08T21:07:52Z,2025-12-09T00:23:35Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35328,test(compiler): Add todo regression tests for UpdateExpression,open,tennisleng,2025-12-08T19:50:30Z,2025-12-11T20:20:47Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35324,wip: separate lint compile pipeline,closed,apoeco,2025-12-08T09:33:54Z,2025-12-08T16:38:37Z,2025-12-08T16:38:14Z,,True,0,0,"[""CLA Signed""]"
+facebook/react,35321,test(compiler): Add regression tests for UpdateExpression,closed,tennisleng,2025-12-08T00:40:14Z,2025-12-08T16:41:18Z,2025-12-08T16:41:17Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35320,fix(compiler): Support UpdateExpression on captured variables logic,closed,tennisleng,2025-12-08T00:40:11Z,2025-12-08T16:40:06Z,2025-12-08T16:40:06Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35318,Support `module.property.useHook()` in Fast Refresh,open,ArnaudBarre,2025-12-07T15:10:19Z,2025-12-07T17:07:13Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35317,[playground] Downgrade Next.js to a secure version,closed,eps1lon,2025-12-07T13:51:11Z,2025-12-08T19:06:58Z,2025-12-08T19:06:58Z,2025-12-08T19:06:58Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35316,[test] Cleanup stack assertions in tests mixing React Server and Client,closed,eps1lon,2025-12-07T11:43:19Z,2025-12-07T16:45:08Z,2025-12-07T16:45:06Z,2025-12-07T16:45:06Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35313,Run CI for backport releases,closed,eps1lon,2025-12-06T18:24:10Z,2025-12-07T10:46:27Z,2025-12-07T10:46:19Z,2025-12-07T10:46:19Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35311,Fix: set-state-in-use-effect false negative when there are multiple i…,closed,YASHRDX0001,2025-12-06T11:15:49Z,2025-12-06T22:56:12Z,2025-12-06T19:54:32Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35310,Fix: set-state-in-use-effect false negative when there are multiple i…,closed,YASHRDX0001,2025-12-06T10:08:41Z,2025-12-06T22:56:00Z,2025-12-06T19:53:51Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35309,[Security] Fix HIGH vulnerability: V-002,closed,orbisai0security,2025-12-06T02:38:00Z,2025-12-06T04:38:42Z,2025-12-06T04:38:41Z,,False,0,0,[]
+facebook/react,35308,[scripts] Remove `perf-counters`,closed,eps1lon,2025-12-06T01:41:18Z,2025-12-06T11:33:45Z,2025-12-06T11:33:42Z,2025-12-06T11:33:42Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35306,[compiler] Add enableVerboseNoSetStateInEffect to suggest options to user/agent,closed,poteto,2025-12-05T21:37:41Z,2025-12-08T17:16:31Z,2025-12-08T17:16:28Z,2025-12-08T17:16:28Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35305,fix(compiler): support UpdateExpression on captured variables,closed,tennisleng,2025-12-05T21:17:12Z,2025-12-08T00:44:01Z,2025-12-08T00:44:01Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35304,fix: correctly compile post-increment assignment,open,tennisleng,2025-12-05T21:09:53Z,2025-12-11T19:00:51Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35303,Update closure compiler,closed,sebmarkbage,2025-12-05T20:59:24Z,2026-01-12T19:21:56Z,2026-01-12T19:21:56Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35299,fix(compiler): detect setState in effects when useState declared later (#35291),closed,Garvitpant777,2025-12-05T18:46:44Z,2025-12-08T17:24:51Z,2025-12-06T20:01:06Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35298,[compiler] Improve impurity/ref validation,open,josephsavona,2025-12-05T18:42:27Z,2026-01-23T19:08:04Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35297,[react-reconciler] Fix typos in comments,open,yujiteshima,2025-12-05T15:31:19Z,2025-12-14T04:34:31Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35296,fix[devtools]: no-op unsupported backend bridge events,closed,hoxyq,2025-12-05T14:43:44Z,2025-12-05T16:42:03Z,2025-12-05T16:41:59Z,2025-12-05T16:41:58Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35294,"fix[devtools]: still show overlay, if getClientRects is not implemented",closed,hoxyq,2025-12-05T12:41:19Z,2025-12-10T19:21:34Z,2025-12-10T19:21:28Z,2025-12-10T19:21:28Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35293,fix[devtools]: feature-check structure stack trace methods,closed,hoxyq,2025-12-05T12:23:16Z,2025-12-10T19:22:58Z,2025-12-10T19:21:54Z,2025-12-10T19:21:54Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35292,Add nodiscard attributes and eliminate differing code styles from C++ source files,closed,mikomikotaishi,2025-12-05T02:17:50Z,2025-12-06T01:44:17Z,2025-12-06T01:00:32Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35290,[Flight] Move `react-server-dom-webpack/*.unbundled` to private `react-server-dom-unbundled`,closed,eps1lon,2025-12-05T00:08:11Z,2026-01-01T04:55:47Z,2025-12-05T02:59:21Z,2025-12-05T02:59:21Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35289,"[Flight] Never parse ""then"" functions",closed,sebmarkbage,2025-12-05T00:01:05Z,2025-12-05T00:05:53Z,2025-12-05T00:05:53Z,2025-12-05T00:05:53Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35288,initial pipeline,closed,Jahnavi23-lab,2025-12-04T22:54:09Z,2025-12-05T16:55:32Z,2025-12-05T16:55:32Z,,False,0,0,[]
+facebook/react,35287,[compiler]: Incorrectly uses variable name issue 35268,open,kostya-gromov,2025-12-04T12:44:01Z,2025-12-10T11:46:47Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35285,[compiler][poc] Reuse ValidateExhaustiveDeps for effect dep validation,closed,josephsavona,2025-12-04T08:09:48Z,2025-12-08T15:58:38Z,2025-12-08T15:58:38Z,2025-12-08T15:58:38Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35284,[compiler] Fix bug w functions depending on hoisted primitives,closed,josephsavona,2025-12-04T07:08:36Z,2025-12-05T19:29:09Z,2025-12-05T19:29:06Z,2025-12-05T19:29:06Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35282,[compiler] Add validator for extraneous effect deps,closed,jackpope,2025-12-03T22:37:54Z,2025-12-05T15:43:30Z,2025-12-05T15:43:30Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35281,Improve legacy context StrictMode warning clarity,open,Harshrj53,2025-12-03T17:20:28Z,2025-12-03T17:20:35Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35280,[compiler] Fix `set-state-in-effect` validation for `React.useEffect`,open,jynxio,2025-12-03T17:13:13Z,2026-01-30T19:27:27Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35279,Update changelog with latest releases,closed,eps1lon,2025-12-03T17:05:09Z,2025-12-03T17:18:41Z,2025-12-03T17:13:44Z,2025-12-03T17:13:44Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35278,Add __REACT_DEVTOOLS_HIDE_CONSOLE__ to suppress DevTools download message,closed,more-shubham,2025-12-03T16:46:21Z,2025-12-20T05:54:13Z,2025-12-20T05:54:13Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35277,Patch FlightReplyServer with fixes from ReactFlightClient,closed,sebmarkbage,2025-12-03T15:38:25Z,2025-12-21T21:24:57Z,2025-12-03T15:41:19Z,2025-12-03T15:41:19Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35275,Improve dev warning message for invalid useEffect usage during render,open,Harshrj53,2025-12-03T11:31:11Z,2025-12-03T17:21:32Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35274,fix(react-compiler): preserve variable references in JSX tags,closed,saitejacodes,2025-12-03T11:24:15Z,2025-12-03T15:21:36Z,2025-12-03T15:21:36Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35270,[release] Allow building single release channel with processed versions,closed,eps1lon,2025-12-02T19:50:29Z,2025-12-02T21:05:15Z,2025-12-02T21:05:11Z,2025-12-02T21:05:11Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35269,[compiler] Fix `set-state-in-effect` validation for `React.useEffect`,closed,jynxio,2025-12-02T19:28:02Z,2025-12-03T17:15:38Z,2025-12-03T16:52:31Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35267,chore: fix spelling (behaviour → behavior) in multiple comment files,open,Harshrj53,2025-12-02T07:11:58Z,2025-12-04T13:52:22Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35266,"Rewritten LRU with safer flows, explicit APIs, and improved cleanup handling",open,Nondukishor,2025-12-02T07:08:35Z,2025-12-22T10:18:19Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35265,Fix: Prevent false positives in rules-of-hooks for regular classesFix: Prevent false positives in rules-of-hooks for regular classes,open,hukshh,2025-12-01T20:42:49Z,2025-12-15T07:43:56Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35262,fabric: reproduction completeRoot called for suspended component update,open,hannojg,2025-12-01T14:29:13Z,2025-12-01T14:29:19Z,,,True,0,0,"[""CLA Signed""]"
+facebook/react,35259,[compiler] added compatibility with .wav,closed,PJIMTOR,2025-12-01T08:47:55Z,2025-12-01T12:39:15Z,2025-12-01T12:39:15Z,,False,0,0,[]
+facebook/react,35258,[eprh] fix react-compiler rules missing `meta.docs.url` property,closed,k-yle,2025-12-01T08:34:29Z,2025-12-04T21:37:30Z,2025-12-04T20:28:13Z,2025-12-04T20:28:13Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35248,[compiler] Fix computed property keys in object method shorthand,open,lluisemper,2025-11-29T20:20:35Z,2025-12-12T20:26:34Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35247,fix(react-dom): use server.node.js for Deno to prevent build hangs (#35231),closed,Garvitpant777,2025-11-28T20:55:51Z,2025-12-04T05:50:28Z,2025-12-04T05:50:28Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35246,[Flight] Fix visitAsyncNode infinite recursion with circular async nodes,closed,jere-co,2025-11-28T18:09:33Z,2026-02-04T18:43:25Z,2026-02-04T18:43:25Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35240,[DevTools] Add React Element pane to browser Elements panel,closed,eps1lon,2025-11-27T23:31:08Z,2026-01-22T14:00:01Z,2026-01-15T12:24:08Z,2026-01-15T12:24:07Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35238,[Devtools] Navigating commits performance panel hotkey,closed,emily8rown,2025-11-27T18:29:21Z,2025-12-10T13:07:35Z,2025-12-10T13:07:35Z,2025-12-10T13:07:35Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35236,Fix markdown formatting and spacing inconsistencies in README  Fixed …,open,2400033206,2025-11-27T17:17:59Z,2025-11-27T17:18:06Z,,,False,0,0,[]
+facebook/react,35235,[react-dom/server] Fix hanging on Deno,closed,fraidev,2025-11-27T15:07:25Z,2025-12-04T08:45:55Z,2025-12-04T05:50:27Z,2025-12-04T05:50:27Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35234,[test] Only run tests overriding fallback and error states in supported versions,closed,eps1lon,2025-11-27T13:13:56Z,2025-11-27T15:44:11Z,2025-11-27T15:15:15Z,2025-11-27T15:15:15Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35233,[test] Update ESLint e2e tests,closed,eps1lon,2025-11-27T13:05:14Z,2025-12-01T18:04:02Z,2025-12-01T18:03:59Z,2025-12-01T18:03:59Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35232,Add React Error Message Assistant package,closed,robglnn,2025-11-27T05:30:15Z,2025-12-05T16:56:51Z,2025-12-05T16:56:51Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35230,[compiler] Add enableUseKeyedState flag and improve setState-in-render errors,closed,poteto,2025-11-26T21:14:40Z,2025-12-04T23:29:14Z,2025-12-04T23:29:10Z,2025-12-04T23:29:10Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35229,[DevTools] Fix console links not being openable,closed,eps1lon,2025-11-26T18:11:16Z,2026-01-21T09:35:43Z,2026-01-21T09:34:26Z,2026-01-21T09:34:26Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35228,Add shared utility isValidElementType to React,open,ArsiyaTasleem90250,2025-11-26T16:50:30Z,2025-11-26T18:18:32Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35227,[test] Fix Error Proxy in Node.js 21+,closed,eps1lon,2025-11-26T16:43:48Z,2025-11-29T15:53:06Z,2025-11-29T15:52:39Z,2025-11-29T15:52:39Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35226,[Fizz] Push a stalled use() to the ownerStack/debugTask,closed,eps1lon,2025-11-26T14:01:34Z,2026-01-19T08:10:20Z,2026-01-19T08:10:16Z,2026-01-19T08:10:16Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35216,[compiler] Only run validations with env.logErrors on outputMode: 'lint',closed,jorge-cab,2025-11-26T00:28:27Z,2025-12-12T00:36:36Z,2025-12-12T00:36:36Z,2025-12-12T00:36:36Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35215,"[compiler][snap] Fix for filter mode with nested files, 'error.' prefix",closed,josephsavona,2025-11-25T23:31:45Z,2025-11-25T23:39:08Z,2025-11-25T23:39:08Z,2025-11-25T23:39:08Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35214,[compiler] Extend setState in effect validation to useEffectEvent,closed,jackpope,2025-11-25T22:22:22Z,2025-12-01T19:55:45Z,2025-12-01T19:55:42Z,2025-12-01T19:55:42Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35213,"[compiler] Exhaustive deps: extra tests, improve diagnostic",closed,josephsavona,2025-11-25T20:02:37Z,2025-11-25T20:09:09Z,2025-11-25T20:09:09Z,2025-11-25T20:09:09Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35208,[DevTools] Enable minimal support in pages with `sandbox` Content-Security-Policy,closed,mochiya98,2025-11-25T12:36:58Z,2026-01-13T16:49:50Z,2026-01-13T16:49:50Z,2026-01-13T16:49:49Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35207,Devtools disable log dimming strict mode setting,closed,emily8rown,2025-11-25T11:32:10Z,2025-12-15T13:41:44Z,2025-12-15T13:41:44Z,2025-12-15T13:41:44Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35204,[compiler] Distingush optional/extraneous deps,closed,josephsavona,2025-11-25T00:30:49Z,2025-11-25T20:06:25Z,2025-11-25T20:06:25Z,2025-11-25T20:06:25Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35202,[compiler] Script to enable a feature by default and update tests,closed,josephsavona,2025-11-24T20:09:33Z,2025-11-24T20:21:36Z,2025-11-24T20:21:36Z,2025-11-24T20:21:36Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35201,[compiler] Enable validateExhaustiveMemoizationDependencies by default,closed,josephsavona,2025-11-24T19:48:45Z,2025-11-25T20:07:56Z,2025-11-25T20:07:56Z,2025-11-25T20:07:55Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35200,chore: add .nvmrc to specify Node 18 for development consistency,open,sudip-kumar-prasad,2025-11-24T19:16:51Z,2025-12-13T05:00:23Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35199,fix: update root package.json (metadata + scripts fix),closed,sudip-kumar-prasad,2025-11-24T19:05:55Z,2025-12-13T08:39:20Z,2025-12-13T08:39:13Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35198,Improve TypeScript type definitions in jest.d.ts,open,Rezakarimzadeh98,2025-11-24T09:12:16Z,2026-02-09T17:46:02Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35197,adding demo folder,closed,sumitsahu18,2025-11-24T03:02:41Z,2025-11-24T03:05:59Z,2025-11-24T03:05:59Z,,False,0,0,[]
+facebook/react,35194,Fixes #35193 : Add runtime type check before calling useEffect cleanup functions,open,Darshan-Naik,2025-11-23T08:16:05Z,2025-12-28T10:11:08Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35192,"[compiler] Adjustments to exhaustive deps messages, disable the lint rule",closed,josephsavona,2025-11-22T01:26:57Z,2025-11-24T20:20:13Z,2025-11-24T20:20:12Z,2025-11-24T20:20:12Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35191,"[Fizz] Model SuspenseList with tail=""hidden"" and tail=""collapsed"" as virtual boundaries",open,sebmarkbage,2025-11-22T00:13:37Z,2026-01-22T19:34:53Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35190,[compiler] Allow extraneous non-reactive locals,closed,josephsavona,2025-11-21T22:31:50Z,2025-11-24T20:18:49Z,2025-11-24T20:18:49Z,2025-11-24T20:18:49Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35188,minor change,closed,Priyammondal,2025-11-21T11:34:52Z,2025-11-21T20:26:43Z,2025-11-21T20:26:43Z,,False,0,0,[]
+facebook/react,35186,[compiler] Allow manual dependencies to have different optionality than inferred deps,closed,josephsavona,2025-11-21T08:02:19Z,2025-11-24T20:17:04Z,2025-11-24T20:17:04Z,2025-11-24T20:17:03Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35185,[compiler] Allow nonreactive stable types as extraneous deps,closed,josephsavona,2025-11-21T07:21:59Z,2025-11-24T20:15:06Z,2025-11-24T20:15:06Z,2025-11-24T20:15:06Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35184,[compiler] Ignore ESLint suppressions when ValidateMemoDeps enabled,closed,josephsavona,2025-11-21T03:48:56Z,2025-11-24T20:12:50Z,2025-11-24T20:12:50Z,2025-11-24T20:12:50Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35180,[compiler] Prevent innaccurate derivation recording on FunctionExpressions on no-derived-computation-in-effects,closed,jorge-cab,2025-11-20T18:05:26Z,2025-11-20T18:06:32Z,2025-11-20T18:06:32Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35178,fix(compiler): Handle 'using' and 'await using' declarations,open,shivas1432,2025-11-20T14:52:35Z,2025-11-20T19:37:46Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35177,Code changes to .eslintrc.js,closed,ansschh,2025-11-20T12:35:51Z,2025-11-20T20:53:21Z,2025-11-20T20:53:21Z,,False,0,0,[]
+facebook/react,35176,[react-dom] Fire onReset when automatically resetting forms,closed,eps1lon,2025-11-20T12:23:07Z,2026-02-02T20:17:32Z,2026-02-02T20:17:14Z,2026-02-02T20:17:14Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35175,[compiler] Hoisting State Up draft,open,jorge-cab,2025-11-19T22:53:34Z,2025-12-15T21:19:30Z,,,True,0,0,"[""CLA Signed""]"
+facebook/react,35174,[compiler] Remove useState argument constraint. no-derived-computations-in-effects,closed,jorge-cab,2025-11-19T21:22:09Z,2025-11-20T18:45:17Z,2025-11-20T18:45:17Z,2025-11-20T18:45:17Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35173,[compiler] Prevent innaccurate derivation recording on FunctionExpressions on no-derived-computation-in-effects,closed,jorge-cab,2025-11-19T20:58:52Z,2025-11-20T18:44:45Z,2025-11-20T18:44:45Z,2025-11-20T18:44:45Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35172,fix(docs): correct typos found during code review,open,marcelpetrick,2025-11-19T15:25:46Z,2025-11-19T16:09:08Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35169,Dev,closed,D-bengo,2025-11-18T18:45:09Z,2025-11-18T19:09:56Z,2025-11-18T19:09:56Z,,False,0,0,[]
+facebook/react,35168,[react-dom] Keep controlled `<select>` value on form reset,open,eps1lon,2025-11-18T14:08:38Z,2025-11-19T08:58:09Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35165,[DevTools] Inlcude Activity list in Components tab ,open,eps1lon,2025-11-18T11:38:15Z,2025-11-24T19:57:16Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35164,"[DevTools] Move ""Back to full tree view"" into Activity list item",closed,eps1lon,2025-11-18T09:58:38Z,2025-11-26T09:51:20Z,2025-11-26T09:42:19Z,2025-11-26T09:42:19Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35162,Add expertimental `optimisticKey` behind a flag,closed,sebmarkbage,2025-11-18T00:36:45Z,2025-11-18T21:29:19Z,2025-11-18T21:29:19Z,2025-11-18T21:29:19Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35161,[Flight] Complete list of Node.js' internal Promise awaits,closed,eps1lon,2025-11-17T16:37:49Z,2025-11-17T18:45:42Z,2025-11-17T18:28:26Z,2025-11-17T18:28:26Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35160,[DevTools] hotkey to start/stop profiling,closed,emily8rown,2025-11-17T14:47:19Z,2025-11-21T16:37:10Z,2025-11-21T16:37:10Z,2025-11-21T16:37:10Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35159,[Flight] Reduce risk of maximum call stack exceeded when emitting async sequence,closed,eps1lon,2025-11-17T11:38:34Z,2025-11-17T17:54:16Z,2025-11-17T17:54:13Z,2025-11-17T17:54:13Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35148,[compiler][snap] Support pattern of files to test as CLI argument,closed,josephsavona,2025-11-15T04:02:48Z,2025-11-17T20:09:10Z,2025-11-17T20:09:09Z,2025-11-17T20:09:09Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35147,[compiler] Improve setState-in-effects rule to account for ref-gated conditionals,closed,josephsavona,2025-11-15T00:06:56Z,2025-11-17T20:07:43Z,2025-11-17T20:07:43Z,2025-11-17T20:07:43Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35146,[compiler] Extract reusable logic for control dominators,closed,josephsavona,2025-11-15T00:06:54Z,2025-11-17T20:05:53Z,2025-11-17T20:05:53Z,2025-11-17T20:05:53Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35145,[compiler] fix bad rebase from sapling,closed,josephsavona,2025-11-14T22:48:30Z,2025-11-14T22:50:39Z,2025-11-14T22:50:38Z,2025-11-14T22:50:38Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35144,[compiler] Fix for destructuring with mixed declaration/reassignment,closed,josephsavona,2025-11-14T22:39:07Z,2025-11-17T19:34:50Z,2025-11-17T19:34:50Z,2025-11-17T19:34:49Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35143,[Flight] Fix pending chunks count for streams & async iterables in DEV,closed,unstubbable,2025-11-14T20:57:35Z,2025-11-14T22:52:16Z,2025-11-14T22:52:12Z,2025-11-14T22:52:12Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35141,[compiler] Consider setter from useOptimistic non-reactive,closed,rickhanlonii,2025-11-14T20:36:37Z,2025-11-18T15:50:48Z,2025-11-18T15:50:43Z,2025-11-18T15:50:43Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35140,[compiler] Fix for inferring props-derived-value as mutable,closed,josephsavona,2025-11-14T19:32:26Z,2025-11-14T20:14:34Z,2025-11-14T20:14:34Z,2025-11-14T20:14:34Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35139,[compiler] Repro for false positive mutation of a value derived from props,closed,josephsavona,2025-11-14T19:32:24Z,2025-11-14T20:14:23Z,2025-11-14T20:14:23Z,2025-11-14T20:14:23Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35137,[compiler] Detect snake_case_ref as a ref-like name,open,mdmower-csnw,2025-11-14T18:56:59Z,2026-01-24T18:37:46Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35136,Refine wording in DESIGN_GOALS.md,closed,NotUnHackable,2025-11-14T09:24:54Z,2025-11-14T16:49:00Z,2025-11-14T16:49:00Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35135,[Compiler] Avoid capturing global setStates for no-derived-computations lint,closed,jorge-cab,2025-11-14T00:36:24Z,2025-11-14T06:56:06Z,2025-11-14T06:56:06Z,2025-11-14T06:56:06Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35134,[Compiler] Don't count a setState in the dependency array of the effect it is called on as a usage,closed,jorge-cab,2025-11-13T23:50:48Z,2025-11-14T06:52:24Z,2025-11-14T06:52:24Z,2025-11-14T06:52:24Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35132,Dev text.,closed,Mwalloh,2025-11-13T22:10:46Z,2025-11-13T22:14:18Z,2025-11-13T22:13:17Z,,False,0,0,[]
+facebook/react,35131,fix: update snapshot for 'can track async information when awaited',closed,THE-Amrit-mahto-05,2025-11-13T17:46:11Z,2025-11-13T19:24:35Z,2025-11-13T19:24:35Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35129,[compiler] Fix VariableDeclarator source location,closed,nathanmarks,2025-11-13T13:33:53Z,2025-12-11T20:59:38Z,2025-12-11T19:35:03Z,2025-12-11T19:35:03Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35128,Fix: avoid evaluating getters and prototype properties in dev-mode di…,open,Amitjoiya,2025-11-13T12:32:57Z,2025-11-18T09:23:04Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35127,[Flight] Fix broken byte stream parsing caused by buffer detachment,closed,unstubbable,2025-11-13T12:25:10Z,2025-11-13T21:13:41Z,2025-11-13T20:23:02Z,2025-11-13T20:23:02Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35124,Fix : Compiler eslint suppression silent skip 35105,open,manNomi,2025-11-13T00:52:59Z,2026-01-20T17:01:44Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35123,Improve the detection of changed hooks,closed,blazejkustra,2025-11-13T00:19:09Z,2026-01-15T11:06:25Z,2026-01-15T11:06:14Z,2026-01-15T11:06:14Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35121,Update README.md,closed,NotUnHackable,2025-11-12T17:00:16Z,2025-11-12T18:26:00Z,2025-11-12T18:25:59Z,,False,0,0,[]
+facebook/react,35120,[flags] disableLegacyMode in native-fb,closed,rickhanlonii,2025-11-12T16:52:38Z,2025-11-12T20:38:59Z,2025-11-12T20:38:59Z,2025-11-12T20:38:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35119,nvm,closed,rickhanlonii,2025-11-12T14:41:21Z,2025-11-12T15:43:39Z,2025-11-12T15:42:03Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35117,[react-dom] Batch updates from `resize` until next frame,closed,eps1lon,2025-11-12T09:47:24Z,2025-11-14T22:46:54Z,2025-11-13T12:30:22Z,2025-11-13T12:30:22Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35112,"[compiler] Deprecate noEmit, add outputMode",closed,josephsavona,2025-11-12T01:24:20Z,2025-11-20T23:12:40Z,2025-11-20T23:12:40Z,2025-11-20T23:12:40Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35111,Update minimatch to ^3.0.5 in package.json,open,matthew-juandy,2025-11-12T00:54:05Z,2026-02-10T06:29:04Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35110,[compiler] Differentiate between inferred setStates and factual setStates,closed,jorge-cab,2025-11-11T22:34:17Z,2025-11-11T22:55:39Z,2025-11-11T22:55:39Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35109,[compiler] source location validator,closed,nathanmarks,2025-11-11T14:13:27Z,2025-11-13T03:02:46Z,2025-11-13T03:02:46Z,2025-11-13T03:02:46Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35108,"[DevTools] Name root ""Transition"" when focusing on Activity",closed,eps1lon,2025-11-11T10:18:41Z,2025-11-18T09:17:03Z,2025-11-18T09:16:59Z,2025-11-18T09:16:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35107,[DevTools] Send root unmount as a regular removal operation,closed,eps1lon,2025-11-11T10:06:42Z,2025-11-11T22:09:45Z,2025-11-11T22:08:54Z,2025-11-11T22:08:54Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35106,[DevTools] Fix outline alignment when root Transition has suspenders and is selected,closed,eps1lon,2025-11-11T08:54:37Z,2025-11-11T10:01:04Z,2025-11-11T10:01:03Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35103,improved explanation in docs,closed,MAXWELLBUSH,2025-11-11T05:08:12Z,2025-11-11T17:48:06Z,2025-11-11T17:48:06Z,,False,0,0,[]
+facebook/react,35102,[compiler][poc] Quick experiment with SSR-optimization pass,closed,josephsavona,2025-11-11T02:59:50Z,2025-11-20T23:02:38Z,2025-11-20T23:02:38Z,2025-11-20T23:02:38Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35100,[compiler] Update test snap to include fixture comment,closed,jorge-cab,2025-11-11T00:46:07Z,2025-11-11T18:16:05Z,2025-11-11T18:16:05Z,2025-11-11T18:16:05Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35099,[compiler] _exp version of ValidateNoDerivedComputationsInEffects take precedence over stable version when enabled,closed,jorge-cab,2025-11-11T00:36:34Z,2025-11-11T18:16:21Z,2025-11-11T18:16:20Z,2025-11-11T18:16:20Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35098,[DevTools] Measure when reconnecting Suspense,closed,eps1lon,2025-11-10T19:30:28Z,2025-11-10T19:55:46Z,2025-11-10T19:55:32Z,2025-11-10T19:55:32Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35097,[DevTools] Don't attempt to draw bounding box if inspected element is not a Suspense,closed,eps1lon,2025-11-10T17:43:59Z,2025-11-10T19:02:03Z,2025-11-10T19:01:59Z,2025-11-10T19:01:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35096,feat: show critical warnings despite eslint-disable-next-line scope issue,closed,manNomi,2025-11-10T17:41:04Z,2025-11-11T03:30:34Z,2025-11-11T03:30:34Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35095,[tests] add more portal activity tests,closed,rickhanlonii,2025-11-10T17:00:58Z,2025-11-11T17:47:57Z,2025-11-11T17:47:56Z,2025-11-11T17:47:56Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35093,[DevTools] Batch updates when updating component filters,closed,eps1lon,2025-11-10T08:27:46Z,2025-11-11T22:26:23Z,2025-11-11T22:20:22Z,2025-11-11T22:20:22Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35092,[DevTools] Show list of named Activities in Suspense tab,closed,eps1lon,2025-11-10T08:00:02Z,2025-11-18T08:55:19Z,2025-11-18T08:52:45Z,2025-11-18T08:52:45Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35091,Fix: Activity should hide portal contents,closed,acdlite,2025-11-10T06:28:08Z,2026-01-07T19:13:51Z,2025-11-10T15:42:27Z,2025-11-10T15:42:27Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35090,SyocCreate Stock tool,closed,mikewallace212-code,2025-11-10T04:53:03Z,2025-11-10T04:54:38Z,2025-11-10T04:54:38Z,,False,0,0,[]
+facebook/react,35089,Add a progressiveChunkSize option for Flight rendering,open,mhart,2025-11-10T04:48:29Z,2025-11-24T23:42:46Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35087,[Fizz] Simplify createSuspenseBoundary path,closed,sebmarkbage,2025-11-09T20:08:12Z,2025-11-09T20:19:44Z,2025-11-09T20:19:44Z,2025-11-09T20:19:44Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35086,feat(compiler): clarify preserve-manual-memoization error for forward…,closed,Rithvik914,2025-11-09T06:39:33Z,2026-02-07T16:18:26Z,2026-02-07T16:18:26Z,,False,0,0,"[""CLA Signed"", ""Resolution: Stale""]"
+facebook/react,35085,Remove Dead Code in WWW JS,closed,facebook-github-bot,2025-11-09T04:37:44Z,2025-11-10T16:34:02Z,2025-11-10T16:34:02Z,2025-11-10T16:34:02Z,False,0,0,"[""CLA Signed"", ""fb-exported"", ""meta-exported""]"
+facebook/react,35084,[flag] warn for setState in render on initial mount,open,rickhanlonii,2025-11-08T20:40:27Z,2026-02-04T22:24:22Z,,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35082,docs: add Bangla section in README,closed,Samiul1207,2025-11-08T14:45:15Z,2025-11-08T16:45:37Z,2025-11-08T16:45:37Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35074,Fix: Errors should not escape a hidden Activity,closed,acdlite,2025-11-07T22:53:11Z,2025-11-07T23:18:25Z,2025-11-07T23:18:25Z,2025-11-07T23:18:25Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35071,[DevTools] Special case the selected root outline,closed,sebmarkbage,2025-11-07T16:46:53Z,2025-11-09T20:03:32Z,2025-11-09T20:03:32Z,2025-11-09T20:03:32Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35068,[Fizz] Unify preamble only fields to save a field,closed,sebmarkbage,2025-11-07T04:31:24Z,2025-11-07T14:22:58Z,2025-11-07T14:19:19Z,2025-11-07T14:19:19Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35067,[Fizz] Unify prerender only fields to save a field,closed,sebmarkbage,2025-11-07T04:15:56Z,2025-11-07T14:18:29Z,2025-11-07T14:18:28Z,2025-11-07T14:18:28Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35066,Don't skip content in visible offscreen trees for Gesture View Transitions,closed,sebmarkbage,2025-11-07T01:58:51Z,2025-11-07T02:02:02Z,2025-11-07T01:59:08Z,2025-11-07T01:59:08Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35063,Don't skip content in visible offscreen trees for View Transitions,closed,sebmarkbage,2025-11-06T20:56:02Z,2025-11-06T21:03:03Z,2025-11-06T21:03:03Z,2025-11-06T21:03:03Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35062,[compiler] Allow ref access in callbacks passed to event handler props,closed,kolvian,2025-11-06T20:03:04Z,2025-11-14T17:00:39Z,2025-11-14T17:00:34Z,2025-11-14T17:00:34Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35060,Escape View Transition Name Strings as base64,closed,sebmarkbage,2025-11-06T16:49:21Z,2025-11-06T21:02:06Z,2025-11-06T21:02:06Z,2025-11-06T21:02:06Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35059,Escape View Transition Name Strings,closed,sebmarkbage,2025-11-06T15:47:15Z,2025-11-06T21:07:15Z,2025-11-06T21:07:15Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35057,fix(react-dom): add null checks to completeSegment to prevent race condition,open,ponharu,2025-11-06T09:41:57Z,2026-02-04T12:01:13Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35054,DevTools: guard against undefined component stack in Profiler SidebarEventInfo,open,Abhra0404,2025-11-06T04:10:59Z,2026-02-09T09:24:10Z,,,False,0,0,"[""CLA Signed"", ""Resolution: Stale""]"
+facebook/react,35053,Store instance handles in an internal map behind flag,closed,jackpope,2025-11-05T22:48:35Z,2025-11-06T23:17:57Z,2025-11-06T23:17:53Z,2025-11-06T23:17:53Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35052,fix(beforeinput): handle native beforeinput events (Firefox replacement flows) — fixes #24358,open,ruidosujeira,2025-11-05T22:42:53Z,2025-11-17T18:05:04Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35051,Remove unstable_expectedLoadTime option,closed,sebmarkbage,2025-11-05T19:15:25Z,2025-11-05T20:52:22Z,2025-11-05T20:52:22Z,2025-11-05T20:52:22Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35050,Fix: Should not already be working error in Firefox after breakpoint/…,closed,Mario5T,2025-11-05T16:50:38Z,2025-11-12T11:03:30Z,2025-11-12T11:03:30Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35048,Clean up enablePostpone Experiment,closed,sebmarkbage,2025-11-05T04:42:38Z,2025-11-05T05:05:59Z,2025-11-05T05:05:59Z,2025-11-05T05:05:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35047,[compiler healthcheck] correct yargs scriptName and usage,closed,henryqdineen,2025-11-05T01:22:08Z,2025-12-05T17:04:28Z,2025-12-05T17:04:28Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35046,[compiler healthcheck] fix error false negatives,closed,henryqdineen,2025-11-05T01:05:13Z,2025-12-05T17:04:22Z,2025-12-05T17:04:22Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35044,[compiler] Prevent local state source variables from depending on other state,closed,jorge-cab,2025-11-04T21:15:33Z,2025-11-10T20:29:34Z,2025-11-10T20:29:34Z,2025-11-10T20:29:34Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35042,"[Fiber] SuspenseList with ""hidden"" tail row should ""catch"" suspense",closed,sebmarkbage,2025-11-04T18:06:12Z,2025-11-05T03:11:33Z,2025-11-05T03:11:33Z,2025-11-05T03:11:33Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35041,[eslint] Fix useEffectEvent checks in component syntax,closed,jbrown215,2025-11-04T17:45:12Z,2025-11-04T19:59:29Z,2025-11-04T19:59:29Z,2025-11-04T19:59:29Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35039,[Flight] Fix `hasReadable` flag in Node.js clients' debug channel,closed,unstubbable,2025-11-04T12:12:53Z,2025-11-04T15:30:15Z,2025-11-04T15:30:08Z,2025-11-04T15:30:08Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35036,[Flight] Fix debug info filtering to include later resolved I/O,closed,unstubbable,2025-11-03T21:29:34Z,2025-11-03T21:59:47Z,2025-11-03T21:59:41Z,2025-11-03T21:59:41Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35032,chore(react-reconciler/README.md): replace older Medium links with Software Mansion's 2025 Medium link,open,onstash,2025-11-01T18:31:50Z,2025-12-04T12:43:10Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35027,test: add coverage for zero-length style values,open,Biki-das,2025-10-31T18:18:17Z,2026-02-09T17:21:09Z,,,False,0,0,"[""CLA Signed"", ""Resolution: Stale""]"
+facebook/react,35022,Rename <Suspense unstable_expectedLoadTime> to <Suspense defer> and implement in SSR,closed,sebmarkbage,2025-10-31T04:04:41Z,2025-11-05T19:12:10Z,2025-11-05T19:12:10Z,2025-11-05T19:12:10Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35021,"Render children passed to ""backwards"" SuspenseList in reverse mount order",closed,sebmarkbage,2025-10-31T01:29:59Z,2025-10-31T17:33:23Z,2025-10-31T17:33:23Z,2025-10-31T17:33:23Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35020,[compiler] Don't validate when effect cleanup function depends on effect localized setState state derived values,closed,jorge-cab,2025-10-30T22:29:11Z,2025-11-10T20:28:20Z,2025-11-10T20:28:19Z,2025-11-10T20:28:19Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35019,[Fizz] Push halted await to the owner stack for late-arriving I/O info,closed,unstubbable,2025-10-30T14:46:28Z,2025-11-01T15:03:09Z,2025-11-01T15:03:09Z,2025-11-01T15:03:09Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35018,"Switch the default revealOrder to ""forwards"" and tail ""hidden"" on SuspenseList",closed,sebmarkbage,2025-10-30T14:27:21Z,2025-10-31T16:58:18Z,2025-10-31T16:58:18Z,2025-10-31T16:58:18Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35016,Make `detachDeletedInstance` 30% faster,open,MrFlashAccount,2025-10-30T08:19:51Z,2026-01-24T23:11:51Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35014,"[DevTools] Adjust aspect ratio of ""x ray"" viewport to the same as the window",closed,sebmarkbage,2025-10-30T02:35:01Z,2025-10-31T15:33:02Z,2025-10-31T15:33:02Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35013,fix: BigInt serialization issue in the development environment,closed,nuintun,2025-10-30T01:36:17Z,2026-02-04T10:02:55Z,2026-02-04T03:00:43Z,,False,0,0,"[""CLA Signed"", ""Resolution: Stale""]"
+facebook/react,35012,[DevTools] Render selected outline on top of every other rect,closed,sebmarkbage,2025-10-30T01:03:50Z,2025-10-30T19:26:49Z,2025-10-30T19:26:49Z,2025-10-30T19:26:49Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35011,[DevTools] Sort suspense timeline by end time instead of just document order,closed,sebmarkbage,2025-10-29T18:52:56Z,2025-10-29T19:05:04Z,2025-10-29T19:05:04Z,2025-10-29T19:05:04Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35010,Optimize Dangerfile for better performance,closed,jworth008,2025-10-29T17:42:31Z,2025-11-05T22:38:20Z,2025-11-05T22:38:19Z,,False,0,0,[]
+facebook/react,35008,chore: clean up RootLayout and Page components,closed,Sabirrh,2025-10-29T14:09:33Z,2025-11-05T21:40:11Z,2025-11-05T21:40:11Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35005,[Flight] Cache the value if we visit the same I/O or Promise multiple times along different paths,closed,sebmarkbage,2025-10-29T04:35:29Z,2025-10-29T14:55:43Z,2025-10-29T14:55:43Z,2025-10-29T14:55:43Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35003,[Flight] Clone subsequent I/O nodes if it's resolved more than once,closed,sebmarkbage,2025-10-28T17:03:16Z,2025-10-28T17:27:36Z,2025-10-28T17:27:36Z,2025-10-28T17:27:36Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35002,[tests] disableLegacyMode in test-renderer,closed,rickhanlonii,2025-10-28T16:19:15Z,2025-10-28T16:53:30Z,2025-10-28T16:53:30Z,2025-10-28T16:53:30Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35001,Update package.json,closed,Dhanusha2426,2025-10-28T14:18:39Z,2025-10-28T14:32:28Z,2025-10-28T14:32:28Z,,False,0,0,[]
+facebook/react,34999,Fix event listener option object types,closed,thegreatercurve,2025-10-28T09:57:11Z,2026-01-12T17:28:49Z,2026-01-12T17:28:49Z,,False,0,0,"[""CLA Signed"", ""fb-exported"", ""meta-exported""]"
+facebook/react,34996,Improve completeSegment for safer DOM manipulation,open,leog,2025-10-28T02:14:59Z,2026-02-05T04:10:11Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,34995,[compiler] Fix false negatives and add data flow tree to compiler error for `no-deriving-state-in-effects`,closed,jorge-cab,2025-10-27T22:49:39Z,2025-11-10T20:09:13Z,2025-11-10T20:09:13Z,2025-11-10T20:09:13Z,False,0,0,"[""CLA Signed""]"
+facebook/react,34994,[eprh] Adhere to ESLint.Plugin type,open,mdmower-csnw,2025-10-27T22:47:42Z,2026-01-24T06:36:49Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,34993,[generate-changelog] Refactor,closed,poteto,2025-10-27T20:36:16Z,2025-10-28T10:36:54Z,2025-10-27T22:04:49Z,2025-10-27T22:04:49Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,34992,[generate-changelog] Add `--format` option,closed,poteto,2025-10-27T20:36:14Z,2025-10-28T10:37:45Z,2025-10-27T21:54:09Z,2025-10-27T21:54:09Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,34991,[playground] Upgrade playwright,closed,EugeneChoi4,2025-10-27T16:37:38Z,2025-10-27T17:42:06Z,2025-10-27T17:42:02Z,2025-10-27T17:42:02Z,False,0,0,"[""CLA Signed""]"
+golang/go,77042,all: replace calls to errors.As with errors.AsType,closed,jub0bs,2025-12-31T14:11:32Z,2026-02-11T10:01:32Z,2026-02-11T10:01:32Z,,False,0,0,[]
+golang/go,77015,net/rpc: correct comment for isExportedOrBuiltinType function,closed,jjpinto,2025-12-27T15:13:36Z,2026-01-02T18:07:48Z,2026-01-02T18:07:48Z,,False,0,0,[]
+golang/go,77014,internal/trace/version: change message to lowercase idiomatic go,closed,jjpinto,2025-12-27T14:33:43Z,2026-01-06T22:48:11Z,2026-01-06T22:48:04Z,,False,0,0,[]
+golang/go,77013,internal/profile: fix error message casing for function ID not found,open,jjpinto,2025-12-27T14:16:42Z,2025-12-27T15:34:08Z,,,False,0,0,[]
+golang/go,77012,simd/archsimd/_gen/simdgen: fix typos in error messages,closed,jjpinto,2025-12-27T14:04:47Z,2026-01-22T21:03:19Z,2026-01-22T21:03:19Z,,False,0,0,[]
+golang/go,77009,encoding/gob: clarify docs about pointers to zero values not being sent,closed,colega,2025-12-26T19:58:19Z,2025-12-29T20:54:11Z,2025-12-29T20:54:11Z,,False,0,0,[]
+golang/go,77005,regexp: standardize error message format in find_test.go,closed,jjpinto,2025-12-26T16:49:04Z,2025-12-29T20:38:05Z,2025-12-29T20:38:05Z,,False,0,0,[]
+golang/go,77004,test/typeparam: fix malformed string and casing in sliceimp test,closed,jjpinto,2025-12-26T16:16:03Z,2025-12-29T19:22:15Z,2025-12-29T19:22:15Z,,False,0,0,[]
+golang/go,77003,test: fix malformed string and casing in slices.go typeparam test,closed,jjpinto,2025-12-26T16:00:58Z,2025-12-29T19:30:19Z,2025-12-29T19:30:19Z,,False,0,0,[]
+golang/go,77002,test: correct test output formatting in strength.go,closed,jjpinto,2025-12-26T15:34:05Z,2026-01-05T21:07:13Z,2026-01-05T21:07:13Z,,False,0,0,[]
+golang/go,77001,tests: improve consistency and clarity of test diagnostics,closed,jjpinto,2025-12-26T15:10:22Z,2025-12-29T20:29:01Z,2025-12-29T20:29:01Z,,False,0,0,[]
+golang/go,77000,test: follow got/want convention in uintptrescapes test,closed,jjpinto,2025-12-26T14:50:06Z,2025-12-29T19:30:15Z,2025-12-29T19:30:15Z,,False,0,0,[]
+golang/go,76999,test: use lower-case error message in heapsampling.go,closed,jjpinto,2025-12-26T14:42:51Z,2026-01-22T21:03:16Z,2026-01-22T21:03:16Z,,False,0,0,[]
+golang/go,76998,test: clarify log message for surrogate UTF-8 check,closed,jjpinto,2025-12-26T14:34:48Z,2025-12-29T19:30:09Z,2025-12-29T19:30:09Z,,False,0,0,[]
+golang/go,76996,cmd/internal/obj/riscv: add assembly support of Zfa extension,open,lxq015,2025-12-26T08:30:52Z,2025-12-27T06:56:16Z,,,False,0,0,[]
+golang/go,76986,archive/zip: honor Modified field in CreateRaw,open,heathdutton,2025-12-25T04:28:27Z,2025-12-25T17:32:29Z,,,False,0,0,[]
+golang/go,76981,internal/coverage/decodemeta: correct wording in unknown version error,closed,jjpinto,2025-12-24T17:12:48Z,2025-12-29T20:54:06Z,2025-12-29T20:54:06Z,,False,0,0,[]
+golang/go,76970,bytes: improve consistency in split test messages,closed,jjpinto,2025-12-23T17:00:56Z,2025-12-24T00:05:33Z,2025-12-24T00:05:33Z,,False,0,0,[]
+golang/go,76963,errors: fix errors.Join single unwrappable errors,closed,psyhatter,2025-12-23T05:36:46Z,2025-12-27T21:09:32Z,2025-12-27T21:09:32Z,,False,0,0,[]
+golang/go,76959,runtime: revert entry point on freebsd/arm64,closed,rdnn,2025-12-22T19:52:23Z,2025-12-23T00:28:12Z,2025-12-23T00:28:12Z,,False,0,0,[]
+golang/go,76945,Revise desinstallation instructions in README,closed,Je317,2025-12-21T04:16:47Z,2025-12-21T05:06:43Z,2025-12-21T05:06:22Z,,False,0,0,[]
+golang/go,76943,cmd/link: improve PE section handling,open,Zxilly,2025-12-20T20:21:05Z,2025-12-24T13:16:54Z,,,False,0,0,[]
+golang/go,76937,Update print statement from 'Hello' to 'Goodbye',closed,4way4eva,2025-12-20T06:50:50Z,2025-12-20T08:48:34Z,2025-12-20T08:38:26Z,,False,0,0,[]
+golang/go,76875,unicode: remove variation selectors from IsGraphic and IsPrint ,open,saranshsaini,2025-12-18T02:01:20Z,2025-12-19T23:48:57Z,,,False,0,0,[]
+golang/go,76870,crypto/tls: enhanced session resumption ticket age check,open,rbqvq,2025-12-17T18:58:38Z,2025-12-17T19:16:14Z,,,False,0,0,[]
+golang/go,76863,runtime: floor cgroup CPU limits in adjustCgroupGOMAXPROCS,open,marcosdotps,2025-12-17T02:29:38Z,2025-12-20T10:47:47Z,,,False,0,0,[]
+golang/go,76862,cmd/dist: detect import cycles instead of deadlocking,open,heathdutton,2025-12-16T23:45:32Z,2025-12-23T05:28:18Z,,,False,0,0,[]
+golang/go,76858,cmd/link: add more clang driver flags when testing flag,closed,cerisier,2025-12-16T22:28:50Z,2026-02-05T16:13:26Z,2026-02-05T16:13:26Z,,False,0,0,[]
+golang/go,76845,"""ghcr.io/devcontainers-extra/features/amplify-cli:"": {}",closed,carlajarchuleta1-a11y,2025-12-16T06:27:14Z,2025-12-16T09:16:59Z,2025-12-16T09:16:59Z,,False,0,0,[]
+golang/go,76836,crypto/cipher: add one-time pad encrypt and decrypt,open,vivaidris,2025-12-15T21:35:24Z,2025-12-15T21:35:28Z,,,False,0,0,[]
+golang/go,76830,runtime: optimize zeroing of registers in secret_amd64.s,open,CAFxX,2025-12-14T13:11:00Z,2025-12-16T01:34:28Z,,,False,0,0,[]
+golang/go,76828,runtime/secret: clarify Enabled() semantics,open,CAFxX,2025-12-14T09:24:33Z,2025-12-15T01:59:36Z,,,False,0,0,[]
+golang/go,76820,math/big: add floor and ceiling operations to Int and Rat,open,arminguenther,2025-12-13T16:25:08Z,2025-12-22T20:32:16Z,,,False,0,0,[]
+golang/go,76807,runtime: add uintptrkeepalive to all SyscallN functions,closed,dangodangodango,2025-12-12T08:26:59Z,2025-12-12T16:49:44Z,2025-12-12T16:49:44Z,,False,0,0,[]
+golang/go,76782,cmd/compile: fix typos in types2 api_test.go,closed,goto1134,2025-12-10T17:30:00Z,2026-01-23T18:03:58Z,2026-01-23T18:03:58Z,,False,0,0,[]
+golang/go,76775,runtime: add a runtime.wasiOnIdle function,open,dicej,2025-12-10T00:27:10Z,2026-01-09T17:43:14Z,,,False,0,0,[]
+golang/go,76737,fmt: add Join function for formatting and joining slice elements,closed,vikashr45,2025-12-07T12:08:38Z,2025-12-07T23:19:25Z,2025-12-07T23:19:25Z,,False,0,0,[]
+golang/go,76736,[Security] Fix CRITICAL vulnerability: V-001,closed,orbisai0security,2025-12-07T04:55:00Z,2025-12-07T06:50:32Z,2025-12-07T06:50:32Z,,False,0,0,[]
+golang/go,76732,runtime: delete unused parameter of userForced,closed,jianfengtony,2025-12-06T16:28:15Z,2026-01-31T02:48:38Z,2026-01-31T02:48:38Z,,False,0,0,[]
+golang/go,76730,runtime: replace compare with max/min for improve the readable,open,jianfengtony,2025-12-06T14:06:01Z,2025-12-09T03:13:25Z,,,False,0,0,[]
+golang/go,76727,cmd/cgo: use doc link for cgo.Handle,closed,ariel-anieli,2025-12-06T10:30:34Z,2025-12-10T23:08:55Z,2025-12-08T22:52:11Z,,False,0,0,[]
+golang/go,76704,net: fix some ineffectual assignments reported by ineffassign,closed,linsite,2025-12-05T05:04:36Z,2026-01-23T20:14:30Z,2026-01-23T20:14:30Z,,False,0,0,[]
+golang/go,76692,cmd/cover: exclude commented-out code from coverage instrumentation,open,rudy-regazzoni-sonarsource,2025-12-04T14:39:16Z,2025-12-19T16:51:17Z,,,False,0,0,[]
+golang/go,76667,syscall: make LoadConnectEx not IPv4-specific on Windows,open,linsite,2025-12-03T01:46:29Z,2025-12-06T01:43:31Z,,,False,0,0,[]
+golang/go,76664,doc/next: pluralize 'result',closed,willfaught,2025-12-02T22:21:56Z,2025-12-03T16:15:33Z,2025-12-03T16:15:33Z,,False,0,0,[]
+golang/go,76658,net: shuffle resolved addrs before sort by RFC6724 for connection load-balancing,open,AnonyScorpio,2025-12-02T17:06:58Z,2025-12-02T17:25:17Z,,,False,0,0,[]
+golang/go,76652,Fix removeEmptyPort,open,dxasu,2025-12-02T04:15:53Z,2025-12-03T02:29:41Z,,,False,0,0,[]
+golang/go,76643,<abort>,closed,kevin-valerio,2025-12-01T15:40:27Z,2025-12-31T14:00:29Z,2025-12-01T15:40:42Z,,False,0,0,[]
+golang/go,76638,cmd/compile: run go generate for internal/ir,closed,linsite,2025-12-01T13:02:27Z,2025-12-01T17:11:12Z,2025-12-01T17:11:12Z,,False,0,0,[]
+golang/go,76622,go/token: replace map with array for looking up keywords,open,soypat,2025-11-28T21:46:00Z,2025-12-05T13:28:52Z,,,False,0,0,[]
+golang/go,76612,Fix spelling errors in comments,open,Mdsujansarkar,2025-11-28T05:31:42Z,2025-11-28T06:10:05Z,,,False,0,0,[]
+golang/go,76610,runtime: add explicit lower bounds check to decoderune,closed,uellenberg,2025-11-28T04:58:44Z,2026-02-06T17:47:37Z,2026-02-06T17:47:37Z,,False,0,0,[]
+golang/go,76609,cmd/compile: make prove use non-equality in subtraction for a stronger bound,closed,uellenberg,2025-11-28T04:29:49Z,2026-02-01T03:06:19Z,2026-01-29T22:15:43Z,,False,0,0,[]
+golang/go,76459,internal/workcmd: add toolchain to json output,open,eaudetcobello,2025-11-25T12:58:37Z,2025-12-29T01:13:50Z,,,False,0,0,[]
+golang/go,76448,os: allow direntries to have zero inodes on Linux,closed,vasi,2025-11-25T03:19:43Z,2025-11-27T04:51:52Z,2025-11-27T04:51:52Z,,False,0,0,[]
+golang/go,76433,net/http: use math/rand/v2 instead of math/rand,closed,1911860538,2025-11-24T12:12:30Z,2026-01-22T15:46:16Z,2026-01-22T15:46:16Z,,False,0,0,[]
+golang/go,76432,cmd/go: validate inferred module path for go mod init,open,chenyanchen,2025-11-24T10:04:12Z,2026-02-06T20:58:14Z,,,False,0,0,[]
+golang/go,76426,time: fix typo in comment,open,maxproske,2025-11-23T18:23:18Z,2025-11-23T18:53:27Z,,,False,0,0,[]
+golang/go,76412,all: remove unneeded loop variables,closed,plamerdimak,2025-11-22T13:16:34Z,2025-12-17T16:10:22Z,2025-12-17T16:07:33Z,,False,0,0,[]
+golang/go,76407,time: optimize the performance of the function appendFormatRFC3339,open,fx408,2025-11-22T03:59:20Z,2025-12-16T23:05:28Z,,,False,0,0,[]
+golang/go,76403,debug/elf: return FormatError on UnexpectedEOF,closed,MusicalNinjaDad,2025-11-21T17:19:25Z,2025-11-30T14:10:17Z,2025-11-30T14:10:17Z,,False,0,0,[]
+golang/go,76401,net: shuffle resolved addrs before sort by RFC6724 for connection load-balancing,closed,AnonyScorpio,2025-11-21T16:35:22Z,2025-12-02T15:46:31Z,2025-12-02T15:41:56Z,,False,0,0,[]
+golang/go,76399,debug/elf: document errors returned by Open,closed,MusicalNinjaDad,2025-11-21T16:00:25Z,2025-11-30T14:15:43Z,2025-11-30T14:15:43Z,,False,0,0,[]
+golang/go,76398,cmd/compile/internal: fix typos,closed,callthingsoff,2025-11-21T15:56:04Z,2025-11-22T03:55:09Z,2025-11-21T17:56:14Z,,False,0,0,[]
+golang/go,76397,cmd/go/internal/auth: fix typo,closed,callthingsoff,2025-11-21T15:53:15Z,2025-11-25T14:24:32Z,2025-11-24T23:28:09Z,,False,0,0,[]
+golang/go,76396,cmd/compile/internal/devirtualize: fix typos,closed,callthingsoff,2025-11-21T15:39:44Z,2025-11-22T03:55:24Z,2025-11-21T17:48:26Z,,False,0,0,[]
+golang/go,76387,net: parse addresses without separators in ParseMac,closed,devon-mar,2025-11-21T06:08:03Z,2025-12-02T20:50:05Z,2025-12-02T20:50:05Z,,False,0,0,[]
+golang/go,76325,runtime/cgo: add support for `any` param and return type,closed,alexandre-daubois,2025-11-17T09:50:02Z,2025-11-24T20:04:42Z,2025-11-24T20:04:42Z,,False,0,0,[]
+golang/go,76322,internal/importpath: extract shared import path validation logic,open,eaudetcobello,2025-11-17T01:25:00Z,2025-11-25T13:17:57Z,,,False,0,0,[]
+golang/go,76316,net/http: fix typo in Transport docs,closed,veecore,2025-11-15T23:54:36Z,2025-11-21T20:50:42Z,2025-11-21T20:50:42Z,,False,0,0,[]
+golang/go,76315,net/http: fix typo in Transport docs,closed,veecore,2025-11-15T23:51:59Z,2025-11-15T23:54:18Z,2025-11-15T23:54:18Z,,False,0,0,[]
+golang/go,76311,internal/runtime/maps: update doc for table.Clear,closed,callthingsoff,2025-11-15T18:05:34Z,2025-11-18T08:15:35Z,2025-11-17T17:22:11Z,,False,0,0,[]
+golang/go,76305,cmd/link: sync go doc with -h flags via internal/flagdoc,open,amirHdev,2025-11-15T08:31:30Z,2025-11-17T16:22:09Z,,,False,0,0,[]
+golang/go,76301,cmd/internal/obj/riscv: add assembly support of Zbc extension,open,lxq015,2025-11-14T08:09:25Z,2026-02-02T02:48:32Z,,,False,0,0,[]
+golang/go,76299,spec: escape double-ampersands,closed,zigo101,2025-11-14T00:02:55Z,2025-11-19T21:43:11Z,2025-11-19T21:43:11Z,,False,0,0,[]
+golang/go,76297,net: shuffle resolved addrs before sort by RFC6724 for connection load-balancing,closed,AnonyScorpio,2025-11-13T20:12:06Z,2025-11-21T16:25:04Z,2025-11-21T16:25:04Z,,False,0,0,[]
+golang/go,76271,all: add plan9/arm64 port,open,rafael2k,2025-11-12T01:10:50Z,2026-02-02T16:22:40Z,,,False,0,0,[]
+golang/go,76259,"sync/atomic: amend comments for Value.{Swap,CompareAndSwap}",closed,callthingsoff,2025-11-11T17:18:31Z,2025-11-13T12:04:53Z,2025-11-12T18:14:06Z,,False,0,0,[]
+golang/go,76253,net: remove unnecessary loop variable copies in tests,closed,plamerdimak,2025-11-11T15:04:14Z,2025-11-22T12:50:04Z,2025-11-21T20:50:38Z,,False,0,0,[]
+golang/go,76243,mime: parse media types that contain braces,closed,jub0bs,2025-11-10T21:14:36Z,2025-11-12T18:33:58Z,2025-11-12T16:06:01Z,,False,0,0,[]
+golang/go,76230,cmd/cgo: add errTextRegexp to var and array pointer tests,closed,ariel-anieli,2025-11-08T09:42:06Z,2025-11-10T12:37:29Z,2025-11-10T12:21:17Z,,False,0,0,[]
+golang/go,76216,net/http: remove unused isLitOrSingle and isNotToken,closed,1911860538,2025-11-07T11:34:38Z,2025-11-13T22:06:19Z,2025-11-13T22:06:19Z,,False,0,0,[]
+golang/go,76215,runtime: tweak wording for comment of mcache.flushGen,closed,callthingsoff,2025-11-07T10:51:29Z,2025-11-10T16:19:07Z,2025-11-10T16:15:24Z,,False,0,0,[]
+golang/go,76211,cmd/compile: support Zba extensions in riscv64 compiler,open,MouseSplinter,2025-11-07T06:09:28Z,2025-11-07T07:01:00Z,,,False,0,0,[]
+golang/go,76199,net/http: raise an error when a http2 header frame is malformed,closed,jkuma,2025-11-06T13:58:38Z,2025-11-07T16:58:38Z,2025-11-07T16:58:38Z,,False,0,0,[]
+golang/go,76197,runtime: tweak wording for doc,closed,callthingsoff,2025-11-06T11:44:58Z,2025-11-10T16:21:40Z,2025-11-07T21:01:29Z,,False,0,0,[]
+golang/go,76195,iter: fix a tiny doc comment bug,closed,bobg,2025-11-06T05:11:54Z,2025-11-06T17:40:13Z,2025-11-06T17:40:13Z,,False,0,0,[]
+golang/go,76186,cmd/cgo: skip escape checks if call site has no argument,closed,ariel-anieli,2025-11-05T14:18:46Z,2025-11-08T07:22:27Z,2025-11-05T20:44:07Z,,False,0,0,[]
+golang/go,76183,"runtime, cmd/internal/obj/riscv: support spin lock on riscv64",open,newborn22,2025-11-05T08:15:25Z,2026-01-12T08:34:37Z,,,False,0,0,[]
+golang/go,76181,cmd/internal/obj/riscv: support Zihintntl assembly on RISCV64,open,newborn22,2025-11-05T03:21:40Z,2025-11-05T03:32:21Z,,,False,0,0,[]
+golang/go,76178,cmd/internal/obj/riscv: support zawrs assembly on riscv64,open,newborn22,2025-11-05T01:58:31Z,2025-11-05T08:26:05Z,,,False,0,0,[]
+golang/go,76174,"cmd/link, runtime: document Windows DLL package init mechanism",closed,Copilot,2025-11-04T18:40:40Z,2025-11-04T19:05:47Z,2025-11-04T18:41:04Z,,True,0,0,[]
+golang/go,76172,sync: don't call Done when f() panics in WaitGroup.Go,closed,callthingsoff,2025-11-04T17:28:13Z,2025-11-10T16:19:41Z,2025-11-10T15:58:13Z,,False,0,0,[]
+golang/go,76165,bytes: fix panic in bytes.Buffer.Peek,closed,AaronChen0,2025-11-04T07:00:02Z,2025-11-14T19:12:39Z,2025-11-14T19:12:39Z,,False,0,0,[]
+golang/go,76160,runtime: amend doc for setPinned,closed,callthingsoff,2025-11-03T18:35:05Z,2025-11-05T07:15:33Z,2025-11-04T20:58:40Z,,False,0,0,[]
+golang/go,76156,io: add Err field to LimitedReader,open,grishy,2025-11-03T15:53:15Z,2025-11-17T10:10:57Z,,,False,0,0,[]
+golang/go,76154,log/slog: add Record.AllAttrs,open,dbeneker,2025-11-03T12:34:12Z,2025-11-04T07:49:50Z,,,False,0,0,[]
+golang/go,76145,internal/profile: optimize Parse allocs,closed,pymq,2025-11-02T11:05:35Z,2025-11-03T18:03:21Z,2025-11-03T18:03:21Z,,False,0,0,[]
+golang/go,76141,runtime: refactor goroutine profilerecord types,open,dt,2025-11-01T17:01:21Z,2025-11-02T13:26:44Z,,,False,0,0,[]
+golang/go,76118,cmd/cgo: use the export'ed file/line in error messages,closed,ariel-anieli,2025-10-30T12:53:38Z,2025-11-08T07:23:18Z,2025-11-03T21:19:38Z,,False,0,0,[]
+golang/go,76117,go/token: fix a typo in a comment,closed,xyproto,2025-10-30T12:52:33Z,2025-10-30T16:14:31Z,2025-10-30T16:14:31Z,,False,0,0,[]
+golang/go,76116,go/token: fix a typo in a comment. Fixes #75632,closed,xyproto,2025-10-30T12:43:58Z,2025-10-30T12:44:08Z,2025-10-30T12:44:08Z,,False,0,0,[]
+golang/go,76115,doc/next: added release notes for goroutine leak profiles,closed,VladSaiocUber,2025-10-30T10:33:48Z,2026-01-02T15:08:46Z,2026-01-02T14:37:34Z,,False,0,0,[]
+golang/go,76100,runtime: tweak example code for gorecover,closed,callthingsoff,2025-10-29T07:48:42Z,2025-10-29T19:46:21Z,2025-10-29T18:39:06Z,,False,0,0,[]
+golang/go,76094,runtime: clean up code for TestIssue43941,closed,callthingsoff,2025-10-28T18:42:42Z,2025-10-28T21:26:17Z,2025-10-28T21:26:11Z,,False,0,0,[]
+golang/go,76086,runtime: amend comments a bit,closed,callthingsoff,2025-10-28T10:55:12Z,2025-10-28T16:52:42Z,2025-10-28T16:35:04Z,,False,0,0,[]
+golang/go,76077,modcmd: silence unmatched warnings in empty modules,closed,soroushj,2025-10-27T21:40:41Z,2025-10-27T22:05:34Z,2025-10-27T22:05:34Z,,False,0,0,[]
+golang/go,76069,runtime: add comments for gcCPULimiter testcases,open,jianfengtony,2025-10-27T14:16:56Z,2025-11-04T06:36:26Z,,,False,0,0,[]
+golang/go,76063,runtime: avoid zeroing scavenged memory,closed,ioworker0,2025-10-27T05:08:48Z,2025-10-31T12:43:27Z,2025-10-31T12:43:27Z,,False,0,0,[]
+golang/go,76059,crypto/internal/fips140/aes: optimize ctrBlocks8Asm on amd64,closed,starius,2025-10-26T17:00:21Z,2025-11-26T18:26:24Z,2025-11-26T18:26:24Z,,False,0,0,[]
+golang/go,76048,net/url: further speed up escape and unescape,closed,jub0bs,2025-10-25T05:30:44Z,2025-11-12T18:34:01Z,2025-10-27T17:03:13Z,,False,0,0,[]
+golang/go,76046,Feature delete multi part files,closed,matteobovetti,2025-10-24T15:39:29Z,2025-10-27T15:06:15Z,2025-10-27T15:06:15Z,,True,0,0,[]
+golang/go,76045,"runtime,runtime/pprof: clean up goroutine leak profile writing",closed,VladSaiocUber,2025-10-24T15:01:12Z,2025-11-12T16:23:42Z,2025-11-12T16:23:42Z,,False,0,0,[]
+golang/go,76042,cmd/go/internal/tool: include dynamically buildable tools ,open,Agent-Hellboy,2025-10-24T11:56:20Z,2025-12-19T16:16:38Z,,,False,0,0,[]
+golang/go,76032,crypto/pbkdf2: add missing error return value in example,closed,bystones,2025-10-23T20:21:00Z,2025-10-23T21:55:21Z,2025-10-23T21:55:20Z,,False,0,0,[]
+golang/go,76026,sync: update comments for Once.done,closed,callthingsoff,2025-10-23T17:22:12Z,2025-10-27T16:55:32Z,2025-10-27T16:46:00Z,,False,0,0,[]
+golang/go,76006,time: rewrite IsZero method to use wall and ext fields,closed,dxasu,2025-10-22T10:16:24Z,2025-10-27T16:54:11Z,2025-10-27T16:54:11Z,,False,0,0,[]
+golang/go,76005,time: fix IsZero method to use wall and ext fields,closed,dxasu,2025-10-22T09:25:10Z,2025-10-22T10:20:19Z,2025-10-22T09:28:14Z,,False,0,0,[]
+golang/go,76002,time: fix IsZero method to use wall and ext fields,closed,dxasu,2025-10-22T06:42:15Z,2025-10-22T10:18:45Z,2025-10-22T10:18:45Z,,False,0,0,[]
+golang/go,75993,all: gofmt -w,closed,callthingsoff,2025-10-21T17:15:27Z,2025-10-22T01:43:23Z,2025-10-21T20:24:47Z,,False,0,0,[]
+golang/go,75992,runtime/cgo: fix cgoCheckArg description,closed,ariel-anieli,2025-10-21T17:02:05Z,2025-10-23T06:28:56Z,2025-10-23T00:59:05Z,,False,0,0,[]
+golang/go,75985,cmd/compile/internal/ssa: fix typo in comment,closed,callthingsoff,2025-10-20T15:22:59Z,2025-10-21T15:53:03Z,2025-10-21T15:51:52Z,,False,0,0,[]
+golang/go,75980,comment: change slice to string in function comment/help,closed,redteampanda-ng,2025-10-20T07:27:42Z,2025-10-22T16:20:33Z,2025-10-22T16:20:33Z,,False,0,0,[]
+golang/go,75974,all: eliminate unnecessary type conversions,closed,callthingsoff,2025-10-19T18:21:08Z,2025-10-21T15:24:40Z,2025-10-21T15:23:40Z,,False,0,0,[]
+golang/go,75973,crypto/internal/fips140/aes: fix CTR generator,closed,starius,2025-10-19T16:31:32Z,2025-10-30T14:36:09Z,2025-10-30T14:36:09Z,,False,0,0,[]
+golang/go,75957,runtime: use timer_settime64 on 32-bit Linux,closed,abdullahkiani007,2025-10-17T17:13:27Z,2025-10-21T16:47:27Z,2025-10-21T16:47:27Z,,False,0,0,[]
+golang/go,75945,cmd/go: fix TestScript/list_std_vendor expected output for golang.org/x/net,closed,merdernoty,2025-10-17T08:06:33Z,2025-10-17T08:34:27Z,2025-10-17T08:34:27Z,,False,0,0,[]
+golang/go,75926,net/http: use reflect.TypeAssert,closed,1911860538,2025-10-16T11:27:13Z,2025-11-25T07:46:53Z,2025-11-25T07:46:53Z,,False,0,0,[]
+golang/go,75914,net/url: speed up escape and unescape,closed,jub0bs,2025-10-15T19:16:16Z,2025-11-12T18:34:02Z,2025-10-23T19:06:30Z,,False,0,0,[]
+golang/go,75905,all: correct name for comments,closed,callthingsoff,2025-10-15T05:59:42Z,2025-10-17T17:04:05Z,2025-10-17T17:03:16Z,,False,0,0,[]
+golang/go,75894,runtime/cgo: improve error messages after pointer panic,closed,ariel-anieli,2025-10-14T16:37:48Z,2025-11-08T07:22:36Z,2025-11-07T21:01:19Z,,False,0,0,[]
+golang/go,75874,net/url: reduce allocs in Encode,closed,jub0bs,2025-10-13T15:08:20Z,2026-01-09T03:15:48Z,2025-10-20T21:23:53Z,,False,0,0,[]
+golang/go,75825,encoding/asn1: use reflect.TypeAssert to improve performance,closed,apocelipes,2025-10-09T10:24:20Z,2025-10-21T09:30:25Z,2025-10-20T17:24:46Z,,False,0,0,[]
+golang/go,75796,crypto: add digest truncate support to all hash types,closed,luskbyte,2025-10-08T06:37:17Z,2025-10-08T07:45:55Z,2025-10-08T07:39:55Z,,False,0,0,[]
+golang/go,75789,all: use slices.Sort,closed,apocelipes,2025-10-07T17:07:19Z,2025-11-20T05:41:56Z,2025-11-20T05:41:46Z,,False,0,0,[]
+golang/go,75788,cmd: use slices to simplify the code,closed,apocelipes,2025-10-07T16:50:33Z,2025-11-20T05:42:05Z,2025-11-20T05:41:37Z,,False,0,0,[]
+golang/go,75785,comments: fix typos,open,hayotbisonai,2025-10-07T02:45:20Z,2025-10-07T03:03:55Z,,,False,0,0,[]
+golang/go,75769,net/http: format pprof.go,closed,VladSaiocUber,2025-10-06T14:44:22Z,2025-10-08T17:21:44Z,2025-10-08T17:21:44Z,,False,0,0,[]
+golang/go,75764,runtime: limit total frames traversed during stack walking,open,shuakami,2025-10-06T09:51:05Z,2025-10-07T07:36:53Z,,,False,0,0,[]
+golang/go,75762,lib/wasm: eliminate global namespace pollution in wasm_exec.js,open,alexgleason,2025-10-06T01:00:30Z,2025-10-09T16:03:12Z,,,False,0,0,[]
+golang/go,75760,spec: close tag,closed,eikemeier,2025-10-05T11:48:21Z,2025-10-06T15:10:45Z,2025-10-06T15:10:45Z,,False,0,0,[]
+golang/go,75754,errors: add Match and IsAny,open,maranqz,2025-10-04T20:00:53Z,2025-12-06T14:39:43Z,,,False,0,0,[]
+golang/go,75733,database/sql: reduce memory footprint with errors.New,closed,apocelipes,2025-10-02T21:26:20Z,2025-10-07T13:06:46Z,2025-10-07T13:06:40Z,,False,0,0,[]
+golang/go,75725,cmd/link: ensure LC_UUID is present for internal Mach-O binaries on macOS,closed,enespolat24,2025-10-02T15:16:44Z,2025-10-02T22:18:07Z,2025-10-02T22:18:07Z,,False,0,0,[]
+golang/go,75719,"html/template,text/template: use errors.New instead of fmt.Errorf",closed,apocelipes,2025-10-01T20:46:52Z,2025-10-07T13:06:21Z,2025-10-07T13:06:14Z,,False,0,0,[]
+golang/go,75699,crypto/tls: expose local Certificates used in handshake via ConnectionState,open,mcsaucy,2025-10-01T20:05:13Z,2025-10-04T02:28:27Z,,,False,0,0,[]
+golang/go,75698,all: replace calls to errors.As with errors.AsType,closed,jub0bs,2025-10-01T20:03:45Z,2025-11-12T18:34:10Z,2025-10-13T17:19:04Z,,False,0,0,[]
+golang/go,75687,testing/synctest: fix inverted test failure message in TestContextAfterFunc,closed,fgm,2025-10-01T09:46:40Z,2025-10-01T16:18:31Z,2025-10-01T16:18:31Z,,False,0,0,[]
+golang/go,75686,testing/synctest: fix inverted failure message in TestContextAfterFunc,closed,fgm,2025-10-01T09:43:07Z,2025-10-01T09:45:23Z,2025-10-01T09:45:22Z,,False,0,0,[]
+pallets/flask,5874,Clarify 415 Unsupported Media in JSON docs,closed,Soham-1616,2025-12-29T05:02:44Z,2026-01-13T00:08:13Z,2025-12-29T05:06:00Z,,False,0,0,[]
+pallets/flask,5873,Clarify 415 Unsupported Media Type in JSON docs,closed,Soham-1616,2025-12-29T05:01:29Z,2026-01-13T00:08:14Z,2025-12-29T05:01:39Z,,False,0,0,[]
+pallets/flask,5872,Fixed error code documentation for request.json,closed,JasonBalayev,2025-12-27T17:16:48Z,2025-12-27T21:24:37Z,2025-12-27T17:36:44Z,,False,0,0,[]
+pallets/flask,5871,init,closed,Nitish-555,2025-12-25T02:16:34Z,2026-01-09T00:09:43Z,2025-12-25T02:18:52Z,,False,0,0,[]
+pallets/flask,5869,Document 415 Unsupported Media Type for JSON requests,closed,sunilkushwahaisgreat-jpg,2025-12-23T08:10:39Z,2026-01-07T00:08:44Z,2025-12-23T14:48:27Z,,False,0,0,[]
+pallets/flask,5868,Improve exception handler in wsgi_app method,closed,latifbaihaki,2025-12-22T00:34:42Z,2026-01-06T00:10:07Z,2025-12-22T01:30:40Z,,False,0,0,[]
+pallets/flask,5867,Deprecate should_ignore_error method,closed,ayushpatil0810,2025-12-18T12:19:47Z,2026-01-02T00:09:51Z,2025-12-18T12:30:25Z,,False,0,0,[]
+pallets/flask,5866,Clarify JSON request errors: 400 vs 415,closed,ShakibCodes,2025-12-18T07:04:01Z,2026-01-02T00:09:50Z,2025-12-18T15:21:39Z,,False,0,0,[]
+pallets/flask,5865,Increase required flit_core version to 3.11,closed,marcows,2025-12-17T15:22:57Z,2026-02-11T00:17:35Z,2026-01-25T03:04:07Z,2026-01-25T03:04:07Z,False,0,0,[]
+pallets/flask,5864,Add built-in CSRF protection using Sec-Fetch-Site header,closed,sharoonthomas,2025-12-17T02:52:56Z,2025-12-17T15:34:24Z,2025-12-17T15:07:43Z,,False,0,0,[]
+pallets/flask,5860,Fix documentation for JSON error codes,closed,cotneok,2025-12-10T22:26:28Z,2025-12-25T00:09:40Z,2025-12-10T22:41:48Z,,False,0,0,[]
+pallets/flask,5859,Create test,closed,bayraa16,2025-12-10T09:30:23Z,2025-12-25T00:09:41Z,2025-12-10T10:12:44Z,,False,0,0,[]
+pallets/flask,5858,"Refactor __init__.py module to improve organization, readability and public API structure",closed,ilmoruuu,2025-12-08T01:10:05Z,2025-12-23T00:09:44Z,2025-12-08T01:11:46Z,,False,0,0,[]
+pallets/flask,5857,Add documentation and fix type safety bugs,closed,paolotercerosdev,2025-11-30T06:53:11Z,2025-12-15T00:10:09Z,2025-11-30T15:37:42Z,,False,0,0,[]
+pallets/flask,5856,Refactor Blueprint.register to reduce cyclomatic complexity,closed,VaksHSE,2025-11-29T08:21:05Z,2025-12-14T00:10:22Z,2025-11-29T14:18:40Z,,False,0,0,[]
+pallets/flask,5855,kimi-v1,closed,stonelv,2025-11-29T07:44:54Z,2025-12-14T00:10:23Z,2025-11-29T07:45:23Z,,False,0,0,[]
+pallets/flask,5854,Deprecate should_ignore_error method and add unit tests,closed,akarshsinghal,2025-11-29T04:46:08Z,2025-12-14T00:10:24Z,2025-11-29T05:15:08Z,,False,0,0,[]
+pallets/flask,5853,Added rate limiting functionality to Flask app,closed,txjas99,2025-11-25T16:43:59Z,2025-12-11T00:09:50Z,2025-11-25T16:46:14Z,,False,0,0,[]
+pallets/flask,5852,Docs: Add WSGI documentation note to README,closed,manojalluri,2025-11-25T16:36:10Z,2025-12-10T00:09:38Z,2025-11-25T16:40:06Z,,False,0,0,[]
+pallets/flask,5850,Add copy-to-clipboard button for code blocks in Flask documentation.,closed,MOHITKOURAV01,2025-11-19T10:45:00Z,2025-12-04T00:09:29Z,2025-11-19T14:30:39Z,,False,0,0,[]
+pallets/flask,5849,Add copy-to-clipboard button for code blocks in Flask documentation.,closed,MOHITKOURAV01,2025-11-19T09:37:58Z,2025-12-04T00:09:30Z,2025-11-19T09:51:46Z,,False,0,0,[]
+pallets/flask,5847,docs: Improve Quickstart example clarity for beginners,closed,waweruvincent146-afk,2025-11-12T05:57:44Z,2025-11-27T00:09:01Z,2025-11-12T06:52:19Z,,False,0,0,[]
+pallets/flask,5846,Fix _validate_key to handle click 8.3.1 Sentinel values,closed,pramod5403,2025-11-10T16:17:52Z,2025-11-25T00:08:08Z,2025-11-10T19:17:34Z,,False,0,0,[]
+pallets/flask,5845,docs: Add explanation of reloader types and terminal output,closed,commitWithTisha,2025-11-09T06:28:20Z,2026-02-09T00:13:56Z,2026-01-25T01:22:44Z,,False,0,0,[]
+pallets/flask,5844,pre-commit: Add codespell,closed,cclauss,2025-11-05T17:14:08Z,2026-02-09T00:13:52Z,2026-01-25T03:00:24Z,2026-01-25T03:00:24Z,False,0,0,[]
+pallets/flask,5840,docs: enhance README with comprehensive examples and troubleshooting,closed,ARUSHIGULBHILE,2025-10-31T14:08:37Z,2025-11-15T00:08:21Z,2025-10-31T14:59:13Z,,False,0,0,[]
+pallets/flask,5838,Update app.py,closed,bodduNaidu,2025-10-29T20:59:42Z,2025-11-13T00:09:16Z,2025-10-29T21:01:24Z,,False,0,0,"[""Invalid""]"
+pallets/flask,5837,Create jenkinsfile,closed,bodduNaidu,2025-10-29T20:53:12Z,2025-11-13T00:09:17Z,2025-10-29T20:54:19Z,,False,0,0,"[""Invalid""]"
+pallets/flask,5835,Add Seenode deployment instructions to documentation,closed,GeoSegun,2025-10-23T10:30:06Z,2026-02-09T00:13:55Z,2026-01-25T01:35:18Z,,False,0,0,[]
+pallets/flask,5834,`pre-commit autoupdate --freeze` 2025-10-23,closed,cclauss,2025-10-22T08:30:20Z,2025-11-20T00:09:12Z,2025-11-05T16:17:32Z,,False,0,0,[]
+pallets/flask,5833,fix typos discovered by  codespell,closed,cclauss,2025-10-22T08:19:47Z,2025-11-21T00:09:09Z,2025-11-05T16:10:41Z,,False,0,0,[]
+pallets/flask,5832,GitHub Actions: Add Python 3.14 and 3.14t to the testing,closed,cclauss,2025-10-22T05:58:58Z,2025-11-20T00:09:11Z,2025-11-05T16:17:49Z,,False,0,0,[]
+pallets/flask,5831,Update installation instructions for Windows PowerShell,closed,MeowyCat1,2025-10-19T10:08:40Z,2025-12-03T00:09:21Z,2025-11-17T00:52:20Z,,False,0,0,[]
+pallets/flask,5829,Docs typo/markup fixes,closed,hynek,2025-10-14T07:43:09Z,2025-10-30T00:08:51Z,2025-10-14T20:26:26Z,2025-10-14T20:26:26Z,False,0,0,[]
+pallets/flask,5828,docs: fix missing quote in flashing example,closed,sachintha180,2025-10-13T15:33:59Z,2025-10-28T00:08:13Z,2025-10-13T15:50:14Z,,False,0,0,[]
+pallets/flask,5827,clarify 415 vs 400 errors for request.json,closed,adityasah104,2025-10-09T07:06:09Z,2026-02-09T00:13:53Z,2026-01-25T02:46:57Z,2026-01-25T02:46:57Z,False,0,0,"[""docs""]"
+pallets/flask,5826,docs: clarify JSON parsing error conditions in Flask views,closed,Samarthegde,2025-10-08T13:14:31Z,2025-10-24T00:07:25Z,2025-10-08T18:23:11Z,,False,0,0,[]
+docker/compose,13488,refactor(attach): improve attach error handling and cleanup,closed,htoyoda18,2025-12-31T16:32:22Z,2026-01-21T10:06:32Z,2026-01-19T16:46:55Z,2026-01-19T16:46:55Z,False,0,0,[]
+docker/compose,13485,"bugfix; change log level of ""No services to build"" warning log",closed,leo9800,2025-12-30T06:41:46Z,2026-01-05T13:40:16Z,2026-01-05T13:40:16Z,,False,0,0,[]
+docker/compose,13483,fix: clean up temporary compose files after conversion,closed,htoyoda18,2025-12-29T17:35:45Z,2026-01-05T14:17:01Z,2026-01-05T08:01:56Z,2026-01-05T08:01:56Z,False,0,0,[]
+docker/compose,13481,Fix typo in isSwarmEnabled method name,closed,htoyoda18,2025-12-27T16:29:42Z,2026-01-05T14:17:06Z,2026-01-05T08:11:59Z,2026-01-05T08:11:59Z,False,0,0,[]
+docker/compose,13480,Fix incorrect usage of errgroup.WithContext,closed,htoyoda18,2025-12-27T06:00:28Z,2026-01-05T14:17:12Z,2026-01-05T08:27:46Z,2026-01-05T08:27:46Z,False,0,0,[]
+docker/compose,13478,feat: conditionally warn when no services to build,closed,ismdeep,2025-12-25T12:54:32Z,2026-01-13T09:27:00Z,2026-01-12T16:49:51Z,,False,0,0,[]
+docker/compose,13477,Add a short high-level explanation of typical docker-compose use cases,open,VNel,2025-12-24T16:01:28Z,2025-12-24T16:04:20Z,,,False,0,0,[]
+docker/compose,13475,build(deps): bump google.golang.org/grpc from 1.77.0 to 1.78.0,closed,dependabot[bot],2025-12-24T09:02:58Z,2026-01-12T16:50:17Z,2026-01-12T16:50:15Z,2026-01-12T16:50:15Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13473,build(deps): bump github.com/moby/go-archive from 0.1.0 to 0.2.0,closed,dependabot[bot],2025-12-22T09:02:37Z,2026-01-19T16:56:24Z,2026-01-19T16:56:21Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13471,Fix timeout initialization when waitTimeout is zero,closed,htoyoda18,2025-12-20T06:51:55Z,2026-01-05T14:17:18Z,2026-01-05T08:31:14Z,2026-01-05T08:31:14Z,False,0,0,[]
+docker/compose,13470,add service name completion to down command,closed,bmo-at,2025-12-19T17:19:02Z,2026-01-05T08:32:39Z,2026-01-05T08:32:39Z,2026-01-05T08:32:39Z,False,0,0,[]
+docker/compose,13468,build(deps): bump github.com/containerd/containerd/v2 from 2.2.1-0.20251115011841-efd86f2b0bc2 to 2.2.1,closed,dependabot[bot],2025-12-19T09:03:17Z,2026-01-08T10:33:17Z,2026-01-08T10:33:07Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13467,warn user no service has been selected to build,closed,ndeloof,2025-12-18T10:17:48Z,2026-01-21T02:58:59Z,2025-12-18T10:35:33Z,2025-12-18T10:35:33Z,False,0,0,[]
+docker/compose,13464,check model plugin is successfully loaded and store version,closed,ndeloof,2025-12-17T16:22:38Z,2025-12-18T10:05:14Z,2025-12-18T10:01:36Z,2025-12-18T10:01:36Z,False,0,0,[]
+docker/compose,13463,Add logging while waiting for services,open,mjagyo,2025-12-17T14:47:23Z,2026-01-12T04:31:32Z,,,False,0,0,[]
+docker/compose,13462,build(deps): bump github.com/moby/buildkit from 0.26.2 to 0.26.3,closed,dependabot[bot],2025-12-17T09:02:55Z,2025-12-17T09:16:57Z,2025-12-17T09:16:55Z,2025-12-17T09:16:55Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13461,Add logging while waiting for services,closed,mjagyo,2025-12-16T13:45:31Z,2025-12-17T14:48:30Z,2025-12-17T14:02:42Z,,True,0,0,[]
+docker/compose,13460,gets back runtime flags when configuring models,closed,ilopezluna,2025-12-16T11:16:51Z,2025-12-18T14:24:07Z,2025-12-18T14:24:07Z,2025-12-18T14:24:07Z,False,0,0,[]
+docker/compose,13457,Prevented incorrect progress metrics to break compose display.,closed,ndeloof,2025-12-15T16:46:29Z,2025-12-15T17:02:31Z,2025-12-15T17:02:31Z,2025-12-15T17:02:31Z,False,0,0,[]
+docker/compose,13455,Restored support for BUILDKIT_PROGRESS.,closed,ndeloof,2025-12-15T15:02:17Z,2025-12-15T17:31:07Z,2025-12-15T17:03:05Z,2025-12-15T17:03:05Z,False,0,0,[]
+docker/compose,13452,Introduced a build tag to select watcher implementation.,closed,ndeloof,2025-12-15T07:56:34Z,2025-12-15T09:16:13Z,2025-12-15T09:16:13Z,2025-12-15T09:16:13Z,False,0,0,[]
+docker/compose,13451,doc: do not mention v2 on README,closed,alexislefebvre,2025-12-14T20:22:32Z,2025-12-15T11:12:48Z,2025-12-15T10:46:39Z,2025-12-15T10:46:39Z,False,0,0,[]
+docker/compose,13450,Fix missing error handling in setEnvWithDotEnv,closed,htoyoda18,2025-12-14T17:55:14Z,2026-01-05T14:17:30Z,2025-12-15T14:18:55Z,2025-12-15T14:18:55Z,False,0,0,[]
+docker/compose,13446,add 'configured' event at the end of model configuration phase,closed,glours,2025-12-12T13:37:43Z,2025-12-15T09:14:23Z,2025-12-15T09:14:22Z,2025-12-15T09:14:22Z,False,0,0,[]
+docker/compose,13445,Restored image layer download progress details on pull.,closed,ndeloof,2025-12-12T09:58:11Z,2025-12-12T14:23:00Z,2025-12-12T13:22:02Z,2025-12-12T13:22:02Z,False,0,0,[]
+docker/compose,13444,Add the `--no-build` option to `run`,closed,Cyberax,2025-12-11T23:29:10Z,2026-02-06T23:43:37Z,2026-02-06T23:43:37Z,,False,0,0,[]
+docker/compose,13442,build(deps): bump github.com/morikuni/aec from 1.0.0 to 1.1.0,closed,dependabot[bot],2025-12-11T09:03:31Z,2025-12-15T15:20:25Z,2025-12-15T15:20:14Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13441,build(deps): bump tags.cncf.io/container-device-interface from 1.0.1 to 1.1.0,closed,dependabot[bot],2025-12-11T09:03:21Z,2025-12-16T08:34:45Z,2025-12-16T08:34:43Z,2025-12-16T08:34:43Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13440,Adopted morikuni/aec library over raw ANSI sequences.,closed,ndeloof,2025-12-10T16:04:08Z,2025-12-15T15:36:57Z,2025-12-15T15:36:57Z,2025-12-15T15:36:57Z,False,0,0,[]
+docker/compose,13439,Fix progress UI not restoring terminal once operation completes.,closed,ndeloof,2025-12-10T13:25:53Z,2025-12-10T21:49:48Z,2025-12-10T21:49:37Z,2025-12-10T21:49:37Z,False,0,0,[]
+docker/compose,13438,Fixed status alignment in progress UI.,closed,ndeloof,2025-12-10T10:03:59Z,2025-12-11T15:46:31Z,2025-12-11T14:25:03Z,2025-12-11T14:25:03Z,False,0,0,[]
+docker/compose,13437,build(deps): bump github.com/docker/cli-docs-tool from 0.10.0 to 0.11.0,closed,dependabot[bot],2025-12-10T09:03:02Z,2025-12-10T09:14:32Z,2025-12-10T09:14:31Z,2025-12-10T09:14:31Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13434,build(deps): bump golang.org/x/sync from 0.18.0 to 0.19.0,closed,dependabot[bot],2025-12-09T09:03:14Z,2025-12-11T16:13:17Z,2025-12-11T16:13:16Z,2025-12-11T16:13:15Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13433,build(deps): bump golang.org/x/sys from 0.38.0 to 0.39.0,closed,dependabot[bot],2025-12-09T09:03:09Z,2025-12-09T15:18:12Z,2025-12-09T15:18:09Z,2025-12-09T15:18:09Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13430,Fixed broken run --quiet.,closed,ndeloof,2025-12-08T10:07:37Z,2025-12-08T12:34:26Z,2025-12-08T12:34:26Z,2025-12-08T12:34:26Z,False,0,0,[]
+docker/compose,13429,Fixed grammatical errors and improve clarity in code.,closed,xiaolinny,2025-12-08T09:54:48Z,2025-12-08T10:20:48Z,2025-12-08T10:20:48Z,2025-12-08T10:20:48Z,False,0,0,[]
+docker/compose,13425,bump osxcross,closed,ndeloof,2025-12-05T12:26:59Z,2025-12-05T14:19:11Z,2025-12-05T14:19:02Z,2025-12-05T14:19:02Z,False,0,0,[]
+docker/compose,13424,Restored support for `COMPOSE_COMPATIBILITY`,closed,ndeloof,2025-12-05T12:14:32Z,2025-12-07T17:42:08Z,2025-12-07T17:42:05Z,2025-12-07T17:42:05Z,False,0,0,[]
+docker/compose,13423,Fix grammar: pluralize 'service' and remove apostrophes in lets,closed,rashmivagha,2025-12-04T22:07:59Z,2025-12-05T09:33:36Z,2025-12-05T09:33:36Z,2025-12-05T09:33:36Z,False,0,0,[]
+docker/compose,13421,build(deps): bump github.com/spf13/cobra from 1.10.1 to 1.10.2,closed,dependabot[bot],2025-12-04T09:03:20Z,2025-12-10T09:15:33Z,2025-12-10T09:15:31Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13418,Drop Go min patch version,closed,austinvazquez,2025-12-03T19:08:22Z,2025-12-10T09:09:12Z,2025-12-09T19:33:00Z,2025-12-09T19:33:00Z,False,0,0,[]
+docker/compose,13417,bump golang 1.24.11,closed,austinvazquez,2025-12-03T18:06:00Z,2025-12-03T19:08:38Z,2025-12-03T18:30:45Z,2025-12-03T18:30:45Z,False,0,0,[]
+docker/compose,13416,fix SDK example,closed,ndeloof,2025-12-03T15:05:29Z,2025-12-03T15:55:24Z,2025-12-03T15:55:24Z,2025-12-03T15:55:23Z,False,0,0,[]
+docker/compose,13415,check buildx version before comparing it,closed,yangfeiyu20102011,2025-12-03T13:58:29Z,2025-12-04T07:34:14Z,2025-12-04T07:34:13Z,2025-12-04T07:34:13Z,False,0,0,[]
+docker/compose,13411,refactor: replace interface{} with any for clarity and modernization,closed,zjumathcode,2025-12-02T07:30:49Z,2025-12-02T07:41:50Z,2025-12-02T07:41:50Z,2025-12-02T07:41:50Z,False,0,0,[]
+docker/compose,13410,Bump compose go to v2.10.0,closed,ndeloof,2025-12-01T16:08:19Z,2025-12-01T16:27:53Z,2025-12-01T16:19:40Z,2025-12-01T16:19:40Z,False,0,0,[]
+docker/compose,13409,add --wait option to start command,closed,ndeloof,2025-12-01T10:34:41Z,2025-12-01T10:58:00Z,2025-12-01T10:58:00Z,2025-12-01T10:58:00Z,False,0,0,[]
+docker/compose,13407,Fix grammar: change 'adopted' to 'adopt' in Docker Swarm note,closed,rashmivagha,2025-11-29T00:37:34Z,2025-12-01T11:09:30Z,2025-12-01T11:08:52Z,2025-12-01T11:08:52Z,False,0,0,[]
+docker/compose,13406,golangci-lint: use gci formatter instead of goimports,closed,thaJeztah,2025-11-28T15:19:00Z,2025-12-01T11:40:58Z,2025-12-01T11:21:51Z,2025-12-01T11:21:51Z,False,0,0,[]
+docker/compose,13405,build(deps): bump golang.org/x/crypto v0.45.0,closed,thaJeztah,2025-11-28T14:34:30Z,2025-11-28T14:46:43Z,2025-11-28T14:44:55Z,2025-11-28T14:44:55Z,False,0,0,[]
+docker/compose,13404,feat(model): ignore runtime flags in model configuration,closed,ilopezluna,2025-11-28T14:28:59Z,2025-11-28T17:52:36Z,2025-11-28T17:52:36Z,2025-11-28T17:52:36Z,False,0,0,[]
+docker/compose,13403,build(deps): bump github.com/hashicorp/go-version from 1.7.0 to 1.8.0,closed,dependabot[bot],2025-11-28T09:03:18Z,2025-11-28T09:13:48Z,2025-11-28T09:13:47Z,2025-11-28T09:13:47Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13402,only check for env_file,closed,ndeloof,2025-11-27T13:16:58Z,2025-11-28T08:48:55Z,2025-11-28T08:48:55Z,2025-11-28T08:48:55Z,False,0,0,[]
+docker/compose,13401,use ScanFile to check composefile doesn't include sensitive data,closed,ndeloof,2025-11-27T13:14:00Z,2025-11-27T13:59:12Z,2025-11-27T13:59:12Z,,False,0,0,[]
+docker/compose,13400,skip includes preparing publish,closed,ndeloof,2025-11-27T13:10:09Z,2025-11-28T08:41:43Z,2025-11-28T08:41:43Z,2025-11-28T08:41:43Z,False,0,0,[]
+docker/compose,13398,refactor: use strings.Builder to improve performance,closed,liuyueyangxmu,2025-11-26T09:40:29Z,2025-11-26T09:52:25Z,2025-11-26T09:52:25Z,2025-11-26T09:52:25Z,False,0,0,[]
+docker/compose,13397,Long notation of volumes bind mount handle the selinux labels,closed,zhangguanzhang,2025-11-26T02:48:34Z,2025-11-26T07:57:27Z,2025-11-26T07:27:32Z,,False,0,0,[]
+docker/compose,13395,test https://github.com/compose-spec/compose-go/pull/841,closed,ndeloof,2025-11-25T13:57:47Z,2025-11-25T14:46:11Z,2025-11-25T14:46:11Z,,True,0,0,[]
+docker/compose,13393,refactor: replace Split in loops with more efficient SplitSeq,closed,vicerace,2025-11-25T10:18:27Z,2025-11-25T10:37:04Z,2025-11-25T10:37:04Z,2025-11-25T10:37:04Z,False,0,0,[]
+docker/compose,13392,bump dependencies,closed,ndeloof,2025-11-24T17:10:47Z,2025-11-24T18:46:54Z,2025-11-24T17:26:41Z,2025-11-24T17:26:41Z,False,0,0,[]
+docker/compose,13388,build(deps): bump github.com/moby/buildkit from 0.26.0 to 0.26.2,closed,dependabot[bot],2025-11-21T09:03:07Z,2025-11-24T17:57:12Z,2025-11-24T17:57:10Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13385,build(deps): bump github.com/moby/buildkit from 0.26.0 to 0.26.1,closed,dependabot[bot],2025-11-18T09:04:10Z,2025-11-21T09:03:12Z,2025-11-21T09:03:10Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13384,build(deps): bump github.com/docker/buildx from 0.30.0 to 0.30.1,closed,dependabot[bot],2025-11-18T09:04:01Z,2025-11-24T18:44:44Z,2025-11-24T18:44:43Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13383,build(deps): bump google.golang.org/grpc from 1.76.0 to 1.77.0,closed,dependabot[bot],2025-11-18T09:03:52Z,2025-11-24T18:03:02Z,2025-11-24T18:03:00Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13381,Fix support for port range,closed,ndeloof,2025-11-16T17:55:18Z,2025-11-16T20:52:30Z,2025-11-16T19:38:55Z,2025-11-16T19:38:55Z,False,0,0,[]
+docker/compose,13380,"gha: test against docker v29, v28, and rename checks to use `stable`, `oldstable`",closed,thaJeztah,2025-11-16T10:43:31Z,2025-11-16T14:09:29Z,2025-11-16T13:42:03Z,2025-11-16T13:42:03Z,False,0,0,[]
+docker/compose,13379,"build(deps): bump buildx v0.30.0, buildkit v0.26.0, otel v1.38.0, otel/contrib v0.63.0",closed,thaJeztah,2025-11-16T10:35:40Z,2025-11-16T14:10:04Z,2025-11-16T13:55:27Z,2025-11-16T13:55:27Z,False,0,0,[]
+docker/compose,13377,Added support for `build.no_cache_filter`,closed,ndeloof,2025-11-13T09:25:14Z,2025-11-26T08:37:04Z,2025-11-26T08:37:04Z,2025-11-26T08:37:04Z,False,0,0,[]
+docker/compose,13376,images command should display image Created time or N/A if not available,closed,ndeloof,2025-11-13T08:08:12Z,2025-11-13T08:41:17Z,2025-11-13T08:40:56Z,2025-11-13T08:40:56Z,False,0,0,[]
+docker/compose,13375,Next release will be major version v5.x,closed,ndeloof,2025-11-13T06:31:43Z,2025-11-13T08:32:44Z,2025-11-13T08:32:43Z,2025-11-13T08:32:43Z,False,0,0,[]
+docker/compose,13373,sdk docs: patch,closed,aevesdocker,2025-11-12T13:50:09Z,2025-11-12T15:24:25Z,2025-11-12T15:24:24Z,2025-11-12T15:24:24Z,False,0,0,[]
+docker/compose,13370,Dockerfile: update golangci-lint to v2.6.2,closed,thaJeztah,2025-11-11T00:05:03Z,2025-11-16T14:10:41Z,2025-11-16T13:54:59Z,2025-11-16T13:54:59Z,False,0,0,[]
+docker/compose,13369,add (restore) support for detach keys,closed,ndeloof,2025-11-10T10:09:56Z,2026-01-23T13:00:51Z,2025-11-12T13:23:59Z,2025-11-12T13:23:59Z,False,0,0,[]
+docker/compose,13368,build(deps): bump golang.org/x/sync from 0.17.0 to 0.18.0,closed,dependabot[bot],2025-11-10T09:12:06Z,2025-11-10T10:09:22Z,2025-11-10T10:09:21Z,2025-11-10T10:09:21Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13367,build(deps): bump golang.org/x/sys from 0.37.0 to 0.38.0,closed,dependabot[bot],2025-11-10T09:12:02Z,2025-11-10T09:23:39Z,2025-11-10T09:23:38Z,2025-11-10T09:23:38Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13366,Making the American/British spellings consistent to the error messages,closed,JLesDev,2025-11-10T04:29:31Z,2025-11-10T10:34:18Z,2025-11-10T10:34:18Z,2025-11-10T10:34:18Z,False,0,0,[]
+docker/compose,13365,"[CodeSentinel] The issue requests an enhancement to the `extends` functionality in `docker-compose.yml` to allow services to inherit configurations from multiple other services defined in different compose files. This would enable a more modular and flexible approach to service configuration, allowi",closed,u7k4rs6,2025-11-09T17:35:21Z,2025-11-09T17:50:11Z,2025-11-09T17:50:10Z,,False,0,0,[]
+docker/compose,13364,removed unecessary check,closed,ndeloof,2025-11-07T07:15:46Z,2025-11-12T07:34:29Z,2025-11-12T07:34:29Z,2025-11-12T07:34:29Z,False,0,0,[]
+docker/compose,13362,document support for OCI and Git remote resources,closed,ndeloof,2025-11-06T11:07:11Z,2025-11-06T15:46:34Z,2025-11-06T15:14:05Z,2025-11-06T15:14:05Z,False,0,0,[]
+docker/compose,13361,build(deps): bump github.com/docker/docker from 28.5.1+incompatible to 28.5.2+incompatible,closed,dependabot[bot],2025-11-06T09:04:11Z,2025-11-06T09:15:07Z,2025-11-06T09:15:06Z,2025-11-06T09:15:06Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13360,build(deps): bump github.com/docker/cli from 28.5.1+incompatible to 28.5.2+incompatible,closed,dependabot[bot],2025-11-06T09:04:02Z,2025-11-06T09:27:39Z,2025-11-06T09:27:38Z,2025-11-06T09:27:38Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13359,build(deps): bump github.com/moby/buildkit from 0.25.1 to 0.25.2,closed,dependabot[bot],2025-11-06T09:03:49Z,2025-11-06T09:14:26Z,2025-11-06T09:14:25Z,2025-11-06T09:14:25Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13358,build(deps): bump github.com/containerd/containerd/v2 from 2.1.4 to 2.2.0,closed,dependabot[bot],2025-11-06T09:03:40Z,2025-11-06T09:16:05Z,2025-11-06T09:16:04Z,2025-11-06T09:16:04Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13357,Move progress package to cmd as a command line component,closed,ndeloof,2025-11-05T16:42:19Z,2025-11-12T10:36:37Z,2025-11-12T10:17:28Z,2025-11-12T10:17:28Z,False,0,0,[]
+docker/compose,13355,"introduce --insecure-registry, reserved for testing purpose",closed,ndeloof,2025-11-05T14:51:37Z,2025-11-06T15:17:21Z,2025-11-06T15:17:21Z,2025-11-06T15:17:21Z,False,0,0,[]
+docker/compose,13353,build(deps): bump github.com/containerd/platforms from 1.0.0-rc.1 to 1.0.0-rc.2,closed,dependabot[bot],2025-11-05T09:02:45Z,2025-11-05T16:43:14Z,2025-11-05T16:43:11Z,2025-11-05T16:43:11Z,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13351,disable progress UI when build is ran with --print,closed,ndeloof,2025-11-04T16:18:41Z,2025-11-04T21:06:32Z,2025-11-04T16:30:57Z,2025-11-04T16:30:56Z,False,0,0,[]
+docker/compose,13350,SDK docs,closed,ndeloof,2025-11-04T09:53:36Z,2025-11-10T15:15:40Z,2025-11-10T15:15:36Z,2025-11-10T15:15:36Z,False,0,0,[]
+docker/compose,13349,"from Compose CLI, we know the streams used to configure LogConsumer",closed,ndeloof,2025-11-04T09:10:30Z,2025-11-04T09:26:46Z,2025-11-04T09:25:14Z,2025-11-04T09:25:14Z,False,0,0,[]
+docker/compose,13345,Up build depends,closed,ndeloof,2025-11-03T16:37:12Z,2025-11-06T15:28:46Z,2025-11-06T15:28:46Z,2025-11-06T15:28:46Z,False,0,0,[]
+docker/compose,13344,Fixed status text in progress UI,closed,ndeloof,2025-11-03T10:00:50Z,2025-11-04T09:18:55Z,2025-11-04T09:18:55Z,2025-11-04T09:18:55Z,False,0,0,[]
+docker/compose,13342,feat(convert): set default model and endpoint variables for services in convert.go,closed,idsulik,2025-11-01T20:59:35Z,2026-01-12T16:55:39Z,2026-01-12T16:55:38Z,,False,0,0,"[""stale""]"
+docker/compose,13339,fix: use NewParallelCLI in compose_run_build_once_test.go,closed,idsulik,2025-10-31T14:28:22Z,2025-11-06T07:02:59Z,2025-11-06T07:02:59Z,2025-11-06T07:02:59Z,False,0,0,[]
+docker/compose,13336,add AlwaysOkPrompt to replace 'AlwaysYes' current implementation',closed,glours,2025-10-31T11:05:24Z,2025-11-03T07:02:01Z,2025-11-03T07:01:59Z,2025-11-03T07:01:59Z,False,0,0,[]
+docker/compose,13334,flaky compose_run_build_once_test: cleanup and more logs when test fa…,closed,glours,2025-10-30T15:26:14Z,2025-10-30T20:25:35Z,2025-10-30T20:25:33Z,2025-10-30T20:25:33Z,False,0,0,[]
+docker/compose,13333,build(deps): bump github.com/compose-spec/compose-go/v2 from 2.9.0 to 2.9.1,closed,dependabot[bot],2025-10-30T09:03:40Z,2025-10-30T09:13:48Z,2025-10-30T09:13:46Z,,False,0,0,"[""dependencies"", ""go""]"
+docker/compose,13332,bump compose-go to version v2.9.1,closed,glours,2025-10-30T08:33:29Z,2025-10-30T09:12:52Z,2025-10-30T09:12:50Z,2025-10-30T09:12:50Z,False,0,0,[]
+docker/compose,13331,fix(git): Fix path traversal vulnerability in git remote loader,closed,idsulik,2025-10-30T06:16:47Z,2025-11-05T22:14:21Z,2025-10-30T09:08:29Z,2025-10-30T09:08:29Z,False,0,0,[]
+docker/compose,13329,Add load project to api definition,closed,glours,2025-10-29T18:06:13Z,2025-11-03T07:58:31Z,2025-11-03T07:58:30Z,2025-11-03T07:58:30Z,False,0,0,[]
+docker/compose,13328,fix typo in error message,closed,stasadev,2025-10-29T15:27:14Z,2025-11-03T20:56:00Z,2025-11-03T07:38:49Z,2025-11-03T07:38:49Z,False,0,0,[]
+docker/compose,13326,fix various linting issues,closed,thaJeztah,2025-10-28T19:58:32Z,2025-10-31T19:40:43Z,2025-10-31T16:44:39Z,2025-10-31T16:44:39Z,False,0,0,[]
+docker/compose,13325,fix(run): Ensure images exist only for the target service in run command,closed,idsulik,2025-10-28T14:15:37Z,2025-10-29T10:26:14Z,2025-10-29T09:47:18Z,2025-10-29T09:47:18Z,False,0,0,[]
+docker/compose,13324,pretend cli.Out is a containerd.File,closed,ndeloof,2025-10-28T10:50:25Z,2025-10-28T13:40:23Z,2025-10-28T13:39:50Z,2025-10-28T13:39:50Z,False,0,0,[]
+docker/compose,13322,configure Compose service with io.Reader and io.Writer,closed,glours,2025-10-27T17:15:00Z,2025-10-27T17:54:13Z,2025-10-27T17:54:11Z,2025-10-27T17:54:11Z,False,0,0,[]
+docker/compose,13321,run hooks on restart,closed,ndeloof,2025-10-27T07:09:02Z,2025-10-27T09:24:19Z,2025-10-27T09:24:18Z,2025-10-27T09:24:18Z,False,0,0,[]
+docker/compose,13317,prompt default implementation to prevent a panic,closed,ndeloof,2025-10-24T07:59:13Z,2025-10-24T09:17:02Z,2025-10-24T08:21:59Z,2025-10-24T08:21:59Z,False,0,0,[]
+docker/compose,13316,Make progress Writer a CLI component,closed,ndeloof,2025-10-24T07:51:12Z,2025-10-29T10:55:27Z,2025-10-29T09:11:31Z,2025-10-29T09:11:30Z,False,0,0,[]
+docker/compose,13315,Code Cleanup,closed,ndeloof,2025-10-23T16:15:40Z,2025-10-24T08:06:00Z,2025-10-24T08:05:59Z,2025-10-24T08:05:59Z,False,0,0,[]
+docker/compose,13314,"Fix help output for ""exec --no-tty"" option",closed,tonyo,2025-10-23T15:28:45Z,2025-10-23T16:21:35Z,2025-10-23T16:19:41Z,2025-10-23T16:19:41Z,False,0,0,[]
+docker/compose,13313,Introduce abstractions to support SDK usage without requiring Docker CLI,closed,glours,2025-10-23T14:25:25Z,2025-10-27T15:17:53Z,2025-10-27T15:17:50Z,2025-10-27T15:17:50Z,False,0,0,[]
+docker/compose,13312,Setup Compose service using functional parameters,closed,ndeloof,2025-10-23T13:30:36Z,2025-10-24T16:24:26Z,2025-10-24T16:24:21Z,2025-10-24T16:24:21Z,False,0,0,[]
+docker/compose,13311,fix OCI compose override support,closed,ndeloof,2025-10-23T08:09:06Z,2025-10-23T10:08:18Z,2025-10-23T10:04:37Z,2025-10-23T10:04:37Z,False,0,0,[]
+docker/compose,13309,Test to check writeComposeFile detects invalid OCI artifact,closed,ndeloof,2025-10-22T17:38:33Z,2025-10-22T18:09:37Z,2025-10-22T18:09:32Z,2025-10-22T18:09:32Z,False,0,0,[]
+docker/compose,13308,introduce WithPrompt to configure compose backend to use a plugable UI component for user interaction,closed,ndeloof,2025-10-22T12:29:10Z,2025-10-22T14:16:56Z,2025-10-22T14:14:55Z,2025-10-22T14:14:55Z,False,0,0,[]
+docker/compose,13307,"build compose backend with options, pass prompt as an option",closed,ndeloof,2025-10-22T09:31:43Z,2025-10-24T09:48:44Z,2025-10-24T09:48:44Z,,True,0,0,[]
+docker/compose,13305,Fix ANSI color preservation across multiple log lines,closed,chojs23,2025-10-21T00:59:59Z,2025-12-01T11:31:31Z,2025-12-01T11:31:31Z,,False,0,0,[]
+docker/compose,13304,Refactor to remove dependencies on github.com/docker/docker/pkg/streamformatter and,closed,austinvazquez,2025-10-20T23:52:22Z,2025-10-23T19:38:00Z,2025-10-23T19:38:00Z,,False,0,0,[]
+docker/compose,13302,"test digest or canonical reference, not only tag, when checking if an  image is already present",closed,glours,2025-10-20T15:47:48Z,2025-10-20T16:42:25Z,2025-10-20T16:42:24Z,2025-10-20T16:42:24Z,False,0,0,[]
+docker/compose,13300,remove unused code to only rely on api.Service,closed,ndeloof,2025-10-20T10:38:55Z,2025-10-20T14:03:16Z,2025-10-20T12:53:04Z,2025-10-20T12:53:04Z,False,0,0,[]
+docker/compose,13299,Compose can't create a tar with adequate uid:gid ownership,closed,ndeloof,2025-10-20T06:29:29Z,2025-10-20T07:52:09Z,2025-10-20T07:51:58Z,2025-10-20T07:51:58Z,False,0,0,[]
+docker/compose,13297,test: Make tests runnable on SELinux enabled daemon,closed,ricardobranco777,2025-10-18T20:36:59Z,2025-10-21T07:38:49Z,2025-10-21T07:38:49Z,,False,0,0,[]
+docker/compose,13295,fail build if minimal required version of buildx isn't installed,closed,ndeloof,2025-10-18T12:55:46Z,2025-10-22T07:49:18Z,2025-10-20T10:25:39Z,2025-10-20T10:25:39Z,False,0,0,[]
+docker/compose,13294,Create test.file,closed,ferdinandbab348-lab,2025-10-18T04:39:40Z,2025-10-18T07:05:56Z,2025-10-18T07:05:56Z,,False,0,0,[]
+docker/compose,13293,make CTRL+Z a no-op operation on Windows,closed,glours,2025-10-17T12:52:53Z,2025-10-17T13:07:39Z,2025-10-17T13:07:38Z,2025-10-17T13:07:38Z,False,0,0,[]
+docker/compose,13292,[StepSecurity] Apply security best practices,closed,step-security-bot,2025-10-17T05:33:26Z,2025-10-17T05:34:17Z,2025-10-17T05:34:17Z,,False,0,0,[]
+docker/compose,13291,fix race-condition bug in publish command,closed,paul-kinexon,2025-10-16T06:58:18Z,2025-10-16T07:24:58Z,2025-10-16T07:24:57Z,2025-10-16T07:24:57Z,False,0,0,[]
+docker/compose,13289,support Ctrl+Z to run compose in background,closed,ndeloof,2025-10-15T14:50:29Z,2025-10-15T15:47:55Z,2025-10-15T15:26:12Z,2025-10-15T15:26:12Z,False,0,0,[]
+docker/compose,13288,Set secret/config uid:gid to match container's USER,closed,ndeloof,2025-10-15T09:14:15Z,2025-10-16T15:43:04Z,2025-10-16T15:43:04Z,2025-10-16T15:43:04Z,False,0,0,[]
+docker/compose,13286,vendor: github.com/docker/cli v29.0.0-rc.1,closed,vvoland,2025-10-14T12:23:05Z,2025-12-24T00:18:01Z,2025-12-24T00:18:01Z,,True,0,0,"[""stale""]"
+docker/compose,13285,bump golang to version 1.24.9,closed,glours,2025-10-14T06:53:00Z,2025-10-14T07:14:58Z,2025-10-14T07:14:56Z,2025-10-14T07:14:56Z,False,0,0,[]
+docker/compose,13284,use fixed version of compose bridge transformer images,closed,glours,2025-10-14T06:45:59Z,2025-10-14T07:22:00Z,2025-10-14T07:21:59Z,2025-10-14T07:21:59Z,False,0,0,[]
+docker/compose,13281,[DNM] testing CI,closed,thaJeztah,2025-10-13T16:32:33Z,2025-10-14T18:32:24Z,2025-10-14T14:19:33Z,,True,0,0,[]
+docker/compose,13280,pkg/compose: build with bake: drop support for buildx v0.16 and lower,closed,thaJeztah,2025-10-13T15:44:49Z,2025-10-14T08:19:28Z,2025-10-14T06:02:58Z,2025-10-14T06:02:58Z,False,0,0,[]
+docker/compose,13279,"build(deps): bump docker/buildx v0.29.1, moby/buildkit v0.25.1",closed,thaJeztah,2025-10-13T15:24:15Z,2025-10-13T19:22:32Z,2025-10-13T19:21:01Z,2025-10-13T19:21:01Z,False,0,0,[]
+docker/compose,13278,pkg/compose: align classic builder implementation with docker/cli,closed,thaJeztah,2025-10-13T13:05:54Z,2025-10-13T15:14:54Z,2025-10-13T14:53:00Z,2025-10-13T14:53:00Z,False,0,0,[]
+docker/compose,13277,"fix: make ""publish"" push all compose files addressed in ""extends"" statements when using ""profiles"".",closed,ogoulpeau-ledger,2025-10-10T14:03:34Z,2025-10-14T06:44:35Z,2025-10-14T06:25:26Z,2025-10-14T06:25:26Z,False,0,0,[]
+docker/compose,13275,Fix failure to delegate build with bake,closed,ndeloof,2025-10-10T11:47:51Z,2025-10-17T07:49:45Z,2025-10-17T07:49:45Z,2025-10-17T07:49:45Z,False,0,0,[]
+docker/compose,13274,build(deps): bump github.com/docker/docker from 28.5.0+incompatible to 28.5.1+incompatible,closed,dependabot[bot],2025-10-09T09:13:55Z,2025-10-09T09:34:55Z,2025-10-09T09:34:53Z,2025-10-09T09:34:53Z,False,0,0,"[""dependencies""]"
+docker/compose,13273,build(deps): bump github.com/docker/cli from 28.5.0+incompatible to 28.5.1+incompatible,closed,dependabot[bot],2025-10-09T09:13:49Z,2025-10-09T09:35:17Z,2025-10-09T09:35:14Z,2025-10-09T09:35:14Z,False,0,0,"[""dependencies""]"
+docker/compose,13272,build(deps): bump golang.org/x/sys from 0.36.0 to 0.37.0,closed,dependabot[bot],2025-10-09T09:13:44Z,2025-10-09T09:35:33Z,2025-10-09T09:35:31Z,2025-10-09T09:35:31Z,False,0,0,"[""dependencies""]"
+docker/compose,13271,fix oci compose configuration,closed,amiraifori,2025-10-08T19:05:20Z,2025-12-01T11:30:51Z,2025-12-01T11:30:51Z,,False,0,0,[]
+docker/compose,13270,bake only interpolates ${*},closed,ndeloof,2025-10-08T10:27:07Z,2025-10-13T08:40:19Z,2025-10-13T08:40:19Z,2025-10-13T08:40:19Z,False,0,0,[]
+docker/compose,13268,Fix: set PWD only if not set,closed,kianelbo,2025-10-08T06:55:11Z,2025-10-08T09:15:27Z,2025-10-08T08:12:02Z,2025-10-08T08:12:02Z,False,0,0,[]
+docker/compose,13266,build(deps): bump google.golang.org/grpc from 1.74.2 to 1.76.0,closed,dependabot[bot],2025-10-07T09:03:09Z,2025-11-18T09:03:56Z,2025-11-18T09:03:55Z,,False,0,0,"[""dependencies""]"
+docker/compose,13264,docs: document how to use OCI-published Compose configurations,closed,amiraifori,2025-10-05T12:47:22Z,2025-10-08T19:05:48Z,2025-10-08T19:05:48Z,,False,0,0,[]
+docker/compose,13263,Write error to watcher error channel if Start() fails,closed,Trolldemorted,2025-10-03T23:32:27Z,2025-10-06T12:50:20Z,2025-10-06T12:50:20Z,2025-10-06T12:50:20Z,False,0,0,[]
+docker/compose,13261,build(deps): bump github.com/docker/cli from 28.5.0-rc.1+incompatible to 28.5.0+incompatible,closed,dependabot[bot],2025-10-03T09:03:24Z,2025-10-03T09:32:17Z,2025-10-03T09:32:15Z,2025-10-03T09:32:15Z,False,0,0,"[""dependencies""]"
+docker/compose,13260,build(deps): bump github.com/docker/docker from 28.5.0-rc.1+incompatible to 28.5.0+incompatible,closed,dependabot[bot],2025-10-03T09:03:13Z,2025-10-03T09:32:10Z,2025-10-03T09:32:08Z,2025-10-03T09:32:08Z,False,0,0,"[""dependencies""]"
+docker/compose,13259,escape $ in bake.json as interpolation already has been managed by cpmpose,closed,ndeloof,2025-10-03T07:05:57Z,2025-10-03T07:25:36Z,2025-10-03T07:25:36Z,2025-10-03T07:25:36Z,False,0,0,[]
+docker/compose,13257,publish Compose application as compose.yaml + images,closed,ndeloof,2025-10-01T07:17:15Z,2025-11-05T12:34:57Z,2025-10-03T08:59:57Z,2025-10-03T08:59:57Z,False,0,0,[]
+duckdb/duckdb,20351,Add logging support for `WaitEventLogType` with a test,closed,EtgarDev,2025-12-31T14:07:37Z,2026-02-10T15:12:16Z,2026-02-10T15:12:16Z,,True,0,0,[]
+duckdb/duckdb,20350,Merge V1.4 -> Main,closed,pdet,2025-12-31T13:09:43Z,2026-01-08T15:30:25Z,2026-01-08T15:30:25Z,2026-01-08T15:30:25Z,False,0,0,[]
+duckdb/duckdb,20349,Fix #20308: Added collation binding to the join conditions,closed,gemy26,2025-12-31T00:48:55Z,2026-01-02T13:11:20Z,2026-01-02T13:11:20Z,2026-01-02T13:11:20Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20348,[Fix] Defensive infinite loop guard and UTF-8 check in C API,closed,taniabogatsch,2025-12-30T17:30:43Z,2026-01-09T14:12:00Z,2026-01-07T11:51:08Z,2026-01-07T11:51:08Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20347,Remove two unnecessary test exclusions,closed,yan-alex,2025-12-30T10:40:29Z,2025-12-30T15:05:22Z,2025-12-30T15:05:22Z,2025-12-30T15:05:22Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20346,Refactor allowed path sanitize,closed,hannes,2025-12-30T10:38:39Z,2026-01-07T14:55:25Z,2026-01-07T14:55:23Z,2026-01-07T14:55:23Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20345,Perform cleanup when `COPY` function throws an error,closed,yan-alex,2025-12-30T10:25:39Z,2026-01-05T07:41:57Z,2026-01-05T07:41:57Z,2026-01-05T07:41:57Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20344,feat(adbc): support `ADBC_INFO_DRIVER_ADBC_VERSION` (new in ADBC 1.1.0),closed,eitsupi,2025-12-29T16:56:01Z,2025-12-30T11:45:28Z,2025-12-30T11:35:16Z,2025-12-30T11:35:16Z,False,0,0,[]
+duckdb/duckdb,20343,Update `VectorType` in `ComputePartitionIndices`,closed,lnkuiper,2025-12-29T13:51:07Z,2026-01-28T13:37:44Z,2025-12-30T07:57:52Z,2025-12-30T07:57:52Z,False,0,0,[]
+duckdb/duckdb,20342,Add some defensive programming in `RadixPartitionedHashTable::Combine` and `RadixPartitionedHashTable::Finalize`,closed,lnkuiper,2025-12-29T13:13:35Z,2026-01-28T13:37:45Z,2025-12-30T07:58:11Z,2025-12-30T07:58:11Z,False,0,0,[]
+duckdb/duckdb,20341,"Remove sizes equality check, as bignum_t size is not updated for subt…",closed,yan-alex,2025-12-29T13:02:21Z,2025-12-29T13:02:45Z,2025-12-29T13:02:45Z,,False,0,0,[]
+duckdb/duckdb,20340,Increase reserved size for paths in SetPathsInternal,closed,Flogex,2025-12-29T12:43:53Z,2025-12-30T16:23:08Z,2025-12-30T12:37:34Z,2025-12-30T12:37:33Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20339,Use UTF-16 console output in Windows shell (1.4),closed,staticlibs,2025-12-29T10:46:21Z,2026-01-06T10:24:09Z,2026-01-02T08:49:10Z,2026-01-02T08:49:10Z,False,0,0,[]
+duckdb/duckdb,20338,Extend OR predicate pushdown to support nested AND expressions,open,achille-roussel,2025-12-29T08:56:41Z,2026-01-22T09:50:38Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20337,Fix some compiler warnings on apple clang 17,closed,hannes,2025-12-29T08:22:56Z,2025-12-29T14:08:57Z,2025-12-29T14:08:57Z,2025-12-29T14:08:57Z,False,0,0,[]
+duckdb/duckdb,20336,Avoid frequent checkpoints triggered by optimistic insertions,closed,Captain32,2025-12-29T04:13:02Z,2026-01-07T06:38:56Z,2026-01-07T06:38:56Z,2026-01-07T06:38:56Z,False,0,0,"[""needs maintainer approval"", ""Ready To Merge""]"
+duckdb/duckdb,20334,Attempt to fix column data update data race,closed,dentiny,2025-12-29T03:27:59Z,2026-01-27T10:32:23Z,2026-01-27T10:32:21Z,2026-01-27T10:32:21Z,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20333,Add RemoveFiles to FileSystem,closed,utay,2025-12-28T17:24:08Z,2026-01-05T07:41:29Z,2026-01-05T07:41:29Z,2026-01-05T07:41:29Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20330,Fix caching filesystem `CanSeek`,closed,dentiny,2025-12-28T12:13:11Z,2026-01-07T08:57:41Z,2026-01-06T14:05:02Z,2026-01-06T14:05:02Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20327,Add support for residual predicates in hash joins,closed,EslamAhmed171,2025-12-28T04:15:40Z,2026-01-27T09:49:19Z,2026-01-27T09:40:45Z,2026-01-27T09:40:44Z,False,0,0,"[""Merge Conflict""]"
+duckdb/duckdb,20323,Fixes raised by cppcheck,closed,carlopi,2025-12-27T14:50:46Z,2026-01-06T11:26:42Z,2025-12-29T07:36:31Z,2025-12-29T07:36:31Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20320,"Fix `concat(null) is null` return false, it should be true(issue: #20306)",closed,ArNine,2025-12-27T09:20:57Z,2026-01-06T15:58:53Z,2026-01-06T15:58:53Z,2026-01-06T15:58:53Z,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20319,"Add ducklake, httpfs and iceberg tests so they are run in CI",closed,carlopi,2025-12-27T07:05:49Z,2026-01-07T13:02:22Z,2026-01-07T13:01:20Z,2026-01-07T13:01:20Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20318,Fixup QueryProfiler::GetBytesRead and Written,closed,carlopi,2025-12-27T06:54:09Z,2026-01-06T11:26:46Z,2025-12-29T07:52:30Z,2025-12-29T07:52:30Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20317,Internal #6974: Window Self-Join Files,closed,hawkfish,2025-12-27T01:24:51Z,2025-12-29T20:00:02Z,2025-12-29T07:52:49Z,2025-12-29T07:52:48Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20316,Internal #6999: Window TopN Comparisons,closed,hawkfish,2025-12-27T01:00:48Z,2025-12-29T19:59:12Z,2025-12-29T07:53:06Z,2025-12-29T07:53:06Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20315,Internal #6943: IEJoin Code Cleanup,closed,hawkfish,2025-12-26T22:32:25Z,2025-12-29T19:57:32Z,2025-12-29T07:53:14Z,2025-12-29T07:53:14Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20312,feat(adbc): support the uri option of ADBC 1.1.0,closed,eitsupi,2025-12-26T15:31:57Z,2025-12-30T11:46:33Z,2025-12-30T09:48:07Z,2025-12-30T09:48:07Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20311,fix __builtin_clzl triggers D_ASSERT in bit_utils.hpp when building with MSVC + Clang GNU CLI,open,xuboying,2025-12-26T10:32:32Z,2026-01-05T16:37:12Z,,,False,0,0,"[""Changes Requested"", ""CI Failure""]"
+duckdb/duckdb,20310,fix binder: handle errors with over in where inside subquery,closed,Pranav2612000,2025-12-25T20:13:57Z,2026-01-05T12:11:16Z,2026-01-05T12:11:16Z,2026-01-05T12:11:16Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20309,Add Function max_intersections: calc the maximum number of overlapping intervals,open,ArNine,2025-12-25T13:25:05Z,2026-01-05T20:24:53Z,,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20304,Merge V1.4 -> Main,closed,pdet,2025-12-24T17:17:03Z,2025-12-31T11:57:31Z,2025-12-31T11:57:31Z,,False,0,0,[]
+duckdb/duckdb,20303,c-api: adding out_file against NULL check,closed,ProjectMutilation,2025-12-24T12:36:11Z,2025-12-29T12:52:51Z,2025-12-29T12:52:51Z,2025-12-29T12:52:51Z,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20302,Fix Issue #20233: fix function chain in qualify,closed,ArNine,2025-12-24T12:05:07Z,2026-01-06T15:42:53Z,2026-01-06T15:42:53Z,2026-01-06T15:42:52Z,False,0,0,[]
+duckdb/duckdb,20301,Use eager min/max aggregation on parquet statistics,closed,d-justen,2025-12-24T11:01:22Z,2025-12-29T07:58:18Z,2025-12-29T07:58:18Z,2025-12-29T07:58:18Z,False,0,0,[]
+duckdb/duckdb,20299,Bump: httplib,closed,ccfelius,2025-12-24T07:31:37Z,2026-02-11T07:59:53Z,2026-02-06T13:20:16Z,2026-02-06T13:20:16Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20298,Preserve uppercase chars in DB filename on Windows,closed,staticlibs,2025-12-23T23:56:08Z,2026-01-02T17:33:28Z,2026-01-02T08:45:37Z,2026-01-02T08:45:37Z,False,0,0,"[""CI Failure""]"
+duckdb/duckdb,20297,Add support for reusing pre-initialized chunks in duckdb_data_chunk_from_arrow,closed,wmTJc9IK0Q,2025-12-23T21:25:54Z,2026-01-29T16:41:02Z,2026-01-29T16:41:02Z,,False,0,0,"[""needs maintainer approval""]"
+duckdb/duckdb,20294,_extension_distribution: Pin to `v1.4-andium` branch of extension-ci-tools,closed,carlopi,2025-12-23T11:43:58Z,2025-12-23T18:08:26Z,2025-12-23T18:08:25Z,2025-12-23T18:08:25Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20293,Pagination API,closed,NiclasHaderer,2025-12-23T06:30:20Z,2026-01-21T10:08:10Z,2026-01-21T10:08:10Z,,True,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20292,"update joinpath: normalize, support url/net/windows",open,benfleis,2025-12-23T05:46:53Z,2025-12-24T14:48:08Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20290,[Fix] Use the current schema and catalog during data creation for TPCH and TPCDS,closed,taniabogatsch,2025-12-22T16:59:28Z,2025-12-27T16:18:55Z,2025-12-22T21:06:04Z,2025-12-22T21:06:04Z,False,0,0,[]
+duckdb/duckdb,20288,Unify StorageVersion and SerializationVersion,open,ccfelius,2025-12-22T16:09:01Z,2026-02-03T08:59:24Z,,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20286,Allow concurrent deletes while checkpointing,closed,Mytherin,2025-12-22T14:29:09Z,2026-01-06T08:41:54Z,2025-12-22T20:28:41Z,2025-12-22T20:28:41Z,False,0,0,[]
+duckdb/duckdb,20285,Adding secure clear functions,closed,ccfelius,2025-12-22T13:32:15Z,2026-01-14T07:31:55Z,2026-01-13T09:35:19Z,2026-01-13T09:35:19Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20284,dbgen: use TaskExecutor framework,closed,Mytherin,2025-12-22T12:52:39Z,2025-12-22T21:05:45Z,2025-12-22T21:05:45Z,2025-12-22T21:05:45Z,False,0,0,[]
+duckdb/duckdb,20283,ConstantOrNullFunction input validity mask overwrite bugfix,closed,artjomPlaunov,2025-12-22T10:22:03Z,2025-12-30T12:14:54Z,2025-12-22T18:54:19Z,2025-12-22T18:54:19Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20281,"`GEOMETRY` Rework: Part 6 - Geometry ""Shredding""",closed,Maxxen,2025-12-22T01:01:11Z,2026-01-15T16:43:11Z,2026-01-15T16:43:09Z,2026-01-15T16:43:09Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20280,[Fix] Use the current schema and catalog during data creation for TPCH and TPCDS,closed,taniabogatsch,2025-12-21T18:38:02Z,2025-12-22T16:59:39Z,2025-12-22T16:59:33Z,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20279,[chore] dsdgen generation signed integer overflow fix,closed,taniabogatsch,2025-12-21T14:17:42Z,2026-01-06T09:15:44Z,2026-01-06T06:35:45Z,2026-01-06T06:35:45Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20278,[chore] Remove `numeric_cast.hpp` import and other tidy stuff,closed,taniabogatsch,2025-12-21T13:00:41Z,2025-12-22T16:49:34Z,2025-12-22T08:56:48Z,2025-12-22T08:56:48Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20277,[chore] Reduce latency of VARCHAR index creation test,closed,taniabogatsch,2025-12-21T11:50:47Z,2025-12-22T16:54:47Z,2025-12-22T09:00:04Z,2025-12-22T09:00:03Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20275,peg grammar: start rule first,closed,jraymakers,2025-12-20T06:14:45Z,2025-12-23T13:16:25Z,2025-12-23T13:16:25Z,2025-12-23T13:16:25Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20274,return_stats fix floating stats for +-infinity values during copy,closed,aykut-bozkurt,2025-12-20T00:31:44Z,2025-12-22T09:00:28Z,2025-12-22T09:00:16Z,,False,0,0,[]
+duckdb/duckdb,20273,Issue #20076: Implement CountWindowElimination Logic,closed,hawkfish,2025-12-19T23:01:05Z,2025-12-22T18:20:11Z,2025-12-22T09:11:21Z,2025-12-22T09:11:21Z,False,0,0,[]
+duckdb/duckdb,20272,Fix issue #20187: Fix PIVOT aggregate  mismatch for ranges >=21,closed,gemy26,2025-12-19T20:18:05Z,2026-01-06T14:04:48Z,2026-01-06T14:04:48Z,2026-01-06T14:04:48Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20271,Add encryption CLI arguments,open,tobilg,2025-12-19T17:42:24Z,2025-12-22T13:41:03Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20270,Support reading `FIXED_LEN_BYTE_ARRAY` fields with `DELTA_BYTE_ARRAY` encoding,closed,arouel,2025-12-19T16:31:15Z,2026-01-02T16:30:01Z,2026-01-02T15:11:14Z,2026-01-02T15:11:14Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20269,Minor python fixes,closed,c-herrewijn,2025-12-19T16:21:31Z,2025-12-22T11:24:29Z,2025-12-22T09:11:58Z,2025-12-22T09:11:58Z,False,0,0,[]
+duckdb/duckdb,20268,[Optimizer] Push down `variant_extract` + cast into the storage layer,closed,Tishj,2025-12-19T15:31:38Z,2026-01-13T10:51:36Z,2026-01-13T10:51:34Z,2026-01-13T10:51:34Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20267,Reuse correct table-level metadata during checkpoints,closed,ywelsch,2025-12-19T14:40:55Z,2025-12-22T09:15:06Z,2025-12-22T09:15:04Z,2025-12-22T09:15:04Z,False,0,0,[]
+duckdb/duckdb,20266,Fix concat(null) error,closed,d-justen,2025-12-19T14:33:06Z,2025-12-22T09:15:30Z,2025-12-22T09:15:27Z,2025-12-22T09:15:27Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20265,[chore] Reduce latency of `VARCHAR` index creation test,closed,taniabogatsch,2025-12-19T14:25:54Z,2025-12-22T16:56:13Z,2025-12-21T11:47:21Z,,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20262,Fix  function chain in qualify(#20233),closed,ArNine,2025-12-19T12:36:37Z,2026-01-06T15:42:25Z,2026-01-06T15:42:25Z,2026-01-06T15:42:25Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20261,"Grab `StorageBlockPrefetch` setting once per scan state, instead of once per fetch",closed,lnkuiper,2025-12-19T11:56:12Z,2026-01-28T13:37:47Z,2025-12-29T08:32:16Z,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20260,Fix view resolution not being stable if the referenced table lives in a different schema,closed,Tishj,2025-12-19T10:25:15Z,2025-12-22T09:23:59Z,2025-12-22T09:23:56Z,2025-12-22T09:23:56Z,False,0,0,[]
+duckdb/duckdb,20259,"CachingOperator: handle also ORDERED, and consider swapping chunks",closed,carlopi,2025-12-19T09:21:33Z,2026-01-06T11:26:40Z,2026-01-05T09:13:37Z,2026-01-05T09:13:37Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20258,Internal #6881: 2025c Time Zones,closed,hawkfish,2025-12-18T20:08:31Z,2025-12-19T20:34:36Z,2025-12-19T06:37:23Z,2025-12-19T06:37:23Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20257,Internal #6462: Implement AGO Macro,closed,hawkfish,2025-12-18T19:38:56Z,2025-12-19T20:33:43Z,2025-12-19T09:20:09Z,2025-12-19T09:20:09Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20253,Fix wrong error message when add primary key to a view(#20239),closed,ArNine,2025-12-18T16:46:55Z,2025-12-18T22:12:58Z,2025-12-18T22:12:58Z,2025-12-18T22:12:58Z,False,0,0,[]
+duckdb/duckdb,20252,Optimize prepared statement parameter lookups,closed,EtgarDev,2025-12-18T16:37:53Z,2025-12-24T13:22:05Z,2025-12-24T13:22:05Z,2025-12-24T13:22:05Z,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20251,Fix last parallel destructor race condition (hopefully),closed,lnkuiper,2025-12-18T12:46:53Z,2025-12-29T13:09:28Z,2025-12-19T01:28:32Z,2025-12-19T01:28:32Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20250,[Optimizer] Pushdown a CAST expression on top of a struct_extract,closed,Tishj,2025-12-18T10:27:00Z,2025-12-19T13:48:21Z,2025-12-19T07:01:12Z,2025-12-19T07:01:12Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20249,Re-enable aws tests,closed,Tmonster,2025-12-18T10:15:55Z,2025-12-18T22:11:09Z,2025-12-18T22:11:09Z,2025-12-18T22:11:09Z,False,0,0,[]
+duckdb/duckdb,20248,Bump Julia to v1.4.3,closed,maiadegraaf,2025-12-18T10:01:10Z,2025-12-18T15:47:43Z,2025-12-18T12:23:45Z,2025-12-18T12:23:45Z,False,0,0,[]
+duckdb/duckdb,20245,Optimize arg_min/max struct pruning for unnest,open,feichai0017,2025-12-18T04:37:49Z,2026-01-02T11:50:02Z,,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20243,Fix: CHECK constraint internal error on UPDATE with missing columns (#20199),closed,AestheticAkhmad,2025-12-17T22:20:13Z,2025-12-19T09:16:29Z,2025-12-19T09:16:29Z,2025-12-19T09:16:29Z,False,0,0,[]
+duckdb/duckdb,20242,Do not call UnregisterBlock from destructor,closed,staticlibs,2025-12-17T21:18:31Z,2025-12-19T05:14:48Z,2025-12-18T10:48:31Z,2025-12-18T10:48:31Z,False,0,0,[]
+duckdb/duckdb,20241,Parquet: Populate the column_orders field and expose it in parquet_file_metadata,closed,lasanaka-jumptrading,2025-12-17T20:51:42Z,2026-01-23T16:49:46Z,2026-01-05T07:40:43Z,2026-01-05T07:40:43Z,False,0,0,"[""Ready To Merge""]"

@@ -1,0 +1,17 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35482,"Playground: Refactor messages types and parsing (string enums, readonly)",open,monokkai,2026-01-11T11:27:32Z,2026-01-11T11:30:50Z,,0,"[""CLA Signed""]",True
+golang/go,77148,go/compiler: zero-allocation conversion not happening,closed,pjebs,2026-01-11T22:38:08Z,2026-01-12T04:53:36Z,2026-01-11T23:34:15Z,6,"[""FeatureRequest""]",False
+golang/go,77147,proposal: playground allow benchmarks,closed,pjebs,2026-01-11T22:09:35Z,2026-01-11T23:35:22Z,2026-01-11T23:35:21Z,0,"[""Proposal"", ""ToolProposal""]",False
+golang/go,77146,proposal: x/crypto/ssh/agent: support OpenSSH agent restrictions,open,drakkan,2026-01-11T19:24:55Z,2026-02-02T10:54:06Z,,5,"[""Proposal"", ""LibraryProposal""]",False
+golang/go,77145,runtime: report errno and heap stats on Windows VirtualAlloc failure,closed,awmorgan,2026-01-11T00:46:51Z,2026-02-07T00:54:15Z,2026-02-07T00:53:59Z,34,[],True
+langchain-ai/langchain,34702,fixed the gen-ai broken text issue,closed,pranjulkaran,2026-01-11T19:16:12Z,2026-01-22T21:15:11Z,2026-01-11T19:25:49Z,1,"[""core"", ""external""]",True
+langchain-ai/langchain,34701,docs(core): add SLO-aware routing cookbook + beta-binomial miss-probability helper,closed,rafaellimatecnologia-cloud,2026-01-11T17:50:10Z,2026-01-22T21:15:13Z,2026-01-11T19:45:34Z,2,"[""documentation"", ""core"", ""external""]",True
+langchain-ai/langchain,34700,fix(langchain): allow user middleware to override auto-injected middleware,closed,TanmayThakur2209,2026-01-11T15:13:23Z,2026-01-22T21:15:15Z,2026-01-11T16:12:18Z,0,"[""langchain"", ""fix"", ""langchain-classic"", ""external""]",True
+langchain-ai/langchain,34699,fix(langchain): allow duplicate middleware names by keeping last instance,open,mohankumar27,2026-01-11T15:00:12Z,2026-01-22T21:15:17Z,,0,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,34698,AssertionError: Please remove duplicate middleware instances in create_deep_agent with TodoListMiddleware and custom system_prompt,open,fzozyurt,2026-01-11T12:17:23Z,2026-01-22T20:42:17Z,,1,"[""bug"", ""external""]",False
+langchain-ai/langchain,34697,Request to Relax OpenAI Version Constraint (openai<2.0.0),closed,sasaki000,2026-01-11T05:45:50Z,2026-01-22T20:42:19Z,2026-01-13T01:28:43Z,1,"[""feature request"", ""openai"", ""external""]",False
+duckdb/duckdb,20483,Inconsistent results between NATURAL JOIN and equivalent INTERSECT ALL query,closed,Manuel-Neuer1,2026-01-11T15:32:43Z,2026-01-12T12:12:53Z,2026-01-12T12:12:53Z,1,"[""needs triage""]",False
+duckdb/duckdb,20482,Expose logical state layout for AGGREGATE_STATE,closed,EtgarDev,2026-01-11T15:25:50Z,2026-01-26T09:49:49Z,2026-01-26T09:49:45Z,3,"[""CI Failure""]",True
+duckdb/duckdb,20481,INTERNAL Error: Failed execute during verify: Invalid PhysicalType for GetTypeIdSize,open,CR7-source,2026-01-11T12:22:34Z,2026-01-12T12:05:44Z,,0,"[""reproduced""]",False
+duckdb/duckdb,20480,Add hook for extensions to plan lateral joins,open,Maxxen,2026-01-11T11:30:33Z,2026-01-12T13:17:55Z,,1,"[""Ready For Review""]",True
+duckdb/duckdb,20479,bump spatial for andium,closed,Maxxen,2026-01-11T10:59:10Z,2026-01-12T13:03:49Z,2026-01-12T13:03:48Z,4,[],True

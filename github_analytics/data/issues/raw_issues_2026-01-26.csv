@@ -1,0 +1,89 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35637,Notify FragmentInstance of added/removed text,closed,jackpope,2026-01-26T21:59:05Z,2026-02-11T14:26:23Z,2026-02-11T14:26:23Z,1,"[""CLA Signed""]",True
+facebook/react,35636,Update CSS shorthand property list,open,kidonng,2026-01-26T20:51:35Z,2026-02-03T23:23:07Z,,0,"[""CLA Signed""]",True
+facebook/react,35635,Bug: React DOM canary has an incorrect dependency on Scheduler,open,snowystinger,2026-01-26T20:30:35Z,2026-01-26T21:42:57Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35634,[Flight] Fix markup types for server references,closed,eps1lon,2026-01-26T20:03:29Z,2026-01-26T20:13:20Z,2026-01-26T20:13:17Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35633,[Compiler Bug]: some spaghetti code gives me Todo: PruneHoistedContexts,closed,MonstraG,2026-01-26T19:19:55Z,2026-01-26T21:36:31Z,2026-01-26T21:36:30Z,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35632,"[Flight] Add more DoS mitigations to Flight Reply, and harden Flight",closed,unstubbable,2026-01-26T19:09:54Z,2026-02-10T19:04:42Z,2026-01-26T19:24:58Z,3,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35631,Add additional fixtures for FragmentInstance text node support,closed,jackpope,2026-01-26T17:19:12Z,2026-01-28T19:55:10Z,2026-01-28T19:55:07Z,1,"[""CLA Signed""]",True
+facebook/react,35630,Add text node support to FragmentInstance operations,closed,jackpope,2026-01-26T16:55:43Z,2026-01-28T19:45:22Z,2026-01-28T19:45:18Z,1,"[""CLA Signed""]",True
+facebook/react,35629,[flags] make enableComponentPerformanceTrack static everywhere,closed,hoxyq,2026-01-26T16:39:54Z,2026-01-26T18:39:04Z,2026-01-26T18:38:57Z,1,"[""CLA Signed""]",True
+facebook/react,35628,[Fizz] Fix Suspense SSR content hidden for no-JS users (#35460),open,maxathy,2026-01-26T16:15:42Z,2026-01-26T18:19:31Z,,2,"[""CLA Signed""]",True
+facebook/react,35627,Fix typos in tests and comments,open,o-m12a,2026-01-26T13:46:22Z,2026-01-31T02:51:25Z,,0,"[""CLA Signed""]",True
+facebook/react,35626,"Bug: ERROR: [facebook] 1831647914181952: Cannot parse data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",closed,TREX7976,2026-01-26T11:45:47Z,2026-01-26T12:27:20Z,2026-01-26T12:27:20Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35625,Bug: [React Compiler] False positive 'Cannot access refs during render' when accessing props.ref,closed,SHIVIKA330,2026-01-26T05:38:46Z,2026-01-26T17:33:42Z,2026-01-26T17:33:41Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35624,Fix(Compiler): prevent PropertyLoad from aliasing parent object as ref,closed,SHIVIKA330,2026-01-26T03:54:04Z,2026-01-26T05:02:48Z,2026-01-26T05:02:48Z,1,"[""CLA Signed""]",True
+golang/go,77321,go/types: alias TypeName has nil typ,open,adonovan,2026-01-26T21:44:19Z,2026-01-27T16:29:51Z,,3,"[""NeedsInvestigation"", ""gopls"", ""Tools"", ""gopls/telemetry-wins"", ""BugReport""]",False
+golang/go,77320,proposal: testing/synctest: add Subtest function,open,neild,2026-01-26T20:44:21Z,2026-01-26T21:22:06Z,,1,"[""Proposal"", ""LibraryProposal""]",False
+golang/go,77319,proposal: testing: test -count <n> -json output should include count in json output,open,croepha,2026-01-26T20:00:52Z,2026-02-07T13:34:44Z,,2,"[""Proposal"", ""GoCommand"", ""ToolProposal""]",False
+golang/go,77318,x/tools/gopls: modernize plusbuild removes lines needed for Go < 1.17,closed,scop,2026-01-26T19:07:08Z,2026-01-28T15:20:41Z,2026-01-28T15:20:40Z,3,"[""NeedsInvestigation"", ""gopls"", ""Tools"", ""BugReport""]",False
+golang/go,77317,runtime: garbage collector panic,open,pgimalac,2026-01-26T18:30:06Z,2026-02-04T21:08:32Z,,15,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77314,path/filepath: documentation for Dir (and Clean) is misleading regarding Linux and Windows behavior,open,kitswas,2026-01-26T15:58:35Z,2026-02-03T13:45:10Z,,3,"[""Documentation"", ""NeedsInvestigation""]",False
+golang/go,77313,fmt: fmt.Print runtime stack overflow on printing a circular structure,closed,fredbi,2026-01-26T15:34:11Z,2026-01-26T23:30:38Z,2026-01-26T16:17:48Z,3,"[""BugReport""]",False
+golang/go,77312,catchup,closed,AlekseiMalkov,2026-01-26T00:51:17Z,2026-01-26T00:54:12Z,2026-01-26T00:54:12Z,1,[],True
+apache/spark,53991,[SPARK-55223][DOCS] Document sinks in declarative pipelines programming guide,closed,sryza,2026-01-26T23:35:11Z,2026-01-27T16:27:17Z,2026-01-27T16:27:17Z,1,"[""DOCS""]",True
+apache/spark,53990,Upgrade Spark 4.0,open,li-isabella,2026-01-26T23:08:05Z,2026-01-27T02:11:26Z,,1,"[""KUBERNETES"", ""BUILD"", ""CORE"", ""PYTHON""]",True
+apache/spark,53989,[WIP][SPARK-55221][PYTHON] Add `to_arrow` transformer and remove `_create_struct_array`,closed,Yicong-Huang,2026-01-26T22:38:45Z,2026-02-04T00:58:24Z,2026-02-04T00:58:24Z,3,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,53988,[MINOR][PYTHON][TESTS] Consolidate DataStreamReader.name() tests into test_streaming.py,closed,ericm-db,2026-01-26T22:24:21Z,2026-01-29T03:48:03Z,2026-01-29T03:48:03Z,1,"[""STRUCTURED STREAMING"", ""BUILD"", ""PYTHON""]",True
+apache/spark,53987,[SPARK-55204][PYTHON] Extract `PandasBatchTransformer` for pandas batch transformations,closed,Yicong-Huang,2026-01-26T21:30:50Z,2026-02-04T00:58:56Z,2026-02-04T00:58:56Z,2,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,53986,[SPARK-55205][PYTHON][PS] Fix tests where it assumes string type will convert to object,closed,gaogaotiantian,2026-01-26T20:24:58Z,2026-01-29T01:40:08Z,2026-01-27T00:53:52Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53985,[SPARK-55110][SQL] Order of application of 3 rules changed to achieve idempotency faster,open,ahshahid,2026-01-26T19:52:40Z,2026-01-26T23:53:21Z,,1,"[""SQL""]",True
+apache/spark,53984,[SPARK-52407][SQL][FOLLOW-UP] Remove Theta Sketch aggregation buffer re-wrapping,closed,cboumalh,2026-01-26T19:45:12Z,2026-02-12T11:59:51Z,2026-02-11T21:09:55Z,4,"[""SQL""]",True
+apache/spark,53983,[SPARK-55185][SPARK-55072][SPARK-55241][SQL] Combined PR to verify that SPARK-55072 is fixed with dependent PR of SPARK-55185 and SPARK-55241,open,ahshahid,2026-01-26T19:30:39Z,2026-01-29T19:14:49Z,,1,"[""SQL""]",True
+apache/spark,53982,[SPARK-55202] Fix UNEXPECTED_USE_OF_PARAMETER_MARKER when using param…,closed,srielau,2026-01-26T19:26:50Z,2026-01-27T19:37:16Z,2026-01-27T19:37:16Z,2,"[""SQL""]",True
+apache/spark,53981,[SPARK-46165][PS] Add support for DataFrame.all axis=None,closed,devin-petersohn,2026-01-26T17:21:28Z,2026-02-05T00:55:13Z,2026-02-05T00:55:13Z,3,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,53980,[SPARK-55201][CORE]: Add disableHttpPort to SSLOptions to prevent Jet…,open,aipszilon,2026-01-26T15:40:50Z,2026-01-26T16:25:24Z,,1,"[""WEB UI"", ""DOCS"", ""CORE""]",True
+apache/spark,53979,3.5,closed,wqx-229,2026-01-26T15:38:47Z,2026-01-26T15:40:00Z,2026-01-26T15:40:00Z,0,[],True
+apache/spark,53978,[SPARK-55200][K8S][TESTS] Add `RancherDesktopBackend` for K8s integration tests,closed,dongjoon-hyun,2026-01-26T12:22:10Z,2026-01-26T13:21:09Z,2026-01-26T13:20:41Z,4,"[""KUBERNETES"", ""DOCS""]",True
+apache/spark,53977,[SPARK-55198][SQL] spark-sql should skip comment line with leading whitespaces,closed,pan3793,2026-01-26T11:56:54Z,2026-01-29T03:04:46Z,2026-01-29T03:04:46Z,4,"[""SQL""]",True
+apache/spark,53976,[SPARK-55197][PYTHON] Extract `_write_stream_start` helper to deduplicate START_ARROW_STREAM signal logic,closed,Yicong-Huang,2026-01-26T09:25:36Z,2026-01-27T19:16:01Z,2026-01-27T19:15:03Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53975,[SPARK-55196][K8S][TESTS] Add `commandTestTag` to K8s Integration Test,closed,dongjoon-hyun,2026-01-26T08:46:31Z,2026-01-26T11:10:02Z,2026-01-26T11:07:18Z,3,"[""KUBERNETES"", ""TESTS""]",True
+apache/spark,53974,[SPARK-55194][PYTHON] Remove GroupArrowUDFSerializer by moving flatten logic to mapper,closed,Yicong-Huang,2026-01-26T08:05:49Z,2026-01-28T00:25:14Z,2026-01-28T00:24:56Z,2,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,53973,[SPARK-55191][INFRA][DOCS] Adjust the Python version used in the Python-only daily test,closed,LuciferYang,2026-01-26T06:51:37Z,2026-01-26T08:26:19Z,2026-01-26T07:44:51Z,3,"[""BUILD"", ""DOCS"", ""INFRA""]",True
+apache/spark,53972,[SPARK-55164][PYTHON][TESTS][FOLLOW-UP] Fix golden file prefix,closed,zhengruifeng,2026-01-26T05:58:03Z,2026-01-27T00:28:23Z,2026-01-26T22:28:49Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53971,[SPARK-55189][BUILD] Upgrade lz4-java to 1.10.3,closed,LuciferYang,2026-01-26T04:55:12Z,2026-01-26T11:02:15Z,2026-01-26T11:01:51Z,3,"[""BUILD""]",True
+apache/spark,53970,[SPARK-55188][PYTHON][INFRA] Remove unused packages from python 3.14 test images,closed,zhengruifeng,2026-01-26T03:45:45Z,2026-01-27T00:31:10Z,2026-01-27T00:30:48Z,2,"[""BUILD""]",True
+apache/spark,53969,[SPARK-55187][PYTHON][INFRA] Remove unused packages from python 3.13 test images,closed,zhengruifeng,2026-01-26T03:39:39Z,2026-01-27T00:30:04Z,2026-01-27T00:29:44Z,2,"[""BUILD""]",True
+apache/spark,53968,"[SPARK-55185][SQL]. Fix for idempotency being broken, if InferFiltersFromConstraint rule is run as part of post optimization batch with fixed iterations",open,ahshahid,2026-01-26T03:36:37Z,2026-01-26T23:53:41Z,,2,"[""SQL""]",True
+apache/spark,53967,[SPARK-55186][PYTHON] Make ArrowArrayToPandasConversion.convert_legacy able to return pd.DataFrame,closed,zhengruifeng,2026-01-26T03:33:04Z,2026-01-28T01:30:35Z,2026-01-28T01:30:14Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53966,[SPARK-55184][INFRA] Upgrade Python to 3.12 for Maven's daily testing,closed,LuciferYang,2026-01-26T02:52:26Z,2026-01-26T05:58:23Z,2026-01-26T05:57:55Z,4,"[""INFRA""]",True
+apache/spark,53965,[SPARK-55183][PYTHON] Extract `reorder_columns` transformer from ArrowStreamGroupUDFSerializer,closed,Yicong-Huang,2026-01-26T02:47:21Z,2026-02-04T00:57:46Z,2026-02-04T00:57:45Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53964,[SPARK-34679][DOCS] Add inferTimestamp option to JSON data source doc…,open,anirudh83,2026-01-26T02:16:49Z,2026-01-28T01:37:40Z,,1,"[""DOCS""]",True
+apache/spark,53963,[SPARK-55175][PYTHON] Extract `to_pandas` transformer from serializers,closed,Yicong-Huang,2026-01-26T02:08:33Z,2026-02-05T19:10:21Z,2026-02-05T06:57:16Z,8,"[""SQL"", ""PYTHON""]",True
+apache/spark,53962,[SPARK-55182][PYTHON][INFRA] Remove unused packages from python 3.11 test images,closed,zhengruifeng,2026-01-26T01:57:38Z,2026-01-27T00:28:02Z,2026-01-26T22:30:50Z,2,"[""BUILD""]",True
+apache/spark,53961,[SPARK-55181][PYTHON][INFRA] Remove unused packages from python 3.10 test images,closed,zhengruifeng,2026-01-26T01:56:21Z,2026-01-27T00:27:46Z,2026-01-26T22:32:12Z,2,"[""BUILD""]",True
+apache/spark,53960,[SPARK-55180][PYTHON][INFRA] Remove scheduled job python 3.13 with no gil,closed,zhengruifeng,2026-01-26T01:35:38Z,2026-01-26T05:55:50Z,2026-01-26T05:55:21Z,2,"[""BUILD"", ""DOCS"", ""INFRA""]",True
+apache/spark,53959,[SPARK-55178][K8S][TESTS] Remove `redirectingInput` from `o.a.s.deploy.k8s.integrationtest.Utils.executeCommand`,closed,dongjoon-hyun,2026-01-26T01:04:15Z,2026-02-02T17:53:52Z,2026-02-02T17:53:52Z,1,"[""KUBERNETES""]",True
+langchain-ai/langchain,34896,fix(core): make Serializable iteration thread-safe to prevent race condition,closed,wingding12,2026-01-26T23:39:07Z,2026-02-01T02:18:35Z,2026-02-01T02:18:35Z,2,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34895,fix(core): add video content block support in OpenAI converter,closed,ademicho123,2026-01-26T21:15:13Z,2026-01-26T22:28:49Z,2026-01-26T22:28:49Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34894,feat(langchain): add `ToolCallRequest` to middleware exports,closed,mdrxy,2026-01-26T19:50:23Z,2026-01-26T19:54:17Z,2026-01-26T19:54:15Z,0,"[""langchain"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34893,Valkey Vector Store Support,open,Jonathan-Improving,2026-01-26T18:33:22Z,2026-02-02T17:15:13Z,,0,"[""feature request"", ""external""]",False
+langchain-ai/langchain,34892,fix(openai): handle incorrect finish_reason from proxies (LiteLLM),closed,Muhammad-Kamran-Khan,2026-01-26T15:15:19Z,2026-01-26T22:30:18Z,2026-01-26T22:30:18Z,2,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,34891,Structured Output doesn't work with ChatOpenAI via proxy LiteLLM,open,pazevedo-hyland,2026-01-26T13:41:17Z,2026-01-26T14:58:25Z,,1,"[""bug"", ""langchain"", ""openai"", ""external""]",False
+langchain-ai/langchain,34890,feat(langchain): add dynamic jump_to support for tools in agent loop,open,jectpro7,2026-01-26T11:27:00Z,2026-02-06T03:59:10Z,,0,"[""langchain"", ""feature""]",True
+langchain-ai/langchain,34889,feat(core): add ToolException for tool execution error handling,closed,sanagnos,2026-01-26T10:29:31Z,2026-01-26T10:33:04Z,2026-01-26T10:30:10Z,1,"[""core"", ""feature"", ""external""]",True
+langchain-ai/langchain,34888,fix(core): avoid __dict__ iteration race in Serializable.to_json,open,sugawara-miti0722,2026-01-26T09:39:40Z,2026-01-26T09:39:53Z,,0,"[""core"", ""fix""]",True
+langchain-ai/langchain,34887,RuntimeError: dictionary keys changed during iteration during serialization under thread concurrency,open,sugawara-miti0722,2026-01-26T09:29:14Z,2026-01-26T10:04:51Z,,0,"[""bug"", ""core"", ""external""]",False
+langchain-ai/langchain,34886,chore(deps): bump actions/create-github-app-token from 1 to 2,closed,dependabot[bot],2026-01-26T07:53:49Z,2026-01-26T22:38:23Z,2026-01-26T22:38:21Z,0,"[""infra"", ""dependencies"", ""github_actions"", ""external""]",True
+langchain-ai/langchain,34885,Ability to identify and selectively stream only `AIMessage` tokens of the final answer to user's request in `updates` stream mode.,open,khteh,2026-01-26T07:09:29Z,2026-01-28T11:16:04Z,,3,"[""core"", ""langchain"", ""feature request"", ""ollama"", ""external""]",False
+langchain-ai/langchain,34884,Dynamically ends Agent loop in Tool execution,open,jectpro7,2026-01-26T06:17:02Z,2026-02-09T15:26:39Z,,3,"[""langchain"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34883,feat(core): add multimodal support to count_tokens_approximately,closed,jiaming2li,2026-01-26T06:08:55Z,2026-01-26T23:04:26Z,2026-01-26T23:04:26Z,1,"[""core"", ""feature"", ""external""]",True
+langchain-ai/langchain,34882,fix(core): handle empty messages in ParrotFakeChatModel,closed,mohankumar27,2026-01-26T05:05:51Z,2026-02-01T02:19:38Z,2026-02-01T02:19:38Z,1,"[""core"", ""fix""]",True
+langchain-ai/langchain,34881,chore(infra): re-enable tests on prior published packages on core release,closed,ccurme,2026-01-26T04:33:37Z,2026-01-26T04:36:43Z,2026-01-26T04:36:40Z,0,"[""infra"", ""github_actions"", ""internal""]",True
+langchain-ai/langchain,34880,release(xai): 1.2.2,closed,ccurme,2026-01-26T04:11:42Z,2026-01-26T04:20:47Z,2026-01-26T04:20:45Z,1,"[""integration"", ""release"", ""dependencies"", ""xai""]",True
+pallets/flask,5902,Improve alt text for Debug Mode interactive debugger image (accessibility),closed,MariamTak,2026-01-26T14:27:03Z,2026-02-02T14:45:31Z,2026-01-26T15:20:29Z,1,[],False
+pallets/flask,5901,Flask's blueprint's render templates rendering another blueprint's folder's html file !!!,closed,RanaUniverse,2026-01-26T04:48:05Z,2026-02-10T00:17:30Z,2026-01-26T04:51:33Z,2,[],False
+docker/compose,13557,[BUG] docker compose bridge convert creates bad filenames,closed,ccarmannt,2026-01-26T20:32:42Z,2026-01-28T22:27:31Z,2026-01-28T22:27:31Z,2,"[""kind/bug""]",False
+docker/compose,13556,Fix potential nil pointer dereference when checking container state in Remove,open,Nepomuk5665,2026-01-26T08:57:13Z,2026-01-26T09:17:44Z,,2,[],True
+duckdb/duckdb,20678,Windows: DuckDB CLI prints ]11;rgb:... / ^[[]11;rgb:...^[\ at prompt (OSC 11 background-color query leak),closed,orzom411,2026-01-26T22:34:04Z,2026-01-28T09:42:40Z,2026-01-28T09:42:32Z,1,"[""reproduced""]",False
+duckdb/duckdb,20677,bump httpfs,closed,DinosL,2026-01-26T22:15:33Z,2026-01-29T15:51:24Z,2026-01-27T07:37:01Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20675,Warnings as errors,closed,c-herrewijn,2026-01-26T18:23:44Z,2026-02-04T09:57:46Z,2026-02-03T16:06:07Z,1,[],True
+duckdb/duckdb,20674,Update copyright year,closed,mlafeldt,2026-01-26T17:02:11Z,2026-01-26T19:40:40Z,2026-01-26T19:40:38Z,1,[],True
+duckdb/duckdb,20673,Skip aggregate state type test in PEG strict mode (CI fix),closed,EtgarDev,2026-01-26T16:12:49Z,2026-01-26T21:56:25Z,2026-01-26T21:56:22Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20672,"pragma_collations() doesn't return Norwegian (no, no_NO)",closed,derhuerst,2026-01-26T15:46:18Z,2026-02-07T09:32:34Z,2026-02-07T09:32:34Z,4,"[""reproduced""]",False
+duckdb/duckdb,20671,UnalignedScan CI failure fix,closed,artjomPlaunov,2026-01-26T15:28:47Z,2026-02-03T15:23:40Z,2026-01-27T10:05:28Z,7,"[""Changes Requested""]",True
+duckdb/duckdb,20670,expose dependencies,closed,jeewonhh,2026-01-26T14:49:55Z,2026-02-10T13:22:01Z,2026-01-26T19:44:08Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20669,Fix ASAN issue in `variant_extract` due to uninitialized values in the 'values' list,closed,Tishj,2026-01-26T14:19:10Z,2026-01-26T19:32:42Z,2026-01-26T19:32:39Z,1,[],True
+duckdb/duckdb,20668,Split path in test correctly,closed,philippmd,2026-01-26T14:17:14Z,2026-01-26T19:46:00Z,2026-01-26T19:46:00Z,1,[],True
+duckdb/duckdb,20667,IEJoin performance,closed,lnkuiper,2026-01-26T13:38:45Z,2026-02-02T12:47:20Z,2026-01-29T07:58:30Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20666,Run `TransformStringToLogicalType` in transaction,closed,Maxxen,2026-01-26T10:10:40Z,2026-01-27T07:23:02Z,2026-01-27T07:23:00Z,1,[],True

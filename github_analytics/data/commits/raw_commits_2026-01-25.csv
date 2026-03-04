@@ -1,0 +1,22 @@
+repo_full_name,sha,author_login,author_date,committer_login,committer_date,message
+golang/go,cf0c42c2ca04c3ae9fa20ce9dd4f6bce301bd37b,fumiyanokesinn,2026-01-25T14:59:25Z,gopherbot,2026-01-27T02:28:40Z,"cmd/compile/internal/reflectdata: fix divide by zero for zero-size array elements  When generating equality signatures for arrays with zero-size ASPECIAL elements (e.g., [3]struct{_ [0]float64}), the compiler crashed with a divide by zero error when computing the loop unroll factor.  Skip comparison"
+apache/spark,03dedbbaeb1b75c5a207d65830ee53d454becf9a,zhengruifeng,2026-01-25T23:10:16Z,HyukjinKwon,2026-01-25T23:10:16Z,[SPARK-55164][PYTHON][TESTS] Refactor tests for python udf input type coercion  ### What changes were proposed in this pull request? Refactor tests for python udf input type coercion  ### Why are the changes needed? to save/load golden with pandas  ### Does this PR introduce _any_ user-facing change
+apache/spark,f7ce07aadd64cbb65698fa0cc413eb36d36ceb20,gaogaotiantian,2026-01-25T23:09:31Z,HyukjinKwon,2026-01-25T23:09:31Z,"[SPARK-55171][PYTHON] Fix memory profiler on iter UDF  ### What changes were proposed in this pull request?  For iter based UDF, we use the function `f` directly for memory profiler to track. However, function `f` might not be the function that we need to track. It could just return another generato"
+pallets/flask,798e006f435887adceb6aab9b57cde8e20276793,davidism,2026-01-25T18:38:42Z,davidism,2026-01-25T18:38:42Z,Merge branch 'stable'
+pallets/flask,407eb76b27884848383a37c7274654f0271e4bc4,davidism,2026-01-25T18:35:12Z,web-flow,2026-01-25T18:35:12Z,document using gevent for async (#5900)
+pallets/flask,ac5664d2281533eacafd64f5cc7d5edcdaccab60,davidism,2026-01-25T18:31:31Z,davidism,2026-01-25T18:33:13Z,document using gevent for async
+pallets/flask,23df07d799f0bed3feb5beb9e5633651687da92b,davidism,2026-01-25T03:55:36Z,davidism,2026-01-25T03:55:36Z,Merge branch 'stable'
+pallets/flask,4b8bde97d4fa3486e18dce21c3c5f75570d50164,davidism,2026-01-25T03:53:11Z,web-flow,2026-01-25T03:53:11Z,deprecate `should_ignore_error` (#5899)
+pallets/flask,0292047b22c82921dcf165322d93a0b988328c2e,davidism,2026-01-25T03:52:11Z,davidism,2026-01-25T03:52:11Z,remove unused ruff check rule
+pallets/flask,c77a5203438fe772d41f6a47303ad3f57a4efe6d,davidism,2026-01-25T03:50:30Z,davidism,2026-01-25T03:50:30Z,deprecate should_ignore_error
+pallets/flask,9b74a90dd3c47f792734823e8793ac36f38bc4dd,davidism,2026-01-25T03:11:02Z,davidism,2026-01-25T03:11:02Z,fix codespell findings
+pallets/flask,5880befcd22490c40f3c63d6178427f7753672c1,davidism,2026-01-25T03:05:26Z,davidism,2026-01-25T03:05:26Z,Merge branch 'stable'
+pallets/flask,4f79d5b59a56bc4356a97f2e81a35f98cb18d7b3,davidism,2026-01-25T03:04:07Z,web-flow,2026-01-25T03:04:07Z,Increase required flit_core version to 3.11 (#5865)
+pallets/flask,5559ef42b5334075cbde82b2870ca725ac606fa4,davidism,2026-01-25T03:00:23Z,web-flow,2026-01-25T03:00:23Z,pre-commit: Add codespell (#5844)
+pallets/flask,3709c4a9a87e6ce8c26dc4a951e1df52ac9ecad0,davidism,2026-01-25T02:58:45Z,davidism,2026-01-25T02:58:45Z,update ruff hook and noqa  co-authored-by: Christian Clauss <cclauss@me.com>
+pallets/flask,30da640ffe23b6e461fa91d387ffea6b9d9fa847,adityasah104,2026-01-25T02:46:56Z,web-flow,2026-01-25T02:46:56Z,clarify 415 vs 400 errors for request.json (#5827)
+pallets/flask,25642fd1fd65985fc98f95e64bc2c7ff353d6c2b,davidism,2026-01-25T02:25:31Z,web-flow,2026-01-25T02:25:31Z,fix annotation for select_jinja_autoescape (#5808)
+pallets/flask,809d5a8869d4ffe8656680b2438b10f7c8845613,davidism,2026-01-25T01:18:35Z,web-flow,2026-01-25T01:18:35Z,redirect defaults to 303 (#5898)
+pallets/flask,eca5fd1dfdc614c2df876cc32018a7d71f84ea82,davidism,2026-01-25T00:50:54Z,davidism,2026-01-25T01:16:38Z,redirect defaults to 303
+pallets/flask,eb58d862cc4a8f31a369b6e9ad1724e9e642f13f,davidism,2026-01-25T01:15:54Z,davidism,2026-01-25T01:15:54Z,Merge branch 'stable'
+pallets/flask,64dd0809c2fc732ed30539235232a268f9bd96ac,davidism,2026-01-25T01:14:20Z,davidism,2026-01-25T01:14:20Z,update dev dependencies

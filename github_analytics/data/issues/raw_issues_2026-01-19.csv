@@ -1,0 +1,59 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35566,Remove Gesture warning when cloning the root,closed,sebmarkbage,2026-01-19T22:32:00Z,2026-01-20T00:28:13Z,2026-01-20T00:28:12Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35565,Temporarily Mount useInsertionEffect while a Gesture snapshot is being computed,closed,sebmarkbage,2026-01-19T21:50:18Z,2026-01-20T00:27:59Z,2026-01-20T00:27:59Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35564,Add Clean Up Callbacks to View Transition and Gesture Transition Events,closed,sebmarkbage,2026-01-19T18:39:52Z,2026-01-20T02:13:25Z,2026-01-20T00:27:45Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35563,chore: code quality improvements and cleanup,closed,Programlog,2026-01-19T18:33:31Z,2026-01-29T00:19:44Z,2026-01-29T00:19:44Z,2,"[""CLA Signed""]",True
+facebook/react,35562,[internal] add feature flag to fix event handle API in Activity,open,rickhanlonii,2026-01-19T17:43:30Z,2026-02-05T03:56:17Z,,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35561,[Compiler Bug]: Value returned from `useEffectEvent` is mistakenly treated as a dependency,closed,SimpleCreations,2026-01-19T15:49:12Z,2026-01-19T17:08:44Z,2026-01-19T17:08:44Z,1,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35560,fix:  Fix type in SyncUpdateLanes declaration,closed,jiangmingwen,2026-01-19T06:01:52Z,2026-01-19T06:08:30Z,2026-01-19T06:08:30Z,1,"[""CLA Signed""]",True
+facebook/react,35559,Properly clean up gesture Animations,closed,sebmarkbage,2026-01-19T04:11:40Z,2026-01-20T00:26:29Z,2026-01-20T00:26:29Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35558,names.txt file added,closed,sujoydipta,2026-01-19T03:55:53Z,2026-01-19T04:00:23Z,2026-01-19T03:57:53Z,3,[],True
+facebook/react,35557,React sujoy,closed,sujoydipta,2026-01-19T03:37:31Z,2026-01-19T03:57:29Z,2026-01-19T03:57:15Z,2,[],True
+facebook/react,35556,Support onGestureEnter/Exit/Share/Update events,closed,sebmarkbage,2026-01-19T03:12:45Z,2026-01-20T02:13:22Z,2026-01-20T00:26:09Z,2,"[""CLA Signed"", ""React Core Team""]",True
+golang/go,77233,runtime/metrics: fix panic in Read with empty slice,closed,amyssnippet,2026-01-19T19:50:02Z,2026-01-28T17:11:33Z,2026-01-28T17:11:33Z,21,[],True
+golang/go,77232,net/http: add ShutdownGracePeriod to Server,open,amyssnippet,2026-01-19T19:20:16Z,2026-01-31T15:09:52Z,,5,[],True
+golang/go,77231,runtime/metrics: Read panics when given an empty slice,closed,cespare,2026-01-19T18:39:47Z,2026-01-28T16:45:35Z,2026-01-28T16:45:35Z,5,"[""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77230,x/tools/gopls: add a way to export gopls metrics/logs,open,podtserkovskiy,2026-01-19T18:10:21Z,2026-01-22T20:53:18Z,,10,"[""help wanted"", ""FeatureRequest"", ""gopls"", ""Tools""]",False
+golang/go,77229,proposal: net/http: add ShutdownGracePeriod to Server,open,rittneje,2026-01-19T13:55:15Z,2026-02-02T20:17:23Z,,3,"[""Proposal""]",False
+golang/go,77228,"x/exp/trace,internal/trace: support event writing",open,felixge,2026-01-19T11:34:54Z,2026-02-07T16:02:01Z,,5,"[""NeedsInvestigation"", ""compiler/runtime"", ""LibraryProposal""]",False
+golang/go,77227,os/exec: Wait can hang indefinitely when Stdin/Stdout/Stderr are blocking,closed,wxiaoguang,2026-01-19T01:44:14Z,2026-01-27T20:28:56Z,2026-01-27T20:28:56Z,34,"[""Documentation"", ""FixPending"", ""LibraryProposal""]",False
+apache/spark,53860,[MINOR] Fix typos in MD files,open,ostronaut,2026-01-19T19:54:13Z,2026-01-22T08:48:36Z,,1,"[""DOCS""]",True
+apache/spark,53859,[SPARK-55092][SQL] Disable partition grouping in `KeyGroupedPartitioning` when not needed,open,peter-toth,2026-01-19T18:53:45Z,2026-02-01T03:46:36Z,,14,"[""SQL""]",True
+apache/spark,53858,[SPARK-55091][SQL] Reduce Hive RPC calls for DROP TABLE command,closed,cloud-fan,2026-01-19T15:51:49Z,2026-01-20T07:10:51Z,2026-01-20T07:09:30Z,3,"[""SQL""]",True
+apache/spark,53857,[SPARK-45414][SQL][TESTS] Add regression tests for XML mixed type serialization,open,jdavidroberts,2026-01-19T15:32:57Z,2026-02-09T21:12:33Z,,2,"[""SQL""]",True
+apache/spark,53856,[SPARK-55033][SQL][4.0] Fix stringArgs of DSv2 writing commands,closed,pan3793,2026-01-19T13:58:35Z,2026-01-19T18:42:00Z,2026-01-19T18:42:00Z,2,"[""SQL""]",True
+apache/spark,53855,[SPARK-55033][SQL][3.5] Fix stringArgs of DSv2 writing commands,closed,pan3793,2026-01-19T13:31:34Z,2026-01-19T18:35:40Z,2026-01-19T18:35:39Z,2,"[""SQL""]",True
+apache/spark,53854,[SPARK-55016][SQL] Make SQLConf a direct property of SparkSession to prevent stack overflow,closed,cloud-fan,2026-01-19T12:23:17Z,2026-01-20T03:34:30Z,2026-01-20T03:34:30Z,3,"[""SQL""]",True
+apache/spark,53853,[WIP] Cursors debug iterator issue,closed,srielau,2026-01-19T10:44:50Z,2026-01-29T17:25:37Z,2026-01-29T17:25:37Z,1,"[""SQL"", ""DOCS"", ""CONNECT""]",True
+apache/spark,53852,[SPARK-55097][SQL] Fix re-adding cached artifacts drops blocks silently issue,closed,pranavdev022,2026-01-19T10:42:57Z,2026-01-20T17:23:44Z,2026-01-20T17:20:41Z,2,"[""SQL""]",True
+apache/spark,53851,[SPARK-54830][SQL][BUILD][FOLLOWUP] Add  comments to remind that the SQL module should use the same `-Xmx` setting in both Maven and SBT tests,closed,LuciferYang,2026-01-19T09:31:06Z,2026-01-19T09:36:36Z,2026-01-19T09:35:58Z,3,"[""SQL"", ""BUILD""]",True
+apache/spark,53850,[SPARK-55089][CONNECT] Correct the output schema of toJSON,closed,zhengruifeng,2026-01-19T08:59:25Z,2026-01-20T04:01:27Z,2026-01-20T02:51:38Z,2,"[""SQL"", ""CONNECT""]",True
+apache/spark,53849,[SPARK-55090][PYTHON][CONNECT] Implement `DataFrame.toJSON` in Python Client,closed,zhengruifeng,2026-01-19T08:58:23Z,2026-01-21T03:30:02Z,2026-01-19T23:37:58Z,3,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,53848,[SPARK-55088][PYTHON] Keep the metadata in to/from_arrow_type/schema,closed,zhengruifeng,2026-01-19T04:58:53Z,2026-01-19T08:52:59Z,2026-01-19T08:52:18Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53847,[SPARK-54830][SQL][TESTS][FOLLOWUP] Increase `-Xmx` for the sql module to 6g for maven test,closed,LuciferYang,2026-01-19T04:55:42Z,2026-01-19T09:37:27Z,2026-01-19T09:17:58Z,6,"[""SQL"", ""BUILD""]",True
+langchain-ai/langchain,34813,community: Add Omni-Oracle Tool Integration,closed,Multi-DAC,2026-01-19T23:45:42Z,2026-01-22T21:12:40Z,2026-01-20T00:07:42Z,0,"[""external""]",True
+langchain-ai/langchain,34812,feat(qdrant): Async Client Added for QdrantVectorStore,open,keenborder786,2026-01-19T19:59:28Z,2026-02-10T18:40:41Z,,2,"[""integration"", ""feature"", ""qdrant"", ""external""]",True
+langchain-ai/langchain,34811,fix(core): preventing from concatenating parallel tool calls during streaming ,closed,jasiecky,2026-01-19T16:55:55Z,2026-02-02T02:05:57Z,2026-02-02T02:05:57Z,3,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34810,Add a First‑Class Testing Framework for LangChain + LangGraph (Similar to JUnit/PyTest/LangTest),closed,rbhattarai,2026-01-19T14:47:43Z,2026-01-23T17:58:19Z,2026-01-23T17:58:19Z,1,"[""langchain"", ""cli"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34809,fix(core): prevent merging of tool calls with different IDs,closed,mohankumar27,2026-01-19T10:43:25Z,2026-02-02T02:04:58Z,2026-02-02T02:04:58Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34808,feat(anthropic): Add `client_args` to pass args directly to the created httpx client addressing #30146,open,mikeedjones,2026-01-19T09:01:33Z,2026-01-27T06:28:55Z,,1,"[""integration"", ""feature"", ""anthropic"", ""external""]",True
+langchain-ai/langchain,34807,merge_dicts() concatenates parallel tool calls during streaming,open,saiparsa,2026-01-19T05:12:18Z,2026-02-09T22:44:15Z,,4,"[""bug"", ""core"", ""external""]",False
+langchain-ai/langchain,34806,Conform to Open Responses,open,Doge-is-Dope,2026-01-19T04:24:48Z,2026-01-22T20:41:39Z,,0,"[""langchain"", ""feature request"", ""external""]",False
+docker/compose,13529,emit container status events after network reconnection (fixes #13524),closed,MaheshThakur9152,2026-01-19T16:39:04Z,2026-01-21T08:40:06Z,2026-01-21T08:40:06Z,6,[],True
+docker/compose,13528,Bump compose to v2.10.1,closed,ndeloof,2026-01-19T15:34:50Z,2026-01-19T16:32:02Z,2026-01-19T15:46:18Z,0,[],True
+docker/compose,13527,sign binaries,closed,ndeloof,2026-01-19T14:56:31Z,2026-01-19T16:32:17Z,2026-01-19T16:32:09Z,0,[],True
+duckdb/duckdb,20594,AWS S3 acl bucket-owner-full-control,closed,teoria,2026-01-19T23:36:17Z,2026-01-20T12:21:17Z,2026-01-20T12:21:17Z,0,"[""needs triage""]",False
+duckdb/duckdb,20592,Merge v1.4-andium into v1.5-variegata,closed,carlopi,2026-01-19T21:19:30Z,2026-01-28T09:53:46Z,2026-01-24T12:38:46Z,7,"[""Ready To Merge""]",True
+duckdb/duckdb,20591,Add odbc_scanner as a core extension,closed,staticlibs,2026-01-19T20:42:35Z,2026-02-06T09:58:33Z,2026-02-05T08:38:46Z,7,"[""Ready To Merge""]",True
+duckdb/duckdb,20590,Issue #20559: LAST Performance,closed,hawkfish,2026-01-19T18:53:17Z,2026-01-20T18:59:00Z,2026-01-20T08:20:07Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20589,Avoid numeric statistics propagation on non-numeric CAST expressions,closed,DinosL,2026-01-19T18:11:21Z,2026-01-20T08:22:04Z,2026-01-20T08:22:04Z,0,[],True
+duckdb/duckdb,20588,Merge 1.5 -> Main,closed,pdet,2026-01-19T16:18:15Z,2026-01-20T07:38:57Z,2026-01-20T07:38:54Z,1,[],True
+duckdb/duckdb,20587,fix a concurrency bug where prepared statements created from a single…,closed,evertlammerts,2026-01-19T15:47:03Z,2026-02-06T09:10:55Z,2026-01-22T08:27:03Z,1,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20586,Insert and update statement for PEG Transformer [For v1.5-variegata],closed,Dtenwolde,2026-01-19T15:25:45Z,2026-01-20T08:01:14Z,2026-01-20T08:01:14Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20585,Add max_execution_time setting for per-connection query time limit,closed,dufferzafar,2026-01-19T15:24:38Z,2026-01-26T08:24:02Z,2026-01-26T08:24:00Z,2,[],True
+duckdb/duckdb,20584,exclude MacOS extension builds for PRs,closed,c-herrewijn,2026-01-19T14:03:13Z,2026-01-20T08:06:24Z,2026-01-20T08:06:24Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20583,Bump httpfs,closed,DinosL,2026-01-19T12:16:28Z,2026-01-26T22:16:10Z,2026-01-26T22:16:09Z,1,"[""CI Failure""]",True
+duckdb/duckdb,20581,Fix Index Reuse in List Comprehension (2),closed,d-justen,2026-01-19T10:44:33Z,2026-01-29T13:32:20Z,2026-01-29T13:32:17Z,6,"[""Needs Documentation"", ""Ready For Review""]",True
+duckdb/duckdb,20580,Allow extension to register custom compression filesystem,open,dentiny,2026-01-19T10:43:45Z,2026-01-24T12:47:45Z,,5,"[""Changes Requested""]",True
+duckdb/duckdb,20579,FLOAT array columns dropped from result,closed,AdrianoKF,2026-01-19T09:08:06Z,2026-01-26T19:38:31Z,2026-01-22T13:41:27Z,2,"[""reproduced""]",False
+duckdb/duckdb,20578,Support generated columns in DELETE RETURNING optimization,closed,krleonid,2026-01-19T06:37:04Z,2026-01-20T08:31:06Z,2026-01-20T08:31:04Z,3,[],True

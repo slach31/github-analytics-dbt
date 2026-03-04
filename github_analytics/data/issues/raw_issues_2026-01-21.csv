@@ -1,0 +1,81 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35592,Bump lodash from 4.17.21 to 4.17.23,open,dependabot[bot],2026-01-21T23:08:02Z,2026-01-21T23:14:26Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35591,Bump lodash from 4.17.21 to 4.17.23 in /compiler/apps/playground,open,dependabot[bot],2026-01-21T23:06:10Z,2026-01-21T23:06:17Z,,0,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35590,[react-dom] Include `submitter` in `submit` events,closed,eps1lon,2026-01-21T20:09:16Z,2026-02-02T20:17:35Z,2026-02-02T20:17:31Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35589,[eslint-plugin-react-hooks] Skip compilation for non-React files,closed,josephsavona,2026-01-21T19:37:26Z,2026-01-21T20:49:16Z,2026-01-21T20:49:16Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35588,[WIP] use symbols for scheduler priority levels,open,elevenpassin,2026-01-21T18:52:32Z,2026-01-21T23:20:29Z,,0,"[""CLA Signed""]",True
+facebook/react,35587,[DevTools] Apply component filters on initial load,closed,eps1lon,2026-01-21T15:15:56Z,2026-01-26T10:09:57Z,2026-01-26T10:06:04Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35586,Type `react-devtools-hook-installer` and `react-devtools-hook-settings-injector` messages,closed,eps1lon,2026-01-21T15:11:02Z,2026-01-21T18:13:28Z,2026-01-21T18:13:24Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35585,Vibhu,closed,VibhuSuneja,2026-01-21T14:38:04Z,2026-01-21T14:38:20Z,2026-01-21T14:38:20Z,1,[],True
+facebook/react,35584,vibhu updated README.md,closed,VibhuSuneja,2026-01-21T12:40:10Z,2026-01-21T12:48:14Z,2026-01-21T12:43:42Z,1,[],True
+facebook/react,35583,[DevTools Bug]:,closed,hzaw04090-cloud,2026-01-21T12:15:22Z,2026-01-21T12:28:58Z,2026-01-21T12:28:58Z,0,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35582,Bug:,closed,hzaw04090-cloud,2026-01-21T11:57:29Z,2026-01-21T17:23:41Z,2026-01-21T17:23:41Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35581,Bug:,closed,hzaw04090-cloud,2026-01-21T11:57:23Z,2026-01-21T17:24:05Z,2026-01-21T17:24:05Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35580,Bug:renove,closed,hzaw04090-cloud,2026-01-21T11:57:14Z,2026-01-21T15:38:36Z,2026-01-21T15:38:36Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35579,[compiler] Add reactCompiler option to suppress memoization warnings,open,yunaotsk,2026-01-21T05:12:26Z,2026-01-29T06:56:03Z,,0,"[""CLA Signed""]",True
+facebook/react,35578,[Fiber] getNearestMountedFiber should consider fibers with alternates as mounted,closed,sebmarkbage,2026-01-21T03:14:45Z,2026-01-21T13:33:36Z,2026-01-21T13:33:36Z,1,"[""CLA Signed"", ""React Core Team""]",True
+golang/go,77256,cmd/internal/testdir:0_10: Test/chan/select5.go failures,open,gopherbot,2026-01-21T22:32:46Z,2026-01-22T17:25:49Z,,2,"[""NeedsInvestigation""]",False
+golang/go,77255,cmd/go: TestScript/mod_symlink failures,open,gopherbot,2026-01-21T22:32:44Z,2026-01-21T22:32:45Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77254,"runtime: on Android, send errors to crash buffer",open,ignoramous,2026-01-21T19:50:38Z,2026-01-22T11:43:32Z,,3,[],True
+golang/go,77253,cmd/compile: miscompile of global array initialization [1.25 backport],open,gopherbot,2026-01-21T19:13:33Z,2026-02-04T15:47:01Z,,1,"[""CherryPickApproved"", ""compiler/runtime""]",False
+golang/go,77252,cmd/compile: miscompile of global array initialization [1.26 backport],open,gopherbot,2026-01-21T19:13:32Z,2026-01-28T17:14:31Z,,2,"[""CherryPickApproved"", ""compiler/runtime""]",False
+golang/go,77251,x/tools/gopls: SEGV in dynamic CALL (invalid pointer in itab),open,adonovan,2026-01-21T17:18:01Z,2026-01-21T22:09:38Z,,1,"[""NeedsInvestigation"", ""gopls"", ""Tools"", ""gopls/telemetry-wins"", ""BugReport"", ""gopls/memory-corruption""]",False
+golang/go,77250,runtime: segmentation violation while s2.Decode,open,sakib-malik-7417,2026-01-21T16:19:41Z,2026-01-28T21:17:51Z,,2,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77249,cmd/compile: fatal error: all goroutines are asleep - deadlock!,open,iperov,2026-01-21T10:57:46Z,2026-01-28T21:53:36Z,,5,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77248,cmd/compile: go1.22+ cmd with go.mod 1.21 generates per-loop variable when using line directive,closed,xieyuschen,2026-01-21T10:11:13Z,2026-02-11T15:00:21Z,2026-01-23T23:40:45Z,5,"[""NeedsFix"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77247,cmd/compile: allow generic function values in composite literals,closed,next-n,2026-01-21T06:37:13Z,2026-01-22T05:46:44Z,2026-01-22T05:46:44Z,9,[],True
+apache/spark,53900,[SPARK-55123][SS] Add SequentialUnionOffset for tracking sequential source processing,closed,ericm-db,2026-01-21T22:37:31Z,2026-02-01T17:15:58Z,2026-02-01T17:15:58Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53899,[SPARK-55106][SS] Add Repartition Integration test for TransformWithState Operators,closed,zifeif2,2026-01-21T22:09:39Z,2026-02-03T19:38:44Z,2026-02-03T19:38:44Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53898,[SPARK-55121][PYTHON][SS] Add DataStreamReader.name() to Classic PySpark,closed,ericm-db,2026-01-21T21:54:53Z,2026-01-23T18:08:37Z,2026-01-23T18:08:37Z,1,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON""]",True
+apache/spark,53897,[SPARK-55120][K8S] Change driver/executor uuid to be val instead of def,open,vjanelle,2026-01-21T21:26:52Z,2026-01-30T07:39:13Z,,1,"[""KUBERNETES""]",True
+apache/spark,53896,[MINOR][KUBERNETES] Change driver/executor uuid to be val instead of def,closed,vjanelle,2026-01-21T21:18:02Z,2026-01-21T21:25:20Z,2026-01-21T21:25:20Z,0,"[""KUBERNETES""]",True
+apache/spark,53895,[SPARK-54941][PYTHON][TESTS][FOLLOW-UP] pa.scalar type coercion non-numerical,closed,fangchenli,2026-01-21T21:01:41Z,2026-01-22T01:28:07Z,2026-01-22T01:27:43Z,3,"[""CORE"", ""PYTHON""]",True
+apache/spark,53894,[SPARK-55119][SQL] Fix Continue Handler: prevent INTERNAL_ERROR and incorrect conditional statements interruption,closed,miland-db,2026-01-21T20:30:42Z,2026-01-28T12:41:20Z,2026-01-28T12:41:20Z,5,"[""SQL""]",True
+apache/spark,53893,[SPARK-54942][PYTHON][TESTS][FOLLOWUP] Add non-numerical type cast tests for PyArrow,closed,Yicong-Huang,2026-01-21T20:18:01Z,2026-01-23T19:23:44Z,2026-01-22T08:31:32Z,7,"[""BUILD"", ""CORE"", ""PYTHON""]",True
+apache/spark,53892,[SPARK-55115][INFRA] Auto-detect Java version in release scripts,closed,cloud-fan,2026-01-21T18:40:35Z,2026-01-22T03:37:53Z,2026-01-22T03:37:52Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,53891,[SPARK-55115][INFRA] Install both Java 8 and Java 17 in release Docker image,closed,cloud-fan,2026-01-21T18:34:23Z,2026-01-22T03:37:43Z,2026-01-22T03:37:43Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,53890,[SPARK-55115][INFRA] Use master branch's base Dockerfile for release builds,closed,cloud-fan,2026-01-21T18:34:08Z,2026-01-23T09:50:15Z,2026-01-23T09:50:15Z,2,"[""INFRA""]",True
+apache/spark,53889,[SPARK-55118][CORE] Replace ASM Opcodes wildcard imports,closed,fangchenli,2026-01-21T18:18:24Z,2026-01-28T01:20:46Z,2026-01-28T01:20:46Z,3,"[""CORE""]",True
+apache/spark,53888,[SPARK-XXXXX] Install both Java 8 and Java 17 in release Docker image,closed,cloud-fan,2026-01-21T18:17:26Z,2026-01-21T18:32:48Z,2026-01-21T18:32:32Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,53887,[SPARK-55117] [SQL] `EventTimeWatermark` should be resolved when referencing recursive type,closed,mihailoale-db,2026-01-21T17:27:38Z,2026-01-22T08:31:31Z,2026-01-22T08:31:31Z,1,"[""SQL""]",True
+apache/spark,53886,[SPARK-55116][BUILD] Upgrade Jackson to 2.21.0,closed,LuciferYang,2026-01-21T11:06:15Z,2026-01-22T10:10:37Z,2026-01-22T03:03:51Z,2,"[""BUILD""]",True
+apache/spark,53885,[SPARK-55115][INFRA] Use master branch's Dockerfile for release builds,closed,cloud-fan,2026-01-21T09:21:21Z,2026-01-21T18:32:44Z,2026-01-21T18:32:30Z,4,"[""INFRA"", ""ai-assisted""]",True
+apache/spark,53884,[SPARK-55113][SQL] `EnsureRequirements` should copy tags,closed,peter-toth,2026-01-21T08:51:25Z,2026-01-22T08:56:21Z,2026-01-22T08:03:50Z,4,"[""SQL""]",True
+apache/spark,53883,[SPARK-55044][SPARK-55088][TESTS][FOLLOW-UP] Add test for passing metadata in arrow batches from JVM to Python,closed,zhengruifeng,2026-01-21T08:50:46Z,2026-01-22T01:02:21Z,2026-01-21T22:08:43Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53882,[SPARK-55112][SQL][TESTS] Add micro-benchmark for `o.a.spark.util.sketch.BloomFilter`,closed,LuciferYang,2026-01-21T07:43:14Z,2026-01-22T10:10:30Z,2026-01-22T04:38:08Z,2,"[""SQL""]",True
+apache/spark,53881,[SPARK-55111][SS] Unfinished repartitioning detection on query restart,closed,micheal-o,2026-01-21T05:22:10Z,2026-01-24T01:19:34Z,2026-01-24T01:19:34Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53880,[SPARK-55114][PYTHON][TESTS] Refactor tests for python udf return type coercion,closed,zhengruifeng,2026-01-21T04:33:55Z,2026-01-22T01:16:48Z,2026-01-22T01:16:22Z,3,"[""SQL"", ""BUILD"", ""PYTHON""]",True
+apache/spark,53879,[SPARK-55110][SQL] Order of application of 3 rules changed to achieve idempotency faster,closed,ahshahid,2026-01-21T04:03:19Z,2026-01-26T19:19:03Z,2026-01-26T19:19:03Z,1,"[""SQL""]",True
+apache/spark,53878,[SPARK-54371][SPARK-39959][INFRA][3.5] Pin roxygen2 and pkgdown versions for SparkR doc generation,closed,cloud-fan,2026-01-21T01:01:31Z,2026-01-21T03:44:10Z,2026-01-21T03:44:10Z,4,"[""BUILD"", ""INFRA""]",True
+langchain-ai/langchain,34835,fix(langchain): strip trailing whitespace from the summarization prompt,closed,mdrxy,2026-01-21T22:05:58Z,2026-01-21T22:09:05Z,2026-01-21T22:09:02Z,0,"[""langchain"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34834,fix(langchain): improve grammar in `SummarizationMiddleware` system prompt,closed,mdrxy,2026-01-21T21:44:13Z,2026-01-21T22:05:05Z,2026-01-21T22:05:02Z,0,"[""langchain"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34833,fix(core): prevent tool call field concatenation in merge_dicts,closed,nathannewyen,2026-01-21T21:18:24Z,2026-02-08T00:03:01Z,2026-02-02T02:10:31Z,2,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34832,chore(core): relax packaging constraints,closed,eyurtsev,2026-01-21T18:59:38Z,2026-01-21T19:03:39Z,2026-01-21T19:02:35Z,1,"[""core"", ""infra"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,34831,please allow packaging<0.27.0,open,stonebig,2026-01-21T18:42:58Z,2026-01-24T17:40:10Z,,2,"[""core"", ""langchain"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34830,fix(langchain): Auto-detect streaming-friendly structured output in create_agent,closed,jmoreno11,2026-01-21T16:12:40Z,2026-02-02T02:35:34Z,2026-02-02T02:35:34Z,1,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,34829,fix(langchain): add MCP Discovery tool for dynamic MCP server discovery,open,dhansuhkumar,2026-01-21T16:10:29Z,2026-01-24T13:54:37Z,,1,"[""dependencies"", ""fix"", ""langchain-classic"", ""external""]",True
+langchain-ai/langchain,34828,fix(text-splitters): reverse replacement order in HTMLSemanticPreserv…,closed,Aditya-creator173,2026-01-21T16:05:34Z,2026-02-02T23:26:32Z,2026-02-02T23:26:32Z,0,"[""text-splitters"", ""external""]",True
+langchain-ai/langchain,34827,feat: enable dynamic tool registration w/ `create_agent`,closed,sydney-runkle,2026-01-21T14:11:30Z,2026-01-22T21:12:20Z,2026-01-22T15:05:39Z,0,"[""langchain"", ""feature"", ""internal""]",True
+docker/compose,13540,[BUG] Variables not interpolated in env_file in included subproject,closed,ianhinder,2026-01-21T23:27:53Z,2026-02-03T07:38:44Z,2026-02-03T07:34:09Z,15,"[""kind/bug""]",False
+docker/compose,13539,Option to skip validation during publishing,closed,mikesir87,2026-01-21T21:38:08Z,2026-01-23T16:43:52Z,2026-01-23T07:52:19Z,7,"[""kind/feature""]",False
+docker/compose,13538,fix: warn on Windows when Git Bash mangles volume paths,closed,MaheshThakur9152,2026-01-21T10:49:31Z,2026-01-21T10:59:54Z,2026-01-21T10:59:54Z,1,[],True
+docker/compose,13537,update to go1.25.6,closed,thaJeztah,2026-01-21T10:25:27Z,2026-01-26T08:42:54Z,2026-01-26T08:26:08Z,0,[],True
+docker/compose,13536,[BUG] -v option not working as expected in windows Git Bash,closed,luckygoswami,2026-01-21T10:20:15Z,2026-01-24T09:20:45Z,2026-01-24T09:20:45Z,1,"[""kind/bug""]",False
+docker/compose,13535,Dockerfile: update golangci-lint to v2.8.0,closed,thaJeztah,2026-01-21T09:01:14Z,2026-01-21T09:20:46Z,2026-01-21T09:11:02Z,0,[],True
+docker/compose,13534,update to go1.24.12,closed,thaJeztah,2026-01-21T08:10:38Z,2026-01-21T08:36:30Z,2026-01-21T08:27:04Z,0,[],True
+docker/compose,13533,fsnotify is set in Dockerfile,closed,ndeloof,2026-01-21T07:37:50Z,2026-01-21T07:47:40Z,2026-01-21T07:47:40Z,0,[],True
+duckdb/duckdb,20631,Issue #20615: Streaming LAG Underflow,closed,hawkfish,2026-01-21T19:25:41Z,2026-01-22T17:42:20Z,2026-01-22T08:21:38Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20630,"Remove patches, upgrade ducklake, run tests",closed,pdet,2026-01-21T19:11:22Z,2026-01-22T19:22:45Z,2026-01-22T19:22:45Z,0,[],True
+duckdb/duckdb,20629,Move implementation of `TransformStringToLogicalType` behind `DBConfig` indirection,closed,Maxxen,2026-01-21T16:16:51Z,2026-01-22T08:20:59Z,2026-01-22T08:20:57Z,1,[],True
+duckdb/duckdb,20628,"Bump: httpfs, spatial",open,maiadegraaf,2026-01-21T15:41:53Z,2026-01-26T20:10:19Z,,0,"[""CI Failure""]",True
+duckdb/duckdb,20627,Implement `MERGE INTO` for PEG Transformer [For v1.5-variegata],closed,Dtenwolde,2026-01-21T14:18:47Z,2026-01-22T08:52:02Z,2026-01-22T08:52:02Z,0,[],True
+duckdb/duckdb,20626,Propagate schema and catalog correctly when doing `ALTER ... ADD COLUMN ... DEFAULT <function>`,closed,yan-alex,2026-01-21T13:55:09Z,2026-02-06T11:33:12Z,2026-02-06T11:33:10Z,6,"[""Ready For Review""]",True
+duckdb/duckdb,20625,Fix missing extension loader static library,closed,maiadegraaf,2026-01-21T13:06:25Z,2026-01-28T12:40:09Z,2026-01-28T12:35:44Z,1,[],True
+duckdb/duckdb,20624,update azure ref for main,closed,benfleis,2026-01-21T13:05:39Z,2026-01-22T08:29:00Z,2026-01-22T08:29:00Z,0,[],True
+duckdb/duckdb,20623,[Parquet] Add VARIANT stats + various fixes for reading/writing stats,closed,Tishj,2026-01-21T12:47:54Z,2026-01-29T13:33:13Z,2026-01-29T13:33:11Z,3,"[""Ready For Review""]",True
+duckdb/duckdb,20621,update azure ref for v1.5 (cherry pick of v1.4.4 bump),closed,benfleis,2026-01-21T11:39:29Z,2026-01-21T17:03:08Z,2026-01-21T17:03:05Z,1,[],True
+duckdb/duckdb,20620,Fix KeyValueSecretReader init,closed,NiclasHaderer,2026-01-21T10:27:16Z,2026-01-21T17:01:27Z,2026-01-21T17:01:25Z,1,[],True
+duckdb/duckdb,20619,"Add support for lazily expanding globs, and adjust `MultiFileList` API",closed,Mytherin,2026-01-21T09:32:01Z,2026-01-21T16:56:16Z,2026-01-21T16:56:16Z,0,[],True
+duckdb/duckdb,20617,HTTP Error: Unable to connect to URL 202 (Accepted),closed,MarkMellink-Koalitix,2026-01-21T09:24:47Z,2026-01-22T08:28:20Z,2026-01-22T08:28:20Z,1,"[""reproduced""]",False
+duckdb/duckdb,20616,INTERNAL Error in Binder: Failed to bind column reference in HAVING subquery with GROUP BY,closed,CR7-source,2026-01-21T07:41:06Z,2026-02-12T08:53:25Z,2026-02-12T08:53:25Z,0,"[""reproduced""]",False
+duckdb/duckdb,20615,"ASan crash in LAG() with VARCHAR column, large offset, and non-string default value (StreamingWindow)",closed,CR7-source,2026-01-21T07:01:58Z,2026-01-22T08:22:25Z,2026-01-22T08:22:24Z,2,"[""reproduced""]",False

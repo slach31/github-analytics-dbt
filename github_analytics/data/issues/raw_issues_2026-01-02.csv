@@ -1,0 +1,15 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35437,Fix: Guard against re-entry in Scheduler (Issue #17355),open,biplavbarua,2026-01-02T19:33:23Z,2026-01-03T08:17:19Z,,2,"[""CLA Signed""]",True
+facebook/react,35436,Preserve AsyncLocalStorage context in pingTask using snapshot,closed,feedthejim,2026-01-02T19:03:38Z,2026-01-06T08:45:49Z,2026-01-06T08:45:49Z,1,"[""CLA Signed""]",True
+docker/compose,13491,Service-scoped image removal in docker compose down,closed,firaskhalayleh-it,2026-01-02T15:45:56Z,2026-01-15T08:49:34Z,2026-01-15T08:49:33Z,3,"[""kind/feature""]",False
+docker/compose,13490,Hope that mounting an NFS volume supports automatic creation of subdirectories.,closed,seepine,2026-01-02T15:37:37Z,2026-01-06T09:49:58Z,2026-01-06T09:49:58Z,1,"[""kind/feature"", ""status/0-triage""]",False
+duckdb/duckdb,20367,Fix unionByName with allowMissingColumns to maintain PySpark compatibility,closed,mariotaddeucci,2026-01-02T23:07:50Z,2026-01-02T23:15:36Z,2026-01-02T23:14:11Z,0,[],True
+duckdb/duckdb,20366,Cannot SELECT FROM JSON column with multiple WHERE clauses,open,bardware,2026-01-02T22:18:04Z,2026-01-06T13:04:59Z,,2,"[""reproduced""]",False
+duckdb/duckdb,20365,Allow linked_libs to be included statically in bundle target,closed,abramk,2026-01-02T22:14:14Z,2026-02-03T14:45:46Z,2026-02-03T14:45:46Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20364,fix render mode for qualified show tables statements,closed,c-herrewijn,2026-01-02T18:17:32Z,2026-01-13T09:28:38Z,2026-01-12T13:27:15Z,3,"[""Ready For Review""]",True
+duckdb/duckdb,20361,TIME_NS Support + Arrow,closed,pdet,2026-01-02T15:23:07Z,2026-01-07T10:00:54Z,2026-01-07T10:00:54Z,2,[],True
+duckdb/duckdb,20360,Fixup comparison to wrong iterator on abdc's driver,closed,carlopi,2026-01-02T15:18:18Z,2026-01-06T09:06:14Z,2026-01-05T23:14:13Z,6,"[""Ready For Review""]",True
+duckdb/duckdb,20359,Pick up stale PR 19271,closed,lnkuiper,2026-01-02T10:09:19Z,2026-01-28T13:37:42Z,2026-01-02T14:41:58Z,0,[],True
+duckdb/duckdb,20358,Pick up stale PR 19268,closed,lnkuiper,2026-01-02T09:23:26Z,2026-01-28T13:37:41Z,2026-01-05T07:42:18Z,0,[],True
+duckdb/duckdb,20357,Force repartitioning in `RadixPartitionedHashTable::Combine`,closed,lnkuiper,2026-01-02T07:48:04Z,2026-01-28T13:37:43Z,2026-01-02T11:47:50Z,0,[],True
+duckdb/duckdb,20356,EXPLAIN ANALYZE shows profiling result instead of a query plan,open,2jungkook,2026-01-02T06:45:25Z,2026-01-12T05:24:53Z,,5,"[""expected behavior""]",False

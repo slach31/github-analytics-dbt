@@ -1,0 +1,49 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35471,[Flight] Allow cyclic references to be serialized when unwrapping lazy elements,closed,unstubbable,2026-01-08T18:14:46Z,2026-01-16T17:42:16Z,2026-01-16T17:42:09Z,2026-01-16T17:42:09Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35470,Fix ViewTransition RTL handling: respect document dir for offscreen t…,open,Rajnish5821Kumar,2026-01-08T18:06:48Z,2026-01-08T18:10:22Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35469,fix(compiler): preserve runNumber across StoreGlobal mutations (#34899),closed,PaiavullaNikhil,2026-01-08T17:59:13Z,2026-01-09T14:43:36Z,2026-01-09T14:43:36Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35468,chore: remove GitHub stale action workflow,closed,Rajnish5821Kumar,2026-01-08T15:19:42Z,2026-01-12T23:55:11Z,2026-01-12T23:55:11Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35467,Fix ReactFlightAsyncDebugInfo snapshot mismatches on Windows,open,masoombaba16,2026-01-08T13:04:12Z,2026-01-08T16:09:26Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35466,Document Firefox pause/resume edge case for scheduler work state,open,Saniya8567-GitHub,2026-01-08T12:21:29Z,2026-01-08T12:21:35Z,,,False,0,0,[]
+facebook/react,35465,[compiler] Add useFormContext to known incompatible libraries,open,reyronald,2026-01-08T08:41:32Z,2026-01-08T18:18:36Z,,,False,0,0,"[""CLA Signed""]"
+golang/go,77121,net: avoid error shadowing,closed,abarisani,2026-01-08T08:15:05Z,2026-02-09T17:26:45Z,2026-02-05T19:42:22Z,,False,0,0,[]
+langchain-ai/langchain,34671,fix(core): merge `tool_call_chunks` without index in streaming,open,686f6c61,2026-01-08T22:23:26Z,2026-01-22T21:16:00Z,,,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,34670,fix: don't trace injected args only found in signature,closed,sydney-runkle,2026-01-08T21:20:08Z,2026-01-22T21:16:02Z,2026-01-09T14:58:35Z,2026-01-09T14:58:34Z,False,0,0,"[""core"", ""fix"", ""internal""]"
+langchain-ai/langchain,34668,release(langchain): 1.2.3,closed,mdrxy,2026-01-08T20:10:40Z,2026-01-22T21:16:04Z,2026-01-08T20:24:33Z,2026-01-08T20:24:32Z,False,0,0,"[""langchain"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,34667,feat(langchain): `LargeToolResultMiddleware` to prevent hyper-aggressive summarization from losing context,open,mdrxy,2026-01-08T19:40:17Z,2026-01-22T20:32:19Z,,,False,0,0,"[""langchain"", ""feature"", ""internal""]"
+langchain-ai/langchain,34665,style(text-splitters): fix some ruff preview rules,closed,cbornet,2026-01-08T18:02:33Z,2026-01-22T21:16:06Z,2026-01-09T22:28:18Z,2026-01-09T22:28:18Z,False,0,0,"[""text-splitters"", ""linting"", ""external""]"
+langchain-ai/langchain,34663,style(langchain): fix some ruff preview rules,closed,cbornet,2026-01-08T17:08:05Z,2026-01-22T21:16:08Z,2026-01-09T22:41:05Z,2026-01-09T22:41:05Z,False,0,0,"[""langchain"", ""linting"", ""external""]"
+langchain-ai/langchain,34661,feat(core):  parse_docstring default value to True,closed,jasiecky,2026-01-08T13:45:00Z,2026-01-22T21:16:10Z,2026-01-08T14:54:05Z,,False,0,0,"[""core"", ""feature"", ""external""]"
+langchain-ai/langchain,34659,fix(core): make `yield_keys` prefix keyword-only to match `BaseStore`,closed,Krud-x,2026-01-08T12:58:19Z,2026-01-22T21:16:12Z,2026-01-10T04:07:48Z,2026-01-10T04:07:48Z,False,0,0,"[""core"", ""fix"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,34658,fix(openai): handle non-null choices in API responses,closed,Krud-x,2026-01-08T11:52:04Z,2026-01-22T21:16:14Z,2026-01-08T15:13:06Z,,False,0,0,"[""integration"", ""core"", ""fix"", ""langchain-classic"", ""openai"", ""external""]"
+langchain-ai/langchain,34657,test(langchain): cover chat model provider inference,closed,T1mn,2026-01-08T11:05:23Z,2026-01-22T21:16:17Z,2026-01-08T14:59:12Z,2026-01-08T14:59:12Z,False,0,0,"[""langchain"", ""tests"", ""external""]"
+langchain-ai/langchain,34656,chore(langchain): fix types in `test_summarization`,closed,cbornet,2026-01-08T10:35:56Z,2026-01-22T21:16:19Z,2026-01-09T22:54:42Z,2026-01-09T22:54:42Z,False,0,0,"[""langchain"", ""infra"", ""dependencies"", ""typing"", ""external""]"
+langchain-ai/langchain,34655,fix(langchain): fix copy-paste error on azure_openai embedding provider map,closed,stephg,2026-01-08T10:33:47Z,2026-01-22T21:16:21Z,2026-01-08T14:54:54Z,2026-01-08T14:54:54Z,False,0,0,"[""langchain"", ""fix"", ""external""]"
+langchain-ai/langchain,34653,fix(docx): Added quick start section for README.md,closed,nomore8797,2026-01-08T07:21:10Z,2026-01-22T21:16:23Z,2026-01-08T13:25:01Z,,False,0,0,"[""documentation"", ""fix"", ""external""]"
+langchain-ai/langchain,34652,test(core): core.py,closed,nomore8797,2026-01-08T07:05:48Z,2026-01-22T21:16:25Z,2026-01-08T14:55:22Z,,False,0,0,"[""documentation"", ""infra"", ""github_actions"", ""tests"", ""external""]"
+langchain-ai/langchain,34651,testtttttt,closed,mdrxy,2026-01-08T06:18:16Z,2026-01-22T21:16:27Z,2026-01-08T06:18:23Z,,False,0,0,"[""documentation"", ""internal""]"
+langchain-ai/langchain,34650,docs: test,closed,mdrxy,2026-01-08T06:12:46Z,2026-01-22T21:16:28Z,2026-01-08T06:12:53Z,,False,0,0,"[""documentation"", ""internal""]"
+langchain-ai/langchain,34649,docs: test,closed,mdrxy,2026-01-08T06:05:19Z,2026-01-22T21:16:30Z,2026-01-08T06:10:45Z,,False,0,0,"[""documentation"", ""internal""]"
+langchain-ai/langchain,34647,fix(docx): Added quick start section for README.md,closed,nomore8797,2026-01-08T01:21:22Z,2026-01-22T21:16:31Z,2026-01-08T02:12:02Z,,False,0,0,"[""documentation"", ""fix"", ""external""]"
+langchain-ai/langchain,34646,fix(core): added ChatBedrockConverse to serializable mapping whitelist,closed,gabrielrfg,2026-01-08T00:39:13Z,2026-01-22T21:16:33Z,2026-01-08T02:12:49Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+duckdb/duckdb,20459,Internal #6975: Window Inner Self-Join,closed,hawkfish,2026-01-08T22:04:47Z,2026-01-09T17:09:51Z,2026-01-09T08:13:13Z,2026-01-09T08:13:13Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20457,Fix segfault in hive partitioning with NULL values,closed,Schwarf,2026-01-08T21:15:55Z,2026-01-13T15:34:44Z,2026-01-13T15:34:43Z,,True,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20456,Issue #20413: ASOF Arbitrary Predicates,closed,hawkfish,2026-01-08T20:05:56Z,2026-01-09T17:09:21Z,2026-01-09T15:36:37Z,2026-01-09T15:36:37Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20455,[Fix] Misaligned size in ART prefix count,closed,taniabogatsch,2026-01-08T19:57:33Z,2026-01-09T10:10:11Z,2026-01-09T06:45:47Z,2026-01-09T06:45:47Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20454,Bump multiple extensions,closed,maiadegraaf,2026-01-08T17:25:03Z,2026-02-10T13:03:49Z,2026-02-10T13:03:49Z,,True,0,0,[]
+duckdb/duckdb,20452,Reset cached dictionaries in `TRY` expression,closed,Maxxen,2026-01-08T16:32:17Z,2026-01-13T15:14:24Z,2026-01-13T15:14:20Z,2026-01-13T15:14:20Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20451,[C API] Fix error data creation,closed,taniabogatsch,2026-01-08T15:20:23Z,2026-01-12T10:10:38Z,2026-01-12T10:07:37Z,2026-01-12T10:07:37Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20450,Nightly test encryption fixes,closed,ccfelius,2026-01-08T15:19:35Z,2026-01-09T07:50:11Z,2026-01-09T07:26:25Z,,False,0,0,[]
+duckdb/duckdb,20449,CMake: export also duckdb_generated_extension_loader,closed,carlopi,2026-01-08T13:12:34Z,2026-01-12T11:26:39Z,2026-01-12T11:26:39Z,2026-01-12T11:26:39Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20447,Expose ArenaAllocator from PlanGenerator,closed,philippmd,2026-01-08T10:44:17Z,2026-01-12T08:30:52Z,2026-01-12T08:30:52Z,2026-01-12T08:30:52Z,False,0,0,[]
+duckdb/duckdb,20445,Add unity_catalog to extensions built by duckdb/duckdb,closed,carlopi,2026-01-08T10:39:14Z,2026-01-12T11:25:22Z,2026-01-12T11:25:22Z,2026-01-12T11:25:22Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20443,Avoid directly bundling skiplist library (it's coming in with core_functions),closed,carlopi,2026-01-08T10:15:09Z,2026-01-12T14:34:38Z,2026-01-12T14:34:38Z,,False,0,0,[]
+duckdb/duckdb,20442,Log (with type ERROR) when close fails,open,carlopi,2026-01-08T10:14:02Z,2026-01-12T11:32:11Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20441,Write lock on install and binary copy,closed,carlopi,2026-01-08T10:04:34Z,2026-01-15T10:27:39Z,2026-01-15T10:27:39Z,,True,0,0,[]
+duckdb/duckdb,20440,"Create table & view, merge into statements for PEG Transformer",closed,Dtenwolde,2026-01-08T09:56:37Z,2026-01-21T14:12:06Z,2026-01-21T14:12:06Z,,True,0,0,[]
+duckdb/duckdb,20439,Enable Function Multi-Versioning (FMV) for Vector Operations (GCC-only),open,mocusez,2026-01-08T09:52:27Z,2026-01-08T13:25:29Z,,,True,0,0,[]
+duckdb/duckdb,20438,Bump multiple extensions,closed,maiadegraaf,2026-01-08T09:45:53Z,2026-01-13T09:57:38Z,2026-01-13T09:57:38Z,,False,0,0,[]
+duckdb/duckdb,20436,[ART] Iterative TransformToDeprecated,closed,artjomPlaunov,2026-01-08T08:52:15Z,2026-01-20T17:27:16Z,2026-01-14T11:37:56Z,2026-01-14T11:37:56Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20435,Fix #20410: fix for RIGHT SEMI/ANTI - cannot fully label chain as found if there are non-equality predicates present in the join condition,closed,Mytherin,2026-01-08T07:35:22Z,2026-01-08T14:51:24Z,2026-01-08T14:51:24Z,2026-01-08T14:51:24Z,False,0,0,[]
+duckdb/duckdb,20434,JSON Reader: exit scan loop if we have found an error that we can't yet throw,closed,Mytherin,2026-01-08T06:23:48Z,2026-01-08T14:50:29Z,2026-01-08T14:50:29Z,2026-01-08T14:50:29Z,False,0,0,[]
+duckdb/duckdb,20433,Issue #20413: ASOF SEMI/ANTI Bindings,closed,hawkfish,2026-01-08T05:45:45Z,2026-01-08T16:49:42Z,2026-01-08T14:50:15Z,2026-01-08T14:50:15Z,False,0,0,"[""Ready To Merge""]"

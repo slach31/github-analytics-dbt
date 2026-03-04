@@ -1,0 +1,50 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35471,[Flight] Allow cyclic references to be serialized when unwrapping lazy elements,closed,unstubbable,2026-01-08T18:14:46Z,2026-01-16T17:42:16Z,2026-01-16T17:42:09Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35470,Fix ViewTransition RTL handling: respect document dir for offscreen t…,open,Rajnish5821Kumar,2026-01-08T18:06:48Z,2026-01-08T18:10:22Z,,1,"[""CLA Signed""]",True
+facebook/react,35469,fix(compiler): preserve runNumber across StoreGlobal mutations (#34899),closed,PaiavullaNikhil,2026-01-08T17:59:13Z,2026-01-09T14:43:36Z,2026-01-09T14:43:36Z,1,"[""CLA Signed""]",True
+facebook/react,35468,chore: remove GitHub stale action workflow,closed,Rajnish5821Kumar,2026-01-08T15:19:42Z,2026-01-12T23:55:11Z,2026-01-12T23:55:11Z,3,"[""CLA Signed""]",True
+facebook/react,35467,Fix ReactFlightAsyncDebugInfo snapshot mismatches on Windows,open,masoombaba16,2026-01-08T13:04:12Z,2026-01-08T16:09:26Z,,2,"[""CLA Signed""]",True
+facebook/react,35466,Document Firefox pause/resume edge case for scheduler work state,open,Saniya8567-GitHub,2026-01-08T12:21:29Z,2026-01-08T12:21:35Z,,1,[],True
+facebook/react,35465,[compiler] Add useFormContext to known incompatible libraries,open,reyronald,2026-01-08T08:41:32Z,2026-01-08T18:18:36Z,,3,"[""CLA Signed""]",True
+facebook/react,35464,stale bot closed issue over christmas period,open,ImLunaHey,2026-01-08T08:35:19Z,2026-01-13T09:09:25Z,,2,"[""Status: Unconfirmed""]",False
+golang/go,77133,cmd/go: TestScript/list_gofile_in_goroot failures,open,gopherbot,2026-01-08T23:07:49Z,2026-01-08T23:07:50Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77132,cmd/internal/obj/riscv: unrecognized failures,open,gopherbot,2026-01-08T22:08:04Z,2026-01-21T21:19:01Z,,4,"[""OS-Darwin"", ""WaitingForInfo"", ""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77130,x/tools/gopls: declare missing methods should (optionally) not shadow existing methods,closed,fastcat,2026-01-08T20:49:07Z,2026-01-23T05:30:57Z,2026-01-22T21:09:06Z,9,"[""gopls"", ""Tools""]",False
+golang/go,77129,cmd/go: potential code smuggling using doc comments (CVE-2025-61732) [1.25 backport],closed,gopherbot,2026-01-08T18:13:34Z,2026-01-28T20:32:19Z,2026-01-28T20:32:19Z,4,"[""Security"", ""CherryPickApproved""]",False
+golang/go,77128,cmd/go: potential code smuggling using doc comments (CVE-2025-61732) [1.24 backport],closed,gopherbot,2026-01-08T18:13:33Z,2026-01-28T20:30:53Z,2026-01-28T20:30:53Z,2,"[""Security"", ""CherryPickApproved""]",False
+golang/go,77127,x/tools/gopls/internal/test/integration/misc: TestTelemetryPrompt_PromptFile/v0.15-format/pPending#01/default failures,closed,gopherbot,2026-01-08T16:09:18Z,2026-01-08T18:58:23Z,2026-01-08T18:58:22Z,2,"[""NeedsInvestigation"", ""gopls"", ""Tools""]",False
+golang/go,77126,proposal: crypto/tls: Config.VerifyOptions option to disable certificate revocation check,open,solvingj,2026-01-08T15:58:22Z,2026-01-23T20:47:51Z,,4,"[""Proposal""]",False
+golang/go,77131,x/tools/gopls: Definition: go:embed directive does not resolve to file location on Windows,closed,igadmg,2026-01-08T15:33:58Z,2026-01-09T20:10:37Z,2026-01-09T20:10:36Z,12,"[""Documentation"", ""gopls"", ""Tools"", ""BugReport""]",False
+golang/go,77125,plugin: go build plugin with -pluginpath case symbol not found,closed,webfrank,2026-01-08T11:34:32Z,2026-01-08T11:36:44Z,2026-01-08T11:36:44Z,0,"[""compiler/runtime""]",False
+golang/go,77124,516770017919920,closed,piseyv722-debug,2026-01-08T08:38:11Z,2026-01-08T11:04:48Z,2026-01-08T08:46:35Z,0,[],False
+golang/go,77123,516770015919920,closed,piseyv722-debug,2026-01-08T08:37:49Z,2026-01-08T11:02:56Z,2026-01-08T08:46:30Z,1,[],False
+golang/go,77122,x/website:,closed,piseyv722-debug,2026-01-08T08:37:36Z,2026-01-08T11:05:24Z,2026-01-08T08:46:40Z,0,"[""website""]",False
+golang/go,77121,net: avoid error shadowing,closed,abarisani,2026-01-08T08:15:05Z,2026-02-09T17:26:45Z,2026-02-05T19:42:22Z,13,[],True
+golang/go,77120,cmd/link/internal/ld: TestAbstractOriginSanity failures,open,gopherbot,2026-01-08T05:07:30Z,2026-01-08T05:07:31Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77119,cmd/internal/fuzztest: TestScript/test_fuzz_cgo failures,open,gopherbot,2026-01-08T04:07:39Z,2026-01-08T04:07:41Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77118,cmd/go: TestScript/mod_all failures,open,gopherbot,2026-01-08T03:07:07Z,2026-01-16T04:49:45Z,,2,"[""NeedsInvestigation""]",False
+golang/go,77117,spec: shift operations are underspecified,open,griesemer,2026-01-08T00:33:52Z,2026-01-08T02:13:40Z,,3,"[""Documentation"", ""LanguageProposal""]",False
+docker/compose,13500,[BUG] `docker compose config` overrides additional bind options with empty dict `{}`,closed,mlalpho,2026-01-08T16:35:08Z,2026-01-12T13:15:58Z,2026-01-12T13:08:55Z,4,"[""kind/bug""]",False
+duckdb/duckdb,20459,Internal #6975: Window Inner Self-Join,closed,hawkfish,2026-01-08T22:04:47Z,2026-01-09T17:09:51Z,2026-01-09T08:13:13Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20458,Selecting null gives back DUCKDB_TYPE_INTEGER (4) instead of the expected DUCKDB_TYPE_SQLNULL (36),closed,barsdeveloper,2026-01-08T21:20:07Z,2026-01-12T10:25:46Z,2026-01-12T10:25:46Z,4,"[""under review""]",False
+duckdb/duckdb,20457,Fix segfault in hive partitioning with NULL values,closed,Schwarf,2026-01-08T21:15:55Z,2026-01-13T15:34:44Z,2026-01-13T15:34:43Z,3,"[""Changes Requested""]",True
+duckdb/duckdb,20456,Issue #20413: ASOF Arbitrary Predicates,closed,hawkfish,2026-01-08T20:05:56Z,2026-01-09T17:09:21Z,2026-01-09T15:36:37Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20455,[Fix] Misaligned size in ART prefix count,closed,taniabogatsch,2026-01-08T19:57:33Z,2026-01-09T10:10:11Z,2026-01-09T06:45:47Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20454,Bump multiple extensions,closed,maiadegraaf,2026-01-08T17:25:03Z,2026-02-10T13:03:49Z,2026-02-10T13:03:49Z,2,[],True
+duckdb/duckdb,20452,Reset cached dictionaries in `TRY` expression,closed,Maxxen,2026-01-08T16:32:17Z,2026-01-13T15:14:24Z,2026-01-13T15:14:20Z,4,"[""Ready For Review""]",True
+duckdb/duckdb,20451,[C API] Fix error data creation,closed,taniabogatsch,2026-01-08T15:20:23Z,2026-01-12T10:10:38Z,2026-01-12T10:07:37Z,3,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20450,Nightly test encryption fixes,closed,ccfelius,2026-01-08T15:19:35Z,2026-01-09T07:50:11Z,2026-01-09T07:26:25Z,0,[],True
+duckdb/duckdb,20449,CMake: export also duckdb_generated_extension_loader,closed,carlopi,2026-01-08T13:12:34Z,2026-01-12T11:26:39Z,2026-01-12T11:26:39Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20448,[iceberg][s3]Attach HTTP Error: Failed to retrieve OAuth2 token,closed,herefree,2026-01-08T12:16:20Z,2026-01-08T12:23:00Z,2026-01-08T12:23:00Z,0,"[""needs triage""]",False
+duckdb/duckdb,20447,Expose ArenaAllocator from PlanGenerator,closed,philippmd,2026-01-08T10:44:17Z,2026-01-12T08:30:52Z,2026-01-12T08:30:52Z,1,[],True
+duckdb/duckdb,20445,Add unity_catalog to extensions built by duckdb/duckdb,closed,carlopi,2026-01-08T10:39:14Z,2026-01-12T11:25:22Z,2026-01-12T11:25:22Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20443,Avoid directly bundling skiplist library (it's coming in with core_functions),closed,carlopi,2026-01-08T10:15:09Z,2026-01-12T14:34:38Z,2026-01-12T14:34:38Z,4,[],True
+duckdb/duckdb,20442,Log (with type ERROR) when close fails,open,carlopi,2026-01-08T10:14:02Z,2026-01-12T11:32:11Z,,1,"[""Changes Requested""]",True
+duckdb/duckdb,20441,Write lock on install and binary copy,closed,carlopi,2026-01-08T10:04:34Z,2026-01-15T10:27:39Z,2026-01-15T10:27:39Z,0,[],True
+duckdb/duckdb,20440,"Create table & view, merge into statements for PEG Transformer",closed,Dtenwolde,2026-01-08T09:56:37Z,2026-01-21T14:12:06Z,2026-01-21T14:12:06Z,0,[],True
+duckdb/duckdb,20439,Enable Function Multi-Versioning (FMV) for Vector Operations (GCC-only),open,mocusez,2026-01-08T09:52:27Z,2026-01-08T13:25:29Z,,0,[],True
+duckdb/duckdb,20438,Bump multiple extensions,closed,maiadegraaf,2026-01-08T09:45:53Z,2026-01-13T09:57:38Z,2026-01-13T09:57:38Z,1,[],True
+duckdb/duckdb,20436,[ART] Iterative TransformToDeprecated,closed,artjomPlaunov,2026-01-08T08:52:15Z,2026-01-20T17:27:16Z,2026-01-14T11:37:56Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20435,Fix #20410: fix for RIGHT SEMI/ANTI - cannot fully label chain as found if there are non-equality predicates present in the join condition,closed,Mytherin,2026-01-08T07:35:22Z,2026-01-08T14:51:24Z,2026-01-08T14:51:24Z,0,[],True
+duckdb/duckdb,20434,JSON Reader: exit scan loop if we have found an error that we can't yet throw,closed,Mytherin,2026-01-08T06:23:48Z,2026-01-08T14:50:29Z,2026-01-08T14:50:29Z,0,[],True
+duckdb/duckdb,20433,Issue #20413: ASOF SEMI/ANTI Bindings,closed,hawkfish,2026-01-08T05:45:45Z,2026-01-08T16:49:42Z,2026-01-08T14:50:15Z,1,"[""Ready To Merge""]",True

@@ -1,0 +1,86 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35718,[DevTools] Don't capture durations for disconnected subtrees when profiling,closed,hoxyq,2026-02-07T20:04:14Z,2026-02-09T22:18:20Z,2026-02-09T22:18:17Z,1,"[""CLA Signed""]",True
+facebook/react,35717,fix: complete partial hook chain on unwind to prevent corruption (#33580),open,DukeDeSouth,2026-02-07T14:22:23Z,2026-02-08T17:04:21Z,,2,"[""CLA Signed""]",True
+facebook/react,35716,bug-fix: DevTools - Error logic for missing nodes while deletion,open,11Warrior,2026-02-07T12:24:14Z,2026-02-07T17:39:47Z,,2,"[""CLA Signed""]",True
+tensorflow/tensorflow,109950,Fix MatrixSolve GPU handling for singular matrices,open,Rabba-Meghana,2026-02-07T21:15:18Z,2026-02-10T00:57:56Z,,2,"[""awaiting review"", ""size:S"", ""prtype:bugfix"", ""comp:core""]",True
+tensorflow/tensorflow,109949,MobileNetV3Large loads the MobileNetV3Small structure and weights,open,LoganBanker,2026-02-07T20:30:51Z,2026-02-10T05:46:40Z,,3,"[""stat:awaiting response"", ""type:bug"", ""comp:keras""]",False
+tensorflow/tensorflow,109948,[XLA] Add nesting to SymbolicTiledHloInstruction (experimental tiling),open,copybara-service[bot],2026-02-07T17:34:00Z,2026-02-09T11:34:59Z,,0,[],True
+tensorflow/tensorflow,109947,Automated Code Change,closed,copybara-service[bot],2026-02-07T16:46:32Z,2026-02-12T04:24:28Z,2026-02-12T04:24:28Z,0,[],True
+tensorflow/tensorflow,109946,Automated Code Change,closed,copybara-service[bot],2026-02-07T15:07:13Z,2026-02-08T03:51:25Z,2026-02-08T03:51:24Z,0,[],True
+tensorflow/tensorflow,109945,Automated Code Change,open,copybara-service[bot],2026-02-07T14:31:19Z,2026-02-07T14:31:19Z,,0,[],True
+tensorflow/tensorflow,109944,Automated Code Change,open,copybara-service[bot],2026-02-07T14:27:21Z,2026-02-07T14:27:21Z,,0,[],True
+tensorflow/tensorflow,109943,Automated Code Change,open,copybara-service[bot],2026-02-07T13:55:15Z,2026-02-07T13:55:15Z,,0,[],True
+tensorflow/tensorflow,109942,Automated Code Change,open,copybara-service[bot],2026-02-07T13:39:06Z,2026-02-10T06:22:51Z,,0,[],True
+tensorflow/tensorflow,109941,Automated Code Change,open,copybara-service[bot],2026-02-07T12:28:34Z,2026-02-07T12:28:34Z,,0,[],True
+tensorflow/tensorflow,109940,Automated Code Change,open,copybara-service[bot],2026-02-07T12:25:33Z,2026-02-07T12:25:33Z,,0,[],True
+tensorflow/tensorflow,109939,Automated Code Change,open,copybara-service[bot],2026-02-07T11:52:12Z,2026-02-07T20:03:29Z,,0,[],True
+tensorflow/tensorflow,109938,Automated Code Change,open,copybara-service[bot],2026-02-07T11:51:56Z,2026-02-07T11:51:56Z,,0,[],True
+tensorflow/tensorflow,109937,Automated Code Change,open,copybara-service[bot],2026-02-07T11:49:54Z,2026-02-07T11:49:54Z,,0,[],True
+tensorflow/tensorflow,109936,Automated Code Change,open,copybara-service[bot],2026-02-07T11:45:19Z,2026-02-07T11:45:19Z,,0,[],True
+tensorflow/tensorflow,109935,Automated Code Change,open,copybara-service[bot],2026-02-07T11:28:16Z,2026-02-07T11:28:16Z,,0,[],True
+tensorflow/tensorflow,109934,Automated Code Change,closed,copybara-service[bot],2026-02-07T11:03:19Z,2026-02-08T04:29:25Z,2026-02-08T04:29:25Z,3,[],True
+tensorflow/tensorflow,109933,conflict between tensorflow and pyopengl,open,KlamerS,2026-02-07T10:31:10Z,2026-02-11T08:25:03Z,,2,"[""type:bug"", ""comp:runtime"", ""TF 2.19""]",False
+tensorflow/tensorflow,109932,Automated Code Change,open,copybara-service[bot],2026-02-07T09:43:44Z,2026-02-07T09:43:44Z,,0,[],True
+tensorflow/tensorflow,109931,Automated Code Change,open,copybara-service[bot],2026-02-07T09:42:13Z,2026-02-07T09:42:13Z,,0,[],True
+tensorflow/tensorflow,109930,Automated Code Change,open,copybara-service[bot],2026-02-07T09:33:40Z,2026-02-07T09:33:40Z,,0,[],True
+tensorflow/tensorflow,109929,Automated Code Change,closed,copybara-service[bot],2026-02-07T08:44:50Z,2026-02-09T00:24:05Z,2026-02-09T00:24:05Z,0,[],True
+tensorflow/tensorflow,109928,Automated Code Change,open,copybara-service[bot],2026-02-07T08:42:42Z,2026-02-07T16:40:31Z,,0,[],True
+tensorflow/tensorflow,109927,Automated Code Change,closed,copybara-service[bot],2026-02-07T08:26:09Z,2026-02-08T15:55:15Z,2026-02-08T15:55:15Z,0,[],True
+tensorflow/tensorflow,109926,Automated Code Change,open,copybara-service[bot],2026-02-07T08:24:26Z,2026-02-10T08:06:46Z,,0,[],True
+tensorflow/tensorflow,109925,Automated Code Change,closed,copybara-service[bot],2026-02-07T08:23:16Z,2026-02-08T15:34:09Z,2026-02-08T15:34:08Z,0,[],True
+tensorflow/tensorflow,109924,Automated Code Change,open,copybara-service[bot],2026-02-07T08:19:17Z,2026-02-07T08:19:17Z,,0,[],True
+tensorflow/tensorflow,109923,Automated Code Change,open,copybara-service[bot],2026-02-07T08:18:05Z,2026-02-07T08:18:05Z,,0,[],True
+tensorflow/tensorflow,109922,Automated Code Change,open,copybara-service[bot],2026-02-07T08:17:59Z,2026-02-07T08:17:59Z,,0,[],True
+tensorflow/tensorflow,109921,Automated Code Change,closed,copybara-service[bot],2026-02-07T08:12:57Z,2026-02-08T04:41:47Z,2026-02-08T04:41:46Z,0,[],True
+tensorflow/tensorflow,109920,Automated Code Change,open,copybara-service[bot],2026-02-07T07:38:02Z,2026-02-07T07:38:02Z,,0,[],True
+tensorflow/tensorflow,109919,Automated Code Change,open,copybara-service[bot],2026-02-07T07:31:47Z,2026-02-07T07:31:47Z,,0,[],True
+tensorflow/tensorflow,109918,Automated Code Change,open,copybara-service[bot],2026-02-07T07:30:00Z,2026-02-07T07:30:00Z,,0,[],True
+tensorflow/tensorflow,109917,Automated Code Change,open,copybara-service[bot],2026-02-07T07:26:57Z,2026-02-07T09:36:16Z,,0,[],True
+tensorflow/tensorflow,109916,Automated Code Change,open,copybara-service[bot],2026-02-07T07:26:39Z,2026-02-07T14:34:58Z,,0,[],True
+tensorflow/tensorflow,109915,[XLA:GPU] Move gpu tests out of xla/service/gpu.,open,copybara-service[bot],2026-02-07T07:23:37Z,2026-02-09T02:12:46Z,,0,[],True
+tensorflow/tensorflow,109914,Automated Code Change,open,copybara-service[bot],2026-02-07T07:23:06Z,2026-02-07T07:23:06Z,,0,[],True
+tensorflow/tensorflow,109913,[XLA:GPU] Remove gpu_target_config.cc.,closed,copybara-service[bot],2026-02-07T06:30:14Z,2026-02-08T06:59:04Z,2026-02-08T06:59:04Z,0,[],True
+tensorflow/tensorflow,109912,Automated Code Change,closed,copybara-service[bot],2026-02-07T05:20:27Z,2026-02-08T04:53:08Z,2026-02-08T04:53:08Z,0,[],True
+tensorflow/tensorflow,109911,Implement `strict_shape_checking` for `CommonPjRtClient`,closed,copybara-service[bot],2026-02-07T04:02:51Z,2026-02-09T20:07:29Z,2026-02-09T20:07:29Z,3,[],True
+tensorflow/tensorflow,109910,Make the contributions guide less GPU-specific.,closed,copybara-service[bot],2026-02-07T03:09:53Z,2026-02-09T01:42:52Z,2026-02-09T01:42:52Z,0,[],True
+tensorflow/tensorflow,109909,PR #37473: [tsl:concurrency] Add Future::Flatten() API,open,copybara-service[bot],2026-02-07T02:16:48Z,2026-02-07T02:16:48Z,,0,[],True
+tensorflow/tensorflow,109908,[XLA:GPU] Move transforms out of service/transforms.,closed,copybara-service[bot],2026-02-07T01:09:42Z,2026-02-07T05:51:31Z,2026-02-07T05:51:30Z,0,[],True
+tensorflow/tensorflow,109907,PR #37470: [xla:ffi] ffi_api.h is an internal header and XLA:FFI users should only need ffi.h,closed,copybara-service[bot],2026-02-07T00:49:10Z,2026-02-07T14:11:27Z,2026-02-07T14:11:26Z,0,[],True
+tensorflow/tensorflow,109906,cc_embed_data: Properly support cc_library -> cc_embed_data deps.,open,copybara-service[bot],2026-02-07T00:38:45Z,2026-02-12T00:05:20Z,,0,[],True
+tensorflow/tensorflow,109905,Parallelize across autotuning instructions,closed,copybara-service[bot],2026-02-07T00:09:06Z,2026-02-09T20:35:13Z,2026-02-09T20:35:13Z,0,[],True
+tensorflow/tensorflow,109904,"Update XNNPACK, KleidiAI, cpuinfo, and slinky dependencies.",closed,copybara-service[bot],2026-02-07T00:00:14Z,2026-02-10T21:39:30Z,2026-02-10T21:39:30Z,0,[],True
+golang/go,77494,http.NewRequestWithContext panics when body interface is non-nil but contains nil pointer,closed,emaldie,2026-02-07T22:01:21Z,2026-02-07T22:52:56Z,2026-02-07T22:33:44Z,1,"[""BugReport""]",False
+golang/go,77493,encoding/base32: decoder missing length error check with NoPadding,open,AxbB36,2026-02-07T19:26:36Z,2026-02-11T21:19:34Z,,2,"[""NeedsInvestigation"", ""BugReport""]",False
+golang/go,77492,slices: add Map,closed,cornejong,2026-02-07T18:56:21Z,2026-02-08T15:05:19Z,2026-02-08T15:05:19Z,1,[],True
+golang/go,77491,cmd/go: TestScript/test_match_only_subtests_parallel failures,open,gopherbot,2026-02-07T06:45:31Z,2026-02-11T19:49:36Z,,3,"[""NeedsInvestigation""]",False
+golang/go,77490,cmd/go/internal/modfetch/codehost: TestStat/gitrepo1/v2.3 failures,open,gopherbot,2026-02-07T00:46:28Z,2026-02-07T00:46:29Z,,1,"[""NeedsInvestigation""]",False
+apache/spark,54202,[SPARK-55415][PYTHON][INFRA] Upgrade PyPy images to Ubuntu 24.04,closed,zhengruifeng,2026-02-07T09:47:33Z,2026-02-09T00:14:05Z,2026-02-08T20:36:46Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54201,[SPARK-55414][PYTHON][INFRA] Upgrade Python 3.12 test images for classic-only and pandas 3 to Ubuntu 24.04,closed,zhengruifeng,2026-02-07T09:45:38Z,2026-02-09T00:14:16Z,2026-02-08T22:21:27Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54200,[SPARK-55413][PYTHON][INFRA] Upgrade Python minimum dep test images to Ubuntu 24.04,closed,zhengruifeng,2026-02-07T09:43:12Z,2026-02-09T00:14:34Z,2026-02-08T20:35:47Z,3,"[""BUILD"", ""INFRA""]",True
+apache/spark,54199,[SPARK-55412][PYTHON][INFRA] Upgrade Python 3.14 no gil test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-07T09:39:00Z,2026-02-08T07:44:23Z,2026-02-08T07:44:01Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54198,[SPARK-55180][PYTHON][INFRA][FOLLOW-UP] Delete unused yml file ,closed,zhengruifeng,2026-02-07T09:36:50Z,2026-02-08T00:29:48Z,2026-02-07T22:41:01Z,2,"[""INFRA""]",True
+apache/spark,54197,[SPARK-55358][PYTHON][INFRA][FOLLOW-UP] Do not apt-get install `python3-xxx`,closed,zhengruifeng,2026-02-07T08:30:05Z,2026-02-09T00:13:40Z,2026-02-08T22:20:50Z,2,"[""BUILD""]",True
+apache/spark,54196,[MINOR][DOCS] Update Maven version and MAVEN_OPTS setting in `building-spark.md` docs,closed,dongjoon-hyun,2026-02-07T07:15:14Z,2026-02-07T22:37:57Z,2026-02-07T22:37:45Z,2,"[""DOCS""]",True
+apache/spark,54195,[SPARK-55229][SPARK-55231][PYTHON] Implement DataFrame.zipWithIndex in PySpark,closed,fangchenli,2026-02-07T06:13:05Z,2026-02-09T07:52:17Z,2026-02-09T07:51:37Z,3,"[""SQL"", ""PYTHON""]",True
+apache/spark,54194,[SPARK-55410][K8S] Improve `SparkKubernetesDiagnosticsSetter` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-07T02:33:37Z,2026-02-08T15:26:28Z,2026-02-08T05:00:47Z,4,"[""KUBERNETES""]",True
+apache/spark,54193,[SPARK][Geo][SQL] Enable WKB parsing for Geography,closed,uros-db,2026-02-07T00:56:32Z,2026-02-09T15:30:37Z,2026-02-09T15:30:37Z,1,"[""SQL""]",True
+langchain-ai/langchain,35067,fix(openai): preserve reasoning_content from OpenAI-compatible providers,open,saakshigupta2002,2026-02-07T19:28:23Z,2026-02-10T02:18:03Z,,5,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,35066,fix(core): prevent tool docstrings from inheriting parent class descriptions,open,veeceey,2026-02-07T19:24:44Z,2026-02-10T07:38:29Z,,4,"[""core"", ""fix""]",True
+langchain-ai/langchain,35065,fix(openai): preserve reasoning_content from OpenAI-compatible providers,open,veeceey,2026-02-07T19:19:28Z,2026-02-10T07:38:31Z,,4,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,35064,chore(core): clean up docstring mismatch and redundant logic in langchain-core,closed,veeceey,2026-02-07T19:16:22Z,2026-02-10T17:25:50Z,2026-02-10T17:25:50Z,4,"[""core"", ""infra""]",True
+langchain-ai/langchain,35063,fix(core): prevent concatenation of tool call identifier fields in merge_dicts,closed,ademicho123,2026-02-07T17:18:42Z,2026-02-08T15:58:25Z,2026-02-08T15:58:25Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,35062,Auto Model Selector Middleware,open,keenborder786,2026-02-07T15:53:30Z,2026-02-07T15:53:39Z,,0,"[""langchain"", ""feature request"", ""external""]",False
+langchain-ai/langchain,35061,chore(huggingface): version bump for huggingface-hub and transformers deps,closed,keenborder786,2026-02-07T12:50:33Z,2026-02-11T21:34:19Z,2026-02-11T21:34:18Z,0,"[""integration"", ""infra"", ""dependencies"", ""huggingface""]",True
+langchain-ai/langchain,35060,langchain_huggingface_dependency_issue.md,closed,Jianfeng777,2026-02-07T11:49:57Z,2026-02-11T21:34:20Z,2026-02-11T21:34:20Z,0,"[""bug"", ""huggingface"", ""external""]",False
+langchain-ai/langchain,35059,[Bug]: ChatOpenAI silently drops 'reasoning_content' from OpenAI-compatible providers (vLLM/DeepSeek),open,vivekjainmaiet,2026-02-07T11:26:55Z,2026-02-10T13:16:21Z,,6,"[""bug"", ""openai"", ""external""]",False
+langchain-ai/langchain,35058,fix(openai): detect codex models for responses api preference,closed,T1mn,2026-02-07T05:35:47Z,2026-02-08T18:15:48Z,2026-02-08T18:15:48Z,1,"[""integration"", ""fix"", ""openai"", ""external""]",True
+docker/compose,13576,fix(progress): restore TTY output on Windows consoles,open,maishivamhoo123,2026-02-07T06:27:25Z,2026-02-09T08:34:41Z,,5,[],True
+duckdb/duckdb,20856,Remove patches and bump postgres + httpfs,closed,carlopi,2026-02-07T17:51:53Z,2026-02-08T07:53:50Z,2026-02-08T07:53:48Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20855,Fix Positional Parameter Binding Order for Prepared Statements with Sub-queries,closed,d-justen,2026-02-07T16:38:49Z,2026-02-08T07:54:08Z,2026-02-08T07:54:08Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20854,Moving constant predicates should not change projection results,closed,Manuel-Neuer1,2026-02-07T16:06:51Z,2026-02-07T17:02:34Z,2026-02-07T17:02:34Z,1,"[""needs triage""]",False
+duckdb/duckdb,20853,bump avro for v1.5,closed,Tishj,2026-02-07T15:39:51Z,2026-02-08T07:53:38Z,2026-02-08T07:53:36Z,2,[],True
+duckdb/duckdb,20852,"CLI: Add ""use .last to show entire result"" suggestion to the bottom of the box renderer result when rows / columns are hidden",closed,Mytherin,2026-02-07T15:03:05Z,2026-02-08T07:53:27Z,2026-02-08T07:53:27Z,0,[],True
+duckdb/duckdb,20851,Add CI runner cleanup before Linux CLI builds,closed,staticlibs,2026-02-07T14:46:14Z,2026-02-07T21:53:19Z,2026-02-07T17:04:33Z,3,[],True
+duckdb/duckdb,20850,"Minor CI fixes (reduce intensity of test, fix handling of fatal exceptions)",closed,Mytherin,2026-02-07T09:02:30Z,2026-02-07T14:25:34Z,2026-02-07T14:25:34Z,0,[],True
+duckdb/duckdb,20849,Optimized calculate the number of bytes to skip directly in file decode_utils.hpp,closed,ArNine,2026-02-07T05:34:56Z,2026-02-09T07:58:40Z,2026-02-09T07:58:37Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20848,[Security] Fix HIGH vulnerability: python.lang.security.audit.dangerous-system-call-tainted-env-args.dangerous-system-call-tainted-env-args,closed,orbisai0security,2026-02-07T04:44:44Z,2026-02-07T09:00:06Z,2026-02-07T09:00:06Z,1,[],True

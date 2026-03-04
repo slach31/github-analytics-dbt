@@ -1,0 +1,16 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35481,[Compiler Bug]: Hydration error with multiline className,open,V-iktor,2026-01-10T15:53:02Z,2026-01-11T07:25:02Z,,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35480,Bug: Infinite loop in event listener during DOM traversal caused by nested <body> tags,open,gsilver7,2026-01-10T08:49:26Z,2026-01-10T17:05:34Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35479,"SECURITY.md::؛'''':::''""'""""'':'':'""''''''Rename SECURITY.md to SECURITY.md::؛'''':::''""'""""'':'':'""''''''",closed,hghghghuhhihhhihhju-beep,2026-01-10T00:53:37Z,2026-01-10T01:18:09Z,2026-01-10T01:18:08Z,1,[],True
+golang/go,77144,Feature/panic on call,closed,kevin-valerio,2026-01-10T18:09:48Z,2026-01-10T18:12:19Z,2026-01-10T18:09:54Z,1,[],True
+golang/go,77143,crypto/x509: CRLs not checked as part of certificate validation,open,joyantaDebnath,2026-01-10T07:04:49Z,2026-01-13T22:24:18Z,,3,"[""NeedsInvestigation"", ""LibraryProposal""]",False
+golang/go,77142,"os,internal/poll: issues with overlapped I/O",open,idcmp,2026-01-10T00:09:13Z,2026-01-21T21:20:39Z,,8,"[""OS-Windows"", ""NeedsDecision"", ""compiler/runtime""]",False
+langchain-ai/langchain,34696,fix(standard-tests): add type ignore,closed,mdrxy,2026-01-10T04:02:07Z,2026-01-22T21:15:19Z,2026-01-10T04:07:05Z,0,"[""standard-tests"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34695,chore(core): bump lock,closed,mdrxy,2026-01-10T02:42:08Z,2026-01-22T21:15:20Z,2026-01-10T02:42:42Z,1,"[""core"", ""infra"", ""internal""]",True
+langchain-ai/langchain,34694,fix(chroma): forward `filter`/`where_document` in `_similarity_search_with_relevance_scores`,open,devffex,2026-01-10T01:20:12Z,2026-01-22T21:15:22Z,,1,"[""integration"", ""fix"", ""chroma"", ""external""]",True
+langchain-ai/langchain,34693,fix(langchain): tag messages generated from summarization,closed,ccurme,2026-01-10T00:10:16Z,2026-01-22T21:15:24Z,2026-01-12T14:26:09Z,0,"[""langchain"", ""fix"", ""internal""]",True
+pallets/flask,5885,clarify async view incompatibility with gevent monkey patching,closed,vizahat36,2026-01-10T20:02:42Z,2026-01-25T00:11:17Z,2026-01-10T21:58:48Z,0,[],True
+docker/compose,13503,refactor: extract API version constants to dedicated file,closed,htoyoda18,2026-01-10T16:23:20Z,2026-01-12T09:10:49Z,2026-01-11T16:04:40Z,0,[],True
+duckdb/duckdb,20478,Setting `enable_external_access` to true gives error but not false,closed,jacobsorme,2026-01-10T18:17:26Z,2026-01-16T10:04:32Z,2026-01-16T10:04:31Z,1,"[""reproduced""]",False
+duckdb/duckdb,20477,Add `invoke` function,closed,Maxxen,2026-01-10T11:11:15Z,2026-01-16T07:52:10Z,2026-01-16T07:52:09Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20476,ON CONFLICT DO NOTHING stmt raise:internal error,closed,CR7-source,2026-01-10T04:21:34Z,2026-01-14T09:49:24Z,2026-01-14T09:49:24Z,0,"[""reproduced""]",False

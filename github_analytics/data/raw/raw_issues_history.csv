@@ -1,0 +1,469 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35431,Bug:,closed,Mohammadrafi10,2025-12-31T18:46:12Z,2026-01-01T03:06:32Z,2026-01-01T03:06:32Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35429,[compiler] Fix Symbol shadowing in generated code,closed,kenanAST,2025-12-31T07:46:08Z,2025-12-31T08:17:47Z,2025-12-31T08:17:08Z,1,[],True
+facebook/react,35428,fix: Add deprecation warning for removed flushSync API,open,gabrielfranca95,2025-12-30T19:48:08Z,2026-01-09T06:11:50Z,,4,"[""CLA Signed""]",True
+facebook/react,35427,Dedupe effect dev warning,open,Don-Erfano,2025-12-30T12:12:29Z,2026-01-09T06:11:01Z,,3,"[""CLA Signed""]",True
+facebook/react,35426,Fix controlled select reset behavior after form action,open,xuanxuan321,2025-12-30T06:15:53Z,2025-12-30T07:18:16Z,,2,"[""CLA Signed""]",True
+facebook/react,35424,react-reconciler: flushSync was renamed to flushSyncFromReconciler without deprecation notice,open,remorses,2025-12-29T10:39:57Z,2026-01-23T09:19:40Z,,3,[],False
+facebook/react,35423,Fix lazy thenable suspension race,open,leeguooooo,2025-12-29T02:58:08Z,2026-01-16T16:59:03Z,,4,"[""CLA Signed""]",True
+facebook/react,35421,"[DevTools Bug] Cannot reorder children for suspense node ""333"" because no matching node was found in the Store.",open,angularbinh2020,2025-12-28T11:43:37Z,2026-01-20T00:06:07Z,,4,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35420,Fix Report: ESLint Rules of Hooks Bug in Default Export Arrow Functions,open,afurm,2025-12-28T09:18:23Z,2025-12-28T09:18:29Z,,0,"[""CLA Signed""]",True
+facebook/react,35419,[compiler] Fix setState-in-effect for React.useEffect namespace calls (#35377),closed,AntonChesnokov,2025-12-27T10:14:55Z,2026-02-07T11:32:33Z,2026-02-04T16:07:18Z,3,"[""CLA Signed""]",True
+facebook/react,35418,Fix: Handle stale executionContext after breakpoint/alert interruption,open,hassanzadeh-mj,2025-12-27T07:07:11Z,2026-01-03T09:17:15Z,,3,"[""CLA Signed""]",True
+facebook/react,35416,fix: add missing useState import in test fixture,open,PGrayCS,2025-12-26T15:13:14Z,2025-12-26T15:13:20Z,,1,[],True
+facebook/react,35415,Fix/unhandled promise rejection stylesheet loading,open,Lihexs,2025-12-26T09:51:40Z,2025-12-26T09:51:46Z,,0,"[""CLA Signed""]",True
+facebook/react,35414,fix: Handle unhandled promise rejection in stylesheet loading,closed,Lihexs,2025-12-26T09:19:30Z,2025-12-26T10:23:43Z,2025-12-26T09:39:55Z,1,"[""CLA Signed""]",True
+facebook/react,35413,eslint-plugin-react-hooks: allow explicit undefined deps,open,leeguooooo,2025-12-26T06:17:58Z,2025-12-26T06:18:09Z,,0,"[""CLA Signed""]",True
+facebook/react,35412,eslint-plugin-react-hooks: flag optional hook calls,open,leeguooooo,2025-12-26T06:17:44Z,2025-12-27T01:48:17Z,,1,"[""CLA Signed""]",True
+facebook/react,35411,eslint-plugin-react-hooks: disallow hook arguments,open,leeguooooo,2025-12-26T06:17:31Z,2025-12-27T01:48:38Z,,1,"[""CLA Signed""]",True
+facebook/react,35410,done,closed,Dipesh-Kumar1,2025-12-25T21:34:28Z,2025-12-25T23:39:39Z,2025-12-25T21:42:52Z,1,[],True
+facebook/react,35409,Spam,closed,sueannioanis,2025-12-25T16:56:58Z,2025-12-26T00:43:35Z,2025-12-25T18:30:30Z,0,"[""CLA Signed""]",True
+facebook/react,35408,Add Md Mushfiqur Rahim to contributors list,closed,MD-Mushfiqur123,2025-12-25T10:15:38Z,2025-12-25T21:57:34Z,2025-12-25T10:42:30Z,14,[],True
+facebook/react,35406,add space line 29,closed,Inge-isaac,2025-12-24T22:33:52Z,2025-12-25T00:13:32Z,2025-12-25T00:13:32Z,1,[],True
+facebook/react,35405,test,closed,CharlieEriksen,2025-12-24T19:24:55Z,2025-12-24T19:28:08Z,2025-12-24T19:28:08Z,1,[],True
+facebook/react,35404,[eprh] Check for namespaced useEffectEvent,open,chirokas,2025-12-24T08:19:49Z,2026-02-05T08:25:21Z,,1,"[""CLA Signed""]",True
+facebook/react,35403,Add Deno CI workflow for linting and testing,closed,kaykwanele22,2025-12-23T10:45:38Z,2025-12-23T13:54:17Z,2025-12-23T13:54:16Z,4,"[""CLA Signed""]",True
+facebook/react,35402,"[DevTools Bug] Commit tree already contains fiber ""536"". This is a bug in React DevTools.",open,Rexjun01,2025-12-23T08:43:46Z,2026-02-07T22:09:39Z,,3,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35401,Re-enable Activity in config panel,open,afurm,2025-12-21T17:41:23Z,2025-12-21T17:41:41Z,,0,"[""CLA Signed""]",True
+facebook/react,35400,Add ReactChildren test for single-child key patterns,open,afurm,2025-12-21T16:57:38Z,2025-12-21T17:20:22Z,,8,"[""CLA Signed""]",True
+facebook/react,35399,Bug: resolveLazy catching promises causes race condition with short-lived Suspense-wrapped components,closed,TomLaVachette,2025-12-21T13:15:39Z,2026-01-16T18:04:58Z,2026-01-16T18:04:57Z,4,"[""Status: Unconfirmed""]",False
+facebook/react,35398,DevTools: Fix nested HOC name extraction in extractHOCNames,open,TerryTaoYY,2025-12-21T05:05:46Z,2025-12-21T05:11:54Z,,2,"[""CLA Signed""]",True
+facebook/react,35397,Bug: Nested providers for the same context will lead to unnecessary render calls when only the outside context value changed  (React 19 only),open,thomasjahoda,2025-12-20T17:36:35Z,2025-12-20T17:48:47Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35396,[DevTools Bug]:,closed,ivanm696,2025-12-20T12:58:15Z,2026-01-07T00:22:18Z,2026-01-07T00:22:18Z,0,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35395,"Perf: react-hooks ESLint plugin (eslint-plugin-react-hooks) rules are extremely slow, dominating lint time",open,jordan-cutler,2025-12-19T22:30:46Z,2026-01-27T05:41:29Z,,15,"[""Type: Feature Request"", ""Component: React Compiler"", ""Component: ESLint Rules""]",False
+facebook/react,35394,Bug: `eslint-plugin-react-hooks` hides all errors on multiple findings,open,trapgar,2025-12-19T18:39:27Z,2026-01-05T00:06:55Z,,9,"[""Status: Unconfirmed""]",False
+facebook/react,35393,Bug:,closed,RIMKALAND,2025-12-19T18:25:13Z,2026-01-07T00:22:31Z,2026-01-07T00:22:31Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35392,[flags] Add `enableParallelTransitions`,closed,rickhanlonii,2025-12-19T16:42:54Z,2026-02-04T18:58:38Z,2026-02-04T18:58:34Z,3,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35391,Use globalThis.Symbol.for to avoid Symbol shadowing,closed,Mudavath-Giri-Naik,2025-12-19T09:18:02Z,2025-12-19T09:31:30Z,2025-12-19T09:31:20Z,2,[],True
+facebook/react,35390,[Compiler Bug]: useEffectEvent bypasses react-hooks/set-state-in-effect lint rule,open,zyzo,2025-12-19T08:59:05Z,2025-12-21T19:19:37Z,,0,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35389,Bug: react-devtools 7.0.1 - Electron failed to install correctly,open,dougg0k,2025-12-18T19:10:54Z,2025-12-29T21:22:17Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35388,Add failing test for #35387,closed,gaearon,2025-12-17T18:23:56Z,2025-12-18T02:02:45Z,2025-12-18T02:02:44Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35387,Bug: Transition never resolves when nesting Suspense,closed,gaearon,2025-12-17T18:15:20Z,2025-12-18T09:29:44Z,2025-12-18T02:02:05Z,4,"[""Status: Unconfirmed""]",False
+facebook/react,35386,[Compiler Bug]: .map() callback extracted to module scope breaks closure over locally-scoped variables,open,Omarov3000,2025-12-17T12:28:58Z,2025-12-17T12:30:13Z,,0,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35385,dinesh added,closed,Dineshcs234,2025-12-17T10:50:13Z,2025-12-17T10:57:42Z,2025-12-17T10:57:42Z,2,[],True
+facebook/react,35384,Add helpful suggestion for `use(uncachedPromise)`.,open,cpojer,2025-12-17T10:28:01Z,2025-12-17T10:34:15Z,,2,"[""CLA Signed""]",True
+facebook/react,35383,fix(compiler): use globalThis.Symbol to prevent shadowing by user components,open,gowthamrdyy,2025-12-17T10:25:13Z,2025-12-17T10:34:57Z,,0,"[""CLA Signed""]",True
+facebook/react,35382,test(compiler): remove obsolete fixtures,closed,Nietzsche-Ubermensch,2025-12-17T06:45:47Z,2025-12-17T07:35:47Z,2025-12-17T07:35:47Z,2,[],True
+facebook/react,35381,Bug: I have found one issue on your blog.,open,mahesh-yadav-hipl,2025-12-17T06:13:50Z,2026-01-05T22:44:02Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35380,Skip hydration errors when a view transition has been applied,closed,sebmarkbage,2025-12-17T04:11:10Z,2025-12-17T14:37:44Z,2025-12-17T14:37:43Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35379,React Compiler generates erroneous code when an app contains a component named `Symbol`,open,devuxer,2025-12-17T03:03:34Z,2025-12-19T23:12:00Z,,5,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35378,[react] Optimize escape function by hoisting regex and lookup table,open,suekou,2025-12-17T01:00:20Z,2025-12-17T01:03:32Z,,1,"[""CLA Signed""]",True
+facebook/react,35377,Bug: `react-hooks/set-state-in-effect` doesn't work in `React.useState` and `React.useEffect`,closed,appellation,2025-12-16T20:44:21Z,2026-02-04T17:49:18Z,2026-02-04T17:49:17Z,2,"[""Status: Unconfirmed""]",False
+facebook/react,35376,[DevTools] Fix crash on reorder operation mismatch,open,shash-hq,2025-12-16T20:05:31Z,2025-12-17T17:05:24Z,,1,"[""CLA Signed""]",True
+facebook/react,35375,Fix cyclic thenable detection for multi-node cycles (#35368),closed,parisaghm,2025-12-16T19:32:08Z,2025-12-17T11:26:38Z,2025-12-17T11:26:37Z,4,"[""CLA Signed""]",True
+facebook/react,35374,Bump @modelcontextprotocol/sdk from 1.9.0 to 1.24.0 in /compiler,closed,dependabot[bot],2025-12-16T17:05:35Z,2026-01-07T16:21:48Z,2026-01-07T16:21:46Z,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35373,Bump jws from 3.2.2 to 3.2.3,open,dependabot[bot],2025-12-16T17:05:27Z,2025-12-16T17:14:18Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35372,Bug: Fiber Scheduler Overhead Under Heavy Suspense Trees,open,shareefmx,2025-12-16T15:02:49Z,2025-12-16T15:02:49Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35371,Upgrade GitHub Actions for Node 24 compatibility,open,salmanmkc,2025-12-16T11:32:17Z,2025-12-19T00:55:44Z,,0,"[""CLA Signed""]",True
+facebook/react,35370,Performance: store effects in array instead of linked list,open,romgrk,2025-12-16T09:44:39Z,2025-12-17T12:40:11Z,,2,"[""CLA Signed""]",True
+facebook/react,35369,Improve cyclic thenable detection in ReactFlightReplyServer,closed,cvan20191,2025-12-16T08:50:34Z,2025-12-17T11:22:26Z,2025-12-17T11:22:26Z,3,"[""CLA Signed""]",True
+facebook/react,35368,Improve cyclic thenable detection in ReactFlightReplyServer,closed,cvan20191,2025-12-16T06:42:13Z,2025-12-17T11:22:27Z,2025-12-17T11:22:27Z,2,"[""Status: Unconfirmed""]",False
+facebook/react,35367,Improve cyclic thenable detection in ReactFlightReplyServer,closed,cvan20191,2025-12-16T06:28:41Z,2025-12-16T06:35:05Z,2025-12-16T06:32:09Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35366,Fix: Make 'use no memo' apply recursively (#35350),closed,gowthamrdyy,2025-12-16T06:05:14Z,2025-12-17T03:36:32Z,2025-12-17T03:36:32Z,3,"[""CLA Signed""]",True
+facebook/react,35365,Add reporting modes for react-hooks/exhaustive-effect-dependencies and temporarily enable,closed,jackpope,2025-12-15T23:18:44Z,2025-12-15T23:59:30Z,2025-12-15T23:59:27Z,1,"[""CLA Signed""]",True
+facebook/react,35364,[compiler] proof of concept to validate relay derived setStates,open,jorge-cab,2025-12-15T21:19:28Z,2025-12-15T22:25:55Z,,1,"[""CLA Signed""]",True
+facebook/react,35363,Upgrade node-forge to ^1.3.2,open,EugeneChoi4,2025-12-15T20:32:29Z,2025-12-16T16:40:25Z,,2,"[""CLA Signed""]",True
+facebook/react,35362,Update license link in README.md,closed,aloky,2025-12-15T10:33:22Z,2025-12-16T10:21:52Z,2025-12-16T10:21:52Z,1,"[""CLA Signed""]",True
+facebook/react,35361,[test] Exclude repository root from assertions,closed,eps1lon,2025-12-15T09:42:49Z,2025-12-15T10:45:21Z,2025-12-15T10:45:17Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35360,[DevTools Bug] Children cannot be added or removed during a reorder operation.,closed,marinspira,2025-12-15T08:24:26Z,2026-02-07T22:24:24Z,2026-02-07T22:24:21Z,8,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35359,Fix: Controlled form inputs reset on form submission,open,rdanciu11,2025-12-15T01:46:10Z,2025-12-19T23:42:43Z,,3,"[""CLA Signed""]",True
+facebook/react,35358,[jest] Handle Windows backslashes in preprocessor path matching,open,HM-23-HM,2025-12-14T19:04:16Z,2025-12-14T20:06:18Z,,2,"[""CLA Signed""]",True
+facebook/react,35357,Update README.md,closed,VL9mHv0OoK,2025-12-14T16:25:39Z,2025-12-14T22:01:01Z,2025-12-14T22:01:01Z,1,[],True
+facebook/react,35356,Fix: Compiler now memoizes when const is between hooks (#35355),closed,pritjasani08,2025-12-13T13:21:03Z,2025-12-13T21:20:12Z,2025-12-13T21:20:11Z,1,"[""CLA Signed""]",True
+facebook/react,35355,[Compiler Bug]:Compiler doesn't memoize if const is between hooks,closed,pritjasani08,2025-12-13T13:10:35Z,2025-12-13T21:21:02Z,2025-12-13T21:20:43Z,1,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35354,Fix: Forms should not reset when action fails,closed,rdanciu11,2025-12-13T02:52:26Z,2025-12-18T15:53:12Z,2025-12-18T10:34:18Z,6,"[""CLA Signed""]",True
+facebook/react,35353,Upgrade nextjs for compiler playground,closed,jackpope,2025-12-12T13:28:56Z,2025-12-12T14:06:34Z,2025-12-12T14:06:31Z,0,"[""CLA Signed""]",True
+facebook/react,35352,[Compiler Bug]: Function hoisting ignored in eslint rule react-hooks/immutability,closed,nifgraup,2025-12-12T12:09:38Z,2025-12-15T09:17:33Z,2025-12-12T22:25:01Z,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35351,[Flight] Add extra loop protection,closed,sebmarkbage,2025-12-11T22:22:41Z,2025-12-27T11:26:54Z,2025-12-11T22:23:01Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35350,[Compiler Bug]: 'use no memo' does not apply recursively,open,yepitschunked,2025-12-11T22:16:39Z,2025-12-11T22:16:39Z,,0,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35349,Bug: Can't really access component stack `errorInfo.componentStack` on server,open,brillout,2025-12-11T21:46:21Z,2025-12-11T21:46:21Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35348,[compiler] Fix VariableDeclarator source location,closed,nathanmarks,2025-12-11T20:53:33Z,2025-12-11T23:02:06Z,2025-12-11T23:02:06Z,0,"[""CLA Signed""]",True
+facebook/react,35347,[test] Add tests for cyclic arrays in Flight and Flight Reply,closed,unstubbable,2025-12-11T20:29:36Z,2025-12-17T17:08:23Z,2025-12-17T17:08:17Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35346,"Revert ""[compiler] Fix VariableDeclarator source location (#35129)""",closed,sebmarkbage,2025-12-11T20:26:56Z,2025-12-11T20:27:19Z,2025-12-11T20:27:07Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35345,[Flight] Patch Promise cycles and toString on Server Functions,closed,sebmarkbage,2025-12-11T20:18:07Z,2025-12-11T20:24:24Z,2025-12-11T20:24:24Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35344,Add initial devcontainer configuration,closed,kingoncloud69,2025-12-11T15:53:45Z,2025-12-13T10:50:50Z,2025-12-13T10:50:50Z,1,[],True
+facebook/react,35343,fix[devtools]: feature-check document with typeof instead of direct reference,closed,hoxyq,2025-12-11T11:53:41Z,2025-12-11T12:15:03Z,2025-12-11T12:15:00Z,0,"[""CLA Signed""]",True
+facebook/react,35342,"[Compiler Bug]: React Compiler incorrectly hoists inner function outside closure, breaking variable reference",open,purpletortoise-choi,2025-12-11T05:31:32Z,2025-12-23T08:39:51Z,,1,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35341,Attach instance handle to DOM in DEV for enableInternalInstanceMap,closed,jackpope,2025-12-10T18:21:11Z,2025-12-10T18:35:23Z,2025-12-10T18:35:20Z,1,"[""CLA Signed""]",True
+facebook/react,35340,Bug: Server Components error when directly rendering a Context,closed,samselikoff,2025-12-09T21:46:08Z,2026-02-03T15:23:04Z,2026-02-03T15:23:04Z,2,"[""Status: Unconfirmed""]",False
+facebook/react,35338,[eprh] Enable enableUseKeyedState and enableVerboseNoSetStateInEffect,closed,poteto,2025-12-09T17:33:59Z,2025-12-09T19:20:26Z,2025-12-09T19:20:23Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35337,Fix ViewTransition crash in Mobile Safari,closed,gaearon,2025-12-09T12:40:05Z,2026-01-12T17:00:57Z,2025-12-09T18:35:16Z,4,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35336,Bug: ViewTransition with enter/exit hard-crashes iOS Safari,closed,gaearon,2025-12-09T12:25:51Z,2025-12-19T21:10:19Z,2025-12-17T03:47:25Z,5,"[""Type: Bug"", ""Browser: Safari""]",False
+facebook/react,35335,fix(compiler): avoid false-positive for destructured hook identifiers that are only called,closed,karankumbhare90,2025-12-09T08:42:18Z,2025-12-10T00:01:03Z,2025-12-10T00:01:02Z,2,"[""CLA Signed""]",True
+facebook/react,35334,[flow] Upgrade from 0.286 -> 0.292,open,poteto,2025-12-08T21:08:28Z,2025-12-10T07:39:34Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35333,[flow] Upgrade from 0.286 -> 0.288,open,poteto,2025-12-08T21:07:59Z,2025-12-08T21:08:39Z,,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35332,[flow] Upgrade from 0.282 -> 0.286,open,poteto,2025-12-08T21:07:57Z,2025-12-08T21:17:45Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35331,[flow] Upgrade from 0.281 -> 0.282,open,poteto,2025-12-08T21:07:56Z,2025-12-08T21:19:14Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35330,[flow] Upgrade from 0.280 -> 0.281,open,poteto,2025-12-08T21:07:54Z,2025-12-08T23:43:50Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35329,[flow] Upgrade from 0.279 -> 0.280,open,poteto,2025-12-08T21:07:52Z,2025-12-09T00:23:35Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35328,test(compiler): Add todo regression tests for UpdateExpression,open,tennisleng,2025-12-08T19:50:30Z,2025-12-11T20:20:47Z,,0,"[""CLA Signed""]",True
+facebook/react,35327,Bug: Suspense fallback streaming not working without html/body/head components,closed,HenriqueLimas,2025-12-08T19:35:07Z,2026-01-02T17:51:04Z,2026-01-02T17:51:04Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35326,"[Compiler Bug]: False positive on ""Hooks may not be referenced as normal values, they must be called""",open,oliverlaz,2025-12-08T14:56:54Z,2026-01-23T03:03:07Z,,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35325,Bug:,closed,trexamhna-dot,2025-12-08T11:24:48Z,2025-12-09T16:04:41Z,2025-12-09T16:04:41Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35324,wip: separate lint compile pipeline,closed,apoeco,2025-12-08T09:33:54Z,2025-12-08T16:38:37Z,2025-12-08T16:38:14Z,1,"[""CLA Signed""]",True
+facebook/react,35323,[Compiler Bug]:,closed,kjtmdq6s9k-hash,2025-12-08T07:21:29Z,2025-12-09T16:04:55Z,2025-12-09T16:04:55Z,0,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35322,"Bug: React DevTools shows different versions (Stable vs. Canary) for Page/App Router in Next.js, potentially indicating an unpatched security risk (19.2.0-canary vs 19.2.1)",closed,01026551290,2025-12-08T04:20:00Z,2025-12-08T06:30:40Z,2025-12-08T05:18:22Z,2,"[""Status: Unconfirmed""]",False
+facebook/react,35321,test(compiler): Add regression tests for UpdateExpression,closed,tennisleng,2025-12-08T00:40:14Z,2025-12-08T16:41:18Z,2025-12-08T16:41:17Z,1,"[""CLA Signed""]",True
+facebook/react,35320,fix(compiler): Support UpdateExpression on captured variables logic,closed,tennisleng,2025-12-08T00:40:11Z,2025-12-08T16:40:06Z,2025-12-08T16:40:06Z,1,"[""CLA Signed""]",True
+facebook/react,35319,[Compiler Bug]: Cannot reassign component props,open,otomad,2025-12-07T20:20:42Z,2026-01-03T15:44:34Z,,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35318,Support `module.property.useHook()` in Fast Refresh,open,ArnaudBarre,2025-12-07T15:10:19Z,2025-12-07T17:07:13Z,,3,"[""CLA Signed""]",True
+facebook/react,35317,[playground] Downgrade Next.js to a secure version,closed,eps1lon,2025-12-07T13:51:11Z,2025-12-08T19:06:58Z,2025-12-08T19:06:58Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35316,[test] Cleanup stack assertions in tests mixing React Server and Client,closed,eps1lon,2025-12-07T11:43:19Z,2025-12-07T16:45:08Z,2025-12-07T16:45:06Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35313,Run CI for backport releases,closed,eps1lon,2025-12-06T18:24:10Z,2025-12-07T10:46:27Z,2025-12-07T10:46:19Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35311,Fix: set-state-in-use-effect false negative when there are multiple i…,closed,YASHRDX0001,2025-12-06T11:15:49Z,2025-12-06T22:56:12Z,2025-12-06T19:54:32Z,1,"[""CLA Signed""]",True
+facebook/react,35310,Fix: set-state-in-use-effect false negative when there are multiple i…,closed,YASHRDX0001,2025-12-06T10:08:41Z,2025-12-06T22:56:00Z,2025-12-06T19:53:51Z,3,"[""CLA Signed""]",True
+facebook/react,35309,[Security] Fix HIGH vulnerability: V-002,closed,orbisai0security,2025-12-06T02:38:00Z,2025-12-06T04:38:42Z,2025-12-06T04:38:41Z,2,[],True
+facebook/react,35308,[scripts] Remove `perf-counters`,closed,eps1lon,2025-12-06T01:41:18Z,2025-12-06T11:33:45Z,2025-12-06T11:33:42Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35307,Bug: Facebook account nakalimutan ko pano maopen ang aking account,closed,angeloekimleonardo-bit,2025-12-06T00:01:33Z,2025-12-06T01:00:15Z,2025-12-06T01:00:15Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35306,[compiler] Add enableVerboseNoSetStateInEffect to suggest options to user/agent,closed,poteto,2025-12-05T21:37:41Z,2025-12-08T17:16:31Z,2025-12-08T17:16:28Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35305,fix(compiler): support UpdateExpression on captured variables,closed,tennisleng,2025-12-05T21:17:12Z,2025-12-08T00:44:01Z,2025-12-08T00:44:01Z,1,"[""CLA Signed""]",True
+facebook/react,35304,fix: correctly compile post-increment assignment,open,tennisleng,2025-12-05T21:09:53Z,2025-12-11T19:00:51Z,,2,"[""CLA Signed""]",True
+facebook/react,35303,Update closure compiler,closed,sebmarkbage,2025-12-05T20:59:24Z,2026-01-12T19:21:56Z,2026-01-12T19:21:56Z,3,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35302,ASDF,closed,mausam-005,2025-12-05T19:56:51Z,2025-12-05T21:11:24Z,2025-12-05T21:11:24Z,0,[],False
+facebook/react,35301,Render,closed,mausam-005,2025-12-05T19:41:43Z,2025-12-05T21:11:19Z,2025-12-05T21:11:19Z,0,[],False
+facebook/react,35300,Bug : Component not rendering,closed,mausam-005,2025-12-05T19:30:06Z,2025-12-09T16:05:07Z,2025-12-09T16:05:07Z,1,[],False
+facebook/react,35299,fix(compiler): detect setState in effects when useState declared later (#35291),closed,Garvitpant777,2025-12-05T18:46:44Z,2025-12-08T17:24:51Z,2025-12-06T20:01:06Z,1,"[""CLA Signed""]",True
+facebook/react,35298,[compiler] Improve impurity/ref validation,open,josephsavona,2025-12-05T18:42:27Z,2026-01-23T19:08:04Z,,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35297,[react-reconciler] Fix typos in comments,open,yujiteshima,2025-12-05T15:31:19Z,2025-12-14T04:34:31Z,,3,"[""CLA Signed""]",True
+facebook/react,35296,fix[devtools]: no-op unsupported backend bridge events,closed,hoxyq,2025-12-05T14:43:44Z,2025-12-05T16:42:03Z,2025-12-05T16:41:59Z,0,"[""CLA Signed""]",True
+facebook/react,35295,Bug: Forms are reset when action fails,closed,OliverJAsh,2025-12-05T14:11:37Z,2025-12-19T09:04:08Z,2025-12-19T09:04:08Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35294,"fix[devtools]: still show overlay, if getClientRects is not implemented",closed,hoxyq,2025-12-05T12:41:19Z,2025-12-10T19:21:34Z,2025-12-10T19:21:28Z,0,"[""CLA Signed""]",True
+facebook/react,35293,fix[devtools]: feature-check structure stack trace methods,closed,hoxyq,2025-12-05T12:23:16Z,2025-12-10T19:22:58Z,2025-12-10T19:21:54Z,0,"[""CLA Signed""]",True
+facebook/react,35292,Add nodiscard attributes and eliminate differing code styles from C++ source files,closed,mikomikotaishi,2025-12-05T02:17:50Z,2025-12-06T01:44:17Z,2025-12-06T01:00:32Z,4,"[""CLA Signed""]",True
+facebook/react,35291,Bug: set-state-in-use-effect false negative when there are multiple instances,closed,roryabraham,2025-12-05T00:26:04Z,2025-12-16T08:21:35Z,2025-12-06T19:30:56Z,4,"[""Status: Unconfirmed"", ""Component: React Compiler"", ""Resolution: Needs More Information""]",False
+facebook/react,35290,[Flight] Move `react-server-dom-webpack/*.unbundled` to private `react-server-dom-unbundled`,closed,eps1lon,2025-12-05T00:08:11Z,2026-01-01T04:55:47Z,2025-12-05T02:59:21Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35289,"[Flight] Never parse ""then"" functions",closed,sebmarkbage,2025-12-05T00:01:05Z,2025-12-05T00:05:53Z,2025-12-05T00:05:53Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35288,initial pipeline,closed,Jahnavi23-lab,2025-12-04T22:54:09Z,2025-12-05T16:55:32Z,2025-12-05T16:55:32Z,1,[],True
+facebook/react,35287,[compiler]: Incorrectly uses variable name issue 35268,open,kostya-gromov,2025-12-04T12:44:01Z,2025-12-10T11:46:47Z,,5,"[""CLA Signed""]",True
+facebook/react,35286,.,closed,superpegaso2703,2025-12-04T11:01:25Z,2025-12-07T14:03:41Z,2025-12-04T11:27:53Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35285,[compiler][poc] Reuse ValidateExhaustiveDeps for effect dep validation,closed,josephsavona,2025-12-04T08:09:48Z,2025-12-08T15:58:38Z,2025-12-08T15:58:38Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35284,[compiler] Fix bug w functions depending on hoisted primitives,closed,josephsavona,2025-12-04T07:08:36Z,2025-12-05T19:29:09Z,2025-12-05T19:29:06Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35283,"Bug: eslint-plugin-react-hooks not throwing ""Hooks may not be referenced as normal values"" error",open,jsladerman,2025-12-04T01:33:51Z,2026-01-04T23:28:20Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35282,[compiler] Add validator for extraneous effect deps,closed,jackpope,2025-12-03T22:37:54Z,2025-12-05T15:43:30Z,2025-12-05T15:43:30Z,2,"[""CLA Signed""]",True
+facebook/react,35281,Improve legacy context StrictMode warning clarity,open,Harshrj53,2025-12-03T17:20:28Z,2025-12-03T17:20:35Z,,0,"[""CLA Signed""]",True
+facebook/react,35280,[compiler] Fix `set-state-in-effect` validation for `React.useEffect`,open,jynxio,2025-12-03T17:13:13Z,2026-01-30T19:27:27Z,,3,"[""CLA Signed""]",True
+facebook/react,35279,Update changelog with latest releases,closed,eps1lon,2025-12-03T17:05:09Z,2025-12-03T17:18:41Z,2025-12-03T17:13:44Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35278,Add __REACT_DEVTOOLS_HIDE_CONSOLE__ to suppress DevTools download message,closed,more-shubham,2025-12-03T16:46:22Z,2025-12-20T05:54:13Z,2025-12-20T05:54:13Z,2,"[""CLA Signed""]",True
+facebook/react,35277,Patch FlightReplyServer with fixes from ReactFlightClient,closed,sebmarkbage,2025-12-03T15:38:25Z,2025-12-21T21:24:57Z,2025-12-03T15:41:19Z,15,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35276,Bug: react-hooks/set-state-in-effect: false-positive with ternary,open,silverwind,2025-12-03T14:40:30Z,2025-12-15T13:58:50Z,,7,"[""Status: Unconfirmed""]",False
+facebook/react,35275,Improve dev warning message for invalid useEffect usage during render,open,Harshrj53,2025-12-03T11:31:11Z,2025-12-03T17:21:32Z,,0,"[""CLA Signed""]",True
+facebook/react,35274,fix(react-compiler): preserve variable references in JSX tags,closed,saitejacodes,2025-12-03T11:24:15Z,2025-12-03T15:21:36Z,2025-12-03T15:21:36Z,3,"[""CLA Signed""]",True
+facebook/react,35273,Bug:,closed,Vchenrd,2025-12-03T04:23:28Z,2025-12-04T05:13:15Z,2025-12-04T05:13:15Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35272,Bug:,closed,Vchenrd,2025-12-03T04:22:03Z,2025-12-04T05:13:11Z,2025-12-04T05:13:11Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35271,Bug: `progressiveChunkSize` forcing streaming SSR breaks html file integrity and `onAllReady` behavior,open,SoonIter,2025-12-03T03:26:58Z,2025-12-03T03:26:58Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35270,[release] Allow building single release channel with processed versions,closed,eps1lon,2025-12-02T19:50:29Z,2025-12-02T21:05:15Z,2025-12-02T21:05:11Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35269,[compiler] Fix `set-state-in-effect` validation for `React.useEffect`,closed,jynxio,2025-12-02T19:28:02Z,2025-12-03T17:15:38Z,2025-12-03T16:52:31Z,2,"[""CLA Signed""]",True
+facebook/react,35268,[Compiler Bug]: incorrectly uses variable name as JSX tag (`<base />`) instead of referenced value,open,icyJoseph,2025-12-02T12:42:48Z,2025-12-03T07:19:39Z,,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35267,chore: fix spelling (behaviour → behavior) in multiple comment files,open,Harshrj53,2025-12-02T07:11:58Z,2025-12-04T13:52:22Z,,2,"[""CLA Signed""]",True
+facebook/react,35266,"Rewritten LRU with safer flows, explicit APIs, and improved cleanup handling",open,Nondukishor,2025-12-02T07:08:35Z,2025-12-22T10:18:19Z,,2,"[""CLA Signed""]",True
+facebook/react,35265,Fix: Prevent false positives in rules-of-hooks for regular classesFix: Prevent false positives in rules-of-hooks for regular classes,open,hukshh,2025-12-01T20:42:49Z,2025-12-15T07:43:56Z,,4,"[""CLA Signed""]",True
+facebook/react,35264,`react-hooks/rules-of-hooks` false positives inside class instances (not class components),open,romgrk,2025-12-01T15:40:41Z,2025-12-03T09:06:27Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35263,Bug: fabric completeRoot called for suspended comp. w/ same tree output,open,hannojg,2025-12-01T14:30:44Z,2025-12-01T14:30:44Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35262,fabric: reproduction completeRoot called for suspended component update,open,hannojg,2025-12-01T14:29:13Z,2025-12-01T14:29:19Z,,0,"[""CLA Signed""]",True
+facebook/react,35261,Bug: React 19.2 doesn't seem to have useEffectEvent :(,closed,Dorious,2025-12-01T12:13:57Z,2025-12-01T15:07:57Z,2025-12-01T14:35:21Z,4,"[""Status: Unconfirmed""]",False
+facebook/react,35260,Bug:,closed,tirth-shah-digipine,2025-12-01T10:48:55Z,2025-12-01T10:49:25Z,2025-12-01T10:49:25Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35259,[compiler] added compatibility with .wav,closed,PJIMTOR,2025-12-01T08:47:55Z,2025-12-01T12:39:15Z,2025-12-01T12:39:15Z,1,[],True
+facebook/react,35258,[eprh] fix react-compiler rules missing `meta.docs.url` property,closed,k-yle,2025-12-01T08:34:29Z,2025-12-04T21:37:30Z,2025-12-04T20:28:13Z,2,"[""CLA Signed""]",True
+facebook/react,35248,[compiler] Fix computed property keys in object method shorthand,open,lluisemper,2025-11-29T20:20:35Z,2025-12-12T20:26:34Z,,1,"[""CLA Signed""]",True
+facebook/react,35247,fix(react-dom): use server.node.js for Deno to prevent build hangs (#35231),closed,Garvitpant777,2025-11-28T20:55:51Z,2025-12-04T05:50:28Z,2025-12-04T05:50:28Z,5,"[""CLA Signed""]",True
+facebook/react,35246,[Flight] Fix visitAsyncNode infinite recursion with circular async nodes,closed,jere-co,2025-11-28T18:09:33Z,2026-02-04T18:43:25Z,2026-02-04T18:43:25Z,6,"[""CLA Signed""]",True
+facebook/react,35245,"[DevTools Bug]: Internal state change in cousin component causing a ""re-render"" in another cousin component wrapped inside parent divs.",closed,mukesharyal,2025-11-28T16:15:34Z,2026-02-09T23:19:54Z,2026-02-09T23:19:54Z,4,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35244,[DevTools Bug]: Internal state change in a cousin component causing a Profiler re-render in another cousin component wrapped inside parent divs.,closed,mukesharyal,2025-11-28T15:09:57Z,2025-11-28T15:46:40Z,2025-11-28T15:46:40Z,1,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35243,Bug: Should have a queue. This is likely a bug in React,open,sindiAsx,2025-11-28T15:07:45Z,2025-12-02T09:23:01Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35242,Bug: `useActionState`'s second argument is not optional in the React types,open,cpojer,2025-11-28T07:26:15Z,2025-11-30T03:25:38Z,,3,"[""Status: Unconfirmed""]",False
+facebook/react,35240,[DevTools] Add React Element pane to browser Elements panel,closed,eps1lon,2025-11-27T23:31:08Z,2026-01-22T14:00:01Z,2026-01-15T12:24:08Z,0,"[""CLA Signed""]",True
+facebook/react,35239,"Bug: Compiler, group memoisation",open,Grafikart,2025-11-27T18:35:09Z,2025-11-27T18:38:52Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35238,[Devtools] Navigating commits performance panel hotkey,closed,emily8rown,2025-11-27T18:29:21Z,2025-12-10T13:07:35Z,2025-12-10T13:07:35Z,0,"[""CLA Signed""]",True
+facebook/react,35237,[Compiler Bug]: Memoization depends on how the order of the lines of code,open,leoasis,2025-11-27T17:36:40Z,2026-02-10T22:37:24Z,,6,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35236,Fix markdown formatting and spacing inconsistencies in README  Fixed …,open,2400033206,2025-11-27T17:17:59Z,2025-11-27T17:18:06Z,,1,[],True
+facebook/react,35235,[react-dom/server] Fix hanging on Deno,closed,fraidev,2025-11-27T15:07:25Z,2025-12-04T08:45:55Z,2025-12-04T05:50:27Z,5,"[""CLA Signed""]",True
+facebook/react,35234,[test] Only run tests overriding fallback and error states in supported versions,closed,eps1lon,2025-11-27T13:13:56Z,2025-11-27T15:44:11Z,2025-11-27T15:15:15Z,0,"[""CLA Signed""]",True
+facebook/react,35233,[test] Update ESLint e2e tests,closed,eps1lon,2025-11-27T13:05:14Z,2025-12-01T18:04:02Z,2025-12-01T18:03:59Z,1,"[""CLA Signed""]",True
+facebook/react,35232,Add React Error Message Assistant package,closed,robglnn,2025-11-27T05:30:15Z,2025-12-05T16:56:51Z,2025-12-05T16:56:51Z,0,"[""CLA Signed""]",True
+facebook/react,35231,Bug: Build of `react-dom` hangs on Deno runtime,closed,fraidev,2025-11-27T05:08:45Z,2025-12-04T06:02:50Z,2025-12-04T05:50:28Z,1,"[""Status: Unconfirmed""]",False
+facebook/react,35230,[compiler] Add enableUseKeyedState flag and improve setState-in-render errors,closed,poteto,2025-11-26T21:14:40Z,2025-12-04T23:29:14Z,2025-12-04T23:29:10Z,3,"[""CLA Signed""]",True
+facebook/react,35229,[DevTools] Fix console links not being openable,closed,eps1lon,2025-11-26T18:11:16Z,2026-01-21T09:35:43Z,2026-01-21T09:34:26Z,0,"[""CLA Signed""]",True
+facebook/react,35228,Add shared utility isValidElementType to React,open,ArsiyaTasleem90250,2025-11-26T16:50:30Z,2025-11-26T18:18:32Z,,2,"[""CLA Signed""]",True
+facebook/react,35227,[test] Fix Error Proxy in Node.js 21+,closed,eps1lon,2025-11-26T16:43:48Z,2025-11-29T15:53:06Z,2025-11-29T15:52:39Z,0,"[""CLA Signed""]",True
+facebook/react,35226,[Fizz] Push a stalled use() to the ownerStack/debugTask,closed,eps1lon,2025-11-26T14:01:34Z,2026-01-19T08:10:20Z,2026-01-19T08:10:16Z,1,"[""CLA Signed""]",True
+facebook/react,35225,Bug: Erro: Falha ao executar 'insertBefore' em 'Node': O nó antes do qual o novo nó deve ser inserido não é filho deste nó.,open,Raugusto79,2025-11-26T13:44:17Z,2025-12-05T14:18:29Z,,3,"[""Status: Unconfirmed""]",False
+facebook/react,35224,Title: Fix minor typo/formatting inconsistency in React documentation/component code comment,open,AkhilChowdary2222,2025-11-26T10:42:57Z,2025-11-26T10:42:57Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35223,dd example usage of useDeferredValue in React Docs,open,AkhilChowdary2222,2025-11-26T10:42:13Z,2025-11-26T10:42:13Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35222,Bug: Suspense fallback re-renders excessively during slow network responses,open,kl2400033266,2025-11-26T10:39:11Z,2025-11-27T12:49:17Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35221,Bug:,open,kl2400033266,2025-11-26T10:35:40Z,2025-11-26T10:55:51Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35220,Bug: useState hook not updating state correctly in async functions,open,Arun24-8,2025-11-26T10:27:48Z,2025-12-08T06:52:55Z,,2,"[""Status: Unconfirmed""]",False
+pallets/flask,5874,Clarify 415 Unsupported Media in JSON docs,closed,Soham-1616,2025-12-29T05:02:44Z,2026-01-13T00:08:13Z,2025-12-29T05:06:00Z,0,[],True
+pallets/flask,5873,Clarify 415 Unsupported Media Type in JSON docs,closed,Soham-1616,2025-12-29T05:01:29Z,2026-01-13T00:08:14Z,2025-12-29T05:01:39Z,0,[],True
+pallets/flask,5872,Fixed error code documentation for request.json,closed,JasonBalayev,2025-12-27T17:16:48Z,2025-12-27T21:24:37Z,2025-12-27T17:36:44Z,4,[],True
+pallets/flask,5871,init,closed,Nitish-555,2025-12-25T02:16:34Z,2026-01-09T00:09:43Z,2025-12-25T02:18:52Z,0,[],True
+pallets/flask,5870,Teardown handler chain exception handling,closed,0x-Apollyon,2025-12-24T15:27:55Z,2026-01-08T00:10:10Z,2025-12-24T16:01:34Z,1,[],False
+pallets/flask,5869,Document 415 Unsupported Media Type for JSON requests,closed,sunilkushwahaisgreat-jpg,2025-12-23T08:10:39Z,2026-01-07T00:08:44Z,2025-12-23T14:48:27Z,0,[],True
+pallets/flask,5868,Improve exception handler in wsgi_app method,closed,latifbaihaki,2025-12-22T00:34:42Z,2026-01-06T00:10:07Z,2025-12-22T01:30:40Z,0,[],True
+pallets/flask,5867,Deprecate should_ignore_error method,closed,ayushpatil0810,2025-12-18T12:19:47Z,2026-01-02T00:09:51Z,2025-12-18T12:30:25Z,1,[],True
+pallets/flask,5866,Clarify JSON request errors: 400 vs 415,closed,ShakibCodes,2025-12-18T07:04:01Z,2026-01-02T00:09:50Z,2025-12-18T15:21:39Z,0,[],True
+pallets/flask,5865,Increase required flit_core version to 3.11,closed,marcows,2025-12-17T15:22:57Z,2026-02-11T00:17:35Z,2026-01-25T03:04:07Z,0,[],True
+pallets/flask,5864,Add built-in CSRF protection using Sec-Fetch-Site header,closed,sharoonthomas,2025-12-17T02:52:56Z,2025-12-17T15:34:24Z,2025-12-17T15:07:43Z,4,[],True
+pallets/flask,5863,Modern CSRF Protection Using `Sec-Fetch-Site` Header,closed,sharoonthomas,2025-12-15T16:29:24Z,2025-12-17T15:35:54Z,2025-12-17T15:35:42Z,6,[],False
+pallets/flask,5861,Proposal: CLI command to validate API endpoints by making test requests,closed,jyup-escape,2025-12-13T10:43:23Z,2025-12-13T11:09:29Z,2025-12-13T11:09:29Z,3,[],False
+pallets/flask,5860,Fix documentation for JSON error codes,closed,cotneok,2025-12-10T22:26:28Z,2025-12-25T00:09:40Z,2025-12-10T22:41:48Z,0,[],True
+pallets/flask,5859,Create test,closed,bayraa16,2025-12-10T09:30:23Z,2025-12-25T00:09:41Z,2025-12-10T10:12:44Z,1,[],True
+pallets/flask,5858,"Refactor __init__.py module to improve organization, readability and public API structure",closed,ilmoruuu,2025-12-08T01:10:05Z,2025-12-23T00:09:44Z,2025-12-08T01:11:46Z,3,[],True
+pallets/flask,5857,Add documentation and fix type safety bugs,closed,paolotercerosdev,2025-11-30T06:53:11Z,2025-12-15T00:10:09Z,2025-11-30T15:37:42Z,1,[],True
+pallets/flask,5856,Refactor Blueprint.register to reduce cyclomatic complexity,closed,VaksHSE,2025-11-29T08:21:05Z,2025-12-14T00:10:22Z,2025-11-29T14:18:40Z,0,[],True
+pallets/flask,5855,kimi-v1,closed,stonelv,2025-11-29T07:44:54Z,2025-12-14T00:10:23Z,2025-11-29T07:45:23Z,0,[],True
+pallets/flask,5854,Deprecate should_ignore_error method and add unit tests,closed,akarshsinghal,2025-11-29T04:46:08Z,2025-12-14T00:10:24Z,2025-11-29T05:15:08Z,0,[],True
+pallets/flask,5853,Added rate limiting functionality to Flask app,closed,txjas99,2025-11-25T16:43:59Z,2025-12-11T00:09:50Z,2025-11-25T16:46:14Z,5,[],True
+pallets/flask,5852,Docs: Add WSGI documentation note to README,closed,manojalluri,2025-11-25T16:36:10Z,2025-12-10T00:09:38Z,2025-11-25T16:40:06Z,1,[],True
+pallets/flask,5851,Add Copy-to-Clipboard button for code examples in documentation,closed,Anirudh-020505,2025-11-21T08:56:06Z,2025-12-06T00:09:01Z,2025-11-21T15:59:10Z,0,[],False
+pallets/flask,5850,Add copy-to-clipboard button for code blocks in Flask documentation.,closed,MOHITKOURAV01,2025-11-19T10:45:00Z,2025-12-04T00:09:29Z,2025-11-19T14:30:39Z,0,[],True
+pallets/flask,5849,Add copy-to-clipboard button for code blocks in Flask documentation.,closed,MOHITKOURAV01,2025-11-19T09:37:58Z,2025-12-04T00:09:30Z,2025-11-19T09:51:46Z,0,[],True
+pallets/flask,5848,Add copy-to-clipboard button for code blocks in Flask documentation.,closed,MOHITKOURAV01,2025-11-19T07:09:10Z,2025-12-04T00:09:27Z,2025-11-19T14:30:56Z,0,[],False
+pallets/flask,5847,docs: Improve Quickstart example clarity for beginners,closed,waweruvincent146-afk,2025-11-12T05:57:44Z,2025-11-27T00:09:01Z,2025-11-12T06:52:19Z,1,[],True
+pallets/flask,5846,Fix _validate_key to handle click 8.3.1 Sentinel values,closed,pramod5403,2025-11-10T16:17:52Z,2025-11-25T00:08:08Z,2025-11-10T19:17:34Z,1,[],True
+pallets/flask,5845,docs: Add explanation of reloader types and terminal output,closed,commitWithTisha,2025-11-09T06:28:20Z,2026-02-09T00:13:56Z,2026-01-25T01:22:44Z,0,[],True
+pallets/flask,5844,pre-commit: Add codespell,closed,cclauss,2025-11-05T17:14:08Z,2026-02-09T00:13:52Z,2026-01-25T03:00:24Z,0,[],True
+pallets/flask,5840,docs: enhance README with comprehensive examples and troubleshooting,closed,ARUSHIGULBHILE,2025-10-31T14:08:37Z,2025-11-15T00:08:21Z,2025-10-31T14:59:13Z,0,[],True
+pallets/flask,5839,"Really, I can't close connection???",closed,serbinskis,2025-10-30T21:35:46Z,2025-10-30T22:40:25Z,2025-10-30T22:31:35Z,4,[],False
+pallets/flask,5838,Update app.py,closed,bodduNaidu,2025-10-29T20:59:42Z,2025-11-13T00:09:16Z,2025-10-29T21:01:24Z,1,"[""Invalid""]",True
+pallets/flask,5837,Create jenkinsfile,closed,bodduNaidu,2025-10-29T20:53:12Z,2025-11-13T00:09:17Z,2025-10-29T20:54:19Z,0,"[""Invalid""]",True
+pallets/flask,5836,Test failures with click 8.3.1,closed,dotlambda,2025-10-25T20:08:38Z,2025-11-26T00:09:12Z,2025-11-10T19:18:28Z,8,[],False
+pallets/flask,5835,Add Seenode deployment instructions to documentation,closed,GeoSegun,2025-10-23T10:30:06Z,2026-02-09T00:13:55Z,2026-01-25T01:35:18Z,1,[],True
+pallets/flask,5834,`pre-commit autoupdate --freeze` 2025-10-23,closed,cclauss,2025-10-22T08:30:20Z,2025-11-20T00:09:12Z,2025-11-05T16:17:32Z,0,[],True
+pallets/flask,5833,fix typos discovered by  codespell,closed,cclauss,2025-10-22T08:19:47Z,2025-11-21T00:09:09Z,2025-11-05T16:10:41Z,2,[],True
+pallets/flask,5832,GitHub Actions: Add Python 3.14 and 3.14t to the testing,closed,cclauss,2025-10-22T05:58:58Z,2025-11-20T00:09:11Z,2025-11-05T16:17:49Z,0,[],True
+pallets/flask,5831,Update installation instructions for Windows PowerShell,closed,MeowyCat1,2025-10-19T10:08:40Z,2025-12-03T00:09:21Z,2025-11-17T00:52:20Z,4,[],True
+pallets/flask,5829,Docs typo/markup fixes,closed,hynek,2025-10-14T07:43:09Z,2025-10-30T00:08:51Z,2025-10-14T20:26:26Z,0,[],True
+pallets/flask,5828,docs: fix missing quote in flashing example,closed,sachintha180,2025-10-13T15:33:59Z,2025-10-28T00:08:13Z,2025-10-13T15:50:14Z,2,[],True
+pallets/flask,5827,clarify 415 vs 400 errors for request.json,closed,adityasah104,2025-10-09T07:06:09Z,2026-02-09T00:13:53Z,2026-01-25T02:46:57Z,5,"[""docs""]",True
+pallets/flask,5826,docs: clarify JSON parsing error conditions in Flask views,closed,Samarthegde,2025-10-08T13:14:31Z,2025-10-24T00:07:25Z,2025-10-08T18:23:11Z,1,[],True
+pallets/flask,5825,Document 415 on the receiving json section,closed,elafonta,2025-10-07T15:41:58Z,2026-02-09T00:13:48Z,2026-01-25T03:02:15Z,4,"[""docs""]",False
+docker/compose,13488,refactor(attach): improve attach error handling and cleanup,closed,htoyoda18,2025-12-31T16:32:22Z,2026-01-21T10:06:32Z,2026-01-19T16:46:55Z,2,[],True
+docker/compose,13487,[BUG] panic: runtime error: index out of range [36] with length 9.121405,closed,bigfoot90,2025-12-31T12:33:13Z,2026-01-03T10:34:45Z,2026-01-03T10:34:45Z,1,[],False
+docker/compose,13486,[BUG] <title>error running netem delay command: error running chaos command: error listing containers,closed,shujiawei001,2025-12-31T07:14:51Z,2026-01-06T09:51:00Z,2026-01-06T09:51:00Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13485,"bugfix; change log level of ""No services to build"" warning log",closed,leo9800,2025-12-30T06:41:46Z,2026-01-05T13:40:16Z,2026-01-05T13:40:16Z,1,[],True
+docker/compose,13484,"[BUG] Unhelpful warning ""No services to build"" with `docker compose up`",closed,snowdroppe,2025-12-29T18:23:55Z,2026-01-29T00:23:16Z,2026-01-05T12:17:22Z,7,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13483,fix: clean up temporary compose files after conversion,closed,htoyoda18,2025-12-29T17:35:45Z,2026-01-05T14:17:01Z,2026-01-05T08:01:56Z,0,[],True
+docker/compose,13482,"[BUG] Temporary file leak and race condition in ""bridge convert""",closed,htoyoda18,2025-12-29T16:33:37Z,2026-01-05T08:01:58Z,2026-01-05T08:01:58Z,2,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13481,Fix typo in isSwarmEnabled method name,closed,htoyoda18,2025-12-27T16:29:42Z,2026-01-05T14:17:06Z,2026-01-05T08:11:59Z,0,[],True
+docker/compose,13480,Fix incorrect usage of errgroup.WithContext,closed,htoyoda18,2025-12-27T06:00:28Z,2026-01-05T14:17:12Z,2026-01-05T08:27:46Z,0,[],True
+docker/compose,13479,[BUG] Docker compose push command crashing,closed,renato-machado-atman,2025-12-26T15:00:10Z,2026-01-06T09:52:01Z,2026-01-06T09:52:01Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13478,feat: conditionally warn when no services to build,closed,ismdeep,2025-12-25T12:54:32Z,2026-01-13T09:27:00Z,2026-01-12T16:49:51Z,1,[],True
+docker/compose,13477,Add a short high-level explanation of typical docker-compose use cases,open,VNel,2025-12-24T16:01:28Z,2025-12-24T16:04:20Z,,0,[],True
+docker/compose,13476,Add a short high-level explanation of typical docker-compose use cases,closed,VNel,2025-12-24T13:57:37Z,2026-01-07T08:59:14Z,2026-01-07T08:59:13Z,2,[],False
+docker/compose,13475,build(deps): bump google.golang.org/grpc from 1.77.0 to 1.78.0,closed,dependabot[bot],2025-12-24T09:02:58Z,2026-01-12T16:50:17Z,2026-01-12T16:50:15Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13474,[BUG] Pulling TUI mixes up lines,closed,gothicVI,2025-12-23T16:10:03Z,2026-01-19T10:14:25Z,2026-01-19T10:14:25Z,36,"[""kind/bug""]",False
+docker/compose,13473,build(deps): bump github.com/moby/go-archive from 0.1.0 to 0.2.0,closed,dependabot[bot],2025-12-22T09:02:38Z,2026-01-19T16:56:24Z,2026-01-19T16:56:21Z,6,"[""dependencies"", ""go""]",True
+docker/compose,13472,[Community Convention Proposal]: Consistent variable names for UID/GID/ARCH/OS,closed,Norbiros,2025-12-20T18:57:01Z,2025-12-21T09:14:46Z,2025-12-20T18:57:13Z,0,[],False
+docker/compose,13471,Fix timeout initialization when waitTimeout is zero,closed,htoyoda18,2025-12-20T06:51:55Z,2026-01-05T14:17:18Z,2026-01-05T08:31:14Z,0,[],True
+docker/compose,13470,add service name completion to down command,closed,bmo-at,2025-12-19T17:19:02Z,2026-01-05T08:32:39Z,2026-01-05T08:32:39Z,0,[],True
+docker/compose,13469,[FEATURE REQUEST] `docker compose down` does not suggest service names as completion,closed,bmo-at,2025-12-19T16:37:10Z,2026-01-07T09:00:09Z,2026-01-07T09:00:09Z,1,"[""kind/feature"", ""status/0-triage""]",False
+docker/compose,13468,build(deps): bump github.com/containerd/containerd/v2 from 2.2.1-0.20251115011841-efd86f2b0bc2 to 2.2.1,closed,dependabot[bot],2025-12-19T09:03:17Z,2026-01-08T10:33:17Z,2026-01-08T10:33:07Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13467,warn user no service has been selected to build,closed,ndeloof,2025-12-18T10:17:48Z,2026-01-21T02:58:59Z,2025-12-18T10:35:33Z,1,[],True
+docker/compose,13466,[BUG] Docker compose build fails silently if profiles are included in an existing compose file,closed,virajkulkarni14,2025-12-18T09:31:42Z,2025-12-18T10:35:34Z,2025-12-18T10:35:34Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13465,[BUG] Docker compose down doesnt' remove orphan volumes.,closed,wclr,2025-12-18T05:06:19Z,2026-01-16T07:22:37Z,2026-01-16T07:22:37Z,11,"[""kind/feature""]",False
+docker/compose,13464,check model plugin is successfully loaded and store version,closed,ndeloof,2025-12-17T16:22:38Z,2025-12-18T10:05:14Z,2025-12-18T10:01:36Z,0,[],True
+docker/compose,13463,Add logging while waiting for services,open,mjagyo,2025-12-17T14:47:23Z,2026-01-12T04:31:32Z,,3,[],True
+docker/compose,13462,build(deps): bump github.com/moby/buildkit from 0.26.2 to 0.26.3,closed,dependabot[bot],2025-12-17T09:02:55Z,2025-12-17T09:16:57Z,2025-12-17T09:16:55Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13461,Add logging while waiting for services,closed,mjagyo,2025-12-16T13:45:31Z,2025-12-17T14:48:30Z,2025-12-17T14:02:42Z,2,[],True
+docker/compose,13460,gets back runtime flags when configuring models,closed,ilopezluna,2025-12-16T11:16:51Z,2025-12-18T14:24:07Z,2025-12-18T14:24:07Z,1,[],True
+docker/compose,13459,[BUG] docker compose config improperly handles ports.n.published (string quotes instead of int),closed,typoworx-de,2025-12-16T09:10:50Z,2025-12-16T13:22:35Z,2025-12-16T10:51:56Z,9,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13458,[BUG] Terminal prompt left in wrong place after some commands,closed,Paraphraser,2025-12-16T03:39:22Z,2025-12-16T09:05:18Z,2025-12-16T09:05:18Z,2,"[""kind/bug""]",False
+docker/compose,13457,Prevented incorrect progress metrics to break compose display.,closed,ndeloof,2025-12-15T16:46:29Z,2025-12-15T17:02:31Z,2025-12-15T17:02:31Z,0,[],True
+docker/compose,13456,[BUG] docker compose build panic fail,closed,AnesCehic,2025-12-15T16:17:08Z,2025-12-15T17:02:32Z,2025-12-15T17:02:32Z,2,"[""kind/bug""]",False
+docker/compose,13455,Restored support for BUILDKIT_PROGRESS.,closed,ndeloof,2025-12-15T15:02:17Z,2025-12-15T17:31:07Z,2025-12-15T17:03:05Z,0,[],True
+docker/compose,13454,[BUG] Failed to do request on Raspberry Pi 5 Model B,closed,TimAlber,2025-12-15T13:29:04Z,2025-12-31T18:19:37Z,2025-12-16T11:31:49Z,3,"[""kind/bug""]",False
+docker/compose,13453,[BUG] Compose 5.0.0 stopped respecting `BUILDKIT_PROGRESS`,closed,pjonsson,2025-12-15T13:27:30Z,2025-12-15T17:03:06Z,2025-12-15T17:03:06Z,0,"[""kind/bug""]",False
+docker/compose,13452,Introduced a build tag to select watcher implementation.,closed,ndeloof,2025-12-15T07:56:34Z,2025-12-15T09:16:13Z,2025-12-15T09:16:13Z,0,[],True
+docker/compose,13451,doc: do not mention v2 on README,closed,alexislefebvre,2025-12-14T20:22:32Z,2025-12-15T11:12:48Z,2025-12-15T10:46:39Z,1,[],True
+docker/compose,13450,Fix missing error handling in setEnvWithDotEnv,closed,htoyoda18,2025-12-14T17:55:14Z,2026-01-05T14:17:30Z,2025-12-15T14:18:55Z,0,[],True
+docker/compose,13449,[BUG] Terminal state not restored after non-plain docker compose output (prompt and cursor missing),closed,chimes-of-freedom,2025-12-13T17:12:07Z,2025-12-15T07:19:51Z,2025-12-15T07:19:51Z,3,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13448,SDK packaging: avoid forcing CGO on Darwin for watch-only functionality,closed,rmvangun,2025-12-13T14:33:41Z,2025-12-15T09:16:14Z,2025-12-15T09:16:14Z,0,"[""kind/feature"", ""status/0-triage""]",False
+docker/compose,13447,[BUG] Since Version 4.52 the local urls are created with ipv6 instead of ipv4 in windows containers,closed,rbatallasOshyn,2025-12-12T22:20:15Z,2026-01-07T09:00:27Z,2026-01-07T09:00:27Z,1,"[""kind/question""]",False
+docker/compose,13446,add 'configured' event at the end of model configuration phase,closed,glours,2025-12-12T13:37:43Z,2025-12-15T09:14:23Z,2025-12-15T09:14:22Z,0,[],True
+docker/compose,13445,Restored image layer download progress details on pull.,closed,ndeloof,2025-12-12T09:58:11Z,2025-12-12T14:23:00Z,2025-12-12T13:22:02Z,0,[],True
+docker/compose,13444,Add the `--no-build` option to `run`,closed,Cyberax,2025-12-11T23:29:10Z,2026-02-06T23:43:37Z,2026-02-06T23:43:37Z,1,[],True
+docker/compose,13443,[BUG] docker compose pull does not show image layers after v5 update,closed,Hujgo,2025-12-11T14:51:47Z,2025-12-12T13:22:03Z,2025-12-12T13:22:03Z,0,"[""kind/bug""]",False
+docker/compose,13442,build(deps): bump github.com/morikuni/aec from 1.0.0 to 1.1.0,closed,dependabot[bot],2025-12-11T09:03:31Z,2025-12-15T15:20:25Z,2025-12-15T15:20:14Z,2,"[""dependencies"", ""go""]",True
+docker/compose,13441,build(deps): bump tags.cncf.io/container-device-interface from 1.0.1 to 1.1.0,closed,dependabot[bot],2025-12-11T09:03:21Z,2025-12-16T08:34:45Z,2025-12-16T08:34:43Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13440,Adopted morikuni/aec library over raw ANSI sequences.,closed,ndeloof,2025-12-10T16:04:08Z,2025-12-15T15:36:57Z,2025-12-15T15:36:57Z,0,[],True
+docker/compose,13439,Fix progress UI not restoring terminal once operation completes.,closed,ndeloof,2025-12-10T13:25:53Z,2025-12-10T21:49:48Z,2025-12-10T21:49:37Z,0,[],True
+docker/compose,13438,Fixed status alignment in progress UI.,closed,ndeloof,2025-12-10T10:03:59Z,2025-12-11T15:46:31Z,2025-12-11T14:25:03Z,0,[],True
+docker/compose,13437,build(deps): bump github.com/docker/cli-docs-tool from 0.10.0 to 0.11.0,closed,dependabot[bot],2025-12-10T09:03:02Z,2025-12-10T09:14:32Z,2025-12-10T09:14:31Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13436,Add label to all services when starting Compose stack,closed,mikesir87,2025-12-10T01:33:31Z,2026-01-16T07:21:39Z,2026-01-16T07:21:38Z,4,"[""kind/feature""]",False
+docker/compose,13435,[BUG] inconsistent image selection for compose PUSH,closed,alirezarpi,2025-12-09T12:32:06Z,2025-12-10T21:50:02Z,2025-12-10T21:50:02Z,2,"[""kind/bug""]",False
+docker/compose,13434,build(deps): bump golang.org/x/sync from 0.18.0 to 0.19.0,closed,dependabot[bot],2025-12-09T09:03:14Z,2025-12-11T16:13:17Z,2025-12-11T16:13:16Z,2,"[""dependencies"", ""go""]",True
+docker/compose,13433,build(deps): bump golang.org/x/sys from 0.38.0 to 0.39.0,closed,dependabot[bot],2025-12-09T09:03:09Z,2025-12-09T15:18:12Z,2025-12-09T15:18:09Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13432,[REQUEST] `docker compose build`: validating docker-compose.yml: services.php8-fpm_1.networks items at 1 and 2 are equal,closed,savemetenminutes,2025-12-08T19:47:30Z,2025-12-08T21:45:57Z,2025-12-08T21:45:57Z,0,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13431,[BUG] Inconsistent output in docker compose up -d after v5.0.0 upgrade,closed,mkhalil-twipi,2025-12-08T10:09:44Z,2025-12-23T11:56:41Z,2025-12-16T14:20:39Z,9,"[""kind/bug""]",False
+docker/compose,13430,Fixed broken run --quiet.,closed,ndeloof,2025-12-08T10:07:38Z,2025-12-08T12:34:26Z,2025-12-08T12:34:26Z,1,[],True
+docker/compose,13429,Fixed grammatical errors and improve clarity in code.,closed,xiaolinny,2025-12-08T09:54:48Z,2025-12-08T10:20:48Z,2025-12-08T10:20:48Z,0,[],True
+docker/compose,13428,"[BUG] No referrers-API backwards compatibility on ""publish --app""",closed,Silvanoc,2025-12-08T08:08:30Z,2026-01-22T14:43:15Z,2026-01-22T14:43:15Z,3,"[""kind/bug""]",False
+docker/compose,13427,[BUG] pull_policy,closed,rubixvi,2025-12-07T06:04:08Z,2026-01-16T07:23:02Z,2026-01-16T07:23:02Z,8,"[""kind/bug""]",False
+docker/compose,13426,[BUG] docker compose up -d waits even without --wait,closed,rltas,2025-12-06T14:43:47Z,2025-12-07T17:44:05Z,2025-12-07T17:44:05Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13425,bump osxcross,closed,ndeloof,2025-12-05T12:26:59Z,2025-12-05T14:19:11Z,2025-12-05T14:19:02Z,0,[],True
+docker/compose,13424,Restored support for `COMPOSE_COMPATIBILITY`,closed,ndeloof,2025-12-05T12:14:32Z,2025-12-07T17:42:08Z,2025-12-07T17:42:05Z,0,[],True
+docker/compose,13423,Fix grammar: pluralize 'service' and remove apostrophes in lets,closed,rashmivagha,2025-12-04T22:07:59Z,2025-12-05T09:33:36Z,2025-12-05T09:33:36Z,0,[],True
+docker/compose,13422,[BUG] COMPOSE_COMPATIBILITY=true ENV not respected anymore (--compatibility is),closed,systemofapwne,2025-12-04T15:47:00Z,2025-12-07T17:42:06Z,2025-12-07T17:42:06Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13421,build(deps): bump github.com/spf13/cobra from 1.10.1 to 1.10.2,closed,dependabot[bot],2025-12-04T09:03:20Z,2025-12-10T09:15:33Z,2025-12-10T09:15:31Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13420,[BUG] Docker compose v5 pull breaks terminal (makes cursor vanish),closed,scotttag,2025-12-04T03:01:58Z,2026-01-02T17:01:29Z,2025-12-10T21:49:39Z,24,"[""kind/bug""]",False
+docker/compose,13419,[BUG] Docker Compose version 5.0.0 message output,closed,sinbino,2025-12-03T23:57:52Z,2025-12-08T12:34:27Z,2025-12-08T12:34:27Z,2,"[""kind/bug""]",False
+docker/compose,13418,Drop Go min patch version,closed,austinvazquez,2025-12-03T19:08:22Z,2025-12-10T09:09:12Z,2025-12-09T19:33:00Z,3,[],True
+docker/compose,13417,bump golang 1.24.11,closed,austinvazquez,2025-12-03T18:06:00Z,2025-12-03T19:08:38Z,2025-12-03T18:30:45Z,0,[],True
+docker/compose,13416,fix SDK example,closed,ndeloof,2025-12-03T15:05:29Z,2025-12-03T15:55:24Z,2025-12-03T15:55:24Z,0,[],True
+docker/compose,13415,check buildx version before comparing it,closed,yangfeiyu20102011,2025-12-03T13:58:29Z,2025-12-04T07:34:14Z,2025-12-04T07:34:13Z,1,[],True
+docker/compose,13414,[BUG] docker compose build panic,closed,yangfeiyu20102011,2025-12-03T13:57:52Z,2025-12-05T12:16:23Z,2025-12-05T12:16:23Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13413,"[BUG] `docker compose version` reports ""dev"" as version, instead of 5.0.0",closed,anovadox,2025-12-02T19:46:16Z,2025-12-18T12:38:09Z,2025-12-03T15:15:52Z,6,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13412,[BUG] Again: Expose Range Error response from daemon: invalid JSON: invalid port '<start>-<end>': invalid syntax,closed,Neurone,2025-12-02T09:29:30Z,2025-12-03T10:41:11Z,2025-12-02T09:30:53Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13411,refactor: replace interface{} with any for clarity and modernization,closed,zjumathcode,2025-12-02T07:30:50Z,2025-12-02T07:41:50Z,2025-12-02T07:41:50Z,0,[],True
+docker/compose,13410,Bump compose go to v2.10.0,closed,ndeloof,2025-12-01T16:08:20Z,2025-12-01T16:27:53Z,2025-12-01T16:19:40Z,0,[],True
+docker/compose,13409,add --wait option to start command,closed,ndeloof,2025-12-01T10:34:41Z,2025-12-01T10:58:00Z,2025-12-01T10:58:00Z,0,[],True
+docker/compose,13408,"Add ""--wait"" to ""docker compose start""",closed,conman124,2025-12-01T01:44:57Z,2025-12-01T10:58:01Z,2025-12-01T10:58:01Z,0,"[""kind/feature""]",False
+docker/compose,13407,Fix grammar: change 'adopted' to 'adopt' in Docker Swarm note,closed,rashmivagha,2025-11-29T00:37:34Z,2025-12-01T11:09:30Z,2025-12-01T11:08:52Z,1,[],True
+docker/compose,13406,golangci-lint: use gci formatter instead of goimports,closed,thaJeztah,2025-11-28T15:19:00Z,2025-12-01T11:40:58Z,2025-12-01T11:21:51Z,1,[],True
+docker/compose,13405,build(deps): bump golang.org/x/crypto v0.45.0,closed,thaJeztah,2025-11-28T14:34:30Z,2025-11-28T14:46:43Z,2025-11-28T14:44:55Z,0,[],True
+docker/compose,13404,feat(model): ignore runtime flags in model configuration,closed,ilopezluna,2025-11-28T14:28:59Z,2025-11-28T17:52:36Z,2025-11-28T17:52:36Z,0,[],True
+docker/compose,13403,build(deps): bump github.com/hashicorp/go-version from 1.7.0 to 1.8.0,closed,dependabot[bot],2025-11-28T09:03:18Z,2025-11-28T09:13:48Z,2025-11-28T09:13:47Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13402,only check for env_file,closed,ndeloof,2025-11-27T13:16:58Z,2025-11-28T08:48:55Z,2025-11-28T08:48:55Z,2,[],True
+docker/compose,13401,use ScanFile to check composefile doesn't include sensitive data,closed,ndeloof,2025-11-27T13:14:00Z,2025-11-27T13:59:12Z,2025-11-27T13:59:12Z,0,[],True
+docker/compose,13400,skip includes preparing publish,closed,ndeloof,2025-11-27T13:10:09Z,2025-11-28T08:41:43Z,2025-11-28T08:41:43Z,0,[],True
+docker/compose,13399,[BUG] `docker compose publish` having trouble with a remote OCI artifact `include`,closed,unair-growlink,2025-11-26T21:51:19Z,2025-11-28T08:41:44Z,2025-11-28T08:41:44Z,0,"[""kind/bug""]",False
+docker/compose,13398,refactor: use strings.Builder to improve performance,closed,liuyueyangxmu,2025-11-26T09:40:29Z,2025-11-26T09:52:25Z,2025-11-26T09:52:25Z,0,[],True
+docker/compose,13397,Long notation of volumes bind mount handle the selinux labels,closed,zhangguanzhang,2025-11-26T02:48:34Z,2025-11-26T07:57:27Z,2025-11-26T07:27:32Z,3,[],True
+docker/compose,13396,[BUG] Long notation of `volumes` `bind` mount doesn't apply selinux labels,closed,TheRealBecks,2025-11-25T17:04:16Z,2025-11-28T12:37:32Z,2025-11-26T11:20:37Z,5,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13395,test https://github.com/compose-spec/compose-go/pull/841,closed,ndeloof,2025-11-25T13:57:47Z,2025-11-25T14:46:11Z,2025-11-25T14:46:11Z,0,[],True
+docker/compose,13394,[BUG] Inconsistent `compose publish` behavior with variables,closed,apollo13,2025-11-25T13:43:16Z,2025-11-28T08:48:56Z,2025-11-28T08:48:56Z,4,"[""kind/question""]",False
+docker/compose,13393,refactor: replace Split in loops with more efficient SplitSeq,closed,vicerace,2025-11-25T10:18:27Z,2025-11-25T10:37:04Z,2025-11-25T10:37:04Z,0,[],True
+docker/compose,13392,bump dependencies,closed,ndeloof,2025-11-24T17:10:47Z,2025-11-24T18:46:54Z,2025-11-24T17:26:41Z,0,[],True
+docker/compose,13391,[BUG] container_name repeatedly prefixes with IDs on `failed` reconciliation,closed,jithintm,2025-11-24T07:18:57Z,2025-11-24T17:07:21Z,2025-11-24T17:07:21Z,5,"[""kind/bug""]",False
+docker/compose,13390,[BUG] Project directory ignored if using an OCI artifact,closed,mikesir87,2025-11-21T20:44:40Z,2025-11-25T15:34:07Z,2025-11-25T15:07:50Z,2,"[""kind/bug""]",False
+docker/compose,13389,"[BUG] Error response from daemon: client version 1.42 is too old. Minimum supported API version is 1.44, please upgrade your client to a newer version",closed,swiss-knight,2025-11-21T12:37:52Z,2025-11-29T09:40:18Z,2025-11-25T15:18:02Z,7,"[""kind/question""]",False
+docker/compose,13388,build(deps): bump github.com/moby/buildkit from 0.26.0 to 0.26.2,closed,dependabot[bot],2025-11-21T09:03:07Z,2025-11-24T17:57:12Z,2025-11-24T17:57:10Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13387,[BUG] panic: runtime error: invalid memory address or nil pointer dereference,closed,cedrugs,2025-11-20T03:27:57Z,2025-11-20T05:36:58Z,2025-11-20T05:36:14Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13386,[BUG] `extends` does not properly propagate `env_file`,closed,homersimpsons,2025-11-19T11:20:10Z,2025-11-25T17:55:19Z,2025-11-25T15:18:19Z,3,"[""kind/bug""]",False
+docker/compose,13385,build(deps): bump github.com/moby/buildkit from 0.26.0 to 0.26.1,closed,dependabot[bot],2025-11-18T09:04:10Z,2025-11-21T09:03:12Z,2025-11-21T09:03:10Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13384,build(deps): bump github.com/docker/buildx from 0.30.0 to 0.30.1,closed,dependabot[bot],2025-11-18T09:04:01Z,2025-11-24T18:44:44Z,2025-11-24T18:44:43Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13383,build(deps): bump google.golang.org/grpc from 1.76.0 to 1.77.0,closed,dependabot[bot],2025-11-18T09:03:52Z,2025-11-24T18:03:02Z,2025-11-24T18:03:00Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13382,[BUG] compose publish fails if env_file is missing,closed,llamafilm,2025-11-17T08:39:42Z,2025-11-26T11:21:28Z,2025-11-26T11:21:27Z,3,"[""kind/question""]",False
+docker/compose,13381,Fix support for port range,closed,ndeloof,2025-11-16T17:55:18Z,2025-11-16T20:52:30Z,2025-11-16T19:38:55Z,0,[],True
+docker/compose,13380,"gha: test against docker v29, v28, and rename checks to use `stable`, `oldstable`",closed,thaJeztah,2025-11-16T10:43:31Z,2025-11-16T14:09:29Z,2025-11-16T13:42:03Z,1,[],True
+docker/compose,13379,"build(deps): bump buildx v0.30.0, buildkit v0.26.0, otel v1.38.0, otel/contrib v0.63.0",closed,thaJeztah,2025-11-16T10:35:40Z,2025-11-16T14:10:04Z,2025-11-16T13:55:27Z,0,[],True
+docker/compose,13378,[BUG] Expose Range `Error response from daemon: invalid JSON: invalid port '<start>-<end>': invalid syntax`,closed,tmknight,2025-11-14T14:13:55Z,2025-12-04T16:06:07Z,2025-11-16T19:38:56Z,10,"[""kind/bug""]",False
+docker/compose,13377,Added support for `build.no_cache_filter`,closed,ndeloof,2025-11-13T09:25:14Z,2025-11-26T08:37:04Z,2025-11-26T08:37:04Z,0,[],True
+docker/compose,13376,images command should display image Created time or N/A if not available,closed,ndeloof,2025-11-13T08:08:12Z,2025-11-13T08:41:17Z,2025-11-13T08:40:56Z,0,[],True
+docker/compose,13375,Next release will be major version v5.x,closed,ndeloof,2025-11-13T06:31:43Z,2025-11-13T08:32:44Z,2025-11-13T08:32:43Z,0,[],True
+docker/compose,13374,[BUG] `docker compose images` returns weird values in CREATED column,closed,Paraphraser,2025-11-13T00:46:42Z,2025-11-13T09:32:47Z,2025-11-13T08:40:57Z,1,"[""kind/bug""]",False
+docker/compose,13373,sdk docs: patch,closed,aevesdocker,2025-11-12T13:50:09Z,2025-11-12T15:24:25Z,2025-11-12T15:24:24Z,2,[],True
+docker/compose,13372,containerd 2.1.4 has security vulnerabilities,closed,GiovanniFaldani,2025-11-12T11:38:12Z,2025-11-12T16:04:43Z,2025-11-12T16:04:43Z,2,[],False
+docker/compose,13371,Document compatibility for docker API versions,closed,SystemParadox,2025-11-11T16:34:37Z,2025-11-13T09:19:59Z,2025-11-13T09:16:55Z,4,"[""kind/question""]",False
+docker/compose,13370,Dockerfile: update golangci-lint to v2.6.2,closed,thaJeztah,2025-11-11T00:05:03Z,2025-11-16T14:10:41Z,2025-11-16T13:54:59Z,2,[],True
+docker/compose,13369,add (restore) support for detach keys,closed,ndeloof,2025-11-10T10:09:56Z,2026-01-23T13:00:51Z,2025-11-12T13:23:59Z,3,[],True
+docker/compose,13368,build(deps): bump golang.org/x/sync from 0.17.0 to 0.18.0,closed,dependabot[bot],2025-11-10T09:12:06Z,2025-11-10T10:09:22Z,2025-11-10T10:09:21Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13367,build(deps): bump golang.org/x/sys from 0.37.0 to 0.38.0,closed,dependabot[bot],2025-11-10T09:12:02Z,2025-11-10T09:23:39Z,2025-11-10T09:23:38Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13366,Making the American/British spellings consistent to the error messages,closed,JLesDev,2025-11-10T04:29:31Z,2025-11-10T10:34:18Z,2025-11-10T10:34:18Z,0,[],True
+docker/compose,13365,"[CodeSentinel] The issue requests an enhancement to the `extends` functionality in `docker-compose.yml` to allow services to inherit configurations from multiple other services defined in different compose files. This would enable a more modular and flexible approach to service configuration, allowi",closed,u7k4rs6,2025-11-09T17:35:21Z,2025-11-09T17:50:11Z,2025-11-09T17:50:10Z,1,[],True
+docker/compose,13364,removed unecessary check,closed,ndeloof,2025-11-07T07:15:46Z,2025-11-12T07:34:29Z,2025-11-12T07:34:29Z,0,[],True
+docker/compose,13363,[BUG] [Regression] Can't pipe compose output with color,open,shanesmith,2025-11-06T14:36:32Z,2026-02-02T11:02:11Z,,4,"[""kind/bug""]",False
+docker/compose,13362,document support for OCI and Git remote resources,closed,ndeloof,2025-11-06T11:07:11Z,2025-11-06T15:46:34Z,2025-11-06T15:14:05Z,0,[],True
+docker/compose,13361,build(deps): bump github.com/docker/docker from 28.5.1+incompatible to 28.5.2+incompatible,closed,dependabot[bot],2025-11-06T09:04:11Z,2025-11-06T09:15:07Z,2025-11-06T09:15:06Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13360,build(deps): bump github.com/docker/cli from 28.5.1+incompatible to 28.5.2+incompatible,closed,dependabot[bot],2025-11-06T09:04:02Z,2025-11-06T09:27:39Z,2025-11-06T09:27:38Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13359,build(deps): bump github.com/moby/buildkit from 0.25.1 to 0.25.2,closed,dependabot[bot],2025-11-06T09:03:49Z,2025-11-06T09:14:26Z,2025-11-06T09:14:25Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13358,build(deps): bump github.com/containerd/containerd/v2 from 2.1.4 to 2.2.0,closed,dependabot[bot],2025-11-06T09:03:40Z,2025-11-06T09:16:05Z,2025-11-06T09:16:04Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13357,Move progress package to cmd as a command line component,closed,ndeloof,2025-11-05T16:42:19Z,2025-11-12T10:36:37Z,2025-11-12T10:17:28Z,2,[],True
+docker/compose,13356,[BUG] Flaky behavior with double `!override` and extends,closed,maksimzayats,2025-11-05T15:47:47Z,2025-12-08T13:53:55Z,2025-12-08T13:53:55Z,4,"[""kind/bug""]",False
+docker/compose,13355,"introduce --insecure-registry, reserved for testing purpose",closed,ndeloof,2025-11-05T14:51:37Z,2025-11-06T15:17:21Z,2025-11-06T15:17:21Z,1,[],True
+docker/compose,13354,Propose OCI-packaging changes,closed,Silvanoc,2025-11-05T12:33:38Z,2025-11-25T17:34:54Z,2025-11-25T15:52:02Z,5,"[""kind/feature""]",False
+docker/compose,13353,build(deps): bump github.com/containerd/platforms from 1.0.0-rc.1 to 1.0.0-rc.2,closed,dependabot[bot],2025-11-05T09:02:45Z,2025-11-05T16:43:14Z,2025-11-05T16:43:11Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13352,"Add support for ""insecure"" registries",closed,Silvanoc,2025-11-05T07:33:45Z,2025-11-06T15:17:22Z,2025-11-06T15:17:22Z,4,"[""kind/feature"", ""status/0-triage""]",False
+docker/compose,13351,disable progress UI when build is ran with --print,closed,ndeloof,2025-11-04T16:18:41Z,2025-11-04T21:06:32Z,2025-11-04T16:30:57Z,0,[],True
+docker/compose,13350,SDK docs,closed,ndeloof,2025-11-04T09:53:36Z,2025-11-10T15:15:40Z,2025-11-10T15:15:36Z,0,[],True
+docker/compose,13349,"from Compose CLI, we know the streams used to configure LogConsumer",closed,ndeloof,2025-11-04T09:10:30Z,2025-11-04T09:26:46Z,2025-11-04T09:25:14Z,0,[],True
+docker/compose,13348,[BUG] Networking seems broken in 2.40.3,open,mschop,2025-11-04T07:30:51Z,2026-01-27T09:20:55Z,,36,"[""kind/bug""]",False
+docker/compose,13347,"[BUG] Docker Compose 2.39.2 shows no build output when using buildx bake, despite buildx working correctly",closed,Sparrow1029,2025-11-03T23:56:18Z,2025-11-04T18:52:26Z,2025-11-04T18:52:26Z,2,"[""kind/bug""]",False
+docker/compose,13346,[BUG] Extends with !override behavior changes in v2.40.3,closed,kelsin,2025-11-03T21:06:06Z,2025-11-05T09:00:44Z,2025-11-05T09:00:44Z,4,"[""kind/bug""]",False
+docker/compose,13345,Up build depends,closed,ndeloof,2025-11-03T16:37:12Z,2025-11-06T15:28:46Z,2025-11-06T15:28:46Z,0,[],True
+docker/compose,13344,Fixed status text in progress UI,closed,ndeloof,2025-11-03T10:00:50Z,2025-11-04T09:18:55Z,2025-11-04T09:18:55Z,1,[],True
+docker/compose,13343,[BUG] I Was able to escape docker containers,closed,0pepsi,2025-11-01T22:51:20Z,2025-11-01T23:03:45Z,2025-11-01T23:03:45Z,0,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13342,feat(convert): set default model and endpoint variables for services in convert.go,closed,idsulik,2025-11-01T20:59:35Z,2026-01-12T16:55:39Z,2026-01-12T16:55:38Z,2,"[""stale""]",True
+docker/compose,13341,[BUG] Compose Bridge nil pointer error when using models in docker-compose.yml,closed,vilatsut,2025-11-01T08:37:03Z,2025-12-16T09:00:05Z,2025-12-16T09:00:05Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13340,"Support env-var interpolation for boolean-typed fields (e.g., depends_on.*.required) or provide a cast syntax",closed,gokhanus,2025-10-31T17:46:37Z,2025-11-06T07:11:10Z,2025-11-06T07:10:57Z,1,"[""kind/bug""]",False
+docker/compose,13339,fix: use NewParallelCLI in compose_run_build_once_test.go,closed,idsulik,2025-10-31T14:28:22Z,2025-11-06T07:02:59Z,2025-11-06T07:02:59Z,5,[],True
+docker/compose,13338,"[BUG] `docker compose up --build` fails with ""failed to find target"" when `additional_contexts` references service not in `depends_on`",closed,sazap10,2025-10-31T11:42:06Z,2025-11-06T15:28:47Z,2025-11-06T15:28:47Z,0,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13337,[BUG] Not able to create more than 5 networks,closed,brhahlen,2025-10-31T11:21:37Z,2025-11-03T08:35:20Z,2025-11-03T08:35:20Z,7,"[""kind/bug""]",False
+docker/compose,13336,add AlwaysOkPrompt to replace 'AlwaysYes' current implementation',closed,glours,2025-10-31T11:05:24Z,2025-11-03T07:02:01Z,2025-11-03T07:01:59Z,0,[],True
+docker/compose,13335,Add --no-cache-filter binding,closed,Chostakovitch,2025-10-30T17:16:18Z,2025-11-26T08:37:05Z,2025-11-26T08:37:05Z,2,"[""kind/feature""]",False
+docker/compose,13334,flaky compose_run_build_once_test: cleanup and more logs when test fa…,closed,glours,2025-10-30T15:26:14Z,2025-10-30T20:25:35Z,2025-10-30T20:25:33Z,1,[],True
+docker/compose,13333,build(deps): bump github.com/compose-spec/compose-go/v2 from 2.9.0 to 2.9.1,closed,dependabot[bot],2025-10-30T09:03:40Z,2025-10-30T09:13:48Z,2025-10-30T09:13:46Z,1,"[""dependencies"", ""go""]",True
+docker/compose,13332,bump compose-go to version v2.9.1,closed,glours,2025-10-30T08:33:29Z,2025-10-30T09:12:52Z,2025-10-30T09:12:50Z,0,[],True
+docker/compose,13331,fix(git): Fix path traversal vulnerability in git remote loader,closed,idsulik,2025-10-30T06:16:47Z,2025-11-05T22:14:21Z,2025-10-30T09:08:29Z,8,[],True
+docker/compose,13329,Add load project to api definition,closed,glours,2025-10-29T18:06:13Z,2025-11-03T07:58:31Z,2025-11-03T07:58:30Z,0,[],True
+docker/compose,13328,fix typo in error message,closed,stasadev,2025-10-29T15:27:14Z,2025-11-03T20:56:00Z,2025-11-03T07:38:49Z,0,[],True
+docker/compose,13327,[BUG] config --no-interpolate with default values,closed,jprince14,2025-10-29T15:12:23Z,2025-11-03T07:09:19Z,2025-11-03T07:09:19Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13326,fix various linting issues,closed,thaJeztah,2025-10-28T19:58:32Z,2025-10-31T19:40:43Z,2025-10-31T16:44:39Z,4,[],True
+docker/compose,13325,fix(run): Ensure images exist only for the target service in run command,closed,idsulik,2025-10-28T14:15:37Z,2025-10-29T10:26:14Z,2025-10-29T09:47:18Z,4,[],True
+docker/compose,13324,pretend cli.Out is a containerd.File,closed,ndeloof,2025-10-28T10:50:25Z,2025-10-28T13:40:23Z,2025-10-28T13:39:50Z,0,[],True
+docker/compose,13323,[BUG] runing a service builds its depends-ons twice when pull policy is build,closed,luciangabor,2025-10-28T09:38:42Z,2025-11-03T07:08:09Z,2025-11-03T07:08:09Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13322,configure Compose service with io.Reader and io.Writer,closed,glours,2025-10-27T17:15:00Z,2025-10-27T17:54:13Z,2025-10-27T17:54:11Z,0,[],True
+docker/compose,13321,run hooks on restart,closed,ndeloof,2025-10-27T07:09:02Z,2025-10-27T09:24:19Z,2025-10-27T09:24:18Z,0,[],True
+docker/compose,13320,[BUG] Multi-Compose file OCI artifact failures,closed,mikesir87,2025-10-24T18:35:48Z,2025-10-25T14:05:04Z,2025-10-25T14:05:03Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13319,docker compose up does not terminate gracefully,closed,hholst80,2025-10-24T15:46:57Z,2025-11-26T18:21:34Z,2025-11-03T14:14:39Z,4,"[""kind/bug""]",False
+docker/compose,13318,[BUG] `docker compose restart` doesn't execute `post_start` hook,closed,fpotier,2025-10-24T13:20:10Z,2025-12-05T00:20:22Z,2025-10-27T09:24:19Z,1,"[""kind/bug""]",False
+docker/compose,13317,prompt default implementation to prevent a panic,closed,ndeloof,2025-10-24T07:59:13Z,2025-10-24T09:17:02Z,2025-10-24T08:21:59Z,0,[],True
+docker/compose,13316,Make progress Writer a CLI component,closed,ndeloof,2025-10-24T07:51:12Z,2025-10-29T10:55:27Z,2025-10-29T09:11:31Z,0,[],True
+docker/compose,13315,Code Cleanup,closed,ndeloof,2025-10-23T16:15:40Z,2025-10-24T08:06:00Z,2025-10-24T08:05:59Z,0,[],True
+docker/compose,13314,"Fix help output for ""exec --no-tty"" option",closed,tonyo,2025-10-23T15:28:45Z,2025-10-23T16:21:35Z,2025-10-23T16:19:41Z,5,[],True
+docker/compose,13313,Introduce abstractions to support SDK usage without requiring Docker CLI,closed,glours,2025-10-23T14:25:25Z,2025-10-27T15:17:53Z,2025-10-27T15:17:50Z,0,[],True
+docker/compose,13312,Setup Compose service using functional parameters,closed,ndeloof,2025-10-23T13:30:36Z,2025-10-24T16:24:26Z,2025-10-24T16:24:21Z,1,[],True
+docker/compose,13311,fix OCI compose override support,closed,ndeloof,2025-10-23T08:09:06Z,2025-10-23T10:08:18Z,2025-10-23T10:04:37Z,0,[],True
+docker/compose,13310,Windows: missing secrets file creates file-named directory [again],closed,filimonic,2025-10-22T23:07:26Z,2026-01-16T07:24:44Z,2026-01-16T07:24:44Z,15,"[""kind/bug""]",False
+docker/compose,13309,Test to check writeComposeFile detects invalid OCI artifact,closed,ndeloof,2025-10-22T17:38:33Z,2025-10-22T18:09:37Z,2025-10-22T18:09:32Z,0,[],True
+docker/compose,13308,introduce WithPrompt to configure compose backend to use a plugable UI component for user interaction,closed,ndeloof,2025-10-22T12:29:10Z,2025-10-22T14:16:56Z,2025-10-22T14:14:55Z,0,[],True
+docker/compose,13307,"build compose backend with options, pass prompt as an option",closed,ndeloof,2025-10-22T09:31:43Z,2025-10-24T09:48:44Z,2025-10-24T09:48:44Z,0,[],True
+docker/compose,13306,[BUG] docker compose up command doesn't pull grafana image,closed,svua,2025-10-21T16:38:25Z,2025-10-22T15:19:44Z,2025-10-22T14:49:02Z,6,"[""kind/question""]",False
+docker/compose,13305,Fix ANSI color preservation across multiple log lines,closed,chojs23,2025-10-21T00:59:59Z,2025-12-01T11:31:31Z,2025-12-01T11:31:31Z,2,[],True
+docker/compose,13304,Refactor to remove dependencies on github.com/docker/docker/pkg/streamformatter and,closed,austinvazquez,2025-10-20T23:52:22Z,2025-10-23T19:38:00Z,2025-10-23T19:38:00Z,7,[],True
+docker/compose,13303,Rootless Docker Volume Permissions Issue with User Namespace Remapping and ACLs,closed,MahdiSahebZamani,2025-10-20T17:13:11Z,2025-10-21T07:11:52Z,2025-10-21T07:11:52Z,3,[],False
+docker/compose,13302,"test digest or canonical reference, not only tag, when checking if an  image is already present",closed,glours,2025-10-20T15:47:48Z,2025-10-20T16:42:25Z,2025-10-20T16:42:24Z,0,[],True
+docker/compose,13300,remove unused code to only rely on api.Service,closed,ndeloof,2025-10-20T10:38:55Z,2025-10-20T14:03:16Z,2025-10-20T12:53:04Z,1,[],True
+docker/compose,13299,Compose can't create a tar with adequate uid:gid ownership,closed,ndeloof,2025-10-20T06:29:29Z,2025-10-20T07:52:09Z,2025-10-20T07:51:58Z,0,[],True
+docker/compose,13298,[BUG] extends drops overriden attributes,closed,litoj,2025-10-19T16:34:30Z,2025-10-28T08:51:48Z,2025-10-28T08:51:48Z,0,"[""kind/bug""]",False
+docker/compose,13297,test: Make tests runnable on SELinux enabled daemon,closed,ricardobranco777,2025-10-18T20:36:59Z,2025-10-21T07:38:49Z,2025-10-21T07:38:49Z,4,[],True
+docker/compose,13296,[BUG] crashes while parsing when using docker compose secrets and `USER` in Dockerfile,closed,KhalidAlansary,2025-10-18T19:21:04Z,2025-10-20T07:51:59Z,2025-10-20T07:51:59Z,2,"[""kind/bug""]",False
+docker/compose,13295,fail build if minimal required version of buildx isn't installed,closed,ndeloof,2025-10-18T12:55:46Z,2025-10-22T07:49:18Z,2025-10-20T10:25:39Z,0,[],True
+docker/compose,13294,Create test.file,closed,ferdinandbab348-lab,2025-10-18T04:39:40Z,2025-10-18T07:05:56Z,2025-10-18T07:05:56Z,0,[],True
+docker/compose,13293,make CTRL+Z a no-op operation on Windows,closed,glours,2025-10-17T12:52:53Z,2025-10-17T13:07:39Z,2025-10-17T13:07:38Z,0,[],True
+docker/compose,13292,[StepSecurity] Apply security best practices,closed,step-security-bot,2025-10-17T05:33:26Z,2025-10-17T05:34:17Z,2025-10-17T05:34:17Z,0,[],True
+docker/compose,13291,fix race-condition bug in publish command,closed,paul-kinexon,2025-10-16T06:58:18Z,2025-10-16T07:24:58Z,2025-10-16T07:24:57Z,1,[],True
+docker/compose,13290,[BUG] publish race-condition introduced in #13245,closed,paul-kinexon,2025-10-15T15:32:09Z,2025-10-16T07:24:58Z,2025-10-16T07:24:58Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13289,support Ctrl+Z to run compose in background,closed,ndeloof,2025-10-15T14:50:29Z,2025-10-15T15:47:55Z,2025-10-15T15:26:12Z,0,[],True
+docker/compose,13288,Set secret/config uid:gid to match container's USER,closed,ndeloof,2025-10-15T09:14:15Z,2025-10-16T15:43:04Z,2025-10-16T15:43:04Z,1,[],True
+docker/compose,13287,[BUG] Secrets (likely configs too) have incorrect uid/gid,closed,ffried,2025-10-14T13:24:37Z,2025-10-20T06:33:36Z,2025-10-16T15:43:05Z,1,"[""kind/bug""]",False
+docker/compose,13286,vendor: github.com/docker/cli v29.0.0-rc.1,closed,vvoland,2025-10-14T12:23:05Z,2025-12-24T00:18:01Z,2025-12-24T00:18:01Z,0,"[""stale""]",True
+docker/compose,13285,bump golang to version 1.24.9,closed,glours,2025-10-14T06:53:00Z,2025-10-14T07:14:58Z,2025-10-14T07:14:56Z,0,[],True
+docker/compose,13284,use fixed version of compose bridge transformer images,closed,glours,2025-10-14T06:45:59Z,2025-10-14T07:22:00Z,2025-10-14T07:21:59Z,0,[],True
+docker/compose,13283,run should support --remove-orphans,closed,JohnLKramer,2025-10-14T03:48:44Z,2025-10-17T08:22:54Z,2025-10-17T08:22:54Z,1,"[""kind/question""]",False
+docker/compose,13282,[BUG] Using `$(command)` in bash no longer works after updating to v2.40.0,closed,JulianVennen,2025-10-13T18:57:15Z,2025-10-15T06:35:58Z,2025-10-15T06:10:39Z,1,"[""kind/bug""]",False
+docker/compose,13281,[DNM] testing CI,closed,thaJeztah,2025-10-13T16:32:33Z,2025-10-14T18:32:24Z,2025-10-14T14:19:33Z,1,[],True
+docker/compose,13280,pkg/compose: build with bake: drop support for buildx v0.16 and lower,closed,thaJeztah,2025-10-13T15:44:49Z,2025-10-14T08:19:28Z,2025-10-14T06:02:58Z,4,[],True
+docker/compose,13279,"build(deps): bump docker/buildx v0.29.1, moby/buildkit v0.25.1",closed,thaJeztah,2025-10-13T15:24:15Z,2025-10-13T19:22:32Z,2025-10-13T19:21:01Z,2,[],True
+docker/compose,13278,pkg/compose: align classic builder implementation with docker/cli,closed,thaJeztah,2025-10-13T13:05:54Z,2025-10-13T15:14:54Z,2025-10-13T14:53:00Z,0,[],True
+docker/compose,13277,"fix: make ""publish"" push all compose files addressed in ""extends"" statements when using ""profiles"".",closed,ogoulpeau-ledger,2025-10-10T14:03:34Z,2025-10-14T06:44:35Z,2025-10-14T06:25:26Z,3,[],True
+docker/compose,13276,"[BUG] Publish does not push all compose files when using ""extends"" with ""profiles"".",closed,ogoulpeau-ledger,2025-10-10T13:53:29Z,2025-10-17T05:27:07Z,2025-10-17T05:27:07Z,0,"[""kind/bug""]",False
+docker/compose,13275,Fix failure to delegate build with bake,closed,ndeloof,2025-10-10T11:47:51Z,2025-10-17T07:49:45Z,2025-10-17T07:49:45Z,0,[],True
+docker/compose,13274,build(deps): bump github.com/docker/docker from 28.5.0+incompatible to 28.5.1+incompatible,closed,dependabot[bot],2025-10-09T09:13:55Z,2025-10-09T09:34:55Z,2025-10-09T09:34:53Z,0,"[""dependencies""]",True
+docker/compose,13273,build(deps): bump github.com/docker/cli from 28.5.0+incompatible to 28.5.1+incompatible,closed,dependabot[bot],2025-10-09T09:13:49Z,2025-10-09T09:35:17Z,2025-10-09T09:35:14Z,0,"[""dependencies""]",True
+docker/compose,13272,build(deps): bump golang.org/x/sys from 0.36.0 to 0.37.0,closed,dependabot[bot],2025-10-09T09:13:44Z,2025-10-09T09:35:33Z,2025-10-09T09:35:31Z,0,"[""dependencies""]",True
+docker/compose,13271,fix oci compose configuration,closed,amiraifori,2025-10-08T19:05:20Z,2025-12-01T11:30:51Z,2025-12-01T11:30:51Z,0,[],True
+docker/compose,13270,bake only interpolates ${*},closed,ndeloof,2025-10-08T10:27:07Z,2025-10-13T08:40:19Z,2025-10-13T08:40:19Z,0,[],True
+docker/compose,13269,[BUG] dockerfile_inline no longer supports ARG,closed,alexleach,2025-10-08T07:39:58Z,2025-10-13T08:40:20Z,2025-10-13T08:40:20Z,3,"[""kind/bug""]",False
+docker/compose,13268,Fix: set PWD only if not set,closed,kianelbo,2025-10-08T06:55:11Z,2025-10-08T09:15:27Z,2025-10-08T08:12:02Z,1,[],True
+docker/compose,13267,[BUG] Unnecessary escaping in RUN <<'EOF' breaks execution,closed,luciangabor,2025-10-07T17:14:51Z,2025-10-13T08:40:21Z,2025-10-13T08:40:21Z,0,"[""kind/bug""]",False
+docker/compose,13266,build(deps): bump google.golang.org/grpc from 1.74.2 to 1.76.0,closed,dependabot[bot],2025-10-07T09:03:09Z,2025-11-18T09:03:56Z,2025-11-18T09:03:55Z,1,"[""dependencies""]",True
+docker/compose,13265,[BUG] The PWD environment variable will always be overwritten,closed,countzero,2025-10-07T07:13:14Z,2025-10-08T08:28:07Z,2025-10-08T08:12:03Z,2,"[""kind/bug""]",False
+docker/compose,13264,docs: document how to use OCI-published Compose configurations,closed,amiraifori,2025-10-05T12:47:22Z,2025-10-08T19:05:48Z,2025-10-08T19:05:48Z,1,[],True
+docker/compose,13263,Write error to watcher error channel if Start() fails,closed,Trolldemorted,2025-10-03T23:32:27Z,2025-10-06T12:50:20Z,2025-10-06T12:50:20Z,0,[],True
+docker/compose,13262,[BUG] docker compose watch fails to detect permission issue and deadlocks,closed,Trolldemorted,2025-10-03T20:25:23Z,2025-10-06T12:50:21Z,2025-10-06T12:50:21Z,3,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13261,build(deps): bump github.com/docker/cli from 28.5.0-rc.1+incompatible to 28.5.0+incompatible,closed,dependabot[bot],2025-10-03T09:03:24Z,2025-10-03T09:32:17Z,2025-10-03T09:32:15Z,1,"[""dependencies""]",True
+docker/compose,13260,build(deps): bump github.com/docker/docker from 28.5.0-rc.1+incompatible to 28.5.0+incompatible,closed,dependabot[bot],2025-10-03T09:03:13Z,2025-10-03T09:32:10Z,2025-10-03T09:32:08Z,0,"[""dependencies""]",True
+docker/compose,13259,escape $ in bake.json as interpolation already has been managed by cpmpose,closed,ndeloof,2025-10-03T07:05:57Z,2025-10-03T07:25:36Z,2025-10-03T07:25:36Z,0,[],True
+docker/compose,13258,[BUG] escaping dollar using $$ does not work when braces follow,closed,fjf2002,2025-10-02T08:55:23Z,2025-10-03T07:25:37Z,2025-10-03T07:25:37Z,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13257,publish Compose application as compose.yaml + images,closed,ndeloof,2025-10-01T07:17:15Z,2025-11-05T12:34:57Z,2025-10-03T08:59:57Z,3,[],True

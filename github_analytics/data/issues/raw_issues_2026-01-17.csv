@@ -1,0 +1,32 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35549,[flags] Remove enableHydrationLaneScheduling,closed,rickhanlonii,2026-01-17T21:17:47Z,2026-01-22T18:54:16Z,2026-01-22T18:51:49Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35548,[flags] add enableEffectEventMutationPhase,closed,rickhanlonii,2026-01-17T21:02:50Z,2026-02-04T20:04:57Z,2026-02-04T20:04:57Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35547,[tests] add silent reporter,closed,rickhanlonii,2026-01-17T18:28:02Z,2026-02-05T06:47:25Z,2026-01-18T15:17:17Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35546,[internal] revert change merged accidentally,closed,rickhanlonii,2026-01-17T18:17:06Z,2026-01-17T18:21:51Z,2026-01-17T18:21:47Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35545,[Compiler Bug]:,closed,gamehub1234,2026-01-17T15:10:48Z,2026-02-04T01:45:24Z,2026-02-04T01:45:24Z,1,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35544,Bump tar from 2.2.1 to 2.2.2 in /fixtures/packaging/webpack/dev,open,dependabot[bot],2026-01-17T09:52:42Z,2026-01-17T09:52:47Z,,0,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35542,Request documentation for library development process  Modification requested by students.,closed,mohammed-mhmu,2026-01-17T01:30:05Z,2026-01-17T02:15:08Z,2026-01-17T02:15:08Z,2,"[""CLA Signed""]",True
+golang/go,77225,cmd/compile: add missing usemethod checks for reflect method iterators,open,Splizard,2026-01-17T22:57:43Z,2026-01-18T04:30:38Z,,7,[],True
+golang/go,77224,syscall: document Sendfile semantics,closed,awmorgan,2026-01-17T21:18:19Z,2026-01-22T21:21:15Z,2026-01-22T21:21:15Z,14,[],True
+golang/go,77223,cmd/go: go mod init go causes internal panic: missing go root module,closed,ashleybeloved,2026-01-17T20:36:19Z,2026-01-17T20:58:45Z,2026-01-17T20:53:38Z,3,[],False
+golang/go,77222,reflect: commit e8fdfeb7 made the DCE impossible,open,artem-anisimov-0x7f,2026-01-17T15:20:10Z,2026-02-10T19:29:32Z,,5,"[""WaitingForInfo"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77221,cmd/go: clean should honor the -o flag as a build parameter so it can remove the final built artifacts,open,norman-abramovitz,2026-01-17T10:33:58Z,2026-01-20T15:26:25Z,,1,"[""NeedsInvestigation"", ""FeatureRequest"", ""GoCommand""]",False
+golang/go,77220,crypto/tls: add minimal certificate verification on resumption,closed,rbqvq,2026-01-17T05:33:54Z,2026-01-24T08:03:39Z,2026-01-24T08:03:39Z,5,[],True
+golang/go,77219,doc/install/source: does not document `GOARM64`,open,tianon,2026-01-17T01:03:26Z,2026-02-03T13:19:03Z,,5,"[""Documentation"", ""NeedsInvestigation"", ""GoCommand""]",False
+golang/go,77218,cmd/compile: reproducible builds with cgo,closed,StaticRocket,2026-01-17T00:24:02Z,2026-01-23T21:13:10Z,2026-01-23T21:13:10Z,9,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+apache/spark,53845,[SPARK-55077][CORE][K8S]: Support spark.kubernetes.archives.avoidDownloadSchemes for K8s Cluster Mode,open,xumanbu,2026-01-17T02:10:43Z,2026-01-23T11:53:50Z,,2,"[""CORE""]",True
+apache/spark,53844,[SPARK-55058][SS] Throw error on inconsistent checkpoint metadata,closed,jerrytq,2026-01-17T01:03:00Z,2026-01-26T18:30:24Z,2026-01-26T18:30:24Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+langchain-ai/langchain,34795,[Feature Request] Add MCP Discovery tool for dynamic MCP server discovery,open,yksanjo,2026-01-17T19:45:46Z,2026-01-22T20:41:47Z,,1,"[""external""]",False
+langchain-ai/langchain,34794,SummarizationMiddleware breaks Anthropic extended thinking by removing thinking blocks during active assistant turns,open,Nilesh3105,2026-01-17T14:06:12Z,2026-02-01T23:01:00Z,,1,"[""bug"", ""investigate"", ""langchain"", ""external""]",False
+langchain-ai/langchain,34793,fix(langchain): Handled Unbounded Local variable Error,closed,DineshThumma9,2026-01-17T13:50:27Z,2026-02-03T02:00:28Z,2026-02-03T01:56:57Z,0,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,34792,No safe guards nor handling of unbound local variable case,closed,lukoshkin,2026-01-17T11:21:12Z,2026-02-03T01:56:32Z,2026-02-03T01:56:32Z,0,"[""bug"", ""langchain"", ""openai"", ""external""]",False
+langchain-ai/langchain,34791,fix(openai): handle null choices from model_dump() for vLLM compatibility,open,VedantMadane,2026-01-17T11:14:41Z,2026-02-10T09:56:05Z,,2,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,34790,`ollama._types.ResponseError`: `cannot unmarshal array into Go value of type api.ToolCallFunctionArguments`,open,khteh,2026-01-17T11:11:18Z,2026-01-22T20:41:52Z,,3,"[""bug"", ""langchain"", ""ollama"", ""external""]",False
+langchain-ai/langchain,34789,fix(langchain): fix typo 'safegaurd' -> 'safeguard',closed,NAM-MAN,2026-01-17T07:31:32Z,2026-01-23T19:51:23Z,2026-01-23T19:51:23Z,0,"[""fix"", ""langchain-classic"", ""external""]",True
+langchain-ai/langchain,34788,docs(langchain): nit,closed,mdrxy,2026-01-17T06:04:34Z,2026-01-22T21:13:08Z,2026-01-17T06:07:33Z,0,"[""documentation"", ""langchain"", ""internal""]",True
+langchain-ai/langchain,34787,chore(deps): bump langgraph-checkpoint from 2.1.2 to 3.0.0 in /libs/cli in the uv group across 1 directory,closed,dependabot[bot],2026-01-17T03:45:38Z,2026-01-22T21:13:09Z,2026-01-17T06:07:59Z,0,"[""infra"", ""dependencies"", ""cli"", ""langchain-classic"", ""python:uv"", ""external""]",True
+pallets/flask,5889,Revise Jinja templating documentation for clarity and readability,closed,RellikSai,2026-01-17T17:10:56Z,2026-02-01T00:13:56Z,2026-01-17T17:13:12Z,0,[],True
+docker/compose,13525,Fix: Robust shutdown and error handling for large file change batches in docker compose watch,closed,amyssnippet,2026-01-17T06:24:58Z,2026-01-20T07:34:16Z,2026-01-20T07:34:16Z,3,[],True
+docker/compose,13524,[BUG] misleading status for non-host-mode containers,closed,Paraphraser,2026-01-17T02:35:46Z,2026-01-21T08:40:07Z,2026-01-21T08:40:07Z,2,"[""kind/bug""]",False
+duckdb/duckdb,20571,Bump MySQL,closed,staticlibs,2026-01-17T19:29:13Z,2026-01-19T14:14:45Z,2026-01-19T09:11:02Z,3,[],True
+duckdb/duckdb,20570,UPDATE and DROP a column within the same transaction fails,open,Donnype,2026-01-17T11:34:47Z,2026-01-21T08:20:33Z,,3,"[""reproduced"", ""expected behavior""]",False

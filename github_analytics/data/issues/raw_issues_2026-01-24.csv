@@ -1,0 +1,46 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35621,"Fix typos: explicitlyu->explicitly, intialized->initialized",open,bodhisilberling,2026-01-24T20:37:15Z,2026-01-31T02:55:30Z,,0,"[""CLA Signed""]",True
+facebook/react,35620,test(eslint-plugin-react-hooks): add test cases for set-state-in-effe…,closed,TejasSathe010,2026-01-24T17:50:32Z,2026-01-24T18:31:33Z,2026-01-24T18:31:33Z,3,"[""CLA Signed""]",True
+facebook/react,35619,Bump lodash from 4.17.4 to 4.17.23 in /scripts/bench,open,dependabot[bot],2026-01-24T00:45:05Z,2026-01-26T18:30:31Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+golang/go,77303,x/tools/cmd/signature-fuzzer/internal/fuzz-generator: TestExhaustive failures,closed,gopherbot,2026-01-24T13:59:40Z,2026-01-27T03:59:55Z,2026-01-27T02:29:24Z,4,"[""NeedsInvestigation"", ""Tools""]",False
+golang/go,77302,x/tools/cmd/signature-fuzzer/internal/fuzz-generator: TestEmitBadRunFailure failures,closed,gopherbot,2026-01-24T12:59:00Z,2026-01-27T03:59:54Z,2026-01-26T03:33:01Z,4,"[""NeedsInvestigation"", ""Tools""]",False
+golang/go,77301,cmd/nm: bss symbols not correctly reported on linux/amd64,open,egonelbre,2026-01-24T12:11:57Z,2026-02-04T21:05:35Z,,4,"[""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77300,cmd/compile/internal/ssa: allow memcombine on proved aligned addresses,open,lxq015,2026-01-24T08:25:08Z,2026-01-24T17:45:44Z,,3,[],True
+golang/go,77299,cmd/compile: explicit wg.Done makes compute-intensive loop 2x slower than defer due to register pressure,closed,qiye45,2026-01-24T04:58:56Z,2026-02-10T23:54:15Z,2026-02-10T23:54:15Z,10,"[""Performance"", ""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77298,cmd/compile: go1.22+ cmd with go.mod 1.21 generates per-loop variable when using line directive [1.25 backport],open,gopherbot,2026-01-24T04:06:36Z,2026-02-04T15:47:02Z,,1,"[""CherryPickCandidate"", ""compiler/runtime""]",False
+golang/go,77297,cmd/compile: go1.22+ cmd with go.mod 1.21 generates per-loop variable when using line directive [1.26 backport],open,gopherbot,2026-01-24T04:06:35Z,2026-02-11T15:01:46Z,,4,"[""WaitingForInfo"", ""CherryPickCandidate"", ""compiler/runtime""]",False
+apache/spark,53953,[SPARK-55170][PYTHON] Extract grouped stream reading pattern from serializers,closed,Yicong-Huang,2026-01-24T22:12:33Z,2026-01-26T01:40:21Z,2026-01-26T01:40:02Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53952,[SPARK-55169][PYTHON] Use ArrowBatchTransformer.flatten_struct in ArrowStreamArrowUDTFSerializer,closed,Yicong-Huang,2026-01-24T21:05:28Z,2026-01-27T07:08:42Z,2026-01-27T07:07:40Z,4,"[""SQL"", ""PYTHON""]",True
+apache/spark,53951,[SPARK-55168][PYTHON] Use ArrowBatchTransformer.flatten_struct in GroupArrowUDFSerializer,closed,Yicong-Huang,2026-01-24T20:51:06Z,2026-01-26T06:33:05Z,2026-01-26T06:32:37Z,4,"[""SQL"", ""PYTHON""]",True
+apache/spark,53950,Create pylint.yml,closed,Kcato1,2026-01-24T18:13:44Z,2026-01-25T23:34:49Z,2026-01-25T23:34:49Z,4,"[""INFRA""]",True
+apache/spark,53949,[SPARK-55166][BUILD] Upgrade `kubernetes-client` to 7.5.2,closed,dongjoon-hyun,2026-01-24T13:08:33Z,2026-01-26T05:10:49Z,2026-01-26T05:10:33Z,4,"[""BUILD""]",True
+apache/spark,53948,[SPARK-55134] Fix `BasicExecutorFeatureStep` to throw `IllegalArgumentException` for executor cpu misconfigs,closed,dongjoon-hyun,2026-01-24T06:45:18Z,2026-01-24T13:59:47Z,2026-01-24T13:58:15Z,3,"[""KUBERNETES""]",True
+apache/spark,53947,[SPARK-55164][PYTHON][TESTS] Refactor tests for python udf input type coercion,closed,zhengruifeng,2026-01-24T05:44:02Z,2026-01-26T01:10:33Z,2026-01-25T23:10:21Z,2,"[""SQL"", ""BUILD"", ""PYTHON""]",True
+apache/spark,53946,[SPARK-55162][PYTHON] Extract transformers from ArrowStreamUDFSerializer,closed,Yicong-Huang,2026-01-24T01:42:58Z,2026-01-26T01:38:25Z,2026-01-26T01:37:44Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53945,[SPARK-55161][PYTHON] Support profilers on python data source,closed,gaogaotiantian,2026-01-24T01:21:50Z,2026-02-10T21:57:05Z,2026-02-02T23:18:20Z,4,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,53944,[SPARK-55160][PYTHON] Directly pass input schema to serializers,closed,zhengruifeng,2026-01-24T00:58:55Z,2026-01-26T01:58:53Z,2026-01-26T01:58:38Z,1,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,53943,[SPARK-55157][BUILD] Replace classutil with ClassGraph in GenerateMiMAIgnore,open,fangchenli,2026-01-24T00:00:12Z,2026-02-05T17:55:29Z,,1,"[""BUILD"", ""INFRA""]",True
+langchain-ai/langchain,34873,Support approximate token counting for image blocks in langchain-core,closed,subhashyadavon,2026-01-24T20:40:02Z,2026-01-26T23:04:27Z,2026-01-26T23:04:27Z,0,"[""core"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34872,fix(core): fix nested mustache variable extraction and update docs,closed,nandanadileep,2026-01-24T15:56:46Z,2026-02-01T02:31:11Z,2026-02-01T02:30:58Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34871,fix: reuse ToolStrategy in agent factory to prevent name mismatch,closed,Shivangisharma4,2026-01-24T13:22:28Z,2026-02-01T04:01:25Z,2026-02-01T03:10:26Z,0,"[""langchain"", ""fix""]",True
+langchain-ai/langchain,34870,not requiring uuid-utils for python-3.14 free-threading,open,stonebig,2026-01-24T10:34:33Z,2026-01-29T14:04:14Z,,5,"[""core"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34869,fix(core): add tool_call_id to on_tool_start and on_tool_end events,closed,saakshigupta2002,2026-01-24T09:50:26Z,2026-02-01T22:45:52Z,2026-02-01T22:45:52Z,1,"[""core""]",True
+langchain-ai/langchain,34868,fix(xai): fix routing of chat completions vs. responses apis during streaming,closed,sjnarmstrong,2026-01-24T08:43:58Z,2026-01-26T03:58:12Z,2026-01-26T03:58:12Z,1,"[""integration"", ""dependencies"", ""fix"", ""xai"", ""external""]",True
+langchain-ai/langchain,34867,feat(openai): add chatopenrouter to preserve model-specific parameters    ,open,elonfeng,2026-01-24T07:14:32Z,2026-01-24T07:41:18Z,,1,"[""integration"", ""feature"", ""openai"", ""external""]",True
+langchain-ai/langchain,34866,fix(langchain): blocking unit test,closed,mdrxy,2026-01-24T03:56:20Z,2026-01-24T03:58:06Z,2026-01-24T03:58:04Z,0,"[""langchain"", ""fix""]",True
+langchain-ai/langchain,34865,style(text-splitters): lint,closed,mdrxy,2026-01-24T03:39:28Z,2026-01-29T12:11:07Z,2026-01-24T04:07:36Z,0,"[""text-splitters"", ""linting"", ""internal""]",True
+langchain-ai/langchain,34864,style(model-profiles): lint,closed,mdrxy,2026-01-24T03:39:09Z,2026-01-24T03:41:02Z,2026-01-24T03:40:59Z,0,"[""model-profiles"", ""linting"", ""internal""]",True
+langchain-ai/langchain,34863,style(langchain): lint,closed,mdrxy,2026-01-24T03:38:02Z,2026-01-24T04:00:46Z,2026-01-24T04:00:44Z,0,"[""langchain"", ""linting"", ""internal""]",True
+langchain-ai/langchain,34862,style(core): lint,closed,mdrxy,2026-01-24T03:37:08Z,2026-01-30T16:58:32Z,2026-01-24T04:07:48Z,5,"[""core"", ""linting"", ""internal""]",True
+pallets/flask,5897,package detection fails with namespace package in editable mode,closed,PeterJCLaw,2026-01-24T19:34:47Z,2026-02-11T00:17:32Z,2026-01-26T05:03:12Z,5,[],False
+pallets/flask,5896,Cache compiled templates in render_template_string,closed,OptifinerAI,2026-01-24T08:39:08Z,2026-01-25T05:21:09Z,2026-01-24T15:17:57Z,2,[],True
+docker/compose,13555,Compose quiet mode,open,Pnkcaht,2026-01-24T20:37:07Z,2026-01-25T23:10:03Z,,3,[],True
+docker/compose,13554,[BUG] docker compose not respecting --progress quiet,closed,zorgoban,2026-01-24T09:00:38Z,2026-01-26T12:42:45Z,2026-01-26T12:02:11Z,7,"[""kind/feature""]",False
+docker/compose,13553,`-p` project name does not isolate container names when `container_name` is specified,closed,kazuki-hanai,2026-01-24T07:29:37Z,2026-01-24T08:58:25Z,2026-01-24T08:58:25Z,6,"[""kind/feature"", ""status/0-triage""]",False
+duckdb/duckdb,20664,Compression is not happening for (long) strings?,closed,matthijskooijman,2026-01-24T17:16:39Z,2026-02-05T17:28:54Z,2026-02-05T17:28:54Z,7,"[""under review""]",False
+duckdb/duckdb,20663,Merge v1.5-variegata into main,closed,carlopi,2026-01-24T14:45:03Z,2026-01-26T19:48:28Z,2026-01-26T19:48:16Z,5,[],True
+duckdb/duckdb,20662,Merge v1.4-andium into v1.5-variegata,closed,carlopi,2026-01-24T14:44:01Z,2026-01-25T21:28:39Z,2026-01-25T21:28:38Z,1,[],True
+duckdb/duckdb,20661,"Pass down optional_ptr<ClientContext> into LazyMultiFileList, and if available use to check interrupts",closed,carlopi,2026-01-24T14:42:52Z,2026-01-28T15:35:01Z,2026-01-28T15:34:25Z,3,"[""Ready To Merge""]",True
+duckdb/duckdb,20660,Expose LIMIT and OFFSET in EXPLAIN output for LIMIT operators,closed,fvaleye,2026-01-24T09:26:24Z,2026-01-26T19:59:20Z,2026-01-26T19:59:18Z,1,[],True
+duckdb/duckdb,20659,Fix schema resolution for unqualified FOREIGN KEY references,open,yijiangt,2026-01-24T05:07:23Z,2026-02-12T09:01:03Z,,10,"[""Changes Requested""]",True
+duckdb/duckdb,20658,missing '.cn' in hostname when attach to s3 tables in cn regions,open,chaosong,2026-01-24T03:24:46Z,2026-01-25T20:50:17Z,,0,"[""under review""]",False

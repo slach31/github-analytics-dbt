@@ -1,0 +1,88 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35688,[compiler][snap] Fixes to relative path resolution; compile subcommand,closed,josephsavona,2026-02-03T23:06:16Z,2026-02-04T03:12:21Z,2026-02-04T03:12:21Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35687,Bump url-parse from 1.5.1 to 1.5.10 in /fixtures/concurrent/time-slicing,open,dependabot[bot],2026-02-03T22:11:49Z,2026-02-03T22:15:40Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35686,[compiler] Fix `for` loops in try/catch,closed,josephsavona,2026-02-03T20:20:48Z,2026-02-03T23:04:35Z,2026-02-03T23:04:35Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35685,[DevTools] Disable Activity slices by default,closed,eps1lon,2026-02-03T17:23:07Z,2026-02-04T09:56:37Z,2026-02-04T09:56:34Z,3,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35684,[flags] Turn on `enableViewTransition` in OSS `react-test-renderer`,closed,eps1lon,2026-02-03T16:58:39Z,2026-02-04T10:43:04Z,2026-02-04T10:42:49Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35683,[flags] Turn on `enableAsyncDebugInfo` everywhere,closed,eps1lon,2026-02-03T15:56:30Z,2026-02-03T16:54:24Z,2026-02-03T16:52:57Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35682,Bug:,closed,nzdq29hjjf-sudo,2026-02-03T15:29:00Z,2026-02-03T16:01:06Z,2026-02-03T16:01:06Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35681,[flags] Cleanup `enableActivity`,closed,eps1lon,2026-02-03T14:12:32Z,2026-02-03T15:08:35Z,2026-02-03T15:08:19Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35680,Fix logComponentRender breaking proxy objects like tRPC client,closed,luigisambuy,2026-02-03T10:51:32Z,2026-02-03T10:54:32Z,2026-02-03T10:54:23Z,1,[],True
+facebook/react,35679,[Perf Tracks] Prevent crash when accessing `$$typeof`,closed,eps1lon,2026-02-03T09:46:05Z,2026-02-03T16:54:20Z,2026-02-03T16:53:45Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35678,[invalid][potential Security Alert] `postinstall` script changed in `carbon-mac-copy-cloner@1.2.1`,closed,alphaleadership,2026-02-03T08:52:22Z,2026-02-03T09:53:18Z,2026-02-03T09:53:12Z,1,[],False
+facebook/react,35677,Use modern JSX runtime in Flight fixture,closed,eps1lon,2026-02-03T07:55:16Z,2026-02-03T11:05:27Z,2026-02-03T11:05:24Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35676,Bug: Unexpected Double Invocation of useEffect in React 18 StrictMode,closed,Solomonkassa,2026-02-03T06:15:02Z,2026-02-03T08:02:25Z,2026-02-03T08:02:18Z,1,"[""Status: Unconfirmed"", ""Resolution: Expected Behavior""]",False
+facebook/react,35675,[Flight] allow context providers from client modules,closed,rickhanlonii,2026-02-03T03:18:41Z,2026-02-03T15:30:57Z,2026-02-03T15:23:01Z,2,"[""CLA Signed"", ""React Core Team""]",True
+golang/go,77430,"net: Listen(""tcp"", ""[::]:9100"") ""falls back"" to IPv4 when BPF filtering blocks [::1]:0",open,grahamc,2026-02-03T21:49:18Z,2026-02-07T19:46:19Z,,7,"[""NeedsInvestigation"", ""BugReport""]",False
+golang/go,77429,"log/slog: MultiHandler docs misspell ""Enabled"" method [1.26 backport]",closed,gopherbot,2026-02-03T19:44:12Z,2026-02-06T18:15:34Z,2026-02-06T18:15:34Z,2,"[""Documentation"", ""release-blocker"", ""CherryPickApproved""]",False
+golang/go,77428,"log/slog: MultiHandler docs misspell ""Enabled"" method",closed,rhysh,2026-02-03T19:43:46Z,2026-02-06T17:36:12Z,2026-02-06T17:30:37Z,6,"[""Documentation"", ""FixPending""]",False
+golang/go,77427,x/build: add a -spectre builder,open,prattmic,2026-02-03T19:17:43Z,2026-02-03T22:11:11Z,,4,"[""Builders"", ""NeedsFix"", ""new-builder""]",False
+golang/go,77426,crypto/tls: CL 737700 broke session resumption on macOS [1.26 backport],closed,gopherbot,2026-02-03T18:36:32Z,2026-02-03T19:21:34Z,2026-02-03T19:21:34Z,2,"[""CherryPickApproved""]",False
+golang/go,77425,crypto/tls: CL 737700 broke session resumption on macOS [1.25 backport],closed,gopherbot,2026-02-03T18:36:32Z,2026-02-03T19:20:11Z,2026-02-03T19:20:11Z,2,"[""CherryPickApproved""]",False
+golang/go,77424,crypto/tls: CL 737700 broke session resumption on macOS [1.24 backport],closed,gopherbot,2026-02-03T18:36:31Z,2026-02-03T19:18:44Z,2026-02-03T19:18:44Z,2,"[""CherryPickApproved""]",False
+golang/go,77423,proposal: encoding/json/v2: struct field tags for directional Marshal/Unmarshal,closed,CRSylar,2026-02-03T15:14:00Z,2026-02-03T15:44:45Z,2026-02-03T15:44:44Z,3,"[""Proposal"", ""LibraryProposal""]",False
+golang/go,77422,"testing/synctest: select default should only be selected when all grs in the bubble are blocked, and/or time.Sleep(0) doesn't durably block",closed,croepha,2026-02-03T15:13:13Z,2026-02-03T20:16:08Z,2026-02-03T15:51:42Z,6,"[""BugReport""]",False
+golang/go,77421,internal/runtime/gc/scan: fix calls for retpoline compatibility,open,GeorgeSapkin,2026-02-03T15:07:20Z,2026-02-04T20:28:47Z,,4,[],True
+golang/go,77420,internal/runtime: some modules fail to compile when Spectre mitigations are enabled,closed,GeorgeSapkin,2026-02-03T14:50:53Z,2026-02-05T22:19:44Z,2026-02-04T21:01:04Z,11,"[""NeedsFix"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77419,cmd/go: go list computes build info for test packages when not needed,open,pgimalac,2026-02-03T13:09:35Z,2026-02-05T10:11:56Z,,4,"[""NeedsInvestigation"", ""GoCommand"", ""BugReport""]",False
+golang/go,77418,x/website/internal/dl: 0 file size for some old releases,open,mrdimidium,2026-02-03T12:07:48Z,2026-02-03T17:38:22Z,,1,"[""NeedsInvestigation"", ""website""]",False
+golang/go,77417,x/build: add LUCI linux-mipsle builder,open,AaronGrand,2026-02-03T09:37:58Z,2026-02-12T11:25:13Z,,10,"[""OS-Linux"", ""Builders"", ""NeedsFix"", ""new-builder"", ""arch-mips""]",False
+golang/go,77416,x/tools/go/analysis/passes/modernize: remove os.Exit calls from TestMain funcs,open,mvdan,2026-02-03T08:41:38Z,2026-02-04T22:12:38Z,,6,"[""NeedsDecision"", ""FeatureRequest"", ""Tools"", ""Refactoring""]",False
+golang/go,77415,x/website:,closed,sgsgsgwgg132-tech,2026-02-03T07:14:56Z,2026-02-03T08:20:34Z,2026-02-03T07:36:34Z,2,"[""website""]",False
+golang/go,77414,cmd/internal/obj/loong64: Incorrect simd_type calculation: base value not subtracted before bit assignment,open,spy20051623,2026-02-03T02:11:47Z,2026-02-07T08:14:28Z,,3,"[""NeedsInvestigation"", ""arch-loong64"", ""BugReport""]",False
+apache/spark,54123,[SPARK-55345][PYTHON][PS] Do not pass unit and closed to Timedelta for pandas 3,closed,gaogaotiantian,2026-02-03T23:08:10Z,2026-02-10T21:57:54Z,2026-02-05T23:29:49Z,2,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54122,[SPARK-55309][BUILD][FOLLOW-UP] Bump container protobuf version,closed,gaogaotiantian,2026-02-03T21:43:09Z,2026-02-05T01:11:33Z,2026-02-04T02:35:23Z,3,"[""BUILD""]",True
+apache/spark,54121,[SPARK-55040][PYTHON][FOLLOW-UP] Always pass secret for taskcontext,closed,gaogaotiantian,2026-02-03T20:03:33Z,2026-02-03T22:30:58Z,2026-02-03T22:30:51Z,2,"[""CORE"", ""PYTHON""]",True
+apache/spark,54120,[SPARK-55313][PYTHON][FOLLOW-UP] Do not auto-activate conda for CI,closed,gaogaotiantian,2026-02-03T19:14:41Z,2026-02-03T23:03:14Z,2026-02-03T22:55:03Z,4,"[""INFRA""]",True
+apache/spark,54119,[SPARK-55342][K8S] Fix `ExecutorPodsLifecycleEventHandler` to `ExecutorPodsLifecycleManager`,closed,dongjoon-hyun,2026-02-03T18:58:01Z,2026-02-03T22:30:01Z,2026-02-03T22:29:50Z,2,"[""KUBERNETES""]",True
+apache/spark,54118,[SPARK-55341][SQL] Add storage level flag for cached local relations,closed,pranavdev022,2026-02-03T18:34:50Z,2026-02-05T13:39:39Z,2026-02-05T13:39:39Z,2,"[""SQL""]",True
+apache/spark,54117,[SPARK-55340][SQL] Add helper for name to data type,closed,leonwind,2026-02-03T17:22:23Z,2026-02-05T00:31:59Z,2026-02-05T00:31:59Z,2,"[""SQL""]",True
+apache/spark,54116,[MINOR][Geo][SQL] Remove redundant Geo case in XML data source,closed,uros-db,2026-02-03T14:37:26Z,2026-02-03T23:28:44Z,2026-02-03T23:28:44Z,0,"[""SQL""]",True
+apache/spark,54115,[SQL] New functionality and bugfixes for single-pass analyzer,open,mihailotim-db,2026-02-03T14:29:49Z,2026-02-03T14:31:31Z,,1,"[""SQL""]",True
+apache/spark,54114,[SPARK-55339][Geo][SQL] Implement WKT writer support for Geo objects,open,uros-db,2026-02-03T13:50:31Z,2026-02-12T08:29:28Z,,1,"[""SQL""]",True
+apache/spark,54113,[SPARK-55338][CONNECT] Centralize Spark Connect request decompression logic in gRPC interceptor,open,xi-db,2026-02-03T09:56:37Z,2026-02-11T18:59:43Z,,3,"[""SQL"", ""CONNECT""]",True
+apache/spark,54112,[SPARK-54881][SQL][FOLLOWUP] Extract simplifyNot method in BooleanSimplification,closed,cloud-fan,2026-02-03T08:50:25Z,2026-02-08T16:13:12Z,2026-02-08T16:13:12Z,8,"[""SQL""]",True
+apache/spark,54111,[SPARK-55336][PYTHON] Let createDF use create_batch logic for decoupling,closed,Yicong-Huang,2026-02-03T07:19:11Z,2026-02-03T22:32:45Z,2026-02-03T22:32:45Z,2,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54110,[SPARK-55335][PYTHON][TESTS] Use eventually instead of hard-coded wait for datasource test,closed,gaogaotiantian,2026-02-03T07:16:28Z,2026-02-10T21:56:53Z,2026-02-05T03:03:22Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54109,[SPARK-55328][SQL][PYTHON] Reuse PythonArrowInput.codec in GroupedPythonArrowInput,closed,zhengruifeng,2026-02-03T05:35:05Z,2026-02-03T08:00:17Z,2026-02-03T06:20:04Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54108,[SPARK-55337][SS] Fix MemoryStream backward compatibility,closed,cloud-fan,2026-02-03T05:27:48Z,2026-02-08T16:09:40Z,2026-02-08T16:09:39Z,6,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,54107,[SPARK-55327][K8S] Reduce Spark docker image sizes,closed,dongjoon-hyun,2026-02-03T05:09:35Z,2026-02-03T06:17:37Z,2026-02-03T06:17:19Z,3,"[""KUBERNETES"", ""PYTHON""]",True
+apache/spark,54106,[SPARK-55326][PYTHON][CONNECT] Release remote session when SPARK_CONNECT_RELEASE_SESSION_ON_EXIT is set,open,wbo4958,2026-02-03T05:01:13Z,2026-02-09T07:23:53Z,,2,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54105,[SPARK-54969][PYTHON] Implement new arrow->pandas conversion,closed,zhengruifeng,2026-02-03T03:51:08Z,2026-02-03T07:45:35Z,2026-02-03T07:44:41Z,3,"[""SQL"", ""PYTHON""]",True
+apache/spark,54104,[SPARK-55264] Add ExecuteOutput command to Spark Connect pipelines proto,open,aditya-nambiar,2026-02-03T02:05:19Z,2026-02-11T05:31:33Z,,3,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54103,[SPARK-55323][PYTHON] Move UDF metadata to EvalConf to simplify worker protocol,closed,gaogaotiantian,2026-02-03T01:24:02Z,2026-02-03T19:24:31Z,2026-02-03T05:43:51Z,2,"[""SQL"", ""STRUCTURED STREAMING"", ""CORE"", ""PYTHON""]",True
+apache/spark,54102,[SPARK-55176][PYTHON][FOLLOW-UP] Fix `_input_type` and `_arrow_cast` not defined in `ArrowStreamPandasSerializer`,closed,Yicong-Huang,2026-02-03T00:10:35Z,2026-02-03T03:46:30Z,2026-02-03T03:46:04Z,3,"[""SQL"", ""PYTHON""]",True
+langchain-ai/langchain,35004,Fix/tracing v2 caching,closed,hittanshubhanderi20,2026-02-03T23:31:45Z,2026-02-04T02:13:00Z,2026-02-04T02:13:00Z,1,"[""core"", ""text-splitters"", ""external""]",True
+langchain-ai/langchain,35003,"_tracing_v2_is_enabled caches environment variable state, preventing dynamic updates",closed,Mary904,2026-02-03T22:59:21Z,2026-02-04T04:12:55Z,2026-02-04T04:12:55Z,2,"[""bug"", ""core"", ""external""]",False
+langchain-ai/langchain,35002,revert: use usage metadata scaling in SummarizationMiddleware default token counter,closed,ccurme,2026-02-03T22:57:06Z,2026-02-03T22:59:29Z,2026-02-03T22:59:24Z,0,"[""langchain"", ""revert"", ""internal""]",True
+langchain-ai/langchain,35001,fix(langchain): use usage metadata scaling in SummarizationMiddleware default token counter,closed,ccurme,2026-02-03T20:24:24Z,2026-02-03T20:26:46Z,2026-02-03T20:26:44Z,0,"[""langchain"", ""fix"", ""internal""]",True
+langchain-ai/langchain,35000,什么时候集成skill?,open,fishfish123-win,2026-02-03T18:33:22Z,2026-02-05T16:49:31Z,,1,"[""feature request"", ""external""]",False
+langchain-ai/langchain,34999,"chore: update PR template, `CODEOWNERS`",closed,mdrxy,2026-02-03T17:59:06Z,2026-02-03T17:59:43Z,2026-02-03T17:59:41Z,0,"[""infra"", ""internal""]",True
+langchain-ai/langchain,34998,feat(core): add option to use usage_metadata to scale approximate token counts,closed,ccurme,2026-02-03T16:21:38Z,2026-02-03T16:24:32Z,2026-02-03T16:23:58Z,1,"[""core"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34997,fix(chroma): remove Python 3.14 classifier until Chroma supports it,closed,KR-LSB,2026-02-03T15:16:35Z,2026-02-03T16:22:46Z,2026-02-03T16:22:45Z,1,"[""integration"", ""dependencies"", ""fix"", ""chroma""]",True
+langchain-ai/langchain,34996,feat(core): allow scaling by reported usage when counting tokens approximately,closed,ccurme,2026-02-03T15:15:23Z,2026-02-03T20:19:21Z,2026-02-03T20:19:18Z,1,"[""core"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34995,langchain-chroma mistakenly declares support for 3.14,closed,ulgens,2026-02-03T13:29:52Z,2026-02-03T16:22:48Z,2026-02-03T16:22:47Z,2,"[""bug"", ""chroma"", ""external""]",False
+langchain-ai/langchain,34994,fix(core): preserve tool call chunks when merging streamed message runs,closed,GJR-HRL,2026-02-03T13:03:37Z,2026-02-05T06:17:06Z,2026-02-04T02:20:24Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34993,test(deps): Include Python 3.14 in integration test matrix,open,ulgens,2026-02-03T12:48:49Z,2026-02-03T13:54:40Z,,0,"[""github_actions"", ""tests""]",True
+langchain-ai/langchain,34992,fix(core): preserve tool call chunks when merging streamed message runs,closed,GJR-HRL,2026-02-03T12:40:21Z,2026-02-03T13:57:24Z,2026-02-03T12:48:44Z,0,"[""integration"", ""core"", ""fix"", ""ollama""]",True
+langchain-ai/langchain,34991,fix(core): handle None content in ToolMessageChunk merging,closed,saakshigupta2002,2026-02-03T11:20:42Z,2026-02-04T02:23:26Z,2026-02-04T02:23:26Z,2,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34990,Missing elicitation events & IDs in MCP astream make async UI-based elicitation impossible,open,hamidashoor98,2026-02-03T08:46:35Z,2026-02-03T17:09:57Z,,2,"[""core"", ""langchain"", ""feature request"", ""external""]",False
+langchain-ai/langchain,34989,Tool call agent takes more time,closed,Jahnavi-pothuri,2026-02-03T07:33:47Z,2026-02-05T16:49:56Z,2026-02-05T16:49:56Z,2,"[""bug"", ""langchain-classic"", ""external""]",False
+langchain-ai/langchain,34988,fix(core): preserve AIMessage.tool_calls during InMemoryChatMessageHistory serialization,closed,leesta24,2026-02-03T06:18:44Z,2026-02-04T02:24:58Z,2026-02-04T02:24:58Z,2,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34987,fix(core): preserve tool_calls in InMemoryChatMessageHistory serialization,closed,jackjin1997,2026-02-03T04:03:15Z,2026-02-04T02:25:23Z,2026-02-04T02:25:23Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34986,fix: support tools parameter in with_structured_output function_calling mode,closed,jiaming2li,2026-02-03T00:05:21Z,2026-02-09T05:12:38Z,2026-02-09T05:12:31Z,1,"[""integration"", ""fix"", ""openai""]",True
+docker/compose,13570,[BUG] TTY Progress No Longer Works,open,DaleyKD,2026-02-03T15:19:52Z,2026-02-10T18:06:47Z,,6,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13569,ci: fix bin-image job,closed,crazy-max,2026-02-03T13:30:44Z,2026-02-03T14:27:24Z,2026-02-03T14:11:50Z,2,[],True
+docker/compose,13568,use Docker GitHub Builder to build and sign binaries and bin image,closed,crazy-max,2026-02-03T10:11:26Z,2026-02-03T13:23:54Z,2026-02-03T13:19:22Z,2,[],True
+duckdb/duckdb,20798,"Fixup settings, after two in-flight PR both updated them",closed,carlopi,2026-02-03T20:01:48Z,2026-02-04T07:52:43Z,2026-02-04T07:52:41Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20797,ATTACH hangs with ENCRYPTION_KEY when network is unavailable,open,rkennedy-argus,2026-02-03T18:55:04Z,2026-02-05T08:18:59Z,,4,"[""under review""]",False
+duckdb/duckdb,20796,Bump Julia to v1.4.4,closed,maiadegraaf,2026-02-03T15:47:27Z,2026-02-04T14:20:33Z,2026-02-04T07:47:47Z,1,[],True
+duckdb/duckdb,20795,[Profiling] Fix Incorrect Latency Timings,closed,maiadegraaf,2026-02-03T15:08:28Z,2026-02-05T17:54:12Z,2026-02-05T17:54:08Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20794,[Profiling] Fix Incorrect Latency Timings,closed,maiadegraaf,2026-02-03T15:04:17Z,2026-02-03T15:07:25Z,2026-02-03T15:05:27Z,0,[],True
+duckdb/duckdb,20793,Unexpected error `LIMIT/OFFSET cannot be negative` in the subquery of prepared statement,closed,DerZc,2026-02-03T12:53:27Z,2026-02-08T07:54:26Z,2026-02-08T07:54:26Z,1,"[""reproduced""]",False
+duckdb/duckdb,20792,Inconsistent results between equivalent normal and prepared SELECT,closed,DerZc,2026-02-03T12:45:56Z,2026-02-08T07:54:28Z,2026-02-08T07:54:28Z,1,"[""reproduced""]",False
+duckdb/duckdb,20791,Prevent warnings being printed multiple times in the CLI,closed,maiadegraaf,2026-02-03T11:15:44Z,2026-02-04T14:36:58Z,2026-02-04T14:34:55Z,2,[],True
+duckdb/duckdb,20790,Bump and remove patch httpfs,closed,carlopi,2026-02-03T09:05:35Z,2026-02-04T15:41:01Z,2026-02-04T15:41:01Z,3,"[""Ready To Merge""]",True
+duckdb/duckdb,20789,Merge andium in variegata and then into main,closed,carlopi,2026-02-03T07:58:29Z,2026-02-03T08:02:33Z,2026-02-03T08:02:33Z,0,[],True
+duckdb/duckdb,20788,Merge andium into variegata,closed,carlopi,2026-02-03T07:53:05Z,2026-02-03T15:02:54Z,2026-02-03T14:49:11Z,2,"[""Ready For Review""]",True
+duckdb/duckdb,20787,Add Reservoir Sampling Pushdown Support to Table Functions,closed,redox,2026-02-03T00:10:17Z,2026-02-08T13:10:49Z,2026-02-08T13:10:49Z,10,[],True

@@ -1,0 +1,74 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35511,Defer useDeferredValue updates in Gestures,closed,sebmarkbage,2026-01-14T23:35:33Z,2026-01-16T01:46:12Z,2026-01-16T01:46:12Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35510,Optimize gesture by allowing the original work in progress tree to be a suspended commit,closed,sebmarkbage,2026-01-14T20:18:08Z,2026-01-16T01:51:36Z,2026-01-16T01:51:36Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35509,[DevTools] Fix ReDoS vulnerability in Firefox stack trace parser,open,yujiteshima,2026-01-14T16:06:08Z,2026-01-20T17:23:36Z,,1,"[""CLA Signed""]",True
+facebook/react,35508,Cleanup enableEagerAlternateStateNodeCleanup feature flag,open,javache,2026-01-14T13:44:01Z,2026-01-14T13:50:53Z,,1,"[""CLA Signed""]",True
+facebook/react,35507,docs: improve README installation section clarity,open,manjot-dhaliwal,2026-01-14T05:40:12Z,2026-01-14T06:13:44Z,,2,"[""CLA Signed""]",True
+facebook/react,35506,[Flight] Forward early debug info for lazy chunks,open,lubieowoce,2026-01-14T04:35:13Z,2026-02-03T12:38:06Z,,2,"[""CLA Signed""]",True
+golang/go,77183,"x/mobile: Need a blank import ""golang.org/x/mobile/bin' under macOS",open,wunderbarb,2026-01-14T23:42:46Z,2026-01-16T20:47:28Z,,1,"[""NeedsInvestigation"", ""mobile"", ""BugReport""]",False
+golang/go,77182,proxy.golang.org: wrongly indexed versions v0.0.1-v0.0.21 for golang.getoutline.org/sdk/x,closed,jyyi1,2026-01-14T22:56:49Z,2026-01-14T22:58:54Z,2026-01-14T22:58:54Z,1,"[""proxy.golang.org""]",False
+golang/go,77181,cmd/compile: infinite loop in regalloc,closed,RaduBerinde,2026-01-14T22:18:32Z,2026-01-21T18:49:04Z,2026-01-19T18:46:38Z,3,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77180,x/net/bpf: SEGV in malloc (gcBits.bytep),open,gopherbot,2026-01-14T21:51:47Z,2026-01-23T18:02:46Z,,9,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77179,x/build: LUCI outage: `cas download` step fails (infra failure) in builders,closed,mknyszek,2026-01-14T18:39:51Z,2026-01-14T20:45:27Z,2026-01-14T20:45:26Z,2,"[""Builders"", ""Soon""]",False
+golang/go,77178,proposal: builtin no_nil just like no_copy,closed,udan-jayanith,2026-01-14T18:12:25Z,2026-01-14T22:52:59Z,2026-01-14T22:52:59Z,5,"[""Proposal"", ""LanguageProposal""]",False
+golang/go,77177,cmd/internal/objabi: implement GCC-compatible response file parsing,open,podtserkovskiy,2026-01-14T17:34:10Z,2026-02-03T20:01:20Z,,19,"[""OS-Windows"", ""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77176,x/telemetry/config: collect CPU name,closed,adonovan,2026-01-14T17:17:54Z,2026-01-24T18:36:55Z,2026-01-14T19:21:29Z,4,"[""telemetry"", ""Telemetry-Proposal""]",False
+golang/go,77175,Fuzzing test plus extracting regexp definition of time.ParseDuration,closed,alshopov,2026-01-14T17:08:06Z,2026-01-14T22:57:19Z,2026-01-14T22:57:18Z,2,"[""FeatureRequest""]",False
+golang/go,77174,x/tools/gopls: SEGV reading through bad *types.Func pointer returned by Scope.Lookup,open,adonovan,2026-01-14T15:45:11Z,2026-01-21T21:07:23Z,,1,"[""NeedsInvestigation"", ""gopls"", ""Tools"", ""gopls/telemetry-wins"", ""BugReport""]",False
+golang/go,77173,"sync: WaitGroup.Go obfuscates ""created by"" information in goroutine dumps",open,RaduBerinde,2026-01-14T15:31:53Z,2026-01-22T16:32:45Z,,8,"[""NeedsDecision"", ""FeatureRequest"", ""compiler/runtime""]",False
+golang/go,77172,"http: DetectContentType incorrectly detects any content with ""LP"" at 34-byte as ""application/vnd.ms-fontobject""",closed,wxiaoguang,2026-01-14T07:07:26Z,2026-01-20T10:55:38Z,2026-01-14T07:29:16Z,14,"[""BugReport""]",False
+golang/go,77171,交叉编译异常,closed,starvpn,2026-01-14T07:04:54Z,2026-01-14T07:44:46Z,2026-01-14T07:30:59Z,2,"[""BugReport""]",False
+apache/spark,53806,[SPARK-55018][PYTHON][TESTS][FOLLOWUP] Revert the interval for test_convergence,closed,gaogaotiantian,2026-01-14T21:54:51Z,2026-01-15T02:35:25Z,2026-01-15T02:35:12Z,2,"[""MLLIB"", ""PYTHON""]",True
+apache/spark,53805,[SPARK-55039][SS][SQL] Add IDENTIFIED BY syntax for naming streaming sources,closed,ericm-db,2026-01-14T21:41:28Z,2026-01-15T19:38:23Z,2026-01-15T19:38:23Z,2,"[""SQL"", ""DOCS"", ""CONNECT""]",True
+apache/spark,53804,[SPARK-54559] Use runnerConf to pass profiler option,closed,gaogaotiantian,2026-01-14T19:56:24Z,2026-01-15T02:41:00Z,2026-01-15T02:40:11Z,2,"[""SQL"", ""STRUCTURED STREAMING"", ""CORE"", ""PYTHON""]",True
+apache/spark,53803,[SPARK-54921][CORE] Add parentIds in StageData,open,callmepandey,2026-01-14T19:53:11Z,2026-01-14T20:42:23Z,,1,"[""WEB UI"", ""CORE""]",True
+apache/spark,53802,[SPARK-55153][SS][PYTHON][DOC] Add documentation for TwsTester,closed,fedimser,2026-01-14T19:31:46Z,2026-02-05T04:15:42Z,2026-02-05T04:15:42Z,5,"[""DOCS""]",True
+apache/spark,53801,[SPARK-55037][CONNECT][SQL] Re-implement Observation Without Using the QueryExecutionListener,closed,heyihong,2026-01-14T16:58:13Z,2026-01-22T22:29:33Z,2026-01-22T17:54:05Z,4,"[""SQL"", ""CONNECT""]",True
+apache/spark,53800,[SPARK-55036][PYTHON] Add `ArrowTimestampConversion` for arrow timezone handling,closed,zhengruifeng,2026-01-14T13:18:10Z,2026-01-20T04:14:49Z,2026-01-20T04:14:27Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53799,[SPARK-55035] Perform shuffle cleanup in child executions,closed,bozhang2820,2026-01-14T12:00:58Z,2026-01-19T12:35:13Z,2026-01-19T12:35:13Z,3,"[""SQL"", ""STRUCTURED STREAMING"", ""CONNECT""]",True
+apache/spark,53798,[SPARK-54870][SQL][FOLLOWUP] Remove dead code and fix typo,closed,cloud-fan,2026-01-14T11:28:02Z,2026-01-14T16:39:34Z,2026-01-14T16:39:34Z,2,"[""SQL""]",True
+apache/spark,53797,[SPARK-54987][PYTHON][DOCS][FOLLOW-UP] Update the docstring of `to_arrow_type`,closed,zhengruifeng,2026-01-14T11:18:09Z,2026-01-19T01:12:21Z,2026-01-19T01:11:58Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53796,[SPARK-55034][PYTHON][TESTS] Test `test_arrow_udf_output_timestamps_ltz` without timezone conversion to UTC,closed,zhengruifeng,2026-01-14T11:04:07Z,2026-01-19T01:11:09Z,2026-01-19T01:10:47Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53795,[SPARK-54870][SQL][FOLLOWUP] Remove dead code and fix typo,closed,cloud-fan,2026-01-14T10:20:13Z,2026-01-14T11:27:29Z,2026-01-14T11:27:24Z,2,"[""SQL""]",True
+apache/spark,53794,[SPARK-55033][SQL] Fix stringArgs of DSv2 writing commands,closed,pan3793,2026-01-14T06:22:45Z,2026-01-19T13:59:54Z,2026-01-19T09:13:00Z,6,"[""SQL""]",True
+langchain-ai/langchain,34757,Add ChatAnthropicBedrock wrapper for full Anthropic SDK feature parity on AWS Bedrock,open,syasini,2026-01-14T22:09:44Z,2026-02-10T12:20:36Z,,4,"[""feature request"", ""anthropic"", ""external""]",False
+langchain-ai/langchain,34756,docs(core): enhance docstring for `RunnableConfig` for clarity on `total=False`,closed,mdrxy,2026-01-14T21:07:30Z,2026-01-22T21:13:49Z,2026-01-14T21:38:34Z,1,"[""documentation"", ""core"", ""internal""]",True
+langchain-ai/langchain,34755,release: langchain 1.2.4,closed,sydney-runkle,2026-01-14T18:47:10Z,2026-01-22T21:13:50Z,2026-01-14T19:24:31Z,0,"[""langchain"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,34754,feat(langchain): update summarization prompt,closed,ccurme,2026-01-14T18:13:59Z,2026-01-22T21:13:52Z,2026-01-15T19:17:56Z,0,"[""langchain"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34753,feat(core): Add OutputFixingParser for LCEL chain retry support,open,codeananda,2026-01-14T15:54:15Z,2026-01-23T08:54:56Z,,5,"[""core"", ""feature"", ""external""]",True
+langchain-ai/langchain,34752,fix(langchain): guard file search regex fallback,open,T1mn,2026-01-14T15:01:11Z,2026-01-22T21:13:57Z,,0,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,34751,Non-Harmony/responses-format payload from agent causes vLLM 400 (rejects output_text blocks) at gpt-oss-120b,open,casabre,2026-01-14T12:26:11Z,2026-01-22T20:42:05Z,,3,"[""bug"", ""openai"", ""external""]",False
+langchain-ai/langchain,34750,fix(openai): handle missing 'role' key in reasoning payload (#34748),open,Aryan-31,2026-01-14T11:59:07Z,2026-01-22T21:13:59Z,,1,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,34749,`AttributeError: 'RunnableSequence' object has no attribute 'combine_documents_chain'`,closed,khteh,2026-01-14T11:40:28Z,2026-01-22T20:42:06Z,2026-01-15T04:04:13Z,3,"[""bug"", ""langchain"", ""langchain-classic"", ""ollama"", ""external""]",False
+langchain-ai/langchain,34748,OpenAI payload fails with KeyError: 'role' when reasoning-enabled/Responses API path is used,open,casabre,2026-01-14T10:25:30Z,2026-01-22T20:42:08Z,,0,"[""bug"", ""core"", ""langchain"", ""openai"", ""external""]",False
+langchain-ai/langchain,34747,fix(openai): add reasoning_content for stream&astream funciton,open,worship-dog,2026-01-14T07:04:13Z,2026-01-29T03:51:57Z,,2,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,34746,Malformed JSON string causes `ollama._types.ResponseError: error parsing tool call`,open,khteh,2026-01-14T06:24:53Z,2026-01-23T17:58:10Z,,2,"[""bug"", ""langchain"", ""ollama"", ""external""]",False
+langchain-ai/langchain,34745,fix(langchain-deepseek): Handling reasoning content for multi-round c…,closed,Kowalskix1,2026-01-14T03:22:35Z,2026-01-28T09:29:29Z,2026-01-14T03:26:59Z,1,"[""integration"", ""fix"", ""deepseek"", ""external""]",True
+docker/compose,13515,Fix docker compose down removing images still in use,closed,Pnkcaht,2026-01-14T23:39:17Z,2026-01-15T17:49:04Z,2026-01-15T17:49:04Z,2,[],True
+docker/compose,13512,Fix gw priority network order,closed,Pnkcaht,2026-01-14T22:29:28Z,2026-01-19T16:35:55Z,2026-01-19T16:35:55Z,2,[],True
+docker/compose,13511,[BUG] gw_priority is ignored on ipv4 network if service also joins an ipv6 network without priority,closed,stavros-k,2026-01-14T19:49:11Z,2026-02-04T09:21:17Z,2026-02-04T07:17:19Z,9,"[""kind/bug""]",False
+docker/compose,13510,fix: expand tilde in --env-file paths to user home directory,closed,tensorworkerr,2026-01-14T03:31:15Z,2026-01-15T11:17:38Z,2026-01-15T07:24:20Z,4,[],True
+docker/compose,13509,fix: expand tilde in --env-file paths to user home directory,closed,tensorworker,2026-01-14T02:49:04Z,2026-01-14T03:11:18Z,2026-01-14T03:11:18Z,0,[],True
+duckdb/duckdb,20543,INTERNAL Error: Failure while replaying WAL file: Calling DatabaseManager::GetDefaultDatabase with no default database set,open,NickCrews,2026-01-14T20:10:07Z,2026-01-15T07:29:36Z,,0,"[""under review""]",False
+duckdb/duckdb,20542,Bump VSS,closed,taniabogatsch,2026-01-14T19:32:44Z,2026-01-15T07:47:17Z,2026-01-15T07:43:11Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20541,Issue #20075: Window Self-Join Benchmarks,closed,hawkfish,2026-01-14T19:07:47Z,2026-01-16T15:16:13Z,2026-01-16T08:13:49Z,4,"[""Ready For Review""]",True
+duckdb/duckdb,20540,Bump Excel,closed,maiadegraaf,2026-01-14T16:35:01Z,2026-01-15T09:40:05Z,2026-01-15T07:43:25Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20539,[Fix] Add the new extension loader symbol to the bundled / gathered libraries,closed,taniabogatsch,2026-01-14T16:23:32Z,2026-01-16T09:25:44Z,2026-01-16T08:11:49Z,0,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20538,Re-enable in-memory zstd,open,yan-alex,2026-01-14T15:31:57Z,2026-02-11T16:34:04Z,,8,"[""Changes Requested""]",True
+duckdb/duckdb,20537,Add Linux releases for musl libc,closed,staticlibs,2026-01-14T15:11:33Z,2026-02-03T16:01:16Z,2026-02-03T15:51:55Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20536,Rephrase enable_external_access error message more intentionally,closed,yan-alex,2026-01-14T14:43:15Z,2026-01-17T08:23:49Z,2026-01-16T08:21:47Z,1,[],True
+duckdb/duckdb,20535,Rephrase enable_external_access  error message more intentionally,closed,yan-alex,2026-01-14T13:59:42Z,2026-01-14T14:44:20Z,2026-01-14T14:39:04Z,1,[],True
+duckdb/duckdb,20534,[Variant] Comparison operation fixes,closed,Tishj,2026-01-14T13:47:16Z,2026-01-19T13:31:04Z,2026-01-19T13:28:43Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20533,etag check fails query,open,OneCyrus,2026-01-14T13:01:27Z,2026-01-16T08:39:35Z,,2,"[""under review""]",False
+duckdb/duckdb,20532,Fix Issue #20233: Fix function chain in having and merge to v1.4,closed,ArNine,2026-01-14T12:53:12Z,2026-01-15T09:19:08Z,2026-01-15T09:19:08Z,1,[],True
+duckdb/duckdb,20530,"Insertion into table with schema can fail with ""Table with name <table> does not exist!"" where <table> is not mentioned in the failing command!",open,tim-band,2026-01-14T10:55:58Z,2026-02-11T10:02:25Z,,3,"[""reproduced""]",False
+duckdb/duckdb,20529,[ART] Art index key scan + Refactor MergeCheckpointDeltas,closed,artjomPlaunov,2026-01-14T10:21:28Z,2026-02-03T15:21:26Z,2026-02-02T13:34:25Z,4,"[""Ready To Merge""]",True
+duckdb/duckdb,20528,Bump: excel,closed,maiadegraaf,2026-01-14T10:19:07Z,2026-01-15T09:40:05Z,2026-01-14T16:33:58Z,0,[],True
+duckdb/duckdb,20527,Revert vortex bump for v1.4.4,closed,taniabogatsch,2026-01-14T10:19:00Z,2026-01-15T07:28:17Z,2026-01-14T21:37:03Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20526,"Bump: excel, vss",closed,maiadegraaf,2026-01-14T10:16:09Z,2026-01-14T10:17:01Z,2026-01-14T10:16:55Z,0,[],True
+duckdb/duckdb,20525,Bump: excel,closed,maiadegraaf,2026-01-14T10:12:26Z,2026-01-14T10:14:36Z,2026-01-14T10:13:05Z,0,[],True
+duckdb/duckdb,20524,Set correct serialialization version in `SetOperationNode::SerializeChildList`,closed,lnkuiper,2026-01-14T09:31:53Z,2026-01-28T13:38:16Z,2026-01-15T06:45:31Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20523,Support alter table set/reset options,closed,Tmonster,2026-01-14T09:27:07Z,2026-01-27T20:04:15Z,2026-01-27T20:04:12Z,2,"[""Needs Documentation"", ""Ready For Review""]",True
+duckdb/duckdb,20521,TryRemoveFile should be robust to file being removed out of band,open,carlopi,2026-01-14T07:51:28Z,2026-02-11T13:26:15Z,,4,"[""Changes Requested""]",True
+duckdb/duckdb,20520,Bump openssl,closed,ccfelius,2026-01-14T06:57:38Z,2026-01-15T09:30:00Z,2026-01-15T09:30:00Z,1,[],True
+duckdb/duckdb,20519,"Move generic settings to dedicated GlobalUserSettings struct, and optimize access to them",closed,Mytherin,2026-01-14T06:39:02Z,2026-01-15T07:55:46Z,2026-01-15T07:55:46Z,1,[],True

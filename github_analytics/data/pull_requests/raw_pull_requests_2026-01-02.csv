@@ -1,0 +1,22 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35437,Fix: Guard against re-entry in Scheduler (Issue #17355),open,biplavbarua,2026-01-02T19:33:23Z,2026-01-03T08:17:19Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35436,Preserve AsyncLocalStorage context in pingTask using snapshot,closed,feedthejim,2026-01-02T19:03:38Z,2026-01-06T08:45:49Z,2026-01-06T08:45:49Z,,True,0,0,"[""CLA Signed""]"
+golang/go,77051,runtime: support c-archive and c-shared on freebsd/arm and freebsd/arm64,open,rdnn,2026-01-02T19:11:39Z,2026-01-02T19:21:09Z,,,False,0,0,[]
+langchain-ai/langchain,34586,release(core): 1.2.6,closed,ccurme,2026-01-02T21:08:35Z,2026-01-22T21:17:55Z,2026-01-02T21:20:20Z,2026-01-02T21:20:20Z,False,0,0,"[""core"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,34585,refactor(core): eagerly validate `trim_messages` arguments,open,Aman071106,2026-01-02T16:54:07Z,2026-01-22T21:17:57Z,,,False,0,0,"[""core"", ""refactor"", ""external""]"
+langchain-ai/langchain,34584,chore(langchain): improve typing of agent decorators,open,cbornet,2026-01-02T13:32:37Z,2026-02-06T12:42:40Z,,,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34583,chore(langchain): fix types in test_decorators,closed,cbornet,2026-01-02T12:09:13Z,2026-01-22T21:18:00Z,2026-01-05T19:47:11Z,2026-01-05T19:47:11Z,False,0,0,"[""langchain"", ""typing"", ""external""]"
+langchain-ai/langchain,34582,fix(core): exclude injected args from tool schema,closed,mohankumar27,2026-01-02T11:37:23Z,2026-01-22T21:18:02Z,2026-01-05T15:00:00Z,2026-01-05T15:00:00Z,False,0,0,"[""core"", ""langchain"", ""fix"", ""external""]"
+langchain-ai/langchain,34580,chore(langchain): fix types in test_composition,closed,cbornet,2026-01-02T10:28:15Z,2026-01-22T21:18:03Z,2026-01-05T19:49:35Z,2026-01-05T19:49:35Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34579,fix(anthropic): skip cache_control for code_execution blocks,closed,lwtaiyty,2026-01-02T09:20:47Z,2026-01-22T21:18:05Z,2026-01-05T20:40:59Z,2026-01-05T20:40:59Z,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""external""]"
+langchain-ai/langchain,34576,feat(langchain): port AND-capable trigger conditions to `SummarizationMiddleware`,open,Davda-James,2026-01-02T06:18:53Z,2026-01-22T21:18:07Z,,,False,0,0,"[""langchain"", ""feature"", ""external""]"
+langchain-ai/langchain,34575,"docs: Add ""What's New"" section to README linking to releases page ",closed,BushGommern,2026-01-02T03:13:18Z,2026-01-22T21:18:10Z,2026-01-06T14:54:56Z,,False,0,0,"[""documentation"", ""external""]"
+langchain-ai/langchain,34574,"chore(langchain): fix types in `test_context_editing`, `test_agent_name`, `test_response_format_integration`",closed,cbornet,2026-01-02T00:21:06Z,2026-01-22T21:18:11Z,2026-01-10T02:47:46Z,2026-01-10T02:47:46Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+duckdb/duckdb,20367,Fix unionByName with allowMissingColumns to maintain PySpark compatibility,closed,mariotaddeucci,2026-01-02T23:07:50Z,2026-01-02T23:15:36Z,2026-01-02T23:14:11Z,,True,0,0,[]
+duckdb/duckdb,20365,Allow linked_libs to be included statically in bundle target,closed,abramk,2026-01-02T22:14:14Z,2026-02-03T14:45:46Z,2026-02-03T14:45:46Z,2026-02-03T14:45:46Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20364,fix render mode for qualified show tables statements,closed,c-herrewijn,2026-01-02T18:17:32Z,2026-01-13T09:28:38Z,2026-01-12T13:27:15Z,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20361,TIME_NS Support + Arrow,closed,pdet,2026-01-02T15:23:07Z,2026-01-07T10:00:54Z,2026-01-07T10:00:54Z,2026-01-07T10:00:54Z,False,0,0,[]
+duckdb/duckdb,20360,Fixup comparison to wrong iterator on abdc's driver,closed,carlopi,2026-01-02T15:18:18Z,2026-01-06T09:06:14Z,2026-01-05T23:14:13Z,2026-01-05T23:14:13Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20359,Pick up stale PR 19271,closed,lnkuiper,2026-01-02T10:09:19Z,2026-01-28T13:37:42Z,2026-01-02T14:41:58Z,2026-01-02T14:41:58Z,False,0,0,[]
+duckdb/duckdb,20358,Pick up stale PR 19268,closed,lnkuiper,2026-01-02T09:23:26Z,2026-01-28T13:37:41Z,2026-01-05T07:42:18Z,2026-01-05T07:42:18Z,False,0,0,[]
+duckdb/duckdb,20357,Force repartitioning in `RadixPartitionedHashTable::Combine`,closed,lnkuiper,2026-01-02T07:48:04Z,2026-01-28T13:37:43Z,2026-01-02T11:47:50Z,2026-01-02T11:47:50Z,False,0,0,[]

@@ -1,0 +1,155 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35760,[DevTools] Display `React.optimisticKey` in key positions,closed,eps1lon,2026-02-10T16:52:19Z,2026-02-10T23:35:39Z,2026-02-10T23:35:36Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35759,Refactor `ReactProfilerTimer` to Track Transition Timers Per Lane,open,subhamkumarr,2026-02-10T16:30:08Z,2026-02-12T09:17:06Z,,6,"[""CLA Signed""]",True
+facebook/react,35758,Bug: eslint-plugin-react-hooks does not support ESLint 10 in peerDependencies,open,rstar327,2026-02-10T15:59:56Z,2026-02-11T18:55:21Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35757,"Bug: ReactProfilerTimer transition timers are global, causing conflicts with concurrent transitions",open,subhamkumarr,2026-02-10T15:58:05Z,2026-02-10T15:58:05Z,,0,"[""Status: Unconfirmed""]",False
+facebook/react,35756,compiler: fix interleaved hook chained-call memoization,closed,glinf,2026-02-10T13:49:57Z,2026-02-10T20:51:59Z,2026-02-10T17:19:30Z,6,"[""CLA Signed""]",True
+facebook/react,35755,[DevTools] Remove experimental __IS_INTERNAL_MCP_BUILD__ flag and related code,closed,hoxyq,2026-02-10T13:27:38Z,2026-02-11T16:59:47Z,2026-02-11T16:59:44Z,1,"[""CLA Signed""]",True
+facebook/react,35741,[DevTools] Fix memory leak when unmounting hoistables,closed,eps1lon,2026-02-10T11:36:23Z,2026-02-10T12:20:00Z,2026-02-10T12:09:23Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35740,"Consistent handling of work tags for rename, delete, and overriding state",closed,eps1lon,2026-02-10T09:31:38Z,2026-02-10T15:35:13Z,2026-02-10T15:35:03Z,1,"[""CLA Signed"", ""React Core Team""]",True
+tensorflow/tensorflow,110124,Make tensorflow buildable with CCCL v3.x,closed,copybara-service[bot],2026-02-10T23:53:18Z,2026-02-11T00:49:35Z,2026-02-11T00:49:35Z,0,[],True
+tensorflow/tensorflow,110123,[PJRT C] Add `PJRT_Shardings` extension,open,copybara-service[bot],2026-02-10T23:33:00Z,2026-02-12T01:56:05Z,,0,[],True
+tensorflow/tensorflow,110122,Avoid unnecessary copy in CommonPjRtBufferImpl::logical_on_device_shape.,open,copybara-service[bot],2026-02-10T23:19:57Z,2026-02-10T23:19:58Z,,0,[],True
+tensorflow/tensorflow,110121,[XLA:CPU] Move embedded_constant_buffers to xla/util.,open,copybara-service[bot],2026-02-10T23:02:59Z,2026-02-11T13:22:13Z,,0,[],True
+tensorflow/tensorflow,110120,[XLA:CPU] Enable F32 convolutions with YNNPACK by default.,closed,copybara-service[bot],2026-02-10T22:53:37Z,2026-02-11T17:51:43Z,2026-02-11T17:51:42Z,0,[],True
+tensorflow/tensorflow,110119,[PJRT] Explicitly use PjRtDeviceDescription::Attributes rather than PjRtDevice::Attributes.,closed,copybara-service[bot],2026-02-10T22:36:25Z,2026-02-11T00:22:40Z,2026-02-11T00:22:39Z,0,[],True
+tensorflow/tensorflow,110118,Reverts 92215872fac057ad881991c0346a547467a89209,closed,copybara-service[bot],2026-02-10T22:35:45Z,2026-02-10T23:09:23Z,2026-02-10T23:09:23Z,0,[],True
+tensorflow/tensorflow,110117,Reverts 920c4df3bb1d3945cca36b883bf50aeffe70ac1f,closed,copybara-service[bot],2026-02-10T22:34:19Z,2026-02-11T00:14:49Z,2026-02-11T00:14:49Z,0,[],True
+tensorflow/tensorflow,110116,Enable bzlmod in JAX CPU presubmit job.,closed,copybara-service[bot],2026-02-10T22:19:44Z,2026-02-11T02:02:38Z,2026-02-11T02:02:37Z,0,[],True
+tensorflow/tensorflow,110115,Migrate layout_assignment_test away from deprecated HloTestBase,closed,copybara-service[bot],2026-02-10T22:18:38Z,2026-02-11T00:03:29Z,2026-02-11T00:03:29Z,0,[],True
+tensorflow/tensorflow,110114,Update PreprocessHlos to exclude unreduced and unknown shardings.,closed,copybara-service[bot],2026-02-10T21:56:00Z,2026-02-10T22:53:01Z,2026-02-10T22:53:00Z,0,[],True
+tensorflow/tensorflow,110113,PR #37601: [xla:ffi] Extract separate library for handler registration,open,copybara-service[bot],2026-02-10T21:41:00Z,2026-02-11T08:02:12Z,,0,[],True
+tensorflow/tensorflow,110112,[XLA] HloDimensionAnalysis doesn't currently support non-flat graphs.,closed,copybara-service[bot],2026-02-10T21:23:13Z,2026-02-11T21:17:33Z,2026-02-11T21:17:33Z,0,[],True
+tensorflow/tensorflow,110111,Use .item() when converting scalar NumPy arrays to Python scalars.,open,copybara-service[bot],2026-02-10T21:09:07Z,2026-02-11T20:12:50Z,,2,[],True
+tensorflow/tensorflow,110110,Integrate LLVM at llvm/llvm-project@c0c42c4e3964,open,copybara-service[bot],2026-02-10T20:42:52Z,2026-02-11T06:30:52Z,,0,[],True
+tensorflow/tensorflow,110109,PR #37235: [XLA:GPU][oneAPI] Fix platform error in stream executor tests with SYCL backend,open,copybara-service[bot],2026-02-10T20:34:17Z,2026-02-10T20:34:17Z,,0,[],True
+tensorflow/tensorflow,110108,"Upgrade to CCCL 3.2.0 and RAFT/RMM 26.02.00 with better compatibility to CUDA 12.9, 13.0, and 13.1+.",closed,copybara-service[bot],2026-02-10T20:25:52Z,2026-02-11T18:11:29Z,2026-02-11T18:11:28Z,0,[],True
+tensorflow/tensorflow,110107,"Fix typos, grammar, and capitalization across documentation",open,him2him2,2026-02-10T20:19:01Z,2026-02-10T20:19:08Z,,0,"[""awaiting review"", ""size:L""]",True
+tensorflow/tensorflow,110106,Make XLA buildable with CCCL v3.x,closed,copybara-service[bot],2026-02-10T20:05:18Z,2026-02-10T23:30:50Z,2026-02-10T23:30:50Z,0,[],True
+tensorflow/tensorflow,110105,Add an overload of `tsl::monitoring::Buckets::Exponential` with different args.,open,copybara-service[bot],2026-02-10T20:02:59Z,2026-02-12T01:33:42Z,,0,[],True
+tensorflow/tensorflow,110104,[XLA:AOT] Copy embedded_constant_buffers to xla/util,closed,copybara-service[bot],2026-02-10T19:58:06Z,2026-02-10T22:39:08Z,2026-02-10T22:39:08Z,0,[],True
+tensorflow/tensorflow,110103,Automated Code Change,open,copybara-service[bot],2026-02-10T19:39:14Z,2026-02-12T11:44:11Z,,0,[],True
+tensorflow/tensorflow,110102,[XLA:CPU] Handle convolution op in YNNPACK serializer.,closed,copybara-service[bot],2026-02-10T19:02:12Z,2026-02-10T21:09:56Z,2026-02-10T21:09:55Z,0,[],True
+tensorflow/tensorflow,110101,Prepare XLA for CCCL 3.2.0 integration.,closed,copybara-service[bot],2026-02-10T18:49:35Z,2026-02-10T19:42:51Z,2026-02-10T19:42:50Z,0,[],True
+tensorflow/tensorflow,110100,[XLA] Fix HloValueTracing for collective-permute-start with two operands.,closed,copybara-service[bot],2026-02-10T18:09:03Z,2026-02-11T03:11:04Z,2026-02-11T03:11:04Z,1,[],True
+tensorflow/tensorflow,110099,Migrate XLA GPU emitters and HWIR to use SymbolicMap.,open,copybara-service[bot],2026-02-10T17:34:41Z,2026-02-11T16:50:13Z,,4,[],True
+tensorflow/tensorflow,110098,[XLA:GPU/Triton] Adding missing support for warp specialization flag in the new autotuner.,closed,copybara-service[bot],2026-02-10T17:23:31Z,2026-02-12T11:35:00Z,2026-02-12T11:35:00Z,0,[],True
+tensorflow/tensorflow,110097,Refactor BufferAssigner to use an enum for algorithm selection.,open,copybara-service[bot],2026-02-10T17:09:43Z,2026-02-11T19:07:06Z,,0,[],True
+tensorflow/tensorflow,110096,Integrate Triton up to [17b5d481](https://github.com/openai/triton/commits/17b5d481d4838723428efaa7ca0c827ba29e0b76),open,copybara-service[bot],2026-02-10T16:20:46Z,2026-02-10T18:28:08Z,,0,[],True
+tensorflow/tensorflow,110095,Refactor SymbolicMap and SymbolicExpr parsing and printing,closed,copybara-service[bot],2026-02-10T16:10:54Z,2026-02-10T18:54:13Z,2026-02-10T17:21:10Z,3,[],True
+tensorflow/tensorflow,110094,[Pallas/Mosaic GPU] Add cross-device barrier before running multi-device kernel with collective metadata,open,copybara-service[bot],2026-02-10T15:51:54Z,2026-02-10T15:51:54Z,,0,[],True
+tensorflow/tensorflow,110093,Re-land TMA support with collective metadata. Use global state as a temporary solution.,open,copybara-service[bot],2026-02-10T15:49:32Z,2026-02-10T15:49:32Z,,0,[],True
+tensorflow/tensorflow,110092,Add SymbolicMapAttr to XLA attributes.,closed,copybara-service[bot],2026-02-10T15:44:19Z,2026-02-10T18:46:45Z,2026-02-10T18:06:20Z,3,[],True
+tensorflow/tensorflow,110091,Internal change: Add enum and flag infrastructure for selecting buffer assignment algorithms.,open,copybara-service[bot],2026-02-10T15:22:27Z,2026-02-10T17:58:21Z,,0,[],True
+tensorflow/tensorflow,110090,Integrate Triton up to 17b5d481,open,copybara-service[bot],2026-02-10T15:10:26Z,2026-02-10T15:10:26Z,,0,[],True
+tensorflow/tensorflow,110089,Reverts 75f63ca43bd49f179f2843ef3fcf6e3fc430d704,open,copybara-service[bot],2026-02-10T15:06:44Z,2026-02-10T15:06:44Z,,0,[],True
+tensorflow/tensorflow,110088,[Autotuner] Distinguish between Cublas and CublasLt autotuner backends in the legacy cache.,closed,copybara-service[bot],2026-02-10T14:23:49Z,2026-02-10T19:16:44Z,2026-02-10T19:16:44Z,3,[],True
+tensorflow/tensorflow,110087,Allow to specify xla_hlo_evaluator_use_fast_path as environment flag.,closed,copybara-service[bot],2026-02-10T13:55:18Z,2026-02-11T09:51:32Z,2026-02-11T09:51:32Z,0,[],True
+tensorflow/tensorflow,110086,Modify complex division and reciprocal to handle infinities.,open,copybara-service[bot],2026-02-10T13:52:36Z,2026-02-10T18:40:33Z,,0,[],True
+tensorflow/tensorflow,110085,[Evaluator]: Allow fast path for dots if accumulation type equals output type.,closed,copybara-service[bot],2026-02-10T13:52:11Z,2026-02-11T11:04:40Z,2026-02-11T11:04:40Z,0,[],True
+tensorflow/tensorflow,110084,Add SymbolicExpr::ToString with given variables names,closed,copybara-service[bot],2026-02-10T13:38:05Z,2026-02-12T11:24:53Z,2026-02-12T11:24:53Z,0,[],True
+tensorflow/tensorflow,110083,This change introduces a cache for the FindKernelRegistration function to reduce overhead from repeatedly looking up kernel registrations.,closed,copybara-service[bot],2026-02-10T13:35:05Z,2026-02-10T21:26:54Z,2026-02-10T21:26:53Z,0,[],True
+tensorflow/tensorflow,110082,[XLA:GPU] Add shared between XLA and Mosaic collective kernel api file and move multi-device barrier there.,closed,copybara-service[bot],2026-02-10T11:59:21Z,2026-02-11T11:35:37Z,2026-02-11T11:35:37Z,0,[],True
+tensorflow/tensorflow,110081,Add SymbolicMap::Replace() method for multiple expressions,closed,copybara-service[bot],2026-02-10T10:50:56Z,2026-02-12T10:26:01Z,2026-02-12T09:55:26Z,2,[],True
+tensorflow/tensorflow,110080,Add cuBLAS(lt) backends to autotuner ignoring xla_gpu_cublas_fallback flag.,closed,copybara-service[bot],2026-02-10T10:50:06Z,2026-02-10T13:33:04Z,2026-02-10T13:33:04Z,0,[],True
+tensorflow/tensorflow,110079,PR #37370: [ROCm] add missing clang flag for hipcc,open,copybara-service[bot],2026-02-10T10:42:31Z,2026-02-10T10:42:31Z,,0,[],True
+tensorflow/tensorflow,110078,Add SymbolicExpr::IsMultipleOf,closed,copybara-service[bot],2026-02-10T10:26:34Z,2026-02-11T18:20:21Z,2026-02-11T18:20:21Z,0,[],True
+tensorflow/tensorflow,110077,[XLA:GPU] Migrate FusionEmitterDeviceTest to PjRt.,closed,copybara-service[bot],2026-02-10T10:16:59Z,2026-02-11T13:47:03Z,2026-02-11T13:47:03Z,0,[],True
+tensorflow/tensorflow,110076,PR #37541: [xla:ffi] Split ffi_api.h into: ffi/ffi_interop and ffi/invoke libraries,closed,copybara-service[bot],2026-02-10T10:08:14Z,2026-02-10T14:53:47Z,2026-02-10T14:53:46Z,0,[],True
+tensorflow/tensorflow,110075,"PR #37395: [xla:pjrt] Switch PjRt to xla/runtime ids: ProcessId, DeviceId, ChipId",closed,copybara-service[bot],2026-02-10T10:06:33Z,2026-02-10T17:54:41Z,2026-02-10T17:54:40Z,0,[],True
+tensorflow/tensorflow,110074,Add SymbolicExpr::ReplaceDims.,closed,copybara-service[bot],2026-02-10T09:42:16Z,2026-02-11T14:55:33Z,2026-02-11T14:55:33Z,0,[],True
+tensorflow/tensorflow,110073,Automated Code Change,open,copybara-service[bot],2026-02-10T09:30:59Z,2026-02-10T09:48:14Z,,1,[],True
+tensorflow/tensorflow,110072,Automated Code Change,open,copybara-service[bot],2026-02-10T09:26:58Z,2026-02-10T09:52:10Z,,1,[],True
+tensorflow/tensorflow,110071,Automated Code Change,open,copybara-service[bot],2026-02-10T09:21:17Z,2026-02-10T10:00:15Z,,3,[],True
+tensorflow/tensorflow,110070,Automated Code Change,open,copybara-service[bot],2026-02-10T09:17:35Z,2026-02-10T09:57:38Z,,3,[],True
+tensorflow/tensorflow,110069,Automated Code Change,open,copybara-service[bot],2026-02-10T09:09:58Z,2026-02-10T10:56:06Z,,2,[],True
+tensorflow/tensorflow,110068,Automated Code Change,open,copybara-service[bot],2026-02-10T08:32:40Z,2026-02-10T08:32:40Z,,0,[],True
+tensorflow/tensorflow,110067,Add a patch file for tf_runtime to fix compile error,closed,copybara-service[bot],2026-02-10T07:38:33Z,2026-02-10T09:52:33Z,2026-02-10T09:12:49Z,2,[],True
+tensorflow/tensorflow,110066,[XLA] Compute summary stats after creating BufferAssignment from proto.,closed,copybara-service[bot],2026-02-10T06:54:52Z,2026-02-10T17:08:36Z,2026-02-10T17:08:36Z,0,[],True
+tensorflow/tensorflow,110065,Reverts 718807656f7b8d3ea4318c7daa6397ae10257345,closed,copybara-service[bot],2026-02-10T04:34:59Z,2026-02-10T16:39:33Z,2026-02-10T16:39:32Z,0,[],True
+tensorflow/tensorflow,110064,Automated Code Change,open,copybara-service[bot],2026-02-10T04:30:22Z,2026-02-10T04:30:22Z,,0,[],True
+tensorflow/tensorflow,110063,Expose RaggedAllToAll RendezvousResources helper function,closed,copybara-service[bot],2026-02-10T03:51:49Z,2026-02-10T18:47:22Z,2026-02-10T17:29:34Z,2,[],True
+tensorflow/tensorflow,110062,Fix the evaluator for GatherOp,closed,copybara-service[bot],2026-02-10T03:15:45Z,2026-02-10T17:34:10Z,2026-02-10T17:34:10Z,0,[],True
+tensorflow/tensorflow,110061,Fix issue #110038: Validate axis range for scalar tensors in tf.reverse,open,ssam18,2026-02-10T02:15:52Z,2026-02-10T05:03:16Z,,0,"[""awaiting review"", ""size:L"", ""prtype:bugfix"", ""comp:core""]",True
+tensorflow/tensorflow,110060,Fix tf.reverse eager mode axis validation for scalar tensors,open,madhavmadupu,2026-02-10T01:50:01Z,2026-02-10T05:35:19Z,,1,"[""awaiting review"", ""size:M"", ""python""]",True
+tensorflow/tensorflow,110059,This change adds a module-level cache mechanism in HloModule,open,copybara-service[bot],2026-02-10T01:05:14Z,2026-02-11T21:24:18Z,,0,[],True
+tensorflow/tensorflow,110058,Use ASAN feature instead of config setting,open,copybara-service[bot],2026-02-10T00:22:20Z,2026-02-10T06:51:38Z,,1,[],True
+golang/go,77534,"cmd/compile: internal compiler error: 'main.func1': not lowered: v15, Load STRUCT PTR SSA",open,srri,2026-02-10T23:58:50Z,2026-02-12T01:55:55Z,,15,"[""release-blocker"", ""compiler/runtime"", ""FixPending"", ""Critical""]",False
+golang/go,77533,simd/archsimd: SIGILL: illegal instruction,closed,coreyogburn,2026-02-10T23:33:38Z,2026-02-10T23:58:44Z,2026-02-10T23:58:44Z,3,[],False
+golang/go,77532,net/smtp: expiry date of localhostCert for testing is too short [1.26 backport],open,gopherbot,2026-02-10T22:46:12Z,2026-02-10T22:47:50Z,,0,"[""CherryPickCandidate""]",False
+golang/go,77531,net/smtp: expiry date of localhostCert for testing is too short [1.25 backport],open,gopherbot,2026-02-10T22:46:12Z,2026-02-10T22:47:49Z,,0,"[""CherryPickCandidate""]",False
+golang/go,77530,cmd/link: TestFlagW/-w_-linkmode=external fails on illumos,open,ptribble,2026-02-10T21:13:18Z,2026-02-11T21:18:17Z,,3,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77529,"cmd/fix, x/tools/go/analysis/passes/modernize: stringscut: OOB panic in indexArgValid analyzing ""buf.Bytes()"" call [1.26 backport]",open,gopherbot,2026-02-10T20:48:41Z,2026-02-11T17:21:42Z,,0,"[""CherryPickApproved"", ""Tools""]",False
+golang/go,77528,cmd/go: TestScript/list_overlay failures,open,gopherbot,2026-02-10T20:38:12Z,2026-02-10T20:38:14Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77527,math/big: Strange behaviour of Float.SetString,closed,ceving,2026-02-10T12:56:06Z,2026-02-10T15:21:46Z,2026-02-10T15:21:46Z,2,"[""BugReport""]",False
+golang/go,77526,runtime: use fast path when channel has been closed and empty,open,delichik,2026-02-10T11:30:01Z,2026-02-10T15:34:25Z,,7,[],True
+golang/go,77525,internal/syscall/windows: correct some enums and syscall signatures,open,michalpristas,2026-02-10T10:15:19Z,2026-02-12T09:14:54Z,,9,[],True
+golang/go,77524,proposal: make `go test -buildmode=c-archive/c-shared` useful,open,drinkcat,2026-02-10T08:48:22Z,2026-02-10T10:54:59Z,,3,"[""Proposal"", ""ToolProposal""]",False
+golang/go,77523,runtime: use fast path when channel has been closed and empty,closed,delichik,2026-02-10T08:41:39Z,2026-02-10T11:13:32Z,2026-02-10T11:11:12Z,2,[],True
+golang/go,77522,runtime: receiving from a closed and empty channel still requires acquiring a lock every time,open,delichik,2026-02-10T08:40:35Z,2026-02-11T15:31:36Z,,7,"[""Performance"", ""NeedsInvestigation"", ""compiler/runtime"", ""Implementation""]",False
+apache/spark,54255,[MINOR] Remove unused `InMemoryRelation.convertToColumnarIfPossible` method,closed,viirya,2026-02-10T23:40:23Z,2026-02-11T08:16:06Z,2026-02-11T08:14:45Z,1,[],True
+apache/spark,54254,[SPARK-55492] Validate that eventTime in withWatermark is top-level column,open,fedimser,2026-02-10T23:30:48Z,2026-02-11T22:30:48Z,,0,[],True
+apache/spark,54253,Validate that eventTime in withWatermark is a top-level column,closed,fedimser,2026-02-10T23:17:42Z,2026-02-10T23:19:48Z,2026-02-10T23:19:48Z,0,[],True
+apache/spark,54252,[SPARK-55475][BUILD] Disable Maven Parallel PUT,closed,dongjoon-hyun,2026-02-10T22:13:05Z,2026-02-11T02:34:54Z,2026-02-11T01:16:12Z,4,[],True
+apache/spark,54251,[SPARK-55474][PYTHON][TESTS] Remove test files from ignore list of ruff,open,gaogaotiantian,2026-02-10T22:06:45Z,2026-02-12T08:24:49Z,,1,[],True
+apache/spark,54250,[SPARK-55473][PYTHON] Replace itertools.tee with chain in applyInPandasWithState,closed,Yicong-Huang,2026-02-10T21:52:01Z,2026-02-11T01:03:55Z,2026-02-11T01:03:55Z,1,[],True
+apache/spark,54249,[SPARK-55472][PS] Raise `AttributeError` from methods removed in pandas 3,closed,ueshin,2026-02-10T20:53:48Z,2026-02-11T00:47:08Z,2026-02-11T00:46:49Z,2,[],True
+apache/spark,54248,[SPARK-55020][PYTHON][FOLLOW-UP] Disable gc only when we communicate through gRPC for ExecutePlan,closed,gaogaotiantian,2026-02-10T20:42:13Z,2026-02-11T01:06:16Z,2026-02-11T01:06:16Z,1,[],True
+apache/spark,54247,[SPARK-55024][SQL][FOLLOWUP] Delay namespace length check to v1 identifier creation,open,cloud-fan,2026-02-10T17:05:59Z,2026-02-12T08:15:02Z,,2,[],True
+apache/spark,54246,[SPARK-54784][ML][DOCS] Document the security policy on ml models,open,zhengruifeng,2026-02-10T12:56:14Z,2026-02-11T15:49:15Z,,0,[],True
+apache/spark,54245,[SPARK-55462][PYTHON] Support UserDefinedType in convert_numpy,closed,fangchenli,2026-02-10T07:54:32Z,2026-02-12T08:15:33Z,2026-02-12T08:15:16Z,1,[],True
+apache/spark,54244,[SPARK-55395][SQL][FOLLOW-UP] Delete obsolete `withSequenceColumn`,closed,zhengruifeng,2026-02-10T07:41:53Z,2026-02-11T00:48:09Z,2026-02-11T00:47:56Z,3,[],True
+apache/spark,54243,WIP,open,eason-yuchen-liu,2026-02-10T06:21:06Z,2026-02-10T06:42:31Z,,0,[],True
+apache/spark,54242,[SPARK-55461][SQL] Improve AQE Coalesce Grouping warning messages when numOfPartitions of ShuffleStages in the same coalesce group are not equal,open,erenavsarogullari,2026-02-10T03:40:49Z,2026-02-10T08:53:32Z,,0,[],True
+apache/spark,54241,[SPARK-55430][SQL] Cache ICU StringSearch for collation string predicates with constant patterns,open,nateab,2026-02-10T01:18:18Z,2026-02-10T04:23:14Z,,0,[],True
+langchain-ai/langchain,35146,release(anthropic): 1.3.3,closed,ccurme,2026-02-10T20:56:47Z,2026-02-10T20:58:51Z,2026-02-10T20:58:42Z,1,"[""integration"", ""release"", ""dependencies"", ""anthropic"", ""internal""]",True
+langchain-ai/langchain,35145,release(openai): 1.1.9,closed,ccurme,2026-02-10T20:39:36Z,2026-02-10T20:48:35Z,2026-02-10T20:48:33Z,1,"[""integration"", ""release"", ""dependencies"", ""openai"", ""internal""]",True
+langchain-ai/langchain,35144,release(core): 1.2.11,closed,ccurme,2026-02-10T20:27:01Z,2026-02-10T20:32:20Z,2026-02-10T20:31:35Z,1,"[""core"", ""release"", ""dependencies""]",True
+langchain-ai/langchain,35143,fix(openai): sanitize urls when counting tokens in images,closed,ccurme,2026-02-10T20:08:45Z,2026-02-10T20:25:13Z,2026-02-10T20:25:10Z,1,"[""integration"", ""core"", ""fix"", ""openai"", ""internal""]",True
+langchain-ai/langchain,35142,chore(docs): Update llms.txt redirect,closed,lnhsingh,2026-02-10T20:02:40Z,2026-02-10T20:12:54Z,2026-02-10T20:12:52Z,0,"[""infra"", ""internal""]",True
+langchain-ai/langchain,35141,"fix(anthropic): support effort=""max"" and remove beta headers",closed,ccurme,2026-02-10T19:44:31Z,2026-02-10T19:46:23Z,2026-02-10T19:46:12Z,1,"[""integration"", ""fix"", ""anthropic"", ""internal""]",True
+langchain-ai/langchain,35140,Advisory: `ChatOllama.bind_tools()` crashes with `gpt-oss` when tool parameters use `Optional`/`Union` types,open,mdrxy,2026-02-10T17:37:18Z,2026-02-10T17:37:36Z,,0,"[""ollama"", ""internal""]",False
+langchain-ai/langchain,35139,release(standard-tests): release 1.1.5,closed,eyurtsev,2026-02-10T16:25:17Z,2026-02-10T16:30:16Z,2026-02-10T16:29:46Z,0,"[""standard-tests"", ""release"", ""dependencies""]",True
+langchain-ai/langchain,35138,fix(core): replace bare except with Exception in tracer,closed,llukito,2026-02-10T15:27:02Z,2026-02-10T17:12:46Z,2026-02-10T17:12:46Z,3,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,35137,release(langchain): 1.2.10,closed,ccurme,2026-02-10T14:50:48Z,2026-02-10T14:53:57Z,2026-02-10T14:53:54Z,0,"[""langchain"", ""dependencies""]",True
+langchain-ai/langchain,35136,release(core): 1.2.10,closed,ccurme,2026-02-10T14:35:18Z,2026-02-10T14:40:29Z,2026-02-10T14:40:26Z,1,"[""core"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35135,fix(openai): support bind_tools after with_structured_output (#28848),closed,Mercury0226,2026-02-10T12:00:50Z,2026-02-11T15:00:38Z,2026-02-11T15:00:38Z,1,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,35134,fix(core): avoid blocking source scans in runnablelambda deps (#29530),closed,Mercury0226,2026-02-10T11:39:33Z,2026-02-10T17:17:39Z,2026-02-10T17:17:38Z,1,"[""core"", ""fix""]",True
+langchain-ai/langchain,35133,feat(core): allow overriding tool_choice in with_structured_output,closed,OiPunk,2026-02-10T11:27:48Z,2026-02-11T15:02:30Z,2026-02-11T15:02:30Z,2,"[""core"", ""feature"", ""external""]",True
+langchain-ai/langchain,35131,fix(core): ensure InjectedToolCallId works with strict structured output,open,Nitin75408,2026-02-10T10:03:20Z,2026-02-10T17:41:45Z,,1,"[""integration"", ""core"", ""fix"", ""openai""]",True
+langchain-ai/langchain,35130,fix(openai): merge stop tokens from model_kwargs with runtime parameters,open,Nitin75408,2026-02-10T09:20:06Z,2026-02-10T17:41:58Z,,1,"[""integration"", ""fix"", ""openai""]",True
+langchain-ai/langchain,35129,chore(deps): bump the langchain-deps group across 3 directories with 40 updates,closed,dependabot[bot],2026-02-10T07:27:33Z,2026-02-10T07:49:15Z,2026-02-10T07:49:12Z,1,"[""core"", ""langchain"", ""dependencies"", ""langchain-classic"", ""python:uv"", ""external""]",True
+langchain-ai/langchain,35128,chore(deps): bump the langchain-deps group across 2 directories with 28 updates,closed,dependabot[bot],2026-02-10T07:11:22Z,2026-02-10T07:27:41Z,2026-02-10T07:27:39Z,2,"[""core"", ""langchain"", ""infra"", ""dependencies"", ""python:uv""]",True
+langchain-ai/langchain,35127,chore(deps): bump the other-deps group across 3 directories with 12 updates,closed,dependabot[bot],2026-02-10T06:59:53Z,2026-02-10T07:30:25Z,2026-02-10T07:30:23Z,0,"[""standard-tests"", ""infra"", ""text-splitters"", ""dependencies"", ""model-profiles"", ""python:uv"", ""external""]",True
+langchain-ai/langchain,35126,fix(anthropic): hoist cache_control from tool_result content sub-blocks to tool_result level,closed,themavik,2026-02-10T06:44:02Z,2026-02-11T15:55:02Z,2026-02-11T15:55:01Z,1,"[""integration"", ""fix"", ""anthropic"", ""external""]",True
+langchain-ai/langchain,35125,chore: update dependabot.yml to comply with posture checks,closed,jkennedyvz,2026-02-10T06:42:21Z,2026-02-10T06:49:51Z,2026-02-10T06:49:49Z,0,"[""infra"", ""internal""]",True
+langchain-ai/langchain,35124,chore: dependabot config,closed,jkennedyvz,2026-02-10T06:18:39Z,2026-02-10T06:36:16Z,2026-02-10T06:36:14Z,0,"[""core"", ""langchain"", ""infra"", ""dependencies"", ""langchain-classic""]",True
+langchain-ai/langchain,35123,chore(deps): bump the partner-deps group across 14 directories with 13 updates,closed,dependabot[bot],2026-02-10T05:57:09Z,2026-02-10T06:36:33Z,2026-02-10T06:36:23Z,2,"[""integration"", ""infra"", ""dependencies"", ""anthropic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python""]",True
+langchain-ai/langchain,35122,chore(deps): bump the uv group across 20 directories with 1 update,closed,dependabot[bot],2026-02-10T05:52:45Z,2026-02-10T06:37:02Z,2026-02-10T06:36:53Z,2,"[""integration"", ""core"", ""langchain"", ""standard-tests"", ""infra"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""anthropic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]",True
+langchain-ai/langchain,35121,chore(deps): bump the langchain-deps group across 3 directories with 11 updates,closed,dependabot[bot],2026-02-10T05:44:57Z,2026-02-10T06:37:13Z,2026-02-10T06:37:11Z,2,"[""core"", ""langchain"", ""infra"", ""dependencies"", ""langchain-classic"", ""external"", ""python""]",True
+langchain-ai/langchain,35120,chore(deps): bump the other-deps group across 3 directories with 8 updates,closed,dependabot[bot],2026-02-10T05:40:56Z,2026-02-10T05:48:24Z,2026-02-10T05:48:22Z,0,"[""standard-tests"", ""text-splitters"", ""dependencies"", ""model-profiles"", ""external"", ""python""]",True
+langchain-ai/langchain,35119,Structured output throws errors and does not behave as expected,closed,douglas125,2026-02-10T05:03:31Z,2026-02-10T12:20:54Z,2026-02-10T12:20:54Z,4,"[""bug"", ""langchain"", ""anthropic"", ""ollama"", ""external""]",False
+langchain-ai/langchain,35118,fix: handle empty HumanMessage content in ChatAnthropic,closed,themavik,2026-02-10T04:36:52Z,2026-02-11T16:11:43Z,2026-02-11T16:11:43Z,1,"[""integration"", ""fix"", ""anthropic"", ""external""]",True
+langchain-ai/langchain,35117,feat(deepseek): set default model_name to 'deepseek-chat',closed,fengjikui,2026-02-10T02:36:07Z,2026-02-11T15:13:41Z,2026-02-11T15:13:41Z,0,"[""integration"", ""feature"", ""deepseek""]",True
+langchain-ai/langchain,35116,fix(core): treat empty list from tool return as non-message-content,closed,eMatthiola,2026-02-10T00:23:01Z,2026-02-11T15:23:59Z,2026-02-11T15:23:59Z,1,"[""core"", ""fix"", ""external""]",True
+docker/compose,13582,[BUG] Down with --remove-orphans causes images to be re-downloaded,open,joaomcarlos,2026-02-10T17:10:56Z,2026-02-11T17:21:58Z,,1,"[""kind/bug"", ""status/0-triage""]",False
+docker/compose,13581,[BUG] env_file broken with override.yml,open,aleho,2026-02-10T16:13:05Z,2026-02-12T10:34:21Z,,4,"[""kind/bug""]",False
+docker/compose,13580,pkg/compose: defaultNetworkSettings: refactor,closed,thaJeztah,2026-02-10T12:55:59Z,2026-02-11T15:07:05Z,2026-02-11T14:14:50Z,2,[],True
+docker/compose,13579,[BUG] regression when nesting mountpoints.,closed,sjoerdjob,2026-02-10T11:44:44Z,2026-02-10T12:38:16Z,2026-02-10T12:38:16Z,1,"[""kind/bug"", ""status/0-triage""]",False
+duckdb/duckdb,20899,Disable autoloading for odbc_scanner,open,staticlibs,2026-02-10T23:21:57Z,2026-02-11T12:30:33Z,,0,"[""CI Failure""]",True
+duckdb/duckdb,20897,Improve error message when compression function is not found,closed,Mytherin,2026-02-10T19:49:02Z,2026-02-11T06:51:59Z,2026-02-11T06:51:58Z,0,[],True
+duckdb/duckdb,20896,Don't automatically enable pager for `.mode [ascii|markdown|html|insert|...]`,closed,Mytherin,2026-02-10T19:48:16Z,2026-02-11T06:52:08Z,2026-02-11T06:52:08Z,0,[],True
+duckdb/duckdb,20895,Throw on export of self-referencing foreign keys ,open,artjomPlaunov,2026-02-10T17:16:04Z,2026-02-11T10:12:59Z,,0,"[""Ready For Review""]",True
+duckdb/duckdb,20894,Fix ASAN Violation container-overflow,closed,timbess,2026-02-10T15:25:33Z,2026-02-11T16:28:18Z,2026-02-11T06:52:17Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20893,Merge v1.5-variegata into main,closed,Mytherin,2026-02-10T14:42:26Z,2026-02-11T06:51:41Z,2026-02-11T06:51:41Z,0,[],True
+duckdb/duckdb,20892,IndexCatalogEntry: fix typo,open,ProjectMutilation,2026-02-10T14:16:31Z,2026-02-11T06:52:48Z,,3,"[""CI Failure""]",True
+duckdb/duckdb,20891,Add missed throw,closed,ProjectMutilation,2026-02-10T13:49:49Z,2026-02-11T06:53:02Z,2026-02-11T06:53:02Z,0,"[""Ready To Merge""]",True
+duckdb/duckdb,20890,scalar:list: remove redundant clear() calls,closed,ProjectMutilation,2026-02-10T13:29:54Z,2026-02-10T21:03:45Z,2026-02-10T21:03:28Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20889,Add comment for PurgeAgedBlocks method ,open,jeewonhh,2026-02-10T13:26:23Z,2026-02-12T09:11:29Z,,2,"[""Ready For Review""]",True
+duckdb/duckdb,20888,bump ref to azure for v1.4.4 (rebuild),closed,benfleis,2026-02-10T13:04:38Z,2026-02-11T06:56:46Z,2026-02-11T06:56:44Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20887,Fix deserialization for new string serialization method,closed,hannes,2026-02-10T12:08:43Z,2026-02-10T21:05:31Z,2026-02-10T21:05:29Z,1,[],True
+duckdb/duckdb,20886,re-enable and bump vortex for v1.5,closed,samansmink,2026-02-10T10:38:15Z,2026-02-10T17:26:21Z,2026-02-10T17:26:18Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20885,Make prepared statement plan caching less aggressive,closed,Mytherin,2026-02-10T10:34:59Z,2026-02-10T17:25:45Z,2026-02-10T17:25:45Z,2,[],True
+duckdb/duckdb,20884,Bump aws to v1.5,closed,ccfelius,2026-02-10T09:49:14Z,2026-02-10T19:27:07Z,2026-02-10T17:26:09Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20883,Check Allocator::debug_info before using it,open,evertlammerts,2026-02-10T09:28:19Z,2026-02-12T08:54:27Z,,0,"[""CI Failure""]",True
+duckdb/duckdb,20882,When determining the background color - buffer any available input that is not part of the background color response to avoid swallowing the input,closed,Mytherin,2026-02-10T07:43:42Z,2026-02-10T17:25:57Z,2026-02-10T17:25:57Z,0,[],True

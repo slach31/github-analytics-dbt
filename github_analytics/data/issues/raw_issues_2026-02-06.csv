@@ -1,0 +1,168 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35715,Compiler: NonReactive annotation,closed,srubin,2026-02-06T23:41:02Z,2026-02-07T21:37:27Z,2026-02-06T23:41:11Z,4,"[""CLA Signed""]",True
+facebook/react,35713,"[DevTools Bug] Cannot remove node ""1052"" because no matching node was found in the Store.",open,machineghost,2026-02-06T18:57:59Z,2026-02-08T22:02:11Z,,7,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35712,Bump webpack from 5.82.1 to 5.104.1,open,dependabot[bot],2026-02-06T15:27:10Z,2026-02-06T15:33:27Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35711,[test] Move profilingCommitTreeBuilder to versioned renderer,closed,eps1lon,2026-02-06T14:11:29Z,2026-02-06T15:02:00Z,2026-02-06T15:00:44Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35710,[DevTools] Fix broken commit tree builder for initial operations,closed,eps1lon,2026-02-06T10:18:54Z,2026-02-06T14:20:43Z,2026-02-06T14:16:24Z,2,"[""CLA Signed"", ""React Core Team""]",True
+tensorflow/tensorflow,109903,Integrate StableHLO at openxla/stablehlo@bdbe31e8,open,copybara-service[bot],2026-02-06T23:19:58Z,2026-02-11T19:33:01Z,,0,[],True
+tensorflow/tensorflow,109902,Fix a wrong buffer shape in various XLA tests,closed,copybara-service[bot],2026-02-06T22:50:02Z,2026-02-07T03:40:42Z,2026-02-07T03:40:42Z,0,[],True
+tensorflow/tensorflow,109901,Automated Code Change,closed,copybara-service[bot],2026-02-06T22:48:49Z,2026-02-07T01:19:33Z,2026-02-07T01:19:32Z,0,[],True
+tensorflow/tensorflow,109900,[XLA:GPU] Move kernels out of gpu/service.,closed,copybara-service[bot],2026-02-06T22:47:49Z,2026-02-07T02:04:16Z,2026-02-07T02:04:15Z,0,[],True
+tensorflow/tensorflow,109899,Make CpuPjRtRawLoadedExecutable implement the PjRtRawLoadedExecutable api.,closed,copybara-service[bot],2026-02-06T22:32:55Z,2026-02-07T01:08:38Z,2026-02-07T01:08:37Z,0,[],True
+tensorflow/tensorflow,109898,Update CPU execute to delay certain types of errors and remove the need for,closed,copybara-service[bot],2026-02-06T21:42:02Z,2026-02-06T22:20:33Z,2026-02-06T22:20:33Z,0,[],True
+tensorflow/tensorflow,109897,Add heterogeneous lookup to IfrtServingExecutable's cache.,closed,copybara-service[bot],2026-02-06T21:37:22Z,2026-02-10T03:31:07Z,2026-02-10T03:31:06Z,0,[],True
+tensorflow/tensorflow,109896,Update BUILD files with dependencies,closed,rtg0795,2026-02-06T21:35:21Z,2026-02-06T21:45:16Z,2026-02-06T21:45:16Z,0,[],True
+tensorflow/tensorflow,109895,Refine error codes for executable version compatibility.,open,copybara-service[bot],2026-02-06T20:34:59Z,2026-02-06T20:34:59Z,,0,[],True
+tensorflow/tensorflow,109894,PR #37420: [tsl:concurrency] Add JoinFutures for statically known types,closed,copybara-service[bot],2026-02-06T20:14:26Z,2026-02-06T21:16:55Z,2026-02-06T21:16:54Z,0,[],True
+tensorflow/tensorflow,109893,Refactor compiler variant initialization. Initialize all the compilers in the compiler factory registry.,open,copybara-service[bot],2026-02-06T20:08:18Z,2026-02-06T20:08:18Z,,0,[],True
+tensorflow/tensorflow,109892,Update rules_python to latest 1.8.3 for tensorflow and xla. Doing so would enable us to use latest feature which includes a venv layout. This latest version also introduce stricter hermeticity which was first introduce in 1.7.0 as seen in logs:,closed,copybara-service[bot],2026-02-06T20:07:44Z,2026-02-12T08:13:08Z,2026-02-12T08:13:08Z,0,[],True
+tensorflow/tensorflow,109891,[StableHLO DotGeneral TypeInference] Update TypeInference of DotGeneral to also infer bounds,closed,copybara-service[bot],2026-02-06T20:07:04Z,2026-02-09T23:02:16Z,2026-02-09T23:02:15Z,0,[],True
+tensorflow/tensorflow,109890,Introduce PjRtCompilerRegistry and refactor compiler registration.,open,copybara-service[bot],2026-02-06T20:02:42Z,2026-02-11T17:10:51Z,,0,[],True
+tensorflow/tensorflow,109889,[XLA:GPU] conditionally enable nest_gemm_fusion or convert_triton_config,closed,copybara-service[bot],2026-02-06T19:38:15Z,2026-02-09T12:54:09Z,2026-02-09T12:54:08Z,0,[],True
+tensorflow/tensorflow,109888,Add a message in the `DelegateTest` helper to remind reader that a failure log is expected.,closed,copybara-service[bot],2026-02-06T19:36:13Z,2026-02-09T18:44:57Z,2026-02-09T18:44:56Z,0,[],True
+tensorflow/tensorflow,109887,Make `xnn_fingerprint_id_to_string` part of the available API.,open,copybara-service[bot],2026-02-06T19:35:53Z,2026-02-09T19:27:08Z,,0,[],True
+tensorflow/tensorflow,109886,Print the fingerprint id string instead of it's value in error messages.,open,copybara-service[bot],2026-02-06T19:34:37Z,2026-02-09T15:24:44Z,,0,[],True
+tensorflow/tensorflow,109885,Fix convolution weight cache handling.,open,copybara-service[bot],2026-02-06T19:29:10Z,2026-02-06T19:29:12Z,,0,[],True
+tensorflow/tensorflow,109884,Add unused recoverable option to coordination service.,open,copybara-service[bot],2026-02-06T19:18:49Z,2026-02-06T19:18:49Z,,0,[],True
+tensorflow/tensorflow,109883,Remove UsingStreamExecutorGpuClient in lead-up to deleting _notfrt GPU targets.,closed,copybara-service[bot],2026-02-06T19:15:29Z,2026-02-09T18:28:14Z,2026-02-09T18:28:14Z,0,[],True
+tensorflow/tensorflow,109882,Integrate LLVM at llvm/llvm-project@304f5c8c9182,open,copybara-service[bot],2026-02-06T19:04:58Z,2026-02-06T19:04:58Z,,0,[],True
+tensorflow/tensorflow,109881,Remove `incompatible_with_pjrt_se_gpu_client` tag.,closed,copybara-service[bot],2026-02-06T18:44:31Z,2026-02-09T19:29:29Z,2026-02-09T19:29:28Z,0,[],True
+tensorflow/tensorflow,109880,[XLA:GPU] Move service/model/experimental to codegen/tiling/experimental.,closed,copybara-service[bot],2026-02-06T18:36:41Z,2026-02-06T19:03:48Z,2026-02-06T19:03:47Z,0,[],True
+tensorflow/tensorflow,109879,[LiteRT] Enable quantization support for DynamicUpdateSlice.,closed,copybara-service[bot],2026-02-06T18:32:19Z,2026-02-10T21:59:58Z,2026-02-10T21:59:58Z,0,[],True
+tensorflow/tensorflow,109878,PR #36564: [ROCm][TSAN] Read device_count from collective params and avoid race with concurrent updates,open,copybara-service[bot],2026-02-06T18:29:36Z,2026-02-06T18:29:36Z,,0,[],True
+tensorflow/tensorflow,109877,Add unused recoverable option to coordination service.,closed,copybara-service[bot],2026-02-06T18:24:17Z,2026-02-06T19:25:07Z,2026-02-06T19:25:06Z,0,[],True
+tensorflow/tensorflow,109876,Pass unused recoverable option to coordination service.,open,copybara-service[bot],2026-02-06T18:20:12Z,2026-02-06T18:20:12Z,,0,[],True
+tensorflow/tensorflow,109875,Update LowerQuantAnnotationsPass to handle multi-result producer ops.,closed,copybara-service[bot],2026-02-06T18:10:30Z,2026-02-09T20:46:37Z,2026-02-09T20:46:36Z,0,[],True
+tensorflow/tensorflow,109874,Prepare Tensorflow's build_info for rules_python 1.8.3 upgrade,closed,copybara-service[bot],2026-02-06T17:49:47Z,2026-02-11T20:00:32Z,2026-02-11T20:00:32Z,0,[],True
+tensorflow/tensorflow,109873,PR #37309: [GPU][NFC] Rename H100 and B200 test data for clarity.,open,copybara-service[bot],2026-02-06T16:51:37Z,2026-02-06T21:43:38Z,,0,[],True
+tensorflow/tensorflow,109872,"hlo_module_{splitting,linking}_test should use xla_cc_test.",closed,copybara-service[bot],2026-02-06T16:47:32Z,2026-02-06T19:16:16Z,2026-02-06T19:16:16Z,0,[],True
+tensorflow/tensorflow,109871,[XLA] Remove channel ID uniquifying functionality from CallInliner.,closed,copybara-service[bot],2026-02-06T16:27:56Z,2026-02-09T18:19:05Z,2026-02-09T18:19:04Z,0,[],True
+tensorflow/tensorflow,109870,Remove PlatformUtil usage from custom_call_test.,closed,copybara-service[bot],2026-02-06T15:56:44Z,2026-02-06T18:57:19Z,2026-02-06T18:57:19Z,0,[],True
+tensorflow/tensorflow,109869,undefined symbol: _ZN17pybind11_protobuf16GenericProtoCastEPN6google8protobuf7MessageEN8pybind1119return_value_policyENS4_6handleEb,open,Guillermo-Callaghan,2026-02-06T15:35:53Z,2026-02-10T17:09:09Z,,0,"[""type:bug"", ""TF 2.19""]",False
+tensorflow/tensorflow,109868,[XLA:GPU] Migrate CollectiveOpsE2ETestBase to HloPjRtGpuTestBase.,closed,copybara-service[bot],2026-02-06T15:30:45Z,2026-02-10T13:18:58Z,2026-02-10T13:18:58Z,0,[],True
+tensorflow/tensorflow,109867,Upgrade `rules_cc` to version 0.2.16 and remove `rules_cc_protobuf.patch`.,open,copybara-service[bot],2026-02-06T15:24:25Z,2026-02-06T15:24:25Z,,0,[],True
+tensorflow/tensorflow,109866,PR #37408: [xla:gpu] Delete multimem support from FFI,closed,copybara-service[bot],2026-02-06T15:24:01Z,2026-02-06T17:50:18Z,2026-02-06T17:50:18Z,0,[],True
+tensorflow/tensorflow,109865,[XLA:GPU] Migrate SortingTest to PjRt.,closed,copybara-service[bot],2026-02-06T14:30:21Z,2026-02-06T15:21:12Z,2026-02-06T15:21:11Z,0,[],True
+tensorflow/tensorflow,109864,PR #36441: Support all-reduce hoisting with scalar multiplication pattern,open,copybara-service[bot],2026-02-06T13:12:04Z,2026-02-06T13:12:04Z,,0,[],True
+tensorflow/tensorflow,109863,Remove obsolete `rules_cc.patch`.,closed,copybara-service[bot],2026-02-06T13:01:12Z,2026-02-06T14:25:16Z,2026-02-06T14:25:16Z,0,[],True
+tensorflow/tensorflow,109862,Upgrade grpc to Release v1.78.0,closed,copybara-service[bot],2026-02-06T12:31:30Z,2026-02-09T09:36:55Z,2026-02-09T09:36:55Z,0,[],True
+tensorflow/tensorflow,109861,PR #33260: [GPU] Optimize all-gathers on non-major dimension using a single transpose.,open,copybara-service[bot],2026-02-06T12:26:33Z,2026-02-06T12:26:33Z,,0,[],True
+tensorflow/tensorflow,109860,Upgrade RE2 to Release 2025-11-05,closed,copybara-service[bot],2026-02-06T10:34:03Z,2026-02-06T11:47:00Z,2026-02-06T11:47:00Z,0,[],True
+tensorflow/tensorflow,109859,Log multimem address space,closed,copybara-service[bot],2026-02-06T10:30:23Z,2026-02-07T07:28:16Z,2026-02-07T07:28:16Z,0,[],True
+tensorflow/tensorflow,109858,Automated Code Change,closed,copybara-service[bot],2026-02-06T10:18:21Z,2026-02-07T09:26:52Z,2026-02-07T09:26:51Z,0,[],True
+tensorflow/tensorflow,109857,Upgrade Abseil to [LTS 20260107.0](https://github.com/abseil/abseil-cpp/releases/tag/20260107.0).,open,copybara-service[bot],2026-02-06T09:48:01Z,2026-02-06T09:48:01Z,,0,[],True
+tensorflow/tensorflow,109856,Upgrade RE2 to Release 2025-11-05,open,copybara-service[bot],2026-02-06T08:22:44Z,2026-02-06T11:24:48Z,,0,[],True
+tensorflow/tensorflow,109855,Upgrade Abseil to LTS 20260107.0,open,copybara-service[bot],2026-02-06T08:00:45Z,2026-02-10T10:32:54Z,,0,[],True
+tensorflow/tensorflow,109854,Automated Code Change,open,copybara-service[bot],2026-02-06T07:57:48Z,2026-02-06T07:57:48Z,,0,[],True
+tensorflow/tensorflow,109853,Automated Code Change,open,copybara-service[bot],2026-02-06T07:57:23Z,2026-02-06T07:57:23Z,,0,[],True
+tensorflow/tensorflow,109852,Automated Code Change,open,copybara-service[bot],2026-02-06T07:55:08Z,2026-02-06T07:55:08Z,,0,[],True
+tensorflow/tensorflow,109851,Add new cost constants for tracking pipelined mpmd cost.,open,copybara-service[bot],2026-02-06T07:52:32Z,2026-02-06T20:42:31Z,,0,[],True
+tensorflow/tensorflow,109850,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:32Z,2026-02-06T07:51:32Z,,0,[],True
+tensorflow/tensorflow,109849,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:29Z,2026-02-06T07:51:29Z,,0,[],True
+tensorflow/tensorflow,109848,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:06Z,2026-02-06T07:51:06Z,,0,[],True
+tensorflow/tensorflow,109847,Automated Code Change,open,copybara-service[bot],2026-02-06T07:50:47Z,2026-02-06T07:50:47Z,,0,[],True
+tensorflow/tensorflow,109846,Automated Code Change,open,copybara-service[bot],2026-02-06T07:49:11Z,2026-02-06T07:49:11Z,,0,[],True
+tensorflow/tensorflow,109845,Automated Code Change,open,copybara-service[bot],2026-02-06T07:43:36Z,2026-02-07T11:28:08Z,,0,[],True
+tensorflow/tensorflow,109844,Automated Code Change,open,copybara-service[bot],2026-02-06T07:42:54Z,2026-02-06T07:42:54Z,,0,[],True
+tensorflow/tensorflow,109843,Roll back the change to absl::down_cast.,closed,copybara-service[bot],2026-02-06T07:35:43Z,2026-02-06T11:12:08Z,2026-02-06T11:12:07Z,0,[],True
+tensorflow/tensorflow,109842,[Security] Fix CRITICAL vulnerability: V-001,closed,orbisai0security,2026-02-06T06:01:33Z,2026-02-06T11:34:30Z,2026-02-06T11:34:27Z,1,"[""size:XS""]",True
+tensorflow/tensorflow,109841,Clean up `xla::WithProfilingContext` in favor of `tsl::WithCurrentContext`,closed,copybara-service[bot],2026-02-06T05:12:58Z,2026-02-06T23:07:01Z,2026-02-06T23:07:01Z,0,[],True
+tensorflow/tensorflow,109840,Introduces a CheckRunning() method to tsl::SubProcess to non-blockingly check,closed,copybara-service[bot],2026-02-06T05:06:37Z,2026-02-11T20:49:22Z,2026-02-11T20:49:22Z,0,[],True
+tensorflow/tensorflow,109839,Automated Code Change,open,copybara-service[bot],2026-02-06T05:01:13Z,2026-02-06T05:01:13Z,,0,[],True
+tensorflow/tensorflow,109838,[XLA:GPU] Optimize RaggedAllToAll: Move Rendezvous to Thunk::Initialize,closed,copybara-service[bot],2026-02-06T04:47:28Z,2026-02-06T18:47:23Z,2026-02-06T18:47:23Z,0,[],True
+tensorflow/tensorflow,109837,Improve flatbuffer export and PackLowBitValuesDensely performance.,closed,copybara-service[bot],2026-02-06T04:16:34Z,2026-02-11T00:58:22Z,2026-02-11T00:58:21Z,0,[],True
+tensorflow/tensorflow,109836,Add support for unsigned 4-bit quantized types (QUI4) in tflite.,closed,copybara-service[bot],2026-02-06T03:02:52Z,2026-02-09T22:35:13Z,2026-02-09T22:35:13Z,0,[],True
+tensorflow/tensorflow,109835,Update how PjRtCpuClient handles ordering operations which involve collectives,closed,copybara-service[bot],2026-02-06T01:34:32Z,2026-02-06T21:28:05Z,2026-02-06T21:28:04Z,0,[],True
+tensorflow/tensorflow,109834,Add an overload of `tsl::monitoring::Buckets::Exponential` with different args.,open,copybara-service[bot],2026-02-06T01:18:32Z,2026-02-06T01:18:33Z,,0,[],True
+tensorflow/tensorflow,109833,Reverts cfb56f67f27874b60f52f4b5183e5c5829ef11c6,open,copybara-service[bot],2026-02-06T00:54:33Z,2026-02-06T00:54:33Z,,0,[],True
+tensorflow/tensorflow,109832,Add the large s32 array dump filter in backend config when dump hlo.,open,copybara-service[bot],2026-02-06T00:52:17Z,2026-02-06T00:52:19Z,,0,[],True
+tensorflow/tensorflow,109831,Fix: Use TSAN feature instead of config setting,open,copybara-service[bot],2026-02-06T00:49:06Z,2026-02-06T00:49:35Z,,1,[],True
+tensorflow/tensorflow,109830,Fix use_legacy_runtime + hlo_runner deps.,closed,copybara-service[bot],2026-02-06T00:39:48Z,2026-02-06T01:03:31Z,2026-02-06T01:03:31Z,0,[],True
+tensorflow/tensorflow,109829,Use isinstance for checking MLIR quantized types.,open,copybara-service[bot],2026-02-06T00:32:06Z,2026-02-06T00:41:51Z,,0,[],True
+tensorflow/tensorflow,109828,Make `tsl::Env::StartThread` respect NUMA affinity in `tsl::ThreadOptions`,open,copybara-service[bot],2026-02-06T00:19:35Z,2026-02-06T00:19:35Z,,0,[],True
+golang/go,77489,crypto/ed25519: don't panic on public keys with incorrect lengths,open,JackDoan,2026-02-06T22:16:56Z,2026-02-09T16:24:11Z,,5,[],True
+golang/go,77488,cmd/go/internal/bug: sync issue body format with GitHub template (as of February 2026),open,dmitshur,2026-02-06T21:14:05Z,2026-02-09T23:03:42Z,,2,"[""GoCommand"", ""FixPending""]",False
+golang/go,77487,x/build: bot linux-mipsle-hooc-ag reported as broken,closed,gopherbot,2026-02-06T19:34:31Z,2026-02-06T23:14:41Z,2026-02-06T23:14:41Z,1,"[""Builders"", ""NeedsInvestigation""]",False
+golang/go,77486,proposal: cmd/go: add `go env -bug-report`,open,Jorropo,2026-02-06T18:57:26Z,2026-02-09T05:59:32Z,,6,"[""Proposal"", ""GoCommand"", ""ToolProposal""]",False
+golang/go,77485,cmd/compile: TestScript/issue77033 failures,open,gopherbot,2026-02-06T18:51:24Z,2026-02-12T03:14:48Z,,3,"[""help wanted"", ""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77484,"cmd/link,x/mobile: Generated .aar files have .so that miss .gopclntab section which prevents dlv debugger from working",open,Pawloland,2026-02-06T16:42:39Z,2026-02-11T22:19:16Z,,4,"[""NeedsInvestigation"", ""Debugging"", ""mobile"", ""compiler/runtime""]",False
+golang/go,77483,cmd/go: panic when running `go run -C`,open,alexandear,2026-02-06T16:19:33Z,2026-02-07T01:59:54Z,,3,"[""NeedsFix"", ""GoCommand""]",False
+golang/go,77482,"cmd/fix, x/tools/go/analysis: fix can print ""applied 8 of 10 fixes; 2 files updated"" and fail without actually applying any fixes",open,dmitshur,2026-02-06T15:50:46Z,2026-02-09T20:40:11Z,,3,"[""NeedsInvestigation"", ""BugReport""]",False
+golang/go,77480,regexp: allow larger regexps with backtrack engine,open,bboreham,2026-02-06T15:02:53Z,2026-02-06T15:18:45Z,,1,"[""Performance"", ""NeedsInvestigation""]",False
+golang/go,77479,net/http: add ProxyConnectError type for proxy CONNECT failures,open,fl0Lec,2026-02-06T15:02:50Z,2026-02-09T13:30:49Z,,11,[],True
+golang/go,77481,x/tools/gopls: accepting autocomplete suggestion within invalid code results in unwanted code deletion,open,igadmg,2026-02-06T11:05:29Z,2026-02-06T18:47:16Z,,1,"[""gopls"", ""Tools"", ""gopls/completion""]",False
+golang/go,77478,context: incorrect description of WithDeadlineCause and WithTimeoutCause,open,jwreschnig-utiq,2026-02-06T10:59:30Z,2026-02-06T21:12:56Z,,2,"[""Documentation"", ""NeedsFix""]",False
+golang/go,77477,proposal: Can't set atexit_sleep_ms=5 in a compiled binary,closed,purpleidea,2026-02-06T10:03:55Z,2026-02-07T17:45:30Z,2026-02-06T13:59:09Z,24,"[""Proposal"", ""ToolProposal""]",False
+golang/go,77476,cmd/compile/internal/ssagen: fix typo GrtCallerSP -> GetCallerSP,closed,a18792721831,2026-02-06T08:39:12Z,2026-02-06T17:48:07Z,2026-02-06T17:48:07Z,13,[],True
+golang/go,77475,net: document LookupSRV cname return value,open,a18792721831,2026-02-06T08:13:07Z,2026-02-09T02:43:59Z,,6,[],True
+golang/go,77474,cmd/go: CGO compilation fails after upgrading from Go 1.25.5 to 1.25.6 due to --define-variable flag in pkg-config [1.26 backport],open,gopherbot,2026-02-06T06:37:56Z,2026-02-11T17:19:59Z,,2,"[""GoCommand"", ""CherryPickApproved""]",False
+golang/go,77473,cmd/go: TestScript/vet_internal failures,open,gopherbot,2026-02-06T03:45:48Z,2026-02-06T15:19:30Z,,2,"[""NeedsInvestigation""]",False
+golang/go,77472,الزرقاء مدينت الشرق,closed,zydalswalhh7-del,2026-02-06T03:05:39Z,2026-02-06T03:16:08Z,2026-02-06T03:16:08Z,0,"[""invalid""]",False
+golang/go,77471,ghcr.io/devcontainers/features/github-cli:1,closed,zydalswalhh7-del,2026-02-06T03:03:23Z,2026-02-06T03:17:13Z,2026-02-06T03:17:13Z,0,"[""invalid""]",False
+golang/go,77470,proxy.golang.org:,closed,zydalswalhh7-del,2026-02-06T03:03:13Z,2026-02-06T03:16:28Z,2026-02-06T03:16:28Z,1,"[""proxy.golang.org"", ""invalid""]",False
+golang/go,77469,Go playground - Option to run on a Windows runtime,closed,pjebs,2026-02-06T01:00:36Z,2026-02-06T20:14:01Z,2026-02-06T07:00:35Z,3,"[""FeatureRequest""]",False
+golang/go,77468,Documentation Clarity on what -trimpath does to runtime.Caller,closed,pjebs,2026-02-06T00:51:18Z,2026-02-08T03:07:14Z,2026-02-06T06:59:38Z,4,"[""Documentation""]",False
+apache/spark,54192,[SPARK-55409][PS] Handle an unexpected keyword argument error from read_excel with pandas 3,closed,ueshin,2026-02-06T23:47:31Z,2026-02-08T22:20:22Z,2026-02-08T22:20:22Z,3,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54191,[SPARK-55408][PS] Handle unexpected keyword argument errors related to datetime with pandas 3,closed,ueshin,2026-02-06T23:39:55Z,2026-02-09T00:23:14Z,2026-02-09T00:22:52Z,3,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54190,[SPARK-55407][PYSPARK] Replace logger.warn with logger.warning,closed,gaogaotiantian,2026-02-06T23:10:51Z,2026-02-09T02:53:01Z,2026-02-08T20:31:50Z,4,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54189,[SPARK-55406][PYTHON][CONNECT] Reimplement the thread pool for ExecutePlanResponseReattachableIterator,closed,gaogaotiantian,2026-02-06T22:56:09Z,2026-02-10T21:54:48Z,2026-02-08T22:19:54Z,2,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54188,[SPARK-55405][PYTHON][TESTS] Change tests for pa.Array.cast to use golden file,closed,Yicong-Huang,2026-02-06T22:34:44Z,2026-02-09T15:21:31Z,2026-02-09T00:21:42Z,5,"[""CORE"", ""PYTHON""]",True
+apache/spark,54187,[SPARK-55404][PYTHON] Always raise KeyboardInterrupt from SIGINT handler,closed,gaogaotiantian,2026-02-06T22:04:55Z,2026-02-10T21:55:01Z,2026-02-08T22:18:47Z,2,"[""PYTHON""]",True
+apache/spark,54186,[SPARK-55403][PS] Fix `no attribute 'draw'` error in the plot tests with pandas 3,closed,ueshin,2026-02-06T21:46:23Z,2026-02-08T12:28:40Z,2026-02-08T12:28:20Z,3,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54185,[SPARK-55402][SS] Move streamingSourceIdentifyingName from CatalogTable to DataSource,closed,ericm-db,2026-02-06T20:51:22Z,2026-02-09T19:16:54Z,2026-02-09T19:16:48Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,54184,[SPARK-46168][PS] Implementation of idxmin Axis argument ,open,devin-petersohn,2026-02-06T19:28:03Z,2026-02-09T17:37:41Z,,2,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54183,[SPARK-55401][PYTHON] Add retry logic and timeout handling to pyspark install download,closed,yaooqinn,2026-02-06T18:55:26Z,2026-02-07T16:40:04Z,2026-02-07T16:38:55Z,3,"[""CORE"", ""PYTHON""]",True
+apache/spark,54182,[SPARK-55411][SQL] SPJ may throw ArrayIndexOutOfBoundsException when join keys are less than cluster keys,closed,pan3793,2026-02-06T18:43:59Z,2026-02-11T07:32:37Z,2026-02-10T15:44:00Z,6,"[""SQL""]",True
+apache/spark,54181,[SPARK-55301][SS] Re-enable all dimension in OfflineStateRepartitionIntegrationSuites,open,zifeif2,2026-02-06T18:40:12Z,2026-02-12T00:32:26Z,,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,54180,[SPARK-55361][DOCS][PYTHON] Suggest the use of to_arrow_schema to avoid specifying schema twice,open,casgie,2026-02-06T16:10:01Z,2026-02-12T08:48:12Z,,2,"[""SQL"", ""DOCS"", ""PYTHON""]",True
+apache/spark,54179,[SPARK-55399][K8S] Improve `KubernetesDriverEndpoint` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-06T15:26:29Z,2026-02-07T02:16:49Z,2026-02-07T02:16:27Z,5,"[""KUBERNETES""]",True
+apache/spark,54178,[SPARK-55395][SQL] Disable RDD cache in `DataFrame.zipWithIndex`,closed,zhengruifeng,2026-02-06T12:51:50Z,2026-02-09T00:13:15Z,2026-02-08T22:13:15Z,3,"[""SQL"", ""PYTHON""]",True
+apache/spark,54177,[SPARK-55394][PYTHON][INFRA] Upgrade Python 3.10 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T12:24:23Z,2026-02-07T08:24:54Z,2026-02-07T08:24:31Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54176,[SPARK-55393][PYTHON][INFRA] Upgrade Python 3.11 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:16:28Z,2026-02-07T08:23:50Z,2026-02-07T08:23:25Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54175,[SPARK-55392][PYTHON][INFRA] Upgrade Python 3.14 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:10:14Z,2026-02-07T08:22:09Z,2026-02-07T08:21:48Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54174,framework foundation - interfaces and config,closed,davidm-db,2026-02-06T11:03:13Z,2026-02-09T09:20:27Z,2026-02-09T09:14:53Z,3,"[""SQL""]",True
+apache/spark,54173,[SPARK-55391][PYTHON][INFRA] Upgrade Python 3.13 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:00:35Z,2026-02-07T08:20:51Z,2026-02-07T08:20:27Z,2,"[""BUILD"", ""INFRA""]",True
+apache/spark,54172,"[SPARK-55389][PYTHON] Consolidate `SQL_MAP_ARROW_ITER_UDF` wrapper, mapper, and serializer logic",open,Yicong-Huang,2026-02-06T06:50:05Z,2026-02-12T01:07:44Z,,3,"[""SQL"", ""CORE"", ""PYTHON""]",True
+apache/spark,54171,[SPARK-55387][CORE][UI] Fix DAG visualization not rendering due to malformed DOT label,closed,yaooqinn,2026-02-06T06:32:05Z,2026-02-07T16:12:57Z,2026-02-07T16:12:57Z,11,"[""WEB UI""]",True
+apache/spark,54170,[SPARK-55386][INFRA] Run `Java 17/25` Maven install tests on PR build only,closed,dongjoon-hyun,2026-02-06T04:36:08Z,2026-02-06T06:04:02Z,2026-02-06T06:01:18Z,7,"[""INFRA""]",True
+apache/spark,54169,[SPARK-55385][CORE][SQL] Mitigate the recomputation in `zipWithIndex`,closed,zhengruifeng,2026-02-06T04:24:01Z,2026-02-09T00:12:43Z,2026-02-08T22:12:47Z,2,"[""SQL"", ""CORE""]",True
+apache/spark,54168,[SPARK-55383][INFRA] Only send test report to codecov in coverage run,closed,gaogaotiantian,2026-02-06T03:36:37Z,2026-02-10T21:55:11Z,2026-02-08T22:12:16Z,2,"[""INFRA""]",True
+apache/spark,54167,[SPARK-55382][CORE] Make `Executor` to log `Running Spark version`,closed,dongjoon-hyun,2026-02-06T02:29:16Z,2026-02-06T03:43:06Z,2026-02-06T03:43:06Z,2,"[""CORE""]",True
+apache/spark,54166,[MINOR][PYTHON] Add `tabulate` in `dev/requirements.txt`,closed,zhengruifeng,2026-02-06T01:38:45Z,2026-02-06T02:02:57Z,2026-02-06T01:43:28Z,1,"[""BUILD""]",True
+apache/spark,54165,[SPARK-55363][PS][TESTS][FOLLOW-UP] Also fix `test_num_mul_div` to ignore NaN vs. None,closed,ueshin,2026-02-06T00:06:28Z,2026-02-06T01:42:55Z,2026-02-06T01:42:55Z,3,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+langchain-ai/langchain,35057,[Partner] AgentMesh: Cryptographic Trust Layer for LangChain Agents,closed,imran-siddique,2026-02-06T21:46:45Z,2026-02-07T19:00:17Z,2026-02-06T21:52:18Z,5,"[""integration"", ""dependencies"", ""external""]",True
+langchain-ai/langchain,35056,chore(deps): bump aws-actions/configure-aws-credentials from 5 to 6 in the github-actions group,closed,dependabot[bot],2026-02-06T21:11:21Z,2026-02-06T21:17:58Z,2026-02-06T21:17:57Z,0,"[""infra"", ""dependencies"", ""github_actions"", ""external""]",True
+langchain-ai/langchain,35055,chore: deps,closed,jkennedyvz,2026-02-06T20:57:06Z,2026-02-06T21:09:42Z,2026-02-06T21:09:40Z,0,"[""infra"", ""internal""]",True
+langchain-ai/langchain,35054,`langchain-openai` name issues,open,mdrxy,2026-02-06T20:28:27Z,2026-02-09T11:54:20Z,,3,"[""bug"", ""openai"", ""internal""]",False
+langchain-ai/langchain,35053,docs(langchain-classic): clarify MultiVectorRetriever usage,closed,MohammedYaseenAhmedKhan,2026-02-06T20:27:03Z,2026-02-11T21:36:57Z,2026-02-11T21:36:56Z,0,"[""documentation"", ""langchain-classic"", ""external""]",True
+langchain-ai/langchain,35052,docs(langchain-classic): warn about older `create_react_agent`,closed,mdrxy,2026-02-06T20:14:36Z,2026-02-06T20:22:16Z,2026-02-06T20:22:14Z,0,"[""documentation"", ""langchain-classic""]",True
+langchain-ai/langchain,35051,docs(langchain-classic): add warning for `initialize_agent` function,closed,mdrxy,2026-02-06T19:57:52Z,2026-02-06T20:00:30Z,2026-02-06T20:00:27Z,0,"[""documentation"", ""langchain-classic"", ""internal""]",True
+langchain-ai/langchain,35050,OperationNotSupported error with Azure OpenAI's gpt-5.2-codex model,closed,jacobreesmontgomery,2026-02-06T19:55:55Z,2026-02-08T18:15:49Z,2026-02-08T18:15:49Z,0,"[""bug"", ""langchain"", ""openai"", ""external""]",False
+langchain-ai/langchain,35049,fix docstring mismatch in langchain_core.utils.mustache.render and remove redundant guess_type check in Blob.from_path  (resolves issue #35046 ),closed,MissLostCodes,2026-02-06T19:03:27Z,2026-02-11T17:35:07Z,2026-02-11T17:35:07Z,1,"[""core"", ""external""]",True
+langchain-ai/langchain,35048,release(standard-tests): release 1.1.4,closed,eyurtsev,2026-02-06T18:42:32Z,2026-02-06T18:44:14Z,2026-02-06T18:44:12Z,0,"[""standard-tests"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35047,"fix(core): clean up redundant logic, fix docstrings, and add Blob unit tests",closed,subhashyadavon,2026-02-06T18:20:32Z,2026-02-11T17:33:25Z,2026-02-11T17:33:25Z,1,"[""core"", ""fix""]",True
+langchain-ai/langchain,35046,Clean up redundant logic and fix docstring mismatch in langchain-core,closed,subhashyadavon,2026-02-06T18:10:46Z,2026-02-10T17:25:51Z,2026-02-10T17:25:51Z,0,"[""bug"", ""core"", ""external""]",False
+langchain-ai/langchain,35045,AgenState passed directly to tool increase number of tokens even there is no llm call,closed,dmitrygmail,2026-02-06T16:32:58Z,2026-02-11T21:05:52Z,2026-02-11T21:05:51Z,2,"[""bug"", ""langchain"", ""external""]",False
+langchain-ai/langchain,35044,chore(infra): delete prompty,closed,ccurme,2026-02-06T15:31:04Z,2026-02-06T15:38:31Z,2026-02-06T15:38:28Z,0,"[""integration"", ""infra"", ""dependencies"", ""github_actions"", ""prompty"", ""internal""]",True
+langchain-ai/langchain,35043,"fix(core): make `self` positional-only in `_run`/`_arun` to allow ""self"" as tool input key",open,veeceey,2026-02-06T11:10:46Z,2026-02-10T07:38:59Z,,4,"[""core"", ""fix""]",True
+langchain-ai/langchain,35042,style: bump ruff version to 0.15,open,cbornet,2026-02-06T09:12:29Z,2026-02-11T09:05:14Z,,1,"[""core"", ""langchain"", ""standard-tests"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""linting"", ""external""]",True
+langchain-ai/langchain,35041,langchain openai does not support with_structured_output with argument include_raw=True,closed,humblemat810,2026-02-06T06:48:18Z,2026-02-07T01:57:34Z,2026-02-07T01:57:21Z,2,"[""bug"", ""openai"", ""external""]",False
+langchain-ai/langchain,35040,chore(standard-tests): bump down to 1.1.3,closed,eyurtsev,2026-02-06T02:53:53Z,2026-02-06T02:58:15Z,2026-02-06T02:58:14Z,0,"[""standard-tests"", ""infra"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35039,chore(anthropic): update model profiles,closed,ccurme,2026-02-06T00:10:19Z,2026-02-06T00:19:10Z,2026-02-06T00:19:08Z,1,"[""integration"", ""infra"", ""anthropic"", ""internal""]",True
+pallets/flask,5911,Fix request resource leak when teardown handlers raise,closed,THE-Amrit-mahto-05,2026-02-06T21:12:31Z,2026-02-06T22:06:00Z,2026-02-06T21:17:26Z,3,[],True
+pallets/flask,5910,🤖 Automated code quality improvements (5 fixes),closed,manav363,2026-02-06T08:23:46Z,2026-02-06T09:51:47Z,2026-02-06T08:40:10Z,2,[],True
+docker/compose,13575,[SECURITY] Update Go to >=1.25.6 to resolve high vulnerability CVE-2025-61726,closed,gnowland,2026-02-06T20:48:28Z,2026-02-09T08:21:34Z,2026-02-09T08:21:34Z,0,[],False
+duckdb/duckdb,20846,Fix missing profiling metrics in EXPLAIN ANALYZE JSON output,open,2jungkook,2026-02-06T21:21:18Z,2026-02-10T09:41:26Z,,3,"[""CI Failure""]",True
+duckdb/duckdb,20845,DuckDB doesn't preserve UTC offset when adding a day to timestamptz column,open,MarcoGorelli,2026-02-06T19:36:33Z,2026-02-06T21:21:31Z,,4,"[""Needs Documentation"", ""expected behavior""]",False
+duckdb/duckdb,20844,Inconsistent Column Resolution Between Derived Tables and CTEs When Using JOIN ... USING Clause,open,david-mateo,2026-02-06T17:09:47Z,2026-02-10T15:07:39Z,,2,"[""reproduced""]",False
+duckdb/duckdb,20843,Fixed the issue where `prepared` parameters in a subquery(#ISSUE 20792),closed,ArNine,2026-02-06T14:48:31Z,2026-02-07T05:18:27Z,2026-02-07T05:18:27Z,1,[],True
+duckdb/duckdb,20842,Fixed the issue where `prepared` parameters in a subquery assigned th…,closed,ArNine,2026-02-06T14:36:11Z,2026-02-06T14:47:43Z,2026-02-06T14:47:43Z,0,[],True
+duckdb/duckdb,20841,Add VERIFY_SSL option as an optional parameter for HTTP secret creation,closed,carlopi,2026-02-06T14:33:42Z,2026-02-10T20:01:39Z,2026-02-10T17:21:12Z,2,"[""Ready For Review""]",True
+duckdb/duckdb,20840,UHugeInt conversion to Arrow Decimal,closed,evertlammerts,2026-02-06T13:51:29Z,2026-02-09T07:59:06Z,2026-02-09T07:59:03Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20839,Fix Positional Parameter Binding Order for Prepared Statements with Sub-queries,closed,d-justen,2026-02-06T13:47:38Z,2026-02-07T16:38:57Z,2026-02-07T16:38:57Z,1,"[""Changes Requested""]",True
+duckdb/duckdb,20838,Performance Regression Recursive CTE,open,kryonix,2026-02-06T13:45:10Z,2026-02-06T14:14:11Z,,2,"[""reproduced""]",False
+duckdb/duckdb,20837,Add option `enable_peg_parser`,open,Dtenwolde,2026-02-06T13:19:56Z,2026-02-12T08:44:53Z,,0,[],True
+duckdb/duckdb,20836,Fix CI variegata,closed,c-herrewijn,2026-02-06T12:29:52Z,2026-02-10T09:55:13Z,2026-02-06T20:57:25Z,0,[],True
+duckdb/duckdb,20835,Start CLI search with what is already in buffer [Retarget to v1.5-variegata],closed,Dtenwolde,2026-02-06T11:59:51Z,2026-02-06T21:11:30Z,2026-02-06T21:11:27Z,2,[],True
+duckdb/duckdb,20834,Start CLI search with what is already in buffer,closed,Dtenwolde,2026-02-06T11:43:06Z,2026-02-06T11:53:09Z,2026-02-06T11:53:08Z,3,[],True
+duckdb/duckdb,20832,Internal #7335: Join Condition Statistics,closed,hawkfish,2026-02-06T05:35:50Z,2026-02-08T00:25:34Z,2026-02-07T11:00:27Z,1,"[""Ready For Review""]",True

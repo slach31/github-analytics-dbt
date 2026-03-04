@@ -1,0 +1,78 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35577,Bug: The ESLint react-hooks/preserve-manual-memoization rule warns against optional chaining operator,open,4eb0da,2026-01-20T19:52:06Z,2026-01-22T13:40:20Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35576,Bug: The ESLint react-hooks/immutability rule warns against using a callback internally,open,4eb0da,2026-01-20T19:46:30Z,2026-01-24T05:48:03Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35575,Bug: The ESLint react-hooks/refs rule marks the entire object with the ref property as a ref object,open,4eb0da,2026-01-20T19:40:02Z,2026-01-30T15:01:30Z,,2,"[""Status: Unconfirmed""]",False
+facebook/react,35574,Bump diff from 4.0.2 to 4.0.4 in /compiler,open,dependabot[bot],2026-01-20T18:42:03Z,2026-01-20T18:42:09Z,,0,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35573,[compiler] Fix invariant error for optional chaining in try/catch,open,josephsavona,2026-01-20T18:34:24Z,2026-01-23T19:07:58Z,,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35572,Optimize eslint-plugin-react-hooks for large codebases,closed,revathi-nuvai,2026-01-20T17:50:11Z,2026-01-21T17:56:41Z,2026-01-21T17:27:29Z,2,[],True
+facebook/react,35571,Bug: Support the new `<geolocation>` element,open,jhuleatt,2026-01-20T15:28:36Z,2026-01-20T20:17:00Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35570,[Compiler Bug]: React Compiler throws hard errors for valid JS inside callbacks (non-render paths),closed,Ranamalsingh12,2026-01-20T08:25:05Z,2026-01-20T18:02:23Z,2026-01-20T18:01:53Z,2,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35569,[Compiler Bug]: React Compiler conditionally memoize a function depending on the order of statements before it,open,refparo,2026-01-20T06:28:11Z,2026-02-09T15:06:27Z,,1,"[""Type: Bug"", ""Status: Unconfirmed""]",False
+facebook/react,35568,Fix outdated documentation: replace 'Gulp plugin' with 'extract-error…,open,bodhisilberling,2026-01-20T03:34:30Z,2026-01-22T00:34:00Z,,2,"[""CLA Signed""]",True
+facebook/react,35567,Cancel animation when a custom Timeline is used,closed,sebmarkbage,2026-01-20T01:52:58Z,2026-01-20T01:56:17Z,2026-01-20T01:53:05Z,1,"[""CLA Signed"", ""React Core Team""]",True
+golang/go,77246,"cmd/link: DWARF5 output causes ~60,000 readelf warnings - incorrect DW_FORM_addrx offset calculation",open,kajaaz,2026-01-20T23:36:34Z,2026-01-27T08:30:32Z,,18,"[""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77245,proposal: spec: function type inference should work in all assignment contexts,open,griesemer,2026-01-20T22:38:56Z,2026-02-09T15:12:26Z,,13,"[""LanguageChange"", ""Proposal"", ""TypeInference"", ""LanguageProposal""]",False
+golang/go,77244,x/pkgsite: package removal request for https://pkg.go.dev/github.com/lf-edge/eve/api/go,closed,eriknordmark,2026-01-20T21:13:44Z,2026-01-21T17:19:28Z,2026-01-21T17:19:28Z,3,"[""NeedsInvestigation"", ""pkgsite"", ""pkgsite/package-removal""]",False
+golang/go,77243,net: permit WriteMsgUnix to connected SOCK_DGRAM sockets,open,The127,2026-01-20T21:02:34Z,2026-01-22T07:36:34Z,,8,[],True
+golang/go,77242,x/tools/go/packages: TestAbsoluteFilenames/Modules failures,open,gopherbot,2026-01-20T17:50:45Z,2026-01-20T20:17:58Z,,2,"[""NeedsInvestigation"", ""Tools""]",False
+golang/go,77241,cmd/go: SEGV causes flaky gopls test,open,gopherbot,2026-01-20T17:50:44Z,2026-01-20T20:24:29Z,,2,"[""NeedsInvestigation"", ""GoCommand"", ""gopls"", ""Tools""]",False
+golang/go,77240,x/tools/gopls: extract function produces invalid code,open,fatanugraha,2026-01-20T17:23:56Z,2026-01-20T18:34:47Z,,2,"[""gopls"", ""Tools""]",False
+golang/go,77239,Yodthian Choeichan,closed,164961vearm64-blip,2026-01-20T17:00:02Z,2026-01-20T17:12:00Z,2026-01-20T17:12:00Z,0,[],False
+golang/go,77238,5323924106869761,closed,164961vearm64-blip,2026-01-20T16:59:16Z,2026-01-20T17:12:04Z,2026-01-20T17:12:04Z,0,[],False
+golang/go,77237,cmd/compile: internal error in use of go1.26 new function,closed,tatianab,2026-01-20T16:07:01Z,2026-01-20T21:56:04Z,2026-01-20T21:49:08Z,5,"[""NeedsFix"", ""release-blocker"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77236,proposal: Multiply function for time.Duration,closed,chrcc,2026-01-20T11:17:55Z,2026-01-22T01:22:05Z,2026-01-20T11:32:14Z,4,"[""Proposal""]",False
+golang/go,77235,cmd/link: binary size increase with Go 1.26,open,pgimalac,2026-01-20T08:32:51Z,2026-02-10T19:31:10Z,,5,"[""NeedsInvestigation"", ""binary-size"", ""compiler/runtime"", ""BugReport""]",False
+golang/go,77234,x/playground: unit tests doesn't work when primary test file has a name,open,x1unix,2026-01-20T02:57:09Z,2026-02-07T23:11:42Z,,9,"[""NeedsInvestigation"", ""BugReport""]",False
+apache/spark,53877,[SPARK-55108][PYTHON] Use the latest pandas-stubs for type check,closed,gaogaotiantian,2026-01-20T23:38:59Z,2026-01-21T07:08:33Z,2026-01-21T07:06:58Z,2,"[""SQL"", ""ML"", ""BUILD"", ""CORE"", ""PYTHON"", ""PANDAS API ON SPARK"", ""CONNECT""]",True
+apache/spark,53876,[SPARK-55107][SQL] Log TID for scanned file in FileScanRDD,open,turboFei,2026-01-20T23:13:52Z,2026-01-22T00:28:58Z,,1,"[""SQL""]",True
+apache/spark,53875,[SPARK-54996][SS] Report ArrivalTime for records from LowLatencyMemoryStream,closed,nyaapa,2026-01-20T22:05:08Z,2026-01-23T22:59:13Z,2026-01-23T22:59:13Z,2,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53874,[SPARK-55105][SS] Add Integration Test for Join Operator,closed,zifeif2,2026-01-20T21:55:24Z,2026-02-01T20:16:08Z,2026-02-01T20:16:08Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53873,[SPARK-54939][PYTHON][TESTS][FOLLOWUP] Handle PyArrow version difference in type coercion tests,closed,Yicong-Huang,2026-01-20T21:20:11Z,2026-01-21T09:12:08Z,2026-01-21T09:11:49Z,2,"[""CORE"", ""PYTHON""]",True
+apache/spark,53872,[SPARK-55104][CONNECT][PYTHON][SS] Add Spark Connect support for DataStreamReader.name(),closed,ericm-db,2026-01-20T21:02:35Z,2026-01-28T02:26:27Z,2026-01-28T02:26:27Z,13,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,53871,[SPARK-54925][PYTHON][FOLLOWUP] Ignore missing import for pystack,closed,gaogaotiantian,2026-01-20T19:54:22Z,2026-01-21T09:13:37Z,2026-01-21T09:13:25Z,2,"[""CORE"", ""PYTHON""]",True
+apache/spark,53870,[SPARK-55103][CORE][TESTS] Fix a flaky test in `RpcIntegrationSuite`,closed,sarutak,2026-01-20T15:25:16Z,2026-01-22T14:38:56Z,2026-01-21T00:24:39Z,3,"[""CORE""]",True
+apache/spark,53869,[SPARK-55174][SQL][TESTS] Move `Geo*ClientSuite` from `sql/core` to `sql/api` module,closed,uros-db,2026-01-20T13:44:58Z,2026-01-27T06:50:44Z,2026-01-27T06:50:44Z,3,"[""SQL""]",True
+apache/spark,53868,[SPARK-55064][SQL][CORE] Support query level indeterminate shuffle retry,closed,ivoson,2026-01-20T09:17:18Z,2026-01-29T08:59:07Z,2026-01-29T07:48:11Z,3,"[""SQL"", ""WEB UI"", ""CORE""]",True
+apache/spark,53867,[SPARK-55098][PYTHON] Vectorized UDFs with output batch size control fail with memory leak,closed,zhengruifeng,2026-01-20T09:15:08Z,2026-01-20T23:44:54Z,2026-01-20T22:16:27Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53866,[SPARK-55096][PYTHON] Update pandas minimum version in `connect/setup.py`,closed,zhengruifeng,2026-01-20T07:57:31Z,2026-01-20T10:04:20Z,2026-01-20T10:03:22Z,2,"[""PYTHON"", ""CONNECT""]",True
+apache/spark,53865,[SPARK-55093][CORE] Handle TaskRunner construction failures in launchTask,closed,ChuckLin2025,2026-01-20T07:56:22Z,2026-02-02T03:25:29Z,2026-02-02T03:25:29Z,5,"[""CORE""]",True
+apache/spark,53864,[SPARK-54374][SQL][UI] Enlarge the SVG viewBox attribute of SQL plan visualization initialization,closed,yaooqinn,2026-01-20T07:07:19Z,2026-02-12T08:14:38Z,2026-01-20T10:07:40Z,4,"[""SQL"", ""WEB UI""]",True
+apache/spark,53863,[SPARK-54849][PYTHON][FOLLOW-UP] Update minimum version of pyarrow in `setup.py` and `pyspark_upgrade.rst`,closed,zhengruifeng,2026-01-20T04:58:27Z,2026-01-20T14:15:48Z,2026-01-20T07:54:54Z,2,"[""DOCS"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,53862,[MINOR][PYTHON] Add missing docstrings to add_path and read_command functions,open,bodhisilberling,2026-01-20T03:36:11Z,2026-01-20T21:42:32Z,,3,"[""CORE"", ""PYTHON""]",True
+apache/spark,53861,[SPARK-49110][SQL] Simplify SubqueryAlias.metadataOutput to always propagate metadata columns,closed,cloud-fan,2026-01-20T01:55:35Z,2026-01-30T14:18:20Z,2026-01-30T14:18:20Z,2,"[""SQL""]",True
+langchain-ai/langchain,34826,testttt,closed,mdrxy,2026-01-20T23:10:14Z,2026-01-20T23:10:42Z,2026-01-20T23:10:42Z,0,"[""internal""]",False
+langchain-ai/langchain,34825,chore(deps-dev): bump setuptools from 67.8.0 to 78.1.1 in /libs/core in the uv group across 1 directory,closed,dependabot[bot],2026-01-20T23:09:18Z,2026-01-22T21:12:23Z,2026-01-21T01:55:19Z,2,"[""ignore-lint-pr-title"", ""core"", ""infra"", ""dependencies"", ""python:uv"", ""external""]",True
+langchain-ai/langchain,34824,testing,closed,mdrxy,2026-01-20T23:03:49Z,2026-01-22T20:41:31Z,2026-01-20T23:05:30Z,0,"[""huggingface"", ""internal""]",False
+langchain-ai/langchain,34823,test,closed,mdrxy,2026-01-20T22:57:28Z,2026-01-22T20:41:32Z,2026-01-20T23:03:35Z,0,"[""internal""]",False
+langchain-ai/langchain,34822,feat(infra): org membership checker,closed,mdrxy,2026-01-20T22:55:35Z,2026-01-22T21:12:24Z,2026-01-20T22:57:18Z,0,"[""github_actions"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34821,fix(text-splitters): preserve unclosed code block content in ExperimentalMarkdownSyntaxTextSplitter,closed,davchaudhari,2026-01-20T22:47:41Z,2026-02-02T23:30:42Z,2026-02-02T23:30:42Z,0,"[""text-splitters"", ""fix"", ""external""]",True
+langchain-ai/langchain,34820,feat(langchain): Add `force_tool_choice` parameter to `ToolStrategy` for streaming flexibility,closed,Sikandar1310291,2026-01-20T21:36:17Z,2026-02-02T01:58:34Z,2026-02-02T01:58:34Z,0,"[""langchain"", ""feature"", ""external""]",True
+langchain-ai/langchain,34819,test(fireworks): fix model name,closed,mdrxy,2026-01-20T21:29:00Z,2026-01-22T21:12:30Z,2026-01-20T21:32:45Z,1,"[""integration"", ""tests"", ""fireworks"", ""internal""]",True
+langchain-ai/langchain,34818,Streaming blocked by Structured Output,open,jmoreno11,2026-01-20T14:23:05Z,2026-02-02T02:34:56Z,,11,"[""core"", ""langchain"", ""openai"", ""external""]",False
+langchain-ai/langchain,34817,Improve get_buffer_string formatting with XML tags,closed,singupurapusaicharan,2026-01-20T11:43:33Z,2026-01-22T21:12:32Z,2026-01-20T11:44:24Z,1,"[""core"", ""external""]",True
+langchain-ai/langchain,34816,fix(langchain): avoid UnboundLocalError when no AIMessage exists,closed,saakshigupta2002,2026-01-20T05:40:13Z,2026-02-03T01:56:31Z,2026-02-03T01:56:31Z,0,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,34815,feat(langchain): add case_insensitive parameter to grep_search tool,open,chasemcdo,2026-01-20T03:20:16Z,2026-01-22T21:12:35Z,,0,"[""langchain"", ""feature"", ""external""]",True
+langchain-ai/langchain,34814,feat(langchain): add case_insensitive parameter to grep_search tool,closed,chasemcdo,2026-01-20T03:18:22Z,2026-01-22T21:12:38Z,2026-01-20T03:19:41Z,0,"[""langchain"", ""feature"", ""external""]",True
+pallets/flask,5893,fix: Clarify Request.json error handling,closed,SolariSystems,2026-01-20T16:06:53Z,2026-02-04T00:11:02Z,2026-01-20T16:10:55Z,0,[],True
+pallets/flask,5892,docs: improve wording in appdispatch,closed,raushan-oss,2026-01-20T13:52:35Z,2026-02-04T00:11:03Z,2026-01-20T14:45:39Z,1,[],True
+pallets/flask,5891,docs: clarify 415 vs 400 errors for Request.json,closed,SolariSystems,2026-01-20T05:46:51Z,2026-02-04T00:11:04Z,2026-01-20T06:42:59Z,0,[],True
+docker/compose,13532,set fsnotify build tag when building for OSX,closed,ndeloof,2026-01-20T12:40:55Z,2026-01-20T12:57:53Z,2026-01-20T12:57:53Z,1,[],True
+docker/compose,13531,Modernize tests,closed,dgageot,2026-01-20T10:01:31Z,2026-01-20T10:34:12Z,2026-01-20T10:34:11Z,1,[],True
+docker/compose,13530,"[BUG] Compose v5.0.1 missing macOS fsevents, causing ""too many open files"" crash",closed,SystematicCZ,2026-01-20T09:31:38Z,2026-01-26T12:52:48Z,2026-01-20T13:05:12Z,3,"[""kind/bug"", ""status/0-triage""]",False
+duckdb/duckdb,20613,TableFunction filter_pushdown ability to fully pushdown disjoint sets.,open,rustyconover,2026-01-20T19:02:46Z,2026-01-22T15:19:26Z,,1,"[""under review""]",False
+duckdb/duckdb,20612,[ART] ConstNodeHandles,closed,artjomPlaunov,2026-01-20T17:26:47Z,2026-02-09T12:27:13Z,2026-02-09T12:27:12Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20611,IndexStorageInfo Lifetimes,closed,artjomPlaunov,2026-01-20T16:17:01Z,2026-02-09T12:26:44Z,2026-02-09T12:26:43Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20610,[chore] Make slow task detection in concurrent attach/detach test even slower,closed,taniabogatsch,2026-01-20T15:14:09Z,2026-01-21T13:02:23Z,2026-01-21T12:47:25Z,1,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20608,"The original query and equivalent query return inconsistent results, suspected to be caused by the EXCEPT operator.",closed,Manuel-Neuer1,2026-01-20T13:04:14Z,2026-01-26T10:29:29Z,2026-01-26T10:29:29Z,2,"[""reproduced""]",False
+duckdb/duckdb,20606,Arrow UDF returns incorrect results,open,yiyuanliu,2026-01-20T11:09:36Z,2026-01-20T12:39:00Z,,1,"[""reproduced""]",False
+duckdb/duckdb,20605,Fail fast extensions,closed,carlopi,2026-01-20T11:02:54Z,2026-01-22T09:05:29Z,2026-01-22T09:05:28Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20604,Bump Iceberg v1.4,closed,Tmonster,2026-01-20T10:27:41Z,2026-01-21T12:02:34Z,2026-01-21T12:02:33Z,0,[],True
+duckdb/duckdb,20603,Attempt IWYU for `storage` directory,open,dentiny,2026-01-20T08:43:18Z,2026-02-12T07:54:21Z,,3,"[""Ready To Merge""]",True
+duckdb/duckdb,20602,CLI: Various display improvements,closed,Mytherin,2026-01-20T08:27:24Z,2026-01-20T18:50:10Z,2026-01-20T18:50:10Z,0,[],True
+duckdb/duckdb,20601,Rename checkpoint / recovery WAL to no longer be valid WAL files,closed,Mytherin,2026-01-20T08:24:56Z,2026-01-20T15:50:04Z,2026-01-20T15:50:03Z,0,[],True
+duckdb/duckdb,20600,Analyze and Vacuum statement for PEG Transformer [For v1.5-variegata],closed,Dtenwolde,2026-01-20T08:18:41Z,2026-01-21T11:51:08Z,2026-01-21T11:51:08Z,1,[],True
+duckdb/duckdb,20599,"Make extension callback registration thread-safe, and change extension callback registration APIs to enable this",closed,Mytherin,2026-01-20T08:17:07Z,2026-01-20T14:43:13Z,2026-01-20T14:43:13Z,0,[],True
+duckdb/duckdb,20598,Fix invalid loop index calculation in CSVEncoder pass_on_buffer logic,open,kaoyagi-ncgm,2026-01-20T05:45:52Z,2026-01-28T02:18:36Z,,4,"[""Changes Requested""]",True
+duckdb/duckdb,20597,Fix a race condition when appending and scanning BLOB fields,closed,Captain32,2026-01-20T04:13:15Z,2026-01-20T18:50:19Z,2026-01-20T18:50:19Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20596,Unexpected behavior/Error when comparing VARCHAR to JSON-extracted values via ->,open,kyle-cheung,2026-01-20T03:58:50Z,2026-01-20T13:23:32Z,,0,"[""reproduced""]",False
+duckdb/duckdb,20595,Concurrent access to `overflow_blocks` via `Append` and `Scan` will cause a crash,closed,Captain32,2026-01-20T03:55:57Z,2026-01-21T09:59:36Z,2026-01-21T09:59:36Z,0,"[""under review""]",False

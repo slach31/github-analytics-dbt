@@ -1,0 +1,75 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35520,Fix ViewTransition null stateNode with SuspenseList,closed,jackpope,2026-01-15T23:55:24Z,2026-01-16T21:39:25Z,2026-01-16T21:39:25Z,1,"[""CLA Signed""]",True
+facebook/react,35519,Typecheck React DevTools extension main script,closed,eps1lon,2026-01-15T21:35:40Z,2026-01-16T12:08:32Z,2026-01-16T12:08:28Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35518,[Fiber] fix useId tracking on replay,closed,gnoff,2026-01-15T17:53:34Z,2026-01-16T03:06:00Z,2026-01-16T01:27:58Z,2,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35517,[Fizz] Start adding template tags to SuspenseList,open,sebmarkbage,2026-01-15T17:28:15Z,2026-01-16T01:56:01Z,,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35516,[DevTools] Fix high CPU usage on pages without React (#35515),open,CarlosEduJs,2026-01-15T15:46:31Z,2026-01-16T02:49:47Z,,4,"[""CLA Signed""]",True
+facebook/react,35515,[DevTools Bug]: High CPU usage when viewing Google Search results,open,ferrybig,2026-01-15T10:53:20Z,2026-01-15T14:24:37Z,,1,"[""Type: Bug"", ""Status: Unconfirmed"", ""Component: Developer Tools""]",False
+facebook/react,35514,Bump diff from 3.5.0 to 8.0.3 in /scripts/release,open,dependabot[bot],2026-01-15T05:25:51Z,2026-01-15T11:34:19Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35513,[tests] Fix flaky flight tests,closed,rickhanlonii,2026-01-15T01:39:52Z,2026-01-18T20:36:03Z,2026-01-18T20:36:00Z,4,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35512,Bump undici from 6.21.2 to 6.23.0 in /compiler,open,dependabot[bot],2026-01-15T00:30:42Z,2026-01-15T00:30:48Z,,0,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+golang/go,77201,x/tools/gopls/internal/test/integration/completion: TestUnimportedCompletion_VSCodeIssue3365/insertReplaceSupport=false/default/replace/ToLower failures,open,gopherbot,2026-01-15T21:50:26Z,2026-01-20T18:42:23Z,,2,"[""WaitingForInfo"", ""NeedsInvestigation"", ""gopls"", ""Tools""]",False
+golang/go,77200,"x/build/cmd/relui: add a wait step for golang.org/dl command propagation to proxy.golang.org before ""wait to announce"" step of a release",open,dmitshur,2026-01-15T21:16:57Z,2026-01-15T22:11:41Z,,1,"[""Builders"", ""NeedsFix"", ""FeatureRequest"", ""proxy.golang.org""]",False
+golang/go,77199,runtime:cpu1: unrecognized failures,closed,gopherbot,2026-01-15T20:41:52Z,2026-01-28T21:04:35Z,2026-01-28T21:04:35Z,2,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77198,crypto/x509: TestCertificateChainSignedByECDSA failures,open,gopherbot,2026-01-15T19:40:42Z,2026-01-15T19:40:43Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77197,proxy.golang.org: missing golang.org/dl/go1.25.6@latest,closed,sudo-bmitch,2026-01-15T19:26:01Z,2026-01-15T21:17:04Z,2026-01-15T20:06:35Z,3,"[""proxy.golang.org""]",False
+golang/go,77196,cmd/go: vcs info incorrect within git submodule,open,EliRibble,2026-01-15T18:59:23Z,2026-01-16T21:19:14Z,,2,"[""NeedsInvestigation"", ""GoCommand"", ""BugReport""]",False
+golang/go,77195,"x/tools/go/astutil/inspector: add Cursor.ParentEdge{Kind,Index} convenience accessors",closed,adonovan,2026-01-15T15:28:33Z,2026-02-09T17:22:23Z,2026-02-09T17:22:23Z,9,"[""Proposal"", ""Proposal-Accepted"", ""Tools"", ""LibraryProposal""]",False
+golang/go,77194,bytes: use lookup table for large charsets in IndexAny,open,iksaif,2026-01-15T12:49:40Z,2026-01-28T22:03:31Z,,8,"[""Performance"", ""NeedsInvestigation""]",False
+golang/go,77193,cmd/compile: miscompile of global array initialization,closed,wdvxdr1123,2026-01-15T07:19:07Z,2026-01-22T16:13:06Z,2026-01-22T15:30:41Z,32,"[""compiler/runtime"", ""Critical""]",False
+golang/go,77192,cmd/go: `go doc`'s `-short` flag has no effect when given a symbol selector,open,cespare,2026-01-15T07:06:22Z,2026-02-06T20:36:16Z,,2,"[""NeedsInvestigation"", ""GoCommand""]",False
+golang/go,77191,cmd/go: `go doc`'s `-all` and `-short` flags don't work together,open,cespare,2026-01-15T07:01:40Z,2026-02-06T20:36:15Z,,1,"[""NeedsInvestigation"", ""GoCommand""]",False
+golang/go,77190,sort: improve comment readability for Stable function,closed,Prateik-Lohani-07,2026-01-15T05:46:30Z,2026-01-15T16:44:39Z,2026-01-15T16:44:39Z,11,[],True
+golang/go,77189,sort: improve comment readability for Stable function,closed,Prateik-Lohani-07,2026-01-15T05:36:31Z,2026-01-15T05:41:56Z,2026-01-15T05:41:56Z,1,[],True
+golang/go,77188,x/pkgsite: package removal request for github.com/mugman174/discordgo,closed,mugman174,2026-01-15T04:16:51Z,2026-01-15T15:53:03Z,2026-01-15T15:53:02Z,2,"[""pkgsite"", ""pkgsite/package-removal""]",False
+golang/go,77187,internal/runtime: remove math.Mul64,closed,gavinkflam,2026-01-15T04:09:27Z,2026-01-22T21:03:30Z,2026-01-22T21:03:30Z,11,[],True
+golang/go,77186,go/types: infer generic type when it can be inferred without ambiguity,open,h9jiang,2026-01-15T04:06:03Z,2026-01-16T21:03:12Z,,3,"[""NeedsInvestigation"", ""LibraryProposal""]",False
+golang/go,77185,x/net/html: TestComments failed due to SEGV in runtime.runqgrab [mips64le],open,gopherbot,2026-01-15T01:02:33Z,2026-01-21T21:32:21Z,,2,"[""help wanted"", ""NeedsInvestigation"", ""arch-mips"", ""compiler/runtime""]",False
+golang/go,77184,x/pkgsite: package removal request for,closed,lelehuy,2026-01-15T00:00:22Z,2026-01-18T12:16:38Z,2026-01-15T15:53:45Z,1,"[""pkgsite"", ""pkgsite/package-removal""]",False
+apache/spark,53825,[SPARK-54337][PS][TESTS][FOLLOWUP] Fix test_arrow_c_stream when pandas/arrow does not exist,closed,gaogaotiantian,2026-01-15T23:53:19Z,2026-01-17T01:04:46Z,2026-01-17T01:04:26Z,5,"[""SQL"", ""PYTHON""]",True
+apache/spark,53824,[WIP][SPARK-55059][PYTHON] Remove empty table workaround in toPandas,open,Yicong-Huang,2026-01-15T23:30:30Z,2026-01-16T02:41:30Z,,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53823,[SPARK-43986][SQL][FOLLOWUP] Catch ArrayIndexOutOfBoundsException in Datasketches HLL functions,closed,dtenedor,2026-01-15T22:34:53Z,2026-01-16T18:47:08Z,2026-01-16T18:20:19Z,4,"[""SQL""]",True
+apache/spark,53822,[WIP][SPARK-55056][SQL][PYTHON] Fix toPandas() SIGSEGV on nested empty arrays,open,Yicong-Huang,2026-01-15T21:55:04Z,2026-01-27T01:01:40Z,,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,53821,[SPARK-55057][SS] Add streaming source naming infrastructure and resolution pipeline,closed,ericm-db,2026-01-15T21:27:12Z,2026-01-17T00:13:42Z,2026-01-17T00:13:42Z,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,53820,[SPARK-55055][PYTHON] Support SparkSession.Builder.create for PySpark Classic ,closed,jonmio,2026-01-15T20:22:48Z,2026-01-27T23:51:58Z,2026-01-27T23:51:35Z,4,"[""SQL"", ""PYTHON""]",True
+apache/spark,53819,[SPARK-55054][SS][SQL] Add IDENTIFIED BY support for streaming table-valued functions,closed,ericm-db,2026-01-15T19:49:52Z,2026-01-16T19:54:00Z,2026-01-16T19:54:00Z,2,"[""SQL""]",True
+apache/spark,53818,[SPARK-55053][PYTHON] Refactor data source/udtf analysis workers so they have a unified entry,closed,gaogaotiantian,2026-01-15T19:43:29Z,2026-01-21T07:18:18Z,2026-01-20T03:45:54Z,3,"[""SQL"", ""PYTHON""]",True
+apache/spark,53817,[SPARK-55052][SQL] Add AQEShuffleRead properties to Physical Plan Tree,open,erenavsarogullari,2026-01-15T18:43:46Z,2026-02-10T00:50:15Z,,1,"[""SQL""]",True
+apache/spark,53816,"[SPARK-55051][CORE] Byte string accepts KiB, MiB, GiB, TiB, PiB",closed,pan3793,2026-01-15T17:13:06Z,2026-01-19T03:31:16Z,2026-01-19T03:30:34Z,3,"[""CORE""]",True
+apache/spark,53815,[SPARK-55047][CONNECT] Add client-side limit for local relation size,closed,khakhlyuk,2026-01-15T14:45:38Z,2026-01-16T13:32:10Z,2026-01-16T13:32:10Z,1,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,53814,[SPARK-55045][CORE][TESTS] Fix a flaky test in ExecutorSuite,closed,sarutak,2026-01-15T11:15:38Z,2026-01-22T09:03:31Z,2026-01-21T14:55:39Z,13,"[""CORE""]",True
+apache/spark,53813,[SPARK-55044][SQL] Keep the metadata in toArrowSchema/fromArrowSchema,closed,zhengruifeng,2026-01-15T10:40:21Z,2026-01-19T00:43:18Z,2026-01-19T00:42:57Z,2,"[""SQL""]",True
+apache/spark,53812,[SPARK-54886] Lazily create Spark Connect reuse session,closed,garlandz-db,2026-01-15T09:44:26Z,2026-01-15T18:25:24Z,2026-01-15T18:25:24Z,2,"[""SQL"", ""CONNECT""]",True
+apache/spark,53811,[SPARK-55043][SQL] Fix time travel with subquery containing table references,closed,cloud-fan,2026-01-15T08:49:37Z,2026-01-19T02:39:51Z,2026-01-19T02:39:51Z,3,"[""SQL""]",True
+apache/spark,53810,[SPARK-55042][WEBUI][BUILD][TESTS] Upgrade Node.js used for UI test to `24.13.0`,closed,sarutak,2026-01-15T07:03:39Z,2026-01-15T12:02:13Z,2026-01-15T12:01:35Z,2,"[""INFRA""]",True
+apache/spark,53809,[SPARK-55041][CORE] Cleanup some unused private `funcion/val` from core module,closed,LuciferYang,2026-01-15T05:58:28Z,2026-01-19T08:21:29Z,2026-01-19T08:11:33Z,3,"[""WEB UI"", ""CORE""]",True
+apache/spark,53808,[MINOR][PYTHON][TESTS] Add test for Row with duplicated field names,closed,zhengruifeng,2026-01-15T02:51:30Z,2026-01-19T01:13:31Z,2026-01-19T01:13:10Z,1,"[""SQL"", ""PYTHON""]",True
+apache/spark,53807,[SPARK-55040][PYTHON] Refactor TaskContext and related worker protocol,closed,gaogaotiantian,2026-01-15T00:53:09Z,2026-01-22T00:37:05Z,2026-01-22T00:37:05Z,2,"[""CORE"", ""PYTHON""]",True
+langchain-ai/langchain,34765,feat(langchain): Allow the resulting tool limit middleware message to be overridden,open,ClaytonAstrom,2026-01-15T21:16:04Z,2026-01-22T21:13:37Z,,0,"[""langchain"", ""feature"", ""external""]",True
+langchain-ai/langchain,34764,chore: add tests for agent name metadata when streaming,closed,sydney-runkle,2026-01-15T15:18:37Z,2026-01-22T21:13:39Z,2026-01-15T15:38:16Z,0,"[""langchain"", ""infra"", ""internal""]",True
+langchain-ai/langchain,34763,fix(langchain): add metadata configuration to summarization model invocation,closed,mdrxy,2026-01-15T04:56:50Z,2026-01-22T21:13:40Z,2026-01-15T20:39:13Z,0,"[""langchain"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34762,fix(core): (WIP) google tool call streaming fixes,open,mdrxy,2026-01-15T03:48:03Z,2026-01-22T20:32:31Z,,1,"[""core"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34761,fix(openai): Use standard 'text' type in ToolMessage content for vLLM/OSS compatibility,closed,phanipaladugula,2026-01-15T03:38:13Z,2026-01-22T21:13:42Z,2026-01-15T09:36:55Z,1,"[""integration"", ""dependencies"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,34760,fix(infra): remove `edited` from PR labeler triggers,closed,mdrxy,2026-01-15T03:28:41Z,2026-01-22T21:13:44Z,2026-01-15T03:28:53Z,0,"[""github_actions"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34759,fix(infra): remove file based label conflicts,closed,mdrxy,2026-01-15T03:18:36Z,2026-01-22T21:13:46Z,2026-01-15T03:31:05Z,0,"[""fix"", ""internal""]",True
+langchain-ai/langchain,34758,chore: refine issue templates,closed,mdrxy,2026-01-15T02:24:30Z,2026-01-22T21:13:47Z,2026-01-15T02:25:18Z,0,"[""infra"", ""internal""]",True
+pallets/flask,5888,Docs: add context to Incoming Request Data section,closed,Silence91169,2026-01-15T21:33:13Z,2026-01-30T00:11:54Z,2026-01-15T21:41:08Z,1,[],True
+docker/compose,13521,Add native support for gRPC health probes,closed,gaiaz-iusipov,2026-01-15T15:27:33Z,2026-01-16T07:14:03Z,2026-01-16T07:14:02Z,3,"[""kind/feature"", ""status/0-triage""]",False
+docker/compose,13520,fix: avoid eager interpolation warnings,closed,seekskyworld,2026-01-15T14:23:43Z,2026-01-19T17:06:51Z,2026-01-19T16:32:43Z,4,[],True
+docker/compose,13519,Fixed progress UI to adapt to terminal width,closed,ndeloof,2026-01-15T10:37:07Z,2026-01-19T10:14:27Z,2026-01-19T10:14:24Z,11,[],True
+docker/compose,13518,build(deps): bump github.com/sirupsen/logrus v1.9.4,closed,thaJeztah,2026-01-15T10:20:13Z,2026-01-15T21:21:14Z,2026-01-15T18:45:51Z,2,[],True
+docker/compose,13517,Warn when unsupported deploy attribute is used in docker compose,closed,Pnkcaht,2026-01-15T02:00:12Z,2026-01-22T02:48:32Z,2026-01-22T02:48:32Z,1,[],True
+docker/compose,13516,Add support for --label flag to docker compose up,closed,Pnkcaht,2026-01-15T00:55:01Z,2026-01-16T07:20:12Z,2026-01-16T07:20:12Z,2,[],True
+duckdb/duckdb,20559,LAST aggregate could iterate backward for better performance,open,xe-nvdk,2026-01-15T23:44:28Z,2026-01-26T23:20:45Z,,9,"[""under review""]",False
+duckdb/duckdb,20557,Fix hidden merge conflict in settings,closed,Maxxen,2026-01-15T18:10:09Z,2026-01-15T20:57:27Z,2026-01-15T20:57:24Z,2,[],True
+duckdb/duckdb,20556,SQL Error: Not implemented Error: GCSFileSystem: DirectoryExists is not implemented!,open,shashideore,2026-01-15T18:03:16Z,2026-01-22T11:23:19Z,,1,"[""under review""]",False
+duckdb/duckdb,20555,Fix #20332: set delim_offset correctly when both size have correlation,closed,flashmouse,2026-01-15T16:17:54Z,2026-02-02T07:44:56Z,2026-01-26T08:25:58Z,3,"[""Changes Requested""]",True
+duckdb/duckdb,20554,Remove httpfs patches and bump to latest commit on main,closed,yan-alex,2026-01-15T14:42:15Z,2026-01-19T09:11:30Z,2026-01-19T09:11:28Z,7,"[""Ready To Merge""]",True
+duckdb/duckdb,20553,Fix Issue #20233: Fix function chain in having and merge into v1.5,closed,ArNine,2026-01-15T13:09:42Z,2026-01-16T08:11:27Z,2026-01-16T08:11:27Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20552,Remove `RowDataCollection` (again?),closed,lnkuiper,2026-01-15T12:13:50Z,2026-01-28T13:38:14Z,2026-01-16T08:11:11Z,0,[],True
+duckdb/duckdb,20551,Fail fast extension,closed,carlopi,2026-01-15T10:22:18Z,2026-01-21T10:30:10Z,2026-01-21T10:30:10Z,2,"[""Ready For Review""]",True
+duckdb/duckdb,20550,Block manager lifetime rework part 1,closed,taniabogatsch,2026-01-15T09:45:40Z,2026-01-21T10:02:34Z,2026-01-21T08:41:30Z,4,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20549,bump iceberg,closed,Tmonster,2026-01-15T08:02:24Z,2026-01-15T13:21:29Z,2026-01-15T13:21:26Z,1,[],True
+duckdb/duckdb,20548,Fix race in `AttachedDatabase::InvokeCloseIfLastReference` that can prevent Close from being called,closed,Mytherin,2026-01-15T07:59:33Z,2026-01-15T20:56:57Z,2026-01-15T20:56:57Z,0,[],True
+duckdb/duckdb,20547,Make extending `VirtualFileSystem` thread-safe,closed,Mytherin,2026-01-15T07:56:23Z,2026-01-15T20:57:09Z,2026-01-15T20:57:08Z,2,[],True
+duckdb/duckdb,20545,Implement writable CTE,open,bill-ph,2026-01-15T02:42:18Z,2026-01-17T00:22:09Z,,4,"[""Changes Requested""]",True

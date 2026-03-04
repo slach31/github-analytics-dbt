@@ -1,0 +1,14 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35623,Fix typo: accomodate -> accommodate,open,bodhisilberling,2026-01-25T18:51:13Z,2026-01-31T02:52:52Z,,,False,0,0,"[""CLA Signed""]"
+golang/go,77310,runtime: skip TestBigGOMAXPROCS on windows/386,open,ibrahimypr,2026-01-25T17:03:04Z,2026-01-25T17:37:16Z,,,False,0,0,[]
+golang/go,77308,net/http: clarify influence of go.mod version on ServeMux behavior,open,donmahallem,2026-01-25T09:25:35Z,2026-01-28T10:33:45Z,,,False,0,0,[]
+apache/spark,53958,[SPARK-55177][PYTHON] Support keyword arguments for df.groupby(...).agg(...),open,HyukjinKwon,2026-01-25T23:26:39Z,2026-01-26T23:38:36Z,,,False,0,0,"[""SQL"", ""PYTHON"", ""CONNECT""]"
+apache/spark,53957,[SPARK-55176][PYTHON] Extract `arrow_to_pandas` converter into ArrowArrayToPandasConversion,closed,Yicong-Huang,2026-01-25T19:48:58Z,2026-02-01T21:49:50Z,2026-02-01T21:49:50Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,53956,[SPARK-55173][K8S][TESTS] Improve K8s IT to use `TestConstants` consistently and `match` syntax for extensibility,closed,dongjoon-hyun,2026-01-25T14:15:04Z,2026-01-26T00:32:51Z,2026-01-26T00:32:41Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,53955,[SPARK-55172][PYTHON][INFRA] Remove unused packages from python 3.12 test image,closed,zhengruifeng,2026-01-25T02:44:40Z,2026-01-26T01:29:03Z,2026-01-26T01:25:33Z,,False,0,0,"[""BUILD""]"
+apache/spark,53954,[SPARK-55171][PYTHON] Fix memory profiler on iter UDF,closed,gaogaotiantian,2026-01-25T01:12:57Z,2026-01-26T18:53:21Z,2026-01-25T23:09:36Z,,False,0,0,"[""SQL"", ""CORE"", ""PYTHON""]"
+langchain-ai/langchain,34879,Fix/mustache nested variables 31976,closed,ademicho123,2026-01-25T22:20:03Z,2026-01-25T22:29:46Z,2026-01-25T22:29:11Z,,False,0,0,"[""core"", ""external""]"
+langchain-ai/langchain,34878,fix(core): fix typo 'use a a' -> 'use as a' in check_version.py,closed,bodhisilberling,2026-01-25T18:53:20Z,2026-01-26T03:26:23Z,2026-01-26T03:26:23Z,2026-01-26T03:26:23Z,False,0,0,"[""core"", ""fix""]"
+pallets/flask,5900,document using gevent for async,closed,davidism,2026-01-25T18:34:37Z,2026-02-09T00:13:50Z,2026-01-25T18:35:13Z,2026-01-25T18:35:12Z,False,0,0,"[""docs""]"
+pallets/flask,5899,deprecate `should_ignore_error`,closed,davidism,2026-01-25T03:51:26Z,2026-02-09T00:13:51Z,2026-01-25T03:53:12Z,2026-01-25T03:53:12Z,False,0,0,[]
+pallets/flask,5898,redirect defaults to 303,closed,davidism,2026-01-25T00:51:47Z,2026-02-09T00:13:57Z,2026-01-25T01:18:36Z,2026-01-25T01:18:35Z,False,0,0,[]

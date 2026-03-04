@@ -1,0 +1,51 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35662,Bump diff from 3.5.0 to 3.5.1 in /fixtures/concurrent/time-slicing,open,dependabot[bot],2026-01-30T17:15:02Z,2026-01-30T17:18:35Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35661,[Flight] Warn once if `eval` is disabled in dev environment,closed,eps1lon,2026-01-30T11:59:53Z,2026-02-02T11:56:17Z,2026-02-02T11:56:14Z,1,"[""CLA Signed"", ""React Core Team""]",True
+golang/go,77382,cmd/compile: ICE when using unsafe.Sizeof on generic type,closed,prattmic,2026-01-30T18:33:48Z,2026-02-02T23:18:34Z,2026-02-02T23:18:34Z,6,"[""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77381,x/tools/gopls: Inline variable code action ignores operator precedence,closed,dominikh,2026-01-30T18:28:05Z,2026-02-02T18:10:46Z,2026-02-02T18:10:46Z,2,"[""gopls"", ""Tools"", ""BugReport""]",False
+golang/go,77380,cmd/compile: emit better code for bit vectors,closed,adonovan,2026-01-30T16:25:03Z,2026-01-30T17:09:03Z,2026-01-30T17:09:03Z,3,"[""Performance"", ""FeatureRequest"", ""compiler/runtime""]",False
+golang/go,77379,crypto/tls: allow omitting certificates from session ticket,open,FiloSottile,2026-01-30T15:34:29Z,2026-01-30T17:10:42Z,,1,"[""NeedsInvestigation"", ""LibraryProposal""]",False
+golang/go,77378,crypto/tls: allow VerifyConnection to request a full handshake,open,FiloSottile,2026-01-30T15:24:29Z,2026-01-30T17:10:38Z,,1,"[""NeedsInvestigation"", ""LibraryProposal""]",False
+golang/go,77377,crypto/tls: disable session resumption when VerifyPeerCertificate is in use,open,FiloSottile,2026-01-30T14:28:33Z,2026-01-30T16:36:55Z,,4,"[""Security"", ""NeedsDecision"", ""LibraryProposal""]",False
+golang/go,77376,crypto/tls: CL 737700 broke session resumption on macOS,closed,FiloSottile,2026-01-30T14:23:54Z,2026-02-03T18:45:00Z,2026-02-03T18:35:14Z,7,"[""release-blocker"", ""FixPending"", ""BugReport""]",False
+golang/go,77375,cmd/compile: bounds check elimination lost after function inlining,open,d-enk,2026-01-30T11:49:42Z,2026-02-04T21:17:18Z,,12,"[""Performance"", ""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77374,runtime.procresize: invalid arg panic on old Linux kernel (2.6.32) when running Go executable compiled on macOS,closed,yanyiup,2026-01-30T10:11:04Z,2026-01-30T10:55:41Z,2026-01-30T10:55:41Z,0,[],False
+golang/go,77373,proposal: debug/pe: provide list of exported symbols for DLLs,open,divVerent,2026-01-30T08:47:43Z,2026-01-30T18:53:19Z,,2,"[""Proposal"", ""LibraryProposal""]",False
+apache/spark,54079,[SPARK-55297][PYTHON][PS] Restore timedelta dtype based on the original dtype,closed,gaogaotiantian,2026-01-30T23:58:19Z,2026-02-02T18:48:06Z,2026-02-02T05:57:32Z,2,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54078,[SPARK-55295][Geo][CONNECT][PYTHON][SQL] Extend the ST_GeomFromWKB function to take an optional SRID value,closed,uros-db,2026-01-30T23:49:44Z,2026-02-03T15:20:11Z,2026-02-03T15:20:11Z,2,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54077,[SPARK-55293][PS][TESTS] Avoid using old offset aliases,closed,ueshin,2026-01-30T23:14:29Z,2026-02-01T21:56:30Z,2026-02-01T21:56:30Z,6,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54076,[SPARK-55155] Fix SET CATALOG to use special chars and backticks in the identifier name,open,tangrizzly,2026-01-30T22:19:21Z,2026-02-03T18:40:04Z,,1,"[""SQL""]",True
+apache/spark,54075,[WIP] POC for serializer changes,open,Yicong-Huang,2026-01-30T21:47:52Z,2026-02-02T03:11:01Z,,1,"[""SQL"", ""CORE"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54074,[SPARK-55291][CONNECT] Pre-process metadata headers at client interceptor construction time,closed,heyihong,2026-01-30T21:25:37Z,2026-02-04T16:01:41Z,2026-02-04T16:01:41Z,2,"[""SQL"", ""CONNECT""]",True
+apache/spark,54073,[SPARK-55290][NETWORK][TESTS] Fix testReloadMissingTrustStore cross-device link error with JDK 21,closed,efaracci018,2026-01-30T19:46:23Z,2026-01-31T07:54:48Z,2026-01-31T07:52:38Z,2,"[""CORE""]",True
+apache/spark,54072,[SPARK-55289][SQL] Fix flaky test in-set-operations.sql by disabling broadcast join,closed,yaooqinn,2026-01-30T18:11:55Z,2026-02-02T11:04:56Z,2026-02-02T11:00:33Z,4,"[""SQL""]",True
+apache/spark,54071,[SPARK-55289][SQL] Fix flaky test in-set-operations.sql by disabling broadcast join,closed,yaooqinn,2026-01-30T17:57:06Z,2026-01-30T18:02:26Z,2026-01-30T18:02:26Z,2,"[""SQL""]",True
+apache/spark,54070,[SPARK-55287][INFRA] Consolidate steps in `lint`,closed,zhengruifeng,2026-01-30T08:38:27Z,2026-02-02T02:09:19Z,2026-02-01T21:47:50Z,4,"[""INFRA""]",True
+apache/spark,54069,[SPARK-55286][INFRA] Add test summary to GitHub Actions for better failure visibility,closed,yaooqinn,2026-01-30T05:02:08Z,2026-02-02T05:20:53Z,2026-02-01T21:54:58Z,3,"[""INFRA""]",True
+apache/spark,54068,[SPARK-55285][SQL][PYTHON] Fix the initialization of  `PythonArrowInput`,closed,zhengruifeng,2026-01-30T02:25:45Z,2026-02-02T02:09:39Z,2026-02-01T21:52:48Z,3,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON""]",True
+apache/spark,54067,[SPARK-55284][PYTHON][TEST] Move mypy-data related configs to the script,closed,gaogaotiantian,2026-01-30T01:32:42Z,2026-02-02T18:48:40Z,2026-02-01T21:52:13Z,2,"[""BUILD""]",True
+apache/spark,54066,[SPARK-55283][PYTHON][PS][TESTS] Add a new argument ignore_null to assert_eq,closed,gaogaotiantian,2026-01-30T00:31:52Z,2026-02-01T21:53:33Z,2026-02-01T21:53:33Z,2,"[""PYTHON""]",True
+apache/spark,54065,[SPARK-55282][PYTHON][CONNECT] Avoid using worker_util in the Driver-side,closed,ueshin,2026-01-30T00:21:57Z,2026-01-30T00:35:31Z,2026-01-30T00:34:17Z,3,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+langchain-ai/langchain,34937,feat(text-splitters): add WordTextSplitter for word-based chunking,closed,llzeronedll,2026-01-30T23:38:30Z,2026-02-05T21:38:35Z,2026-01-31T21:38:17Z,0,"[""text-splitters"", ""external""]",True
+langchain-ai/langchain,34936,fix(core): preserve tool_calls during InMemoryChatMessageHistory serialization,closed,saakshigupta2002,2026-01-30T20:21:59Z,2026-02-01T01:03:46Z,2026-02-01T01:03:46Z,1,"[""core"", ""langchain"", ""fix""]",True
+langchain-ai/langchain,34935,fix(core): `yield_blobs` returns `Iterator`,closed,mdrxy,2026-01-30T20:04:39Z,2026-01-30T20:08:15Z,2026-01-30T20:08:13Z,1,"[""core"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34934,fix(core): replace `Iterable` with `Iterator` for block iteration,closed,mdrxy,2026-01-30T20:02:14Z,2026-01-30T20:09:40Z,2026-01-30T20:08:23Z,1,"[""core"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34932,fix(core): allow base model annotations for empty model,closed,akshaylive,2026-01-30T17:11:27Z,2026-02-01T01:49:02Z,2026-02-01T01:49:02Z,2,"[""core"", ""fix""]",True
+langchain-ai/langchain,34931,"docs: RecursiveCharacterTextSplitter lacks guidance for non-Latin scripts (Arabic, CJK)",open,salehA13,2026-01-30T14:44:48Z,2026-02-11T18:17:15Z,,2,"[""external""]",False
+langchain-ai/langchain,34930,Memory leaks in plain LLM calls,open,lenoch0d,2026-01-30T11:18:06Z,2026-02-02T19:10:36Z,,3,"[""bug"", ""core"", ""openai"", ""external""]",False
+langchain-ai/langchain,34929,Add regression test for Ollama async stream empty data (#34918),closed,Amritesh15,2026-01-30T05:44:52Z,2026-02-01T01:53:01Z,2026-02-01T01:53:01Z,0,"[""langchain"", ""external""]",True
+langchain-ai/langchain,34928,"perf(core): optimize regex usage in json, xml, and list parsers",closed,Rudra-Tiwari-codes,2026-01-30T04:16:18Z,2026-02-04T21:45:48Z,2026-02-04T21:45:48Z,5,"[""core"", ""performance""]",True
+langchain-ai/langchain,34927,fix(core): handle unknown tool names in PydanticToolsParser with partial=True,closed,Rudra-Tiwari-codes,2026-01-30T04:14:16Z,2026-01-30T04:19:28Z,2026-01-30T04:19:28Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34926,feat: add compact API support for OpenAI,open,jiaming2li,2026-01-30T02:16:45Z,2026-01-31T22:18:02Z,,3,"[""integration"", ""core"", ""langchain"", ""feature"", ""langchain-classic"", ""openai"", ""external""]",True
+docker/compose,13565,Some tests failures with Docker v29.2,open,ricardobranco777,2026-01-30T20:21:06Z,2026-01-30T20:21:06Z,,0,[],False
+docker/compose,13564,test: fix pull failure assertion for Docker v29,open,ricardobranco777,2026-01-30T18:14:31Z,2026-02-03T08:28:21Z,,2,[],True
+duckdb/duckdb,20752,chore: add extension_name to `duckdb_functions` and `duckdb_types`,open,hello-world-bfree,2026-01-30T18:34:46Z,2026-02-05T22:20:58Z,,1,[],True
+duckdb/duckdb,20751,Fix JSON file_extension option,closed,JMGbaum,2026-01-30T18:32:33Z,2026-02-06T11:28:13Z,2026-02-03T06:43:58Z,3,[],True
+duckdb/duckdb,20750,Support Hexadecimal String Cast to BITSTRING,closed,d-justen,2026-01-30T12:38:55Z,2026-02-07T11:02:49Z,2026-02-07T11:02:46Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20748,ATTACH OR REPLACE NOT WORKING.,open,MPizzotti,2026-01-30T11:22:17Z,2026-02-03T12:17:18Z,,0,"[""under review""]",False
+duckdb/duckdb,20747,"Add banned symbol check, that checks for banned C(++) symbols in a CI run",closed,Mytherin,2026-01-30T10:23:16Z,2026-01-30T16:19:57Z,2026-01-30T16:19:57Z,0,[],True
+duckdb/duckdb,20746,"Bump httpfs: remove windows test to be investigated, and compilation & CMake fixes",closed,carlopi,2026-01-30T10:22:44Z,2026-01-30T16:06:22Z,2026-01-30T16:06:22Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20745,Add CONSTRAINTS in create table as,open,Tmonster,2026-01-30T09:29:02Z,2026-02-03T10:18:30Z,,2,"[""Changes Requested""]",True
+duckdb/duckdb,20744,Allow pushdown of single-expression filters that may throw,closed,DinosL,2026-01-30T08:07:24Z,2026-01-31T11:40:42Z,2026-01-31T11:40:40Z,1,[],True
+duckdb/duckdb,20743,INSERT OR REPLACE silently fails to update existing rows on certain databases,closed,andreamoro,2026-01-30T05:56:12Z,2026-02-03T07:57:36Z,2026-02-03T07:57:36Z,4,"[""under review"", ""needs reproducible example""]",False
+duckdb/duckdb,20742,PhysicalEmptyResult should support partitioning,closed,tianjq16,2026-01-30T05:00:29Z,2026-02-03T14:59:04Z,2026-02-03T14:59:01Z,1,[],True

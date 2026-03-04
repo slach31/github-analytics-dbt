@@ -1,0 +1,107 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35709,Disable parallel transitions in canary,closed,rickhanlonii,2026-02-05T18:26:35Z,2026-02-05T18:34:57Z,2026-02-05T18:34:23Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35708,[flags] Cleanup `enableHalt`,closed,eps1lon,2026-02-05T17:51:03Z,2026-02-06T09:34:19Z,2026-02-06T09:33:52Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35707,Fix grammar error in OVERVIEW.md,open,danielabrahamx,2026-02-05T17:29:40Z,2026-02-05T19:00:20Z,,2,"[""CLA Signed""]",True
+facebook/react,35706,Bump semver from 5.4.1 to 5.7.2 in /fixtures/packaging/webpack/dev,open,dependabot[bot],2026-02-05T17:15:02Z,2026-02-05T17:18:45Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35705,[DevTools] Separate breadcrumbs with `»`,closed,eps1lon,2026-02-05T17:08:40Z,2026-02-06T09:32:37Z,2026-02-05T23:40:31Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35704,Fix checkbox onChange not firing in certain click ordering cases,open,KashviYadav09,2026-02-05T17:07:20Z,2026-02-05T17:07:26Z,,1,[],True
+facebook/react,35703,Fix onChange firing when click default is prevented,open,KashviYadav09,2026-02-05T16:56:50Z,2026-02-05T16:56:57Z,,1,[],True
+facebook/react,35702,[DevTools] Throw an error when attempting to clone non-existent node,closed,hoxyq,2026-02-05T16:02:06Z,2026-02-05T17:49:21Z,2026-02-05T17:49:18Z,0,"[""CLA Signed""]",True
+facebook/react,35701,Fix typos in comments,open,pavan-sh,2026-02-05T15:36:07Z,2026-02-05T16:08:21Z,,3,"[""CLA Signed""]",True
+facebook/react,35700,[DevTools] Avoid scrollbars in Suspense breadcrumbs,closed,eps1lon,2026-02-05T14:00:22Z,2026-02-05T22:28:08Z,2026-02-05T22:27:58Z,0,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35699,[invalid][potential Security Alert] New `postinstall` script added in `pkgnewfefame1@3.2.1`,closed,alphaleadership,2026-02-05T13:21:13Z,2026-02-05T15:11:14Z,2026-02-05T13:43:33Z,0,"[""invalid""]",False
+facebook/react,35698,Bug: Erro: Falha ao executar 'insertBefore' em 'Node': O nó antes do qual o novo nó deve ser inserido não é filho deste nó.,open,powercerebro,2026-02-05T11:44:41Z,2026-02-05T17:26:09Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35697,Dev,closed,jbSL1m,2026-02-05T02:39:02Z,2026-02-05T02:39:36Z,2026-02-05T02:39:36Z,1,[],True
+tensorflow/tensorflow,109827,PR #37411: [tsl:concurrency] Fix JoinFutures<T>() when futures finish with errors,closed,copybara-service[bot],2026-02-05T23:52:49Z,2026-02-06T01:41:36Z,2026-02-06T01:41:35Z,0,[],True
+tensorflow/tensorflow,109826,"When a called computation has multiple caller instructions, sort the callers by unique ID before selecting an operand for constant propagation. This ensures deterministic compilation results.",closed,copybara-service[bot],2026-02-05T23:35:26Z,2026-02-06T03:47:01Z,2026-02-06T03:47:01Z,0,[],True
+tensorflow/tensorflow,109825,[gpu] Remove redundant ConvertToDeviceBuffers overload,closed,copybara-service[bot],2026-02-05T23:30:10Z,2026-02-06T00:56:02Z,2026-02-06T00:56:02Z,0,[],True
+tensorflow/tensorflow,109824,Support for i2 embedding lookup via tflite model builder,closed,copybara-service[bot],2026-02-05T23:14:15Z,2026-02-11T19:49:09Z,2026-02-11T19:49:08Z,3,[],True
+tensorflow/tensorflow,109823,Updating buildozer rule.,open,copybara-service[bot],2026-02-05T23:09:16Z,2026-02-05T23:32:11Z,,0,[],True
+tensorflow/tensorflow,109822,"Replace py_library, py_binary, py_test macros with wrappers from XLA.",closed,copybara-service[bot],2026-02-05T22:33:41Z,2026-02-06T18:34:01Z,2026-02-06T18:34:01Z,0,[],True
+tensorflow/tensorflow,109821,Make `tsl::Env::StartThread` respect NUMA affinity in `tsl::ThreadOptions`,closed,copybara-service[bot],2026-02-05T22:25:02Z,2026-02-06T00:07:43Z,2026-02-06T00:07:43Z,0,[],True
+tensorflow/tensorflow,109820,Remove redundant HloRunner dependencies.,closed,copybara-service[bot],2026-02-05T22:19:17Z,2026-02-05T23:00:42Z,2026-02-05T23:00:42Z,0,[],True
+tensorflow/tensorflow,109819,Add HloLegacyGpuTestBase wrapper around HloTestBase.,closed,copybara-service[bot],2026-02-05T22:14:52Z,2026-02-05T23:37:19Z,2026-02-05T23:37:18Z,0,[],True
+tensorflow/tensorflow,109818,Remove explicit fill value in TensorDescriptor::DownloadData resize.,closed,copybara-service[bot],2026-02-05T22:11:20Z,2026-02-05T23:20:19Z,2026-02-05T23:20:19Z,0,[],True
+tensorflow/tensorflow,109817,Improve flatbuffer_import performance with less buffer copies,closed,copybara-service[bot],2026-02-05T21:22:37Z,2026-02-09T22:46:11Z,2026-02-09T22:46:11Z,0,[],True
+tensorflow/tensorflow,109816,Pin per-device threads owned by `LocalDeviceState` to the NUMA node associated with each device,closed,copybara-service[bot],2026-02-05T21:18:07Z,2026-02-05T21:50:36Z,2026-02-05T21:50:35Z,0,[],True
+tensorflow/tensorflow,109815,Add initial bits to support offloading ReduceWindow.,closed,copybara-service[bot],2026-02-05T21:17:48Z,2026-02-06T23:57:07Z,2026-02-06T23:57:06Z,0,[],True
+tensorflow/tensorflow,109814,PR #37064: [ROCm] Fix paralle gpu execute script to support running tests on a machine …,closed,copybara-service[bot],2026-02-05T21:11:56Z,2026-02-05T21:29:54Z,2026-02-05T21:29:54Z,0,[],True
+tensorflow/tensorflow,109813,Add an overload to allow moving thread context instead of copying,open,copybara-service[bot],2026-02-05T20:40:23Z,2026-02-12T02:03:31Z,,0,[],True
+tensorflow/tensorflow,109812,[StableHLO TypeInference] Add interface for shape component inference to dot ops ,closed,copybara-service[bot],2026-02-05T20:31:35Z,2026-02-06T05:47:51Z,2026-02-06T05:47:49Z,0,[],True
+golang/go,77467,access: approvers,open,DanielMorsing,2026-02-05T20:45:10Z,2026-02-06T22:54:53Z,,3,"[""NeedsDecision"", ""Access""]",False
+golang/go,77465,runtime: TestFinalizerOrCleanupDeadlock/Cleanup/PprofDebug1 failures,closed,gopherbot,2026-02-05T18:22:28Z,2026-02-11T22:19:01Z,2026-02-11T22:19:00Z,2,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77464,cmd/nm: unrecognized failures,closed,gopherbot,2026-02-05T18:22:27Z,2026-02-11T22:16:39Z,2026-02-11T22:16:27Z,2,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77463,net/http/httputil: DumpRequest and DumpResponse replacement body allows read after close,open,rittneje,2026-02-05T17:56:42Z,2026-02-07T00:22:56Z,,3,"[""NeedsInvestigation"", ""BugReport""]",False
+golang/go,77462,internal/synctest: TestTimerReadAfterDeadline failures,closed,gopherbot,2026-02-05T17:23:17Z,2026-02-11T22:09:23Z,2026-02-11T22:09:23Z,3,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77461,x/vulndb: TestLintReports/data/reports/GO-2026-4336.yaml failures,closed,gopherbot,2026-02-05T17:23:15Z,2026-02-05T18:22:26Z,2026-02-05T17:47:09Z,3,"[""NeedsFix"", ""vulncheck or vulndb""]",False
+golang/go,77460,x/vulndb: TestLintReports/data/reports/GO-2026-4335.yaml failures,closed,gopherbot,2026-02-05T17:23:13Z,2026-02-05T18:22:25Z,2026-02-05T17:46:32Z,3,"[""NeedsFix"", ""vulncheck or vulndb""]",False
+golang/go,77459,x/vulndb: TestLintReports/data/reports/GO-2026-4334.yaml failures,closed,gopherbot,2026-02-05T17:23:11Z,2026-02-05T17:46:09Z,2026-02-05T17:46:08Z,2,"[""NeedsFix"", ""vulncheck or vulndb""]",False
+golang/go,77458,build: build failure on x_telemetry-go1.25-linux-mips64le,open,gopherbot,2026-02-05T17:23:09Z,2026-02-05T17:23:10Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77457,runtime: test timeout on windows race builder,open,gopherbot,2026-02-05T17:23:07Z,2026-02-11T22:50:12Z,,3,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77456,crypto/x509:gofips140-inprocess: TestBetterTLS failures,open,gopherbot,2026-02-05T17:23:05Z,2026-02-05T17:23:06Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77455,cmd/internal/testdir:8_10: Test/recover3.go failures,open,gopherbot,2026-02-05T17:23:04Z,2026-02-05T17:23:05Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77454,cmd/link: TestCGOLTO/0 failures,closed,gopherbot,2026-02-05T17:23:01Z,2026-02-11T22:15:38Z,2026-02-11T22:15:38Z,2,"[""NeedsInvestigation"", ""compiler/runtime""]",False
+golang/go,77453,cmd/go/internal/work: unrecognized failures,open,gopherbot,2026-02-05T17:23:00Z,2026-02-05T17:23:01Z,,1,"[""NeedsInvestigation""]",False
+golang/go,77452,x/tools/gopls/internal/telemetry: TestSettingTelemetry/default failures,closed,gopherbot,2026-02-05T17:22:58Z,2026-02-11T22:15:02Z,2026-02-11T22:15:02Z,4,"[""help wanted"", ""NeedsInvestigation"", ""gopls"", ""Tools"", ""arch-mips"", ""compiler/runtime""]",False
+golang/go,77451,modernize linter stringscut panic,closed,diegosz,2026-02-05T16:23:48Z,2026-02-06T12:06:54Z,2026-02-05T19:36:42Z,2,[],False
+golang/go,77450,proposal: spec: allow returning '{}' in place of explicitly declaring type of zero-value struct,closed,chrysmoredigital,2026-02-05T14:40:00Z,2026-02-08T01:58:16Z,2026-02-05T15:18:22Z,3,"[""LanguageChange"", ""Proposal"", ""LanguageChangeReview"", ""LanguageProposal""]",False
+golang/go,77449,cmd/link: pie mode is not supported without cgo (linux/s390x),open,gdams,2026-02-05T13:58:57Z,2026-02-06T23:38:01Z,,3,"[""NeedsInvestigation"", ""FeatureRequest"", ""arch-s390x"", ""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77448,net: improve handling of socket completion notification modes on Windows,closed,qmuntal,2026-02-05T12:35:18Z,2026-02-06T20:29:12Z,2026-02-06T20:29:12Z,1,"[""OS-Windows"", ""FeatureRequest""]",False
+golang/go,77447,io/fs: fs.Sub does not cause error if directory is not present,closed,Sebbito,2026-02-05T09:51:18Z,2026-02-08T16:56:24Z,2026-02-07T00:02:18Z,14,"[""NeedsDecision"", ""LibraryProposal""]",False
+golang/go,77446,proposal: unsafe: documentation for `unsafe.Pointer`,closed,Guest-615695028,2026-02-05T08:14:13Z,2026-02-05T08:47:39Z,2026-02-05T08:47:39Z,0,"[""Documentation"", ""Proposal""]",False
+golang/go,77445,x/net/publicsuffix: update list,open,yangshuai525858,2026-02-05T06:30:33Z,2026-02-07T13:15:38Z,,4,"[""help wanted"", ""NeedsFix"", ""BugReport""]",False
+golang/go,77444,cmd/compile: internal compiler error using `archsimd.Int8x16` as type parameter,closed,AndrewWPhillips,2026-02-05T06:24:38Z,2026-02-06T17:36:27Z,2026-02-06T17:36:27Z,5,"[""compiler/runtime"", ""BugReport""]",False
+golang/go,77443,proposal: encoding: Add general binary and text marshaler,closed,Guest-615695028,2026-02-05T04:38:06Z,2026-02-05T08:46:50Z,2026-02-05T08:46:50Z,2,"[""Proposal"", ""invalid""]",False
+golang/go,77442,runtime: segfault in swiss map implementation,open,niallnsec,2026-02-05T04:35:06Z,2026-02-11T21:12:36Z,,7,"[""WaitingForInfo"", ""NeedsInvestigation"", ""compiler/runtime"", ""BugReport""]",False
+apache/spark,54164,[SPARK-55379][PS][TESTS] Add some ops tests back and their parity tests,closed,ueshin,2026-02-05T23:43:26Z,2026-02-06T09:25:29Z,2026-02-06T09:25:13Z,2,"[""PYTHON"", ""PANDAS API ON SPARK"", ""CONNECT""]",True
+apache/spark,54163,[SPARK-55377][K8S] Improve `labelDecommissioningExecs` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-05T21:30:27Z,2026-02-06T01:41:55Z,2026-02-06T01:33:33Z,3,"[""KUBERNETES""]",True
+apache/spark,54162,[SPARK-55376][PS] Make numeric_only argument in groupby functions accept only boolean with pandas 3,closed,ueshin,2026-02-05T21:27:27Z,2026-02-06T05:16:42Z,2026-02-06T05:16:19Z,4,"[""PYTHON"", ""PANDAS API ON SPARK""]",True
+apache/spark,54161,[SPARK-55175][PYTHON] Extract `to_pandas` transformer from serializers,closed,Yicong-Huang,2026-02-05T19:44:13Z,2026-02-05T23:53:33Z,2026-02-05T23:53:13Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54160,[SPARK-55373][CONNECT] Improve noHandlerFoundForExtension error message,closed,khakhlyuk,2026-02-05T12:08:44Z,2026-02-05T14:46:04Z,2026-02-05T14:46:04Z,2,"[""SQL"", ""CONNECT""]",True
+apache/spark,54159,[SPARK-55372][SQL] Fix `SHOW CREATE TABLE` for tables / views with default collation,open,ilicmarkodb,2026-02-05T11:35:48Z,2026-02-11T20:43:23Z,,3,"[""SQL""]",True
+apache/spark,54158,[SPARK-55370][K8S] Improve `annotateExecutorDeletionCost` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-05T10:24:36Z,2026-02-05T19:02:55Z,2026-02-05T19:02:39Z,3,"[""KUBERNETES""]",True
+apache/spark,54157,[SPARK-55334][PYTHON] Enable `TimestampType` and `TimestampNTZType` in `convert_numpy`,closed,zhengruifeng,2026-02-05T09:31:25Z,2026-02-06T09:41:05Z,2026-02-06T09:40:41Z,5,"[""SQL"", ""PYTHON""]",True
+apache/spark,54156,[SPARK-55369][SPARK-55332][PYTHON][INFRA] Setup ASV benchmark,closed,fangchenli,2026-02-05T08:46:26Z,2026-02-10T00:10:14Z,2026-02-10T00:09:21Z,7,"[""INFRA"", ""PYTHON""]",True
+apache/spark,54155,"Revert ""[SPARK-55175][PYTHON] Extract `to_pandas` transformer from serializers""",closed,zhengruifeng,2026-02-05T08:14:43Z,2026-02-05T08:16:01Z,2026-02-05T08:15:45Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54154,[SPARK-55367][PYTHON] Use venv for run-pip-tests,closed,gaogaotiantian,2026-02-05T05:19:10Z,2026-02-12T08:22:13Z,2026-02-11T01:20:42Z,8,"[""BUILD"", ""INFRA""]",True
+apache/spark,54153,[SPARK-55366][SQL][PYTHON] Remove `errorOnDuplicatedFieldNames` from Python UDFs,closed,zhengruifeng,2026-02-05T05:14:04Z,2026-02-05T23:49:44Z,2026-02-05T22:34:36Z,2,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON""]",True
+apache/spark,54152,[SPARK-55365][PYTHON] Generalize the utils for arrow array conversion,closed,zhengruifeng,2026-02-05T04:59:28Z,2026-02-05T08:50:22Z,2026-02-05T08:49:59Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54151,"Revert ""[SPARK-55313][PYTHON][FOLLOW-UP] Only add condabin to PATH for pip tests""",closed,gaogaotiantian,2026-02-05T04:54:37Z,2026-02-05T05:19:42Z,2026-02-05T05:05:53Z,3,"[""INFRA""]",True
+apache/spark,54150,Locker free addMapOutput implementation,open,ChuckLin2025,2026-02-05T03:30:55Z,2026-02-05T03:31:06Z,,1,"[""CORE""]",True
+apache/spark,54149,[SPARK-55313][PYTHON][FOLLOW-UP] Only add condabin to PATH for pip tests,closed,gaogaotiantian,2026-02-05T01:21:11Z,2026-02-05T04:52:53Z,2026-02-05T02:59:32Z,2,"[""INFRA""]",True
+langchain-ai/langchain,35038,chore(infra): inline code docs guidelines for `AGENTS.md`,closed,mdrxy,2026-02-05T23:28:12Z,2026-02-05T23:30:52Z,2026-02-05T23:30:50Z,0,"[""infra"", ""internal""]",True
+langchain-ai/langchain,35037,fix(openai): exclude empty tools list from API payload,closed,saakshigupta2002,2026-02-05T23:02:02Z,2026-02-11T21:43:03Z,2026-02-11T21:43:03Z,1,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,35036,fix(anthropic): support output_config,closed,ccurme,2026-02-05T22:05:51Z,2026-02-06T16:11:04Z,2026-02-06T16:11:02Z,1,"[""integration"", ""fix"", ""anthropic"", ""internal""]",True
+langchain-ai/langchain,35035,release(anthropic): 1.3.2,closed,ccurme,2026-02-05T21:44:04Z,2026-02-05T21:45:50Z,2026-02-05T21:45:48Z,1,"[""integration"", ""release"", ""dependencies"", ""anthropic"", ""internal""]",True
+langchain-ai/langchain,35034,fix(anthropic): support automatic compaction (Opus 4.6),closed,ccurme,2026-02-05T21:12:27Z,2026-02-05T21:41:27Z,2026-02-05T21:41:25Z,1,"[""integration"", ""dependencies"", ""fix"", ""anthropic""]",True
+langchain-ai/langchain,35033,feat: support state updates from `wrap_model_call` with command(s),closed,sydney-runkle,2026-02-05T18:48:31Z,2026-02-06T21:29:43Z,2026-02-06T12:28:05Z,0,"[""langchain"", ""dependencies"", ""feature"", ""langchain-classic"", ""internal""]",True
+langchain-ai/langchain,35032,release(standard-tests): 1.1.4,closed,eyurtsev,2026-02-05T17:44:56Z,2026-02-05T20:25:41Z,2026-02-05T17:49:11Z,0,"[""standard-tests"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35031,fix(core): handle None content in ToolMessageChunk merge,closed,Mr-Neutr0n,2026-02-05T17:25:12Z,2026-02-08T16:02:35Z,2026-02-08T16:02:35Z,2,"[""core"", ""fix""]",True
+langchain-ai/langchain,35030,fix(openai): openai sdk validation error not surfaced in `with_structured_output`,open,LouisAuneau,2026-02-05T15:19:18Z,2026-02-05T22:18:17Z,,1,"[""integration"", ""fix"", ""openai"", ""external""]",True
+langchain-ai/langchain,35029,feat(groq): Strict Mode for Groq,open,keenborder786,2026-02-05T14:51:20Z,2026-02-11T20:54:50Z,,1,"[""integration"", ""feature"", ""groq"", ""external""]",True
+langchain-ai/langchain,35028,Support for strict mode for ChatGroq,open,keenborder786,2026-02-05T14:51:04Z,2026-02-11T20:41:53Z,,1,"[""feature request"", ""groq"", ""external""]",False
+langchain-ai/langchain,35027,fix(openai): preserve reasoning_content for DeepSeek models,open,jackjin1997,2026-02-05T14:45:57Z,2026-02-11T11:07:11Z,,2,"[""integration"", ""fix"", ""anthropic"", ""openai"", ""external""]",True
+langchain-ai/langchain,35026,fix(langchain): bump min core version and improve approximate token counting,closed,ccurme,2026-02-05T14:32:08Z,2026-02-05T14:37:28Z,2026-02-05T14:37:26Z,0,"[""langchain"", ""dependencies"", ""fix"", ""internal""]",True
+langchain-ai/langchain,35025,release(core): 1.2.9,closed,ccurme,2026-02-05T14:07:47Z,2026-02-05T14:17:57Z,2026-02-05T14:17:55Z,1,"[""core"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35024,feat: support state updates from `wrap_model_call`,closed,sydney-runkle,2026-02-05T14:06:24Z,2026-02-06T12:39:40Z,2026-02-06T12:39:40Z,1,"[""langchain"", ""dependencies"", ""feature"", ""internal""]",True
+langchain-ai/langchain,35023,release: langchain 1.2.9,closed,sydney-runkle,2026-02-05T12:46:04Z,2026-02-05T14:06:02Z,2026-02-05T14:05:59Z,0,"[""langchain"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,35022,fix(core): handle non-string BaseMessage content in pretty_repr,open,GJR-HRL,2026-02-05T09:53:52Z,2026-02-05T10:05:31Z,,1,"[""core"", ""fix""]",True
+langchain-ai/langchain,35021,refactor(core): delete unused static tool definitions of TodoListMiddleware,open,yuzilog,2026-02-05T08:48:54Z,2026-02-05T08:49:07Z,,0,"[""langchain"", ""refactor"", ""external""]",True
+langchain-ai/langchain,35020,refactor: delete unused static tool definitions of TodoListMiddleware,closed,yuzilog,2026-02-05T08:46:50Z,2026-02-05T08:48:25Z,2026-02-05T08:48:25Z,0,"[""langchain"", ""refactor"", ""external""]",True
+langchain-ai/langchain,35019,fix(langchain): normalize raw schemas in middleware response_format override,closed,T1mn,2026-02-05T06:47:53Z,2026-02-06T12:32:27Z,2026-02-06T12:32:27Z,0,"[""langchain"", ""fix"", ""external""]",True
+langchain-ai/langchain,35018,feat(standard-tests): add standard tests for sandbox providers,closed,eyurtsev,2026-02-05T03:28:17Z,2026-02-05T17:48:12Z,2026-02-05T17:44:02Z,0,"[""standard-tests"", ""dependencies"", ""feature""]",True
+docker/compose,13574,Fix invalid path error when using OCI artifacts on Windows,closed,mikesir87,2026-02-05T16:00:11Z,2026-02-09T08:15:37Z,2026-02-09T08:15:37Z,2,[],True
+docker/compose,13573,update to go1.25.7,closed,thaJeztah,2026-02-05T11:48:08Z,2026-02-09T10:48:27Z,2026-02-09T08:21:33Z,1,[],True
+duckdb/duckdb,20830,Add stats propagation for variant -> primitive casts,closed,Mytherin,2026-02-05T20:25:52Z,2026-02-07T12:29:37Z,2026-02-07T12:29:36Z,0,[],True
+duckdb/duckdb,20829,The checkpoint WAL is written for the NEXT checkpoint iteration - we need to take that into account for the WAL version check when recovering from it,closed,Mytherin,2026-02-05T20:23:06Z,2026-02-06T07:30:06Z,2026-02-06T07:30:06Z,0,[],True
+duckdb/duckdb,20828,Make compression availability checks complete,open,matthijskooijman,2026-02-05T17:26:07Z,2026-02-11T10:01:15Z,,3,[],True
+duckdb/duckdb,20827,Remove index list assertion,closed,Maxxen,2026-02-05T17:03:09Z,2026-02-06T07:30:25Z,2026-02-06T07:30:22Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20826,Respect affinity mask of main process when pinning,closed,krenzland,2026-02-05T15:32:45Z,2026-02-10T08:20:26Z,2026-02-10T08:20:26Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20825,Avoid throwing internal exception when writing variant with UINT128 to Parquet,closed,Mytherin,2026-02-05T15:03:48Z,2026-02-05T20:22:32Z,2026-02-05T20:22:32Z,0,[],True
+duckdb/duckdb,20823,Make row group pruner deal correctly with all-null row groups,closed,Mytherin,2026-02-05T14:41:08Z,2026-02-05T20:19:55Z,2026-02-05T20:19:55Z,0,[],True
+duckdb/duckdb,20822,Add `-h` alias for `-help` command line option,open,maiadegraaf,2026-02-05T14:37:16Z,2026-02-10T08:03:36Z,,1,"[""Changes Requested""]",True
+duckdb/duckdb,20820,[Encryption] Finalize default nonce/IV len to 12 + refactor api,closed,taniabogatsch,2026-02-05T12:44:17Z,2026-02-06T10:09:07Z,2026-02-06T10:06:11Z,2,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20819,Use WHOLE_ARCHIVE instead of relying on link ordering for duckdb_generated_extension_loader,open,evertlammerts,2026-02-05T10:30:07Z,2026-02-10T21:58:06Z,,0,"[""Ready For Review""]",True
+duckdb/duckdb,20818,Fix #20761: avoid leaking encryption key into duckdb_databases,closed,Mytherin,2026-02-05T10:14:43Z,2026-02-05T17:51:31Z,2026-02-05T17:51:30Z,0,[],True
+duckdb/duckdb,20817,Bring back 'cli' as duckdb_api for shell/CLI,closed,carlopi,2026-02-05T09:18:02Z,2026-02-05T17:52:24Z,2026-02-05T17:52:21Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20816,LateMaterialize LHS missing table filters,closed,timbess,2026-02-05T05:10:11Z,2026-02-12T02:25:34Z,2026-02-12T01:01:16Z,7,"[""Changes Requested""]",True

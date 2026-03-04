@@ -1,0 +1,235 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35715,Compiler: NonReactive annotation,closed,srubin,2026-02-06T23:41:02Z,2026-02-07T21:37:27Z,2026-02-06T23:41:11Z,,True,0,0,"[""CLA Signed""]"
+facebook/react,35712,Bump webpack from 5.82.1 to 5.104.1,open,dependabot[bot],2026-02-06T15:27:10Z,2026-02-06T15:33:27Z,,,False,0,0,"[""CLA Signed"", ""dependencies"", ""javascript""]"
+facebook/react,35711,[test] Move profilingCommitTreeBuilder to versioned renderer,closed,eps1lon,2026-02-06T14:11:29Z,2026-02-06T15:02:00Z,2026-02-06T15:00:44Z,2026-02-06T15:00:44Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35710,[DevTools] Fix broken commit tree builder for initial operations,closed,eps1lon,2026-02-06T10:18:54Z,2026-02-06T14:20:43Z,2026-02-06T14:16:24Z,2026-02-06T14:16:24Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+tensorflow/tensorflow,109903,Integrate StableHLO at openxla/stablehlo@bdbe31e8,open,copybara-service[bot],2026-02-06T23:19:58Z,2026-02-11T19:33:01Z,,,True,0,0,[]
+tensorflow/tensorflow,109902,Fix a wrong buffer shape in various XLA tests,closed,copybara-service[bot],2026-02-06T22:50:02Z,2026-02-07T03:40:42Z,2026-02-07T03:40:42Z,2026-02-07T03:40:42Z,True,0,0,[]
+tensorflow/tensorflow,109901,Automated Code Change,closed,copybara-service[bot],2026-02-06T22:48:49Z,2026-02-07T01:19:33Z,2026-02-07T01:19:32Z,2026-02-07T01:19:32Z,True,0,0,[]
+tensorflow/tensorflow,109900,[XLA:GPU] Move kernels out of gpu/service.,closed,copybara-service[bot],2026-02-06T22:47:49Z,2026-02-07T02:04:16Z,2026-02-07T02:04:15Z,2026-02-07T02:04:16Z,True,0,0,[]
+tensorflow/tensorflow,109899,Make CpuPjRtRawLoadedExecutable implement the PjRtRawLoadedExecutable api.,closed,copybara-service[bot],2026-02-06T22:32:55Z,2026-02-07T01:08:38Z,2026-02-07T01:08:37Z,2026-02-07T01:08:37Z,True,0,0,[]
+tensorflow/tensorflow,109898,Update CPU execute to delay certain types of errors and remove the need for,closed,copybara-service[bot],2026-02-06T21:42:02Z,2026-02-06T22:20:33Z,2026-02-06T22:20:33Z,2026-02-06T22:20:33Z,True,0,0,[]
+tensorflow/tensorflow,109897,Add heterogeneous lookup to IfrtServingExecutable's cache.,closed,copybara-service[bot],2026-02-06T21:37:22Z,2026-02-10T03:31:07Z,2026-02-10T03:31:06Z,2026-02-10T03:31:06Z,True,0,0,[]
+tensorflow/tensorflow,109896,Update BUILD files with dependencies,closed,rtg0795,2026-02-06T21:35:21Z,2026-02-06T21:45:16Z,2026-02-06T21:45:16Z,2026-02-06T21:45:16Z,False,0,0,[]
+tensorflow/tensorflow,109895,Refine error codes for executable version compatibility.,open,copybara-service[bot],2026-02-06T20:34:59Z,2026-02-06T20:34:59Z,,,True,0,0,[]
+tensorflow/tensorflow,109894,PR #37420: [tsl:concurrency] Add JoinFutures for statically known types,closed,copybara-service[bot],2026-02-06T20:14:26Z,2026-02-06T21:16:55Z,2026-02-06T21:16:54Z,2026-02-06T21:16:54Z,True,0,0,[]
+tensorflow/tensorflow,109893,Refactor compiler variant initialization. Initialize all the compilers in the compiler factory registry.,open,copybara-service[bot],2026-02-06T20:08:18Z,2026-02-06T20:08:18Z,,,True,0,0,[]
+tensorflow/tensorflow,109892,Update rules_python to latest 1.8.3 for tensorflow and xla. Doing so would enable us to use latest feature which includes a venv layout. This latest version also introduce stricter hermeticity which was first introduce in 1.7.0 as seen in logs:,closed,copybara-service[bot],2026-02-06T20:07:44Z,2026-02-12T08:13:08Z,2026-02-12T08:13:08Z,2026-02-12T08:13:08Z,True,0,0,[]
+tensorflow/tensorflow,109891,[StableHLO DotGeneral TypeInference] Update TypeInference of DotGeneral to also infer bounds,closed,copybara-service[bot],2026-02-06T20:07:04Z,2026-02-09T23:02:16Z,2026-02-09T23:02:15Z,2026-02-09T23:02:15Z,True,0,0,[]
+tensorflow/tensorflow,109890,Introduce PjRtCompilerRegistry and refactor compiler registration.,open,copybara-service[bot],2026-02-06T20:02:42Z,2026-02-11T17:10:51Z,,,True,0,0,[]
+tensorflow/tensorflow,109889,[XLA:GPU] conditionally enable nest_gemm_fusion or convert_triton_config,closed,copybara-service[bot],2026-02-06T19:38:15Z,2026-02-09T12:54:09Z,2026-02-09T12:54:08Z,2026-02-09T12:54:08Z,True,0,0,[]
+tensorflow/tensorflow,109888,Add a message in the `DelegateTest` helper to remind reader that a failure log is expected.,closed,copybara-service[bot],2026-02-06T19:36:13Z,2026-02-09T18:44:57Z,2026-02-09T18:44:56Z,2026-02-09T18:44:56Z,True,0,0,[]
+tensorflow/tensorflow,109887,Make `xnn_fingerprint_id_to_string` part of the available API.,open,copybara-service[bot],2026-02-06T19:35:53Z,2026-02-09T19:27:08Z,,,True,0,0,[]
+tensorflow/tensorflow,109886,Print the fingerprint id string instead of it's value in error messages.,open,copybara-service[bot],2026-02-06T19:34:37Z,2026-02-09T15:24:44Z,,,True,0,0,[]
+tensorflow/tensorflow,109885,Fix convolution weight cache handling.,open,copybara-service[bot],2026-02-06T19:29:10Z,2026-02-06T19:29:12Z,,,True,0,0,[]
+tensorflow/tensorflow,109884,Add unused recoverable option to coordination service.,open,copybara-service[bot],2026-02-06T19:18:49Z,2026-02-06T19:18:49Z,,,True,0,0,[]
+tensorflow/tensorflow,109883,Remove UsingStreamExecutorGpuClient in lead-up to deleting _notfrt GPU targets.,closed,copybara-service[bot],2026-02-06T19:15:29Z,2026-02-09T18:28:14Z,2026-02-09T18:28:14Z,2026-02-09T18:28:14Z,True,0,0,[]
+tensorflow/tensorflow,109882,Integrate LLVM at llvm/llvm-project@304f5c8c9182,open,copybara-service[bot],2026-02-06T19:04:58Z,2026-02-06T19:04:58Z,,,True,0,0,[]
+tensorflow/tensorflow,109881,Remove `incompatible_with_pjrt_se_gpu_client` tag.,closed,copybara-service[bot],2026-02-06T18:44:31Z,2026-02-09T19:29:29Z,2026-02-09T19:29:28Z,2026-02-09T19:29:28Z,True,0,0,[]
+tensorflow/tensorflow,109880,[XLA:GPU] Move service/model/experimental to codegen/tiling/experimental.,closed,copybara-service[bot],2026-02-06T18:36:41Z,2026-02-06T19:03:48Z,2026-02-06T19:03:47Z,2026-02-06T19:03:47Z,True,0,0,[]
+tensorflow/tensorflow,109879,[LiteRT] Enable quantization support for DynamicUpdateSlice.,closed,copybara-service[bot],2026-02-06T18:32:19Z,2026-02-10T21:59:58Z,2026-02-10T21:59:58Z,2026-02-10T21:59:58Z,True,0,0,[]
+tensorflow/tensorflow,109878,PR #36564: [ROCm][TSAN] Read device_count from collective params and avoid race with concurrent updates,open,copybara-service[bot],2026-02-06T18:29:36Z,2026-02-06T18:29:36Z,,,True,0,0,[]
+tensorflow/tensorflow,109877,Add unused recoverable option to coordination service.,closed,copybara-service[bot],2026-02-06T18:24:16Z,2026-02-06T19:25:07Z,2026-02-06T19:25:06Z,2026-02-06T19:25:06Z,True,0,0,[]
+tensorflow/tensorflow,109876,Pass unused recoverable option to coordination service.,open,copybara-service[bot],2026-02-06T18:20:12Z,2026-02-06T18:20:12Z,,,True,0,0,[]
+tensorflow/tensorflow,109875,Update LowerQuantAnnotationsPass to handle multi-result producer ops.,closed,copybara-service[bot],2026-02-06T18:10:30Z,2026-02-09T20:46:37Z,2026-02-09T20:46:36Z,2026-02-09T20:46:36Z,True,0,0,[]
+tensorflow/tensorflow,109874,Prepare Tensorflow's build_info for rules_python 1.8.3 upgrade,closed,copybara-service[bot],2026-02-06T17:49:47Z,2026-02-11T20:00:32Z,2026-02-11T20:00:32Z,2026-02-11T20:00:32Z,True,0,0,[]
+tensorflow/tensorflow,109873,PR #37309: [GPU][NFC] Rename H100 and B200 test data for clarity.,open,copybara-service[bot],2026-02-06T16:51:37Z,2026-02-06T21:43:38Z,,,True,0,0,[]
+tensorflow/tensorflow,109872,"hlo_module_{splitting,linking}_test should use xla_cc_test.",closed,copybara-service[bot],2026-02-06T16:47:32Z,2026-02-06T19:16:16Z,2026-02-06T19:16:16Z,2026-02-06T19:16:15Z,True,0,0,[]
+tensorflow/tensorflow,109871,[XLA] Remove channel ID uniquifying functionality from CallInliner.,closed,copybara-service[bot],2026-02-06T16:27:56Z,2026-02-09T18:19:05Z,2026-02-09T18:19:04Z,2026-02-09T18:19:04Z,True,0,0,[]
+tensorflow/tensorflow,109870,Remove PlatformUtil usage from custom_call_test.,closed,copybara-service[bot],2026-02-06T15:56:44Z,2026-02-06T18:57:19Z,2026-02-06T18:57:19Z,2026-02-06T18:57:19Z,True,0,0,[]
+tensorflow/tensorflow,109868,[XLA:GPU] Migrate CollectiveOpsE2ETestBase to HloPjRtGpuTestBase.,closed,copybara-service[bot],2026-02-06T15:30:45Z,2026-02-10T13:18:58Z,2026-02-10T13:18:58Z,2026-02-10T13:18:58Z,True,0,0,[]
+tensorflow/tensorflow,109867,Upgrade `rules_cc` to version 0.2.16 and remove `rules_cc_protobuf.patch`.,open,copybara-service[bot],2026-02-06T15:24:25Z,2026-02-06T15:24:25Z,,,True,0,0,[]
+tensorflow/tensorflow,109866,PR #37408: [xla:gpu] Delete multimem support from FFI,closed,copybara-service[bot],2026-02-06T15:24:01Z,2026-02-06T17:50:18Z,2026-02-06T17:50:18Z,2026-02-06T17:50:18Z,True,0,0,[]
+tensorflow/tensorflow,109865,[XLA:GPU] Migrate SortingTest to PjRt.,closed,copybara-service[bot],2026-02-06T14:30:21Z,2026-02-06T15:21:12Z,2026-02-06T15:21:11Z,2026-02-06T15:21:11Z,True,0,0,[]
+tensorflow/tensorflow,109864,PR #36441: Support all-reduce hoisting with scalar multiplication pattern,open,copybara-service[bot],2026-02-06T13:12:04Z,2026-02-06T13:12:04Z,,,True,0,0,[]
+tensorflow/tensorflow,109863,Remove obsolete `rules_cc.patch`.,closed,copybara-service[bot],2026-02-06T13:01:12Z,2026-02-06T14:25:16Z,2026-02-06T14:25:16Z,2026-02-06T14:25:16Z,True,0,0,[]
+tensorflow/tensorflow,109862,Upgrade grpc to Release v1.78.0,closed,copybara-service[bot],2026-02-06T12:31:30Z,2026-02-09T09:36:55Z,2026-02-09T09:36:55Z,2026-02-09T09:36:55Z,True,0,0,[]
+tensorflow/tensorflow,109861,PR #33260: [GPU] Optimize all-gathers on non-major dimension using a single transpose.,open,copybara-service[bot],2026-02-06T12:26:33Z,2026-02-06T12:26:33Z,,,True,0,0,[]
+tensorflow/tensorflow,109860,Upgrade RE2 to Release 2025-11-05,closed,copybara-service[bot],2026-02-06T10:34:03Z,2026-02-06T11:47:00Z,2026-02-06T11:47:00Z,2026-02-06T11:47:00Z,True,0,0,[]
+tensorflow/tensorflow,109859,Log multimem address space,closed,copybara-service[bot],2026-02-06T10:30:23Z,2026-02-07T07:28:16Z,2026-02-07T07:28:16Z,2026-02-07T07:28:16Z,True,0,0,[]
+tensorflow/tensorflow,109858,Automated Code Change,closed,copybara-service[bot],2026-02-06T10:18:21Z,2026-02-07T09:26:52Z,2026-02-07T09:26:51Z,2026-02-07T09:26:51Z,True,0,0,[]
+tensorflow/tensorflow,109857,Upgrade Abseil to [LTS 20260107.0](https://github.com/abseil/abseil-cpp/releases/tag/20260107.0).,open,copybara-service[bot],2026-02-06T09:48:01Z,2026-02-06T09:48:01Z,,,True,0,0,[]
+tensorflow/tensorflow,109856,Upgrade RE2 to Release 2025-11-05,open,copybara-service[bot],2026-02-06T08:22:44Z,2026-02-06T11:24:48Z,,,True,0,0,[]
+tensorflow/tensorflow,109855,Upgrade Abseil to LTS 20260107.0,open,copybara-service[bot],2026-02-06T08:00:45Z,2026-02-10T10:32:54Z,,,True,0,0,[]
+tensorflow/tensorflow,109854,Automated Code Change,open,copybara-service[bot],2026-02-06T07:57:48Z,2026-02-06T07:57:48Z,,,True,0,0,[]
+tensorflow/tensorflow,109853,Automated Code Change,open,copybara-service[bot],2026-02-06T07:57:23Z,2026-02-06T07:57:23Z,,,True,0,0,[]
+tensorflow/tensorflow,109852,Automated Code Change,open,copybara-service[bot],2026-02-06T07:55:08Z,2026-02-06T07:55:08Z,,,True,0,0,[]
+tensorflow/tensorflow,109851,Add new cost constants for tracking pipelined mpmd cost.,open,copybara-service[bot],2026-02-06T07:52:32Z,2026-02-06T20:42:31Z,,,True,0,0,[]
+tensorflow/tensorflow,109850,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:32Z,2026-02-06T07:51:32Z,,,True,0,0,[]
+tensorflow/tensorflow,109849,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:29Z,2026-02-06T07:51:29Z,,,True,0,0,[]
+tensorflow/tensorflow,109848,Automated Code Change,open,copybara-service[bot],2026-02-06T07:51:06Z,2026-02-06T07:51:06Z,,,True,0,0,[]
+tensorflow/tensorflow,109847,Automated Code Change,open,copybara-service[bot],2026-02-06T07:50:47Z,2026-02-06T07:50:47Z,,,True,0,0,[]
+tensorflow/tensorflow,109846,Automated Code Change,open,copybara-service[bot],2026-02-06T07:49:11Z,2026-02-06T07:49:11Z,,,True,0,0,[]
+tensorflow/tensorflow,109845,Automated Code Change,open,copybara-service[bot],2026-02-06T07:43:36Z,2026-02-07T11:28:08Z,,,True,0,0,[]
+tensorflow/tensorflow,109844,Automated Code Change,open,copybara-service[bot],2026-02-06T07:42:54Z,2026-02-06T07:42:54Z,,,True,0,0,[]
+tensorflow/tensorflow,109843,Roll back the change to absl::down_cast.,closed,copybara-service[bot],2026-02-06T07:35:43Z,2026-02-06T11:12:08Z,2026-02-06T11:12:07Z,2026-02-06T11:12:07Z,True,0,0,[]
+tensorflow/tensorflow,109842,[Security] Fix CRITICAL vulnerability: V-001,closed,orbisai0security,2026-02-06T06:01:33Z,2026-02-06T11:34:30Z,2026-02-06T11:34:27Z,,False,0,0,"[""size:XS""]"
+tensorflow/tensorflow,109841,Clean up `xla::WithProfilingContext` in favor of `tsl::WithCurrentContext`,closed,copybara-service[bot],2026-02-06T05:12:58Z,2026-02-06T23:07:01Z,2026-02-06T23:07:01Z,2026-02-06T23:07:01Z,True,0,0,[]
+tensorflow/tensorflow,109840,Introduces a CheckRunning() method to tsl::SubProcess to non-blockingly check,closed,copybara-service[bot],2026-02-06T05:06:37Z,2026-02-11T20:49:22Z,2026-02-11T20:49:22Z,2026-02-11T20:49:21Z,True,0,0,[]
+tensorflow/tensorflow,109839,Automated Code Change,open,copybara-service[bot],2026-02-06T05:01:13Z,2026-02-06T05:01:13Z,,,True,0,0,[]
+tensorflow/tensorflow,109838,[XLA:GPU] Optimize RaggedAllToAll: Move Rendezvous to Thunk::Initialize,closed,copybara-service[bot],2026-02-06T04:47:28Z,2026-02-06T18:47:23Z,2026-02-06T18:47:23Z,2026-02-06T18:47:23Z,True,0,0,[]
+tensorflow/tensorflow,109837,Improve flatbuffer export and PackLowBitValuesDensely performance.,closed,copybara-service[bot],2026-02-06T04:16:34Z,2026-02-11T00:58:22Z,2026-02-11T00:58:21Z,2026-02-11T00:58:21Z,True,0,0,[]
+tensorflow/tensorflow,109836,Add support for unsigned 4-bit quantized types (QUI4) in tflite.,closed,copybara-service[bot],2026-02-06T03:02:52Z,2026-02-09T22:35:13Z,2026-02-09T22:35:13Z,2026-02-09T22:35:12Z,True,0,0,[]
+tensorflow/tensorflow,109835,Update how PjRtCpuClient handles ordering operations which involve collectives,closed,copybara-service[bot],2026-02-06T01:34:32Z,2026-02-06T21:28:05Z,2026-02-06T21:28:04Z,2026-02-06T21:28:04Z,True,0,0,[]
+tensorflow/tensorflow,109834,Add an overload of `tsl::monitoring::Buckets::Exponential` with different args.,open,copybara-service[bot],2026-02-06T01:18:32Z,2026-02-06T01:18:33Z,,,True,0,0,[]
+tensorflow/tensorflow,109833,Reverts cfb56f67f27874b60f52f4b5183e5c5829ef11c6,open,copybara-service[bot],2026-02-06T00:54:33Z,2026-02-06T00:54:33Z,,,True,0,0,[]
+tensorflow/tensorflow,109832,Add the large s32 array dump filter in backend config when dump hlo.,open,copybara-service[bot],2026-02-06T00:52:17Z,2026-02-06T00:52:19Z,,,True,0,0,[]
+tensorflow/tensorflow,109831,Fix: Use TSAN feature instead of config setting,open,copybara-service[bot],2026-02-06T00:49:06Z,2026-02-06T00:49:35Z,,,True,0,0,[]
+tensorflow/tensorflow,109830,Fix use_legacy_runtime + hlo_runner deps.,closed,copybara-service[bot],2026-02-06T00:39:48Z,2026-02-06T01:03:31Z,2026-02-06T01:03:31Z,2026-02-06T01:03:31Z,True,0,0,[]
+tensorflow/tensorflow,109829,Use isinstance for checking MLIR quantized types.,open,copybara-service[bot],2026-02-06T00:32:06Z,2026-02-06T00:41:51Z,,,True,0,0,[]
+tensorflow/tensorflow,109828,Make `tsl::Env::StartThread` respect NUMA affinity in `tsl::ThreadOptions`,open,copybara-service[bot],2026-02-06T00:19:34Z,2026-02-06T00:19:35Z,,,True,0,0,[]
+microsoft/vscode,293559,fix: ensure folding icons are clickable in sticky scroll,open,kairosci,2026-02-06T23:49:58Z,2026-02-07T00:42:37Z,,,False,0,0,[]
+microsoft/vscode,293558,fix: enable text wrapping in parameter hints widget,open,kairosci,2026-02-06T23:49:10Z,2026-02-07T16:31:41Z,,,False,0,0,[]
+microsoft/vscode,293557,feat: implement comprehensive activityBarTop theming and refine icon rendering,open,kairosci,2026-02-06T23:48:46Z,2026-02-09T10:07:38Z,,,False,0,0,[]
+microsoft/vscode,293556,Add validation skill for automated UI testing with vscode-playwright-mcp,open,Copilot,2026-02-06T23:45:12Z,2026-02-06T23:51:35Z,,,True,0,0,[]
+microsoft/vscode,293552,chat: various fixes around queued/steering states,closed,connor4312,2026-02-06T23:29:44Z,2026-02-08T09:45:33Z,2026-02-07T00:08:20Z,2026-02-07T00:08:20Z,False,0,0,[]
+microsoft/vscode,293551,Settings editor design update,open,cwebster-99,2026-02-06T23:26:32Z,2026-02-12T00:20:45Z,,,True,0,0,[]
+microsoft/vscode,293548,Fix accessibility skill,closed,benvillalobos,2026-02-06T23:01:47Z,2026-02-06T23:22:04Z,2026-02-06T23:22:04Z,2026-02-06T23:22:04Z,False,0,0,[]
+microsoft/vscode,293546,Avoid auto approval for confirmation tool with buttons for background agents,closed,DonJayamanne,2026-02-06T22:28:31Z,2026-02-08T14:13:11Z,2026-02-08T14:13:09Z,2026-02-08T14:13:09Z,False,0,0,[]
+microsoft/vscode,293545,Limit the subagent model to a model with multiplier <= the main agent,closed,roblourens,2026-02-06T22:28:07Z,2026-02-11T21:54:19Z,2026-02-11T21:54:18Z,2026-02-11T21:54:18Z,False,0,0,"[""candidate""]"
+microsoft/vscode,293543,Add common blocking behaviour for hooks,closed,pwang347,2026-02-06T22:25:32Z,2026-02-07T16:56:12Z,2026-02-07T16:56:11Z,2026-02-07T16:56:11Z,False,0,0,[]
+microsoft/vscode,293539,fix(github): prioritize user and org repos in clone search,open,kairosci,2026-02-06T22:15:31Z,2026-02-08T20:08:43Z,,,False,0,0,[]
+microsoft/vscode,293538,improve question carousel accessibility,closed,meganrogge,2026-02-06T22:06:55Z,2026-02-06T23:01:37Z,2026-02-06T23:01:35Z,2026-02-06T23:01:35Z,False,0,0,[]
+microsoft/vscode,293531,Bump tar and dmg-builder in /build,closed,dependabot[bot],2026-02-06T21:05:35Z,2026-02-06T21:31:35Z,2026-02-06T21:31:34Z,2026-02-06T21:31:34Z,False,0,0,"[""javascript"", ""dependencies""]"
+microsoft/vscode,293530,Support OS-specific commands for hooks,closed,pwang347,2026-02-06T20:56:47Z,2026-02-06T23:19:53Z,2026-02-06T23:19:50Z,2026-02-06T23:19:50Z,False,0,0,[]
+microsoft/vscode,293525,"fix auto reply, ensure default option is provided",closed,meganrogge,2026-02-06T20:17:44Z,2026-02-06T20:50:20Z,2026-02-06T20:50:17Z,2026-02-06T20:50:17Z,False,0,0,[]
+microsoft/vscode,293523,Polish agent sessions list UI,closed,daviddossett,2026-02-06T20:08:53Z,2026-02-07T08:21:41Z,2026-02-07T02:46:21Z,2026-02-07T02:46:21Z,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293517,Handle multiple post/preToolUse hooks more correctly,closed,roblourens,2026-02-06T19:45:25Z,2026-02-06T20:14:53Z,2026-02-06T20:14:52Z,2026-02-06T20:14:52Z,False,0,0,[]
+microsoft/vscode,293514,hook streaming first pass,closed,justschen,2026-02-06T19:40:29Z,2026-02-07T00:03:28Z,2026-02-07T00:03:25Z,2026-02-07T00:03:25Z,False,0,0,[]
+microsoft/vscode,293513,Optimize context key change filtering in whenPanelAgentHasGuidance,closed,Copilot,2026-02-06T19:39:48Z,2026-02-07T08:25:58Z,2026-02-07T08:25:58Z,,True,0,0,[]
+microsoft/vscode,293512,chat: add drag-and-drop reordering for pending messages,closed,connor4312,2026-02-06T19:12:50Z,2026-02-06T20:52:37Z,2026-02-06T20:52:36Z,2026-02-06T20:52:36Z,False,0,0,[]
+microsoft/vscode,293511,chat: support resuming subagent sessions,closed,bharatvansh,2026-02-06T19:04:41Z,2026-02-07T06:03:38Z,2026-02-07T06:03:38Z,,False,0,0,[]
+microsoft/vscode,293510,Add configurable hover title verbosity for editor tabs,open,murataslan1,2026-02-06T18:58:13Z,2026-02-10T17:16:45Z,,,False,0,0,[]
+microsoft/vscode,293509,Adopts user interaction service in inline completions,closed,hediet,2026-02-06T18:56:17Z,2026-02-06T20:52:07Z,2026-02-06T20:52:05Z,2026-02-06T20:52:05Z,False,0,0,[]
+microsoft/vscode,293508,rm `any` from task files,closed,meganrogge,2026-02-06T18:56:04Z,2026-02-07T03:01:38Z,2026-02-06T20:01:41Z,2026-02-06T20:01:41Z,False,0,0,[]
+microsoft/vscode,293506,chat / sessions - adopt `max-width` rule for session title and sessions list when stacked,closed,bpasero,2026-02-06T18:38:39Z,2026-02-06T19:29:24Z,2026-02-06T19:29:23Z,2026-02-06T19:29:22Z,False,0,0,[]
+microsoft/vscode,293504,Fix URI.revive to handle non-object data gracefully,closed,Copilot,2026-02-06T18:29:25Z,2026-02-11T16:57:15Z,2026-02-11T16:57:15Z,,False,0,0,[]
+microsoft/vscode,293501,Fixes esbuild issues,closed,hediet,2026-02-06T18:16:16Z,2026-02-06T19:21:14Z,2026-02-06T18:45:25Z,2026-02-06T18:45:25Z,False,0,0,[]
+microsoft/vscode,293499,feat: move experimental extension settings to the end,closed,rzhao271,2026-02-06T18:04:46Z,2026-02-06T18:24:14Z,2026-02-06T18:24:12Z,2026-02-06T18:24:12Z,False,0,0,[]
+microsoft/vscode,293496,Use CSS custom properties for modal backdrop blur values,closed,Copilot,2026-02-06T18:00:47Z,2026-02-06T18:09:17Z,2026-02-06T18:09:15Z,2026-02-06T18:09:14Z,False,0,0,[]
+microsoft/vscode,293493,improve accessible view cursor position save/restore reliability,closed,meganrogge,2026-02-06T17:48:48Z,2026-02-06T18:18:08Z,2026-02-06T18:18:06Z,2026-02-06T18:18:06Z,False,0,0,[]
+microsoft/vscode,293491,Play accessibility signal when chat needs input while window is in background,closed,Copilot,2026-02-06T17:40:32Z,2026-02-06T17:50:25Z,2026-02-06T17:50:25Z,,True,0,0,[]
+microsoft/vscode,293489,Eli/try-motion,closed,eli-w-king,2026-02-06T17:39:35Z,2026-02-09T22:05:25Z,2026-02-09T19:47:33Z,,True,0,0,[]
+microsoft/vscode,293483,retain cursor position per provider so it remains stable while streaming,closed,meganrogge,2026-02-06T17:24:38Z,2026-02-06T17:43:34Z,2026-02-06T17:43:32Z,2026-02-06T17:43:32Z,False,0,0,[]
+microsoft/vscode,293470,Restore box-shadow for activity bar in nosidebar layout,closed,mrleemurray,2026-02-06T16:39:23Z,2026-02-06T17:33:20Z,2026-02-06T17:33:19Z,2026-02-06T17:33:19Z,False,0,0,[]
+microsoft/vscode,293463,Adjust z-index values for UI elements,closed,mrleemurray,2026-02-06T16:19:44Z,2026-02-06T17:33:54Z,2026-02-06T17:33:52Z,2026-02-06T17:33:52Z,False,0,0,[]
+microsoft/vscode,293462,Improve chat setup when extension has error condition (fix #293326),closed,bpasero,2026-02-06T16:10:03Z,2026-02-06T19:50:34Z,2026-02-06T19:50:32Z,2026-02-06T19:50:32Z,False,0,0,[]
+microsoft/vscode,293461,Disable inline suggestions for protected files,open,Baby-adi,2026-02-06T16:06:57Z,2026-02-10T17:17:31Z,,,False,0,0,[]
+microsoft/vscode,293460,modal editor - tweak for settings and multi editor support,closed,bpasero,2026-02-06T16:06:21Z,2026-02-06T17:16:59Z,2026-02-06T17:16:58Z,2026-02-06T17:16:58Z,False,0,0,[]
+microsoft/vscode,293456,Color contrast ratio of tree view description text is 4.381:1 which is less than 4.5:1: A11y_Visual Studio Code Client_Default screen_Color Contrast,open,alexr00,2026-02-06T15:58:57Z,2026-02-06T16:01:41Z,,,False,0,0,[]
+microsoft/vscode,293452,Use cache for welcome view,closed,osortega,2026-02-06T15:44:15Z,2026-02-09T01:40:49Z,2026-02-09T01:40:48Z,2026-02-09T01:40:48Z,False,0,0,[]
+microsoft/vscode,293442,Use DisposableMap for session listener lifecycle in FocusSessionActionViewItem,open,Copilot,2026-02-06T15:03:30Z,2026-02-09T07:55:56Z,,,True,0,0,[]
+microsoft/vscode,293437,Update button and badge colors in 2026 Dark theme for better visibility,closed,mrleemurray,2026-02-06T14:47:17Z,2026-02-06T15:13:18Z,2026-02-06T15:13:16Z,2026-02-06T15:13:16Z,False,0,0,[]
+microsoft/vscode,293434,modal editor tweaks,closed,bpasero,2026-02-06T14:43:15Z,2026-02-06T15:21:12Z,2026-02-06T15:21:10Z,2026-02-06T15:21:10Z,False,0,0,[]
+microsoft/vscode,293433,Update extension button styles and improve button hierarchy in extension detail view,closed,mrleemurray,2026-02-06T14:35:03Z,2026-02-06T15:23:53Z,2026-02-06T15:23:52Z,2026-02-06T15:23:51Z,False,0,0,[]
+microsoft/vscode,293426,Chat - implement session picker in the chat panel title,closed,joaomoreno,2026-02-06T14:07:11Z,2026-02-10T19:05:48Z,2026-02-10T19:05:46Z,2026-02-10T19:05:45Z,False,0,0,[]
+microsoft/vscode,293423,Add File Duplicate and Rename commands,open,orhantoy,2026-02-06T14:01:55Z,2026-02-06T15:30:10Z,,,False,0,0,[]
+microsoft/vscode,293422,Fix VSCode formatting settings,closed,remcohaszing,2026-02-06T14:01:32Z,2026-02-09T18:04:38Z,2026-02-06T21:41:06Z,,False,0,0,[]
+microsoft/vscode,293411,Fix leak in simple file dialog,closed,alexr00,2026-02-06T13:23:56Z,2026-02-06T13:55:48Z,2026-02-06T13:55:47Z,2026-02-06T13:55:47Z,False,0,0,[]
+microsoft/vscode,293409,Fix leaks in port auto forwarding,closed,alexr00,2026-02-06T13:17:32Z,2026-02-06T13:37:43Z,2026-02-06T13:37:42Z,2026-02-06T13:37:41Z,False,0,0,[]
+microsoft/vscode,293407,Git - add exclude command,open,rubenp02,2026-02-06T13:16:31Z,2026-02-06T13:40:35Z,,,False,0,0,[]
+microsoft/vscode,293406,Fix some leaks,closed,alexr00,2026-02-06T13:13:50Z,2026-02-06T15:52:24Z,2026-02-06T15:52:22Z,2026-02-06T15:52:22Z,False,0,0,[]
+microsoft/vscode,293402,Support for confirmation with custom buttons via toolcall,closed,DonJayamanne,2026-02-06T12:54:14Z,2026-02-06T21:25:35Z,2026-02-06T21:25:34Z,2026-02-06T21:25:34Z,False,0,0,[]
+microsoft/vscode,293396,Update titlebar styles for improved opacity handling,closed,mrleemurray,2026-02-06T12:17:59Z,2026-02-06T13:03:32Z,2026-02-06T13:03:30Z,2026-02-06T13:03:30Z,False,0,0,[]
+microsoft/vscode,293395,Fix stale rejected custom editor model cache on reopen,open,murataslan1,2026-02-06T12:16:00Z,2026-02-06T17:51:52Z,,,False,0,0,[]
+microsoft/vscode,293393,modal editor - increase z-index again,closed,bpasero,2026-02-06T12:03:18Z,2026-02-06T13:03:03Z,2026-02-06T13:03:02Z,2026-02-06T13:03:02Z,False,0,0,[]
+microsoft/vscode,293392,Gate inline completion language status on chat.disableAIFeatures,closed,Copilot,2026-02-06T12:02:18Z,2026-02-06T16:46:41Z,2026-02-06T16:36:57Z,2026-02-06T16:36:57Z,False,0,0,[]
+microsoft/vscode,293390,Use MODAL_GROUP for agent session projection editors,closed,Copilot,2026-02-06T11:49:05Z,2026-02-06T16:06:57Z,2026-02-06T16:06:54Z,2026-02-06T16:06:54Z,False,0,0,[]
+microsoft/vscode,293389,Add tests for canSelectMany tree view property (#262542),closed,Copilot,2026-02-06T11:47:46Z,2026-02-06T16:08:03Z,2026-02-06T16:08:03Z,,True,0,0,[]
+microsoft/vscode,293388,modal editor - tweaks,closed,bpasero,2026-02-06T11:45:30Z,2026-02-06T13:02:35Z,2026-02-06T13:02:33Z,2026-02-06T13:02:33Z,False,0,0,[]
+microsoft/vscode,293385,Remove extra parentheses from ShouldUpdateShortcut checks in code.iss,closed,dmitrivMS,2026-02-06T11:38:41Z,2026-02-06T13:33:16Z,2026-02-06T13:33:14Z,2026-02-06T13:33:13Z,False,0,0,"[""install-update""]"
+microsoft/vscode,293383,Enhance dark theme with brightness reduction for better contrast,closed,mrleemurray,2026-02-06T11:31:57Z,2026-02-06T13:01:42Z,2026-02-06T13:01:41Z,2026-02-06T13:01:41Z,False,0,0,[]
+microsoft/vscode,293381,Fix merge conflict false positive for SEARCH/REPLACE patterns,open,joyal-jij0,2026-02-06T11:23:29Z,2026-02-06T13:15:53Z,,,False,0,0,[]
+microsoft/vscode,293379,Include modern default theme files in 2026 Dark and Light themes,closed,mrleemurray,2026-02-06T11:13:02Z,2026-02-06T12:22:07Z,2026-02-06T12:22:06Z,2026-02-06T12:22:06Z,False,0,0,[]
+microsoft/vscode,293375,Dim window controls overlay when modal custom dialog shows,closed,Copilot,2026-02-06T11:01:58Z,2026-02-06T19:05:33Z,2026-02-06T19:05:33Z,,True,0,0,[]
+microsoft/vscode,293371,Adds user interactive service to allow mocking focus/hover states (in inline completions).,closed,hediet,2026-02-06T11:00:08Z,2026-02-06T13:04:25Z,2026-02-06T13:04:24Z,2026-02-06T13:04:24Z,False,0,0,[]
+microsoft/vscode,293366,Avoid overwriting shortcuts during background update if they already exist,closed,dmitrivMS,2026-02-06T10:25:43Z,2026-02-06T10:50:24Z,2026-02-06T10:50:23Z,2026-02-06T10:50:23Z,False,0,0,"[""install-update""]"
+microsoft/vscode,293358,engineering: fix cache extraction failure in win32 node_modules cache,closed,Copilot,2026-02-06T10:00:21Z,2026-02-06T15:55:02Z,2026-02-06T15:55:02Z,,True,0,0,[]
+microsoft/vscode,293357,fix: permit internal infrastructure tools when agent mode is disabled,closed,jrieken,2026-02-06T09:58:58Z,2026-02-11T08:28:27Z,2026-02-11T08:28:24Z,2026-02-11T08:28:24Z,False,0,0,[]
+microsoft/vscode,293356,engineering: use tar+zstd for win32 node_modules cache,closed,joaomoreno,2026-02-06T09:55:55Z,2026-02-06T15:54:55Z,2026-02-06T15:54:55Z,,True,0,0,[]
+microsoft/vscode,293355,Adds kusto exploration instructions & improves telemetry types,closed,hediet,2026-02-06T09:50:50Z,2026-02-06T10:20:33Z,2026-02-06T10:20:31Z,2026-02-06T10:20:31Z,False,0,0,[]
+microsoft/vscode,293354,support for claude agents,closed,aeschli,2026-02-06T09:50:00Z,2026-02-09T00:14:00Z,2026-02-09T00:13:59Z,2026-02-09T00:13:59Z,False,0,0,[]
+microsoft/vscode,293346,fix - adjust header height in `ModalEditorPart`,closed,bpasero,2026-02-06T09:27:30Z,2026-02-06T09:48:56Z,2026-02-06T09:48:54Z,2026-02-06T09:48:54Z,False,0,0,[]
+microsoft/vscode,293341,style - update styles for modal editor components,closed,bpasero,2026-02-06T09:01:21Z,2026-02-06T09:24:44Z,2026-02-06T09:24:43Z,2026-02-06T09:24:43Z,False,0,0,[]
+microsoft/vscode,293334,extensions - open as editor again,closed,bpasero,2026-02-06T08:53:05Z,2026-02-06T09:11:36Z,2026-02-06T09:11:34Z,2026-02-06T09:11:34Z,False,0,0,[]
+microsoft/vscode,293330,Add `allowTrustedDomains` to terminal sandbox network config,closed,Copilot,2026-02-06T08:36:20Z,2026-02-09T21:11:59Z,2026-02-09T21:11:56Z,2026-02-09T21:11:56Z,False,0,0,[]
+microsoft/vscode,293327,Immediately show extension welcome error during chat setup instead of waiting for timeout,closed,Copilot,2026-02-06T08:29:31Z,2026-02-06T13:15:50Z,2026-02-06T13:15:50Z,,True,0,0,[]
+microsoft/vscode,293308,Leaks! (#293200),closed,bpasero,2026-02-06T06:44:50Z,2026-02-06T07:06:49Z,2026-02-06T07:06:48Z,2026-02-06T07:06:47Z,False,0,0,[]
+microsoft/vscode,293302,fix edits jumping around and questions appearing above,closed,justschen,2026-02-06T06:12:54Z,2026-02-06T06:34:59Z,2026-02-06T06:34:59Z,2026-02-06T06:34:59Z,False,0,0,[]
+microsoft/vscode,293298,String update,closed,pwang347,2026-02-06T05:51:26Z,2026-02-06T07:07:39Z,2026-02-06T07:07:38Z,2026-02-06T07:07:38Z,False,0,0,[]
+microsoft/vscode,293293,Add localization instructions for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:26:00Z,,,False,0,0,[]
+microsoft/vscode,293292,Add memory leak audit skill for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T16:11:59Z,,,False,0,0,[]
+microsoft/vscode,293291,Update proposed API versioning instructions,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:24:26Z,,,False,0,0,[]
+microsoft/vscode,293289,Add built-in extension instructions for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:25:20Z,,,False,0,0,[]
+microsoft/vscode,293290,Add accessibility instructions for AI coding agents,closed,digitarald,2026-02-06T05:22:18Z,2026-02-06T16:05:51Z,2026-02-06T16:05:48Z,2026-02-06T16:05:48Z,False,0,0,[]
+microsoft/vscode,293288,Add service and DI instructions for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-09T15:39:55Z,,,False,0,0,[]
+microsoft/vscode,293287,Add new workbench contribution skill for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:26:34Z,,,False,0,0,[]
+microsoft/vscode,293286,Add Extension API instructions for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:25:09Z,,,False,0,0,[]
+microsoft/vscode,293285,Add new action/command skill for AI coding agents,open,digitarald,2026-02-06T05:22:18Z,2026-02-06T05:25:15Z,,,False,0,0,[]
+microsoft/vscode,293282,PostToolUse hook,closed,roblourens,2026-02-06T04:42:09Z,2026-02-06T18:23:47Z,2026-02-06T18:23:45Z,2026-02-06T18:23:45Z,False,0,0,[]
+microsoft/vscode,293281,adds blur + transparency to new modals in 2026 themes,open,eli-w-king,2026-02-06T04:37:36Z,2026-02-10T16:52:36Z,,,False,0,0,"[""ux"", ""2026-themes""]"
+microsoft/vscode,293279,Add onDidExecuteHook event to HooksExecutionService,closed,roblourens,2026-02-06T04:20:32Z,2026-02-06T20:14:26Z,2026-02-06T20:14:25Z,2026-02-06T20:14:25Z,False,0,0,[]
+microsoft/vscode,293273,hooks streaming first pass,closed,justschen,2026-02-06T03:41:24Z,2026-02-06T19:39:54Z,2026-02-06T19:39:54Z,,True,0,0,[]
+microsoft/vscode,293266,Fix chat cancel keybinding when clause,closed,roblourens,2026-02-06T03:09:03Z,2026-02-06T10:06:30Z,2026-02-06T04:52:45Z,,False,0,0,[]
+microsoft/vscode,293265,Enhance preToolUse hook and clean up code,closed,roblourens,2026-02-06T03:08:24Z,2026-02-06T03:53:27Z,2026-02-06T03:53:25Z,2026-02-06T03:53:25Z,False,0,0,[]
+microsoft/vscode,293263,Update RequestTurn2 to allow passing a request Id from chat extension,closed,DonJayamanne,2026-02-06T02:48:56Z,2026-02-06T05:45:56Z,2026-02-06T05:45:55Z,2026-02-06T05:45:55Z,False,0,0,[]
+microsoft/vscode,293251,feat(ai-chat): Plan/Apply Cursor互換 + resolveTarget + transaction + Preview/Undo (STEP1-3),closed,masato214,2026-02-06T01:28:19Z,2026-02-06T01:30:52Z,2026-02-06T01:30:41Z,,False,0,0,[]
+golang/go,77489,crypto/ed25519: don't panic on public keys with incorrect lengths,open,JackDoan,2026-02-06T22:16:56Z,2026-02-09T16:24:11Z,,,False,0,0,[]
+golang/go,77479,net/http: add ProxyConnectError type for proxy CONNECT failures,open,fl0Lec,2026-02-06T15:02:50Z,2026-02-09T13:30:49Z,,,False,0,0,[]
+golang/go,77476,cmd/compile/internal/ssagen: fix typo GrtCallerSP -> GetCallerSP,closed,a18792721831,2026-02-06T08:39:12Z,2026-02-06T17:48:07Z,2026-02-06T17:48:07Z,,False,0,0,[]
+golang/go,77475,net: document LookupSRV cname return value,open,a18792721831,2026-02-06T08:13:07Z,2026-02-09T02:43:59Z,,,False,0,0,[]
+apache/spark,54192,[SPARK-55409][PS] Handle an unexpected keyword argument error from read_excel with pandas 3,closed,ueshin,2026-02-06T23:47:31Z,2026-02-08T22:20:22Z,2026-02-08T22:20:22Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54191,[SPARK-55408][PS] Handle unexpected keyword argument errors related to datetime with pandas 3,closed,ueshin,2026-02-06T23:39:55Z,2026-02-09T00:23:14Z,2026-02-09T00:22:52Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54190,[SPARK-55407][PYSPARK] Replace logger.warn with logger.warning,closed,gaogaotiantian,2026-02-06T23:10:51Z,2026-02-09T02:53:01Z,2026-02-08T20:31:50Z,,False,0,0,"[""SQL"", ""PYTHON"", ""CONNECT""]"
+apache/spark,54189,[SPARK-55406][PYTHON][CONNECT] Reimplement the thread pool for ExecutePlanResponseReattachableIterator,closed,gaogaotiantian,2026-02-06T22:56:09Z,2026-02-10T21:54:48Z,2026-02-08T22:19:54Z,,False,0,0,"[""SQL"", ""PYTHON"", ""CONNECT""]"
+apache/spark,54188,[SPARK-55405][PYTHON][TESTS] Change tests for pa.Array.cast to use golden file,closed,Yicong-Huang,2026-02-06T22:34:44Z,2026-02-09T15:21:31Z,2026-02-09T00:21:42Z,,False,0,0,"[""CORE"", ""PYTHON""]"
+apache/spark,54187,[SPARK-55404][PYTHON] Always raise KeyboardInterrupt from SIGINT handler,closed,gaogaotiantian,2026-02-06T22:04:55Z,2026-02-10T21:55:01Z,2026-02-08T22:18:47Z,,False,0,0,"[""PYTHON""]"
+apache/spark,54186,[SPARK-55403][PS] Fix `no attribute 'draw'` error in the plot tests with pandas 3,closed,ueshin,2026-02-06T21:46:23Z,2026-02-08T12:28:40Z,2026-02-08T12:28:20Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54185,[SPARK-55402][SS] Move streamingSourceIdentifyingName from CatalogTable to DataSource,closed,ericm-db,2026-02-06T20:51:22Z,2026-02-09T19:16:54Z,2026-02-09T19:16:48Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING""]"
+apache/spark,54184,[SPARK-46168][PS] Implementation of idxmin Axis argument ,open,devin-petersohn,2026-02-06T19:28:03Z,2026-02-09T17:37:41Z,,,True,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54183,[SPARK-55401][PYTHON] Add retry logic and timeout handling to pyspark install download,closed,yaooqinn,2026-02-06T18:55:26Z,2026-02-07T16:40:04Z,2026-02-07T16:38:55Z,,False,0,0,"[""CORE"", ""PYTHON""]"
+apache/spark,54182,[SPARK-55411][SQL] SPJ may throw ArrayIndexOutOfBoundsException when join keys are less than cluster keys,closed,pan3793,2026-02-06T18:43:59Z,2026-02-11T07:32:37Z,2026-02-10T15:44:00Z,,False,0,0,"[""SQL""]"
+apache/spark,54181,[SPARK-55301][SS] Re-enable all dimension in OfflineStateRepartitionIntegrationSuites,open,zifeif2,2026-02-06T18:40:12Z,2026-02-12T00:32:26Z,,,True,0,0,"[""SQL"", ""STRUCTURED STREAMING""]"
+apache/spark,54180,[SPARK-55361][DOCS][PYTHON] Suggest the use of to_arrow_schema to avoid specifying schema twice,open,casgie,2026-02-06T16:10:01Z,2026-02-12T08:48:12Z,,,False,0,0,"[""SQL"", ""DOCS"", ""PYTHON""]"
+apache/spark,54179,[SPARK-55399][K8S] Improve `KubernetesDriverEndpoint` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-06T15:26:29Z,2026-02-07T02:16:49Z,2026-02-07T02:16:27Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,54178,[SPARK-55395][SQL] Disable RDD cache in `DataFrame.zipWithIndex`,closed,zhengruifeng,2026-02-06T12:51:50Z,2026-02-09T00:13:15Z,2026-02-08T22:13:15Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54177,[SPARK-55394][PYTHON][INFRA] Upgrade Python 3.10 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T12:24:23Z,2026-02-07T08:24:54Z,2026-02-07T08:24:31Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54176,[SPARK-55393][PYTHON][INFRA] Upgrade Python 3.11 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:16:28Z,2026-02-07T08:23:50Z,2026-02-07T08:23:25Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54175,[SPARK-55392][PYTHON][INFRA] Upgrade Python 3.14 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:10:14Z,2026-02-07T08:22:09Z,2026-02-07T08:21:48Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54174,framework foundation - interfaces and config,closed,davidm-db,2026-02-06T11:03:13Z,2026-02-09T09:20:27Z,2026-02-09T09:14:53Z,,False,0,0,"[""SQL""]"
+apache/spark,54173,[SPARK-55391][PYTHON][INFRA] Upgrade Python 3.13 test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-06T11:00:35Z,2026-02-07T08:20:51Z,2026-02-07T08:20:27Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54172,"[SPARK-55389][PYTHON] Consolidate `SQL_MAP_ARROW_ITER_UDF` wrapper, mapper, and serializer logic",open,Yicong-Huang,2026-02-06T06:50:05Z,2026-02-12T01:07:44Z,,,False,0,0,"[""SQL"", ""CORE"", ""PYTHON""]"
+apache/spark,54171,[SPARK-55387][CORE][UI] Fix DAG visualization not rendering due to malformed DOT label,closed,yaooqinn,2026-02-06T06:32:05Z,2026-02-07T16:12:57Z,2026-02-07T16:12:57Z,,False,0,0,"[""WEB UI""]"
+apache/spark,54170,[SPARK-55386][INFRA] Run `Java 17/25` Maven install tests on PR build only,closed,dongjoon-hyun,2026-02-06T04:36:08Z,2026-02-06T06:04:02Z,2026-02-06T06:01:18Z,,False,0,0,"[""INFRA""]"
+apache/spark,54169,[SPARK-55385][CORE][SQL] Mitigate the recomputation in `zipWithIndex`,closed,zhengruifeng,2026-02-06T04:24:01Z,2026-02-09T00:12:43Z,2026-02-08T22:12:47Z,,False,0,0,"[""SQL"", ""CORE""]"
+apache/spark,54168,[SPARK-55383][INFRA] Only send test report to codecov in coverage run,closed,gaogaotiantian,2026-02-06T03:36:37Z,2026-02-10T21:55:11Z,2026-02-08T22:12:16Z,,False,0,0,"[""INFRA""]"
+apache/spark,54167,[SPARK-55382][CORE] Make `Executor` to log `Running Spark version`,closed,dongjoon-hyun,2026-02-06T02:29:16Z,2026-02-06T03:43:06Z,2026-02-06T03:43:06Z,,False,0,0,"[""CORE""]"
+apache/spark,54166,[MINOR][PYTHON] Add `tabulate` in `dev/requirements.txt`,closed,zhengruifeng,2026-02-06T01:38:45Z,2026-02-06T02:02:57Z,2026-02-06T01:43:28Z,,False,0,0,"[""BUILD""]"
+apache/spark,54165,[SPARK-55363][PS][TESTS][FOLLOW-UP] Also fix `test_num_mul_div` to ignore NaN vs. None,closed,ueshin,2026-02-06T00:06:28Z,2026-02-06T01:42:55Z,2026-02-06T01:42:55Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+langchain-ai/langchain,35057,[Partner] AgentMesh: Cryptographic Trust Layer for LangChain Agents,closed,imran-siddique,2026-02-06T21:46:45Z,2026-02-07T19:00:17Z,2026-02-06T21:52:18Z,,False,0,0,"[""integration"", ""dependencies"", ""external""]"
+langchain-ai/langchain,35056,chore(deps): bump aws-actions/configure-aws-credentials from 5 to 6 in the github-actions group,closed,dependabot[bot],2026-02-06T21:11:21Z,2026-02-06T21:17:58Z,2026-02-06T21:17:57Z,2026-02-06T21:17:57Z,False,0,0,"[""infra"", ""dependencies"", ""github_actions"", ""external""]"
+langchain-ai/langchain,35055,chore: deps,closed,jkennedyvz,2026-02-06T20:57:06Z,2026-02-06T21:09:42Z,2026-02-06T21:09:40Z,2026-02-06T21:09:40Z,False,0,0,"[""infra"", ""internal""]"
+langchain-ai/langchain,35053,docs(langchain-classic): clarify MultiVectorRetriever usage,closed,MohammedYaseenAhmedKhan,2026-02-06T20:27:03Z,2026-02-11T21:36:57Z,2026-02-11T21:36:56Z,2026-02-11T21:36:56Z,False,0,0,"[""documentation"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,35052,docs(langchain-classic): warn about older `create_react_agent`,closed,mdrxy,2026-02-06T20:14:36Z,2026-02-06T20:22:16Z,2026-02-06T20:22:14Z,2026-02-06T20:22:14Z,False,0,0,"[""documentation"", ""langchain-classic""]"
+langchain-ai/langchain,35051,docs(langchain-classic): add warning for `initialize_agent` function,closed,mdrxy,2026-02-06T19:57:52Z,2026-02-06T20:00:30Z,2026-02-06T20:00:27Z,2026-02-06T20:00:27Z,False,0,0,"[""documentation"", ""langchain-classic"", ""internal""]"
+langchain-ai/langchain,35049,fix docstring mismatch in langchain_core.utils.mustache.render and remove redundant guess_type check in Blob.from_path  (resolves issue #35046 ),closed,MissLostCodes,2026-02-06T19:03:27Z,2026-02-11T17:35:07Z,2026-02-11T17:35:07Z,,False,0,0,"[""core"", ""external""]"
+langchain-ai/langchain,35048,release(standard-tests): release 1.1.4,closed,eyurtsev,2026-02-06T18:42:32Z,2026-02-06T18:44:14Z,2026-02-06T18:44:12Z,2026-02-06T18:44:12Z,False,0,0,"[""standard-tests"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,35047,"fix(core): clean up redundant logic, fix docstrings, and add Blob unit tests",closed,subhashyadavon,2026-02-06T18:20:32Z,2026-02-11T17:33:25Z,2026-02-11T17:33:25Z,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,35044,chore(infra): delete prompty,closed,ccurme,2026-02-06T15:31:04Z,2026-02-06T15:38:31Z,2026-02-06T15:38:28Z,2026-02-06T15:38:28Z,False,0,0,"[""integration"", ""infra"", ""dependencies"", ""github_actions"", ""prompty"", ""internal""]"
+langchain-ai/langchain,35043,"fix(core): make `self` positional-only in `_run`/`_arun` to allow ""self"" as tool input key",open,veeceey,2026-02-06T11:10:46Z,2026-02-10T07:38:59Z,,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,35042,style: bump ruff version to 0.15,open,cbornet,2026-02-06T09:12:29Z,2026-02-11T09:05:14Z,,,False,0,0,"[""core"", ""langchain"", ""standard-tests"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""linting"", ""external""]"
+langchain-ai/langchain,35040,chore(standard-tests): bump down to 1.1.3,closed,eyurtsev,2026-02-06T02:53:53Z,2026-02-06T02:58:15Z,2026-02-06T02:58:14Z,2026-02-06T02:58:14Z,False,0,0,"[""standard-tests"", ""infra"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,35039,chore(anthropic): update model profiles,closed,ccurme,2026-02-06T00:10:19Z,2026-02-06T00:19:10Z,2026-02-06T00:19:08Z,2026-02-06T00:19:08Z,False,0,0,"[""integration"", ""infra"", ""anthropic"", ""internal""]"
+pallets/flask,5911,Fix request resource leak when teardown handlers raise,closed,THE-Amrit-mahto-05,2026-02-06T21:12:31Z,2026-02-06T22:06:00Z,2026-02-06T21:17:26Z,,False,0,0,[]
+pallets/flask,5910,🤖 Automated code quality improvements (5 fixes),closed,manav363,2026-02-06T08:23:46Z,2026-02-06T09:51:47Z,2026-02-06T08:40:10Z,,False,0,0,[]
+duckdb/duckdb,20846,Fix missing profiling metrics in EXPLAIN ANALYZE JSON output,open,2jungkook,2026-02-06T21:21:18Z,2026-02-10T09:41:26Z,,,False,0,0,"[""CI Failure""]"
+duckdb/duckdb,20843,Fixed the issue where `prepared` parameters in a subquery(#ISSUE 20792),closed,ArNine,2026-02-06T14:48:31Z,2026-02-07T05:18:27Z,2026-02-07T05:18:27Z,,False,0,0,[]
+duckdb/duckdb,20842,Fixed the issue where `prepared` parameters in a subquery assigned th…,closed,ArNine,2026-02-06T14:36:11Z,2026-02-06T14:47:43Z,2026-02-06T14:47:43Z,,True,0,0,[]
+duckdb/duckdb,20841,Add VERIFY_SSL option as an optional parameter for HTTP secret creation,closed,carlopi,2026-02-06T14:33:42Z,2026-02-10T20:01:39Z,2026-02-10T17:21:12Z,2026-02-10T17:21:12Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20840,UHugeInt conversion to Arrow Decimal,closed,evertlammerts,2026-02-06T13:51:29Z,2026-02-09T07:59:06Z,2026-02-09T07:59:03Z,2026-02-09T07:59:03Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20839,Fix Positional Parameter Binding Order for Prepared Statements with Sub-queries,closed,d-justen,2026-02-06T13:47:38Z,2026-02-07T16:38:57Z,2026-02-07T16:38:57Z,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20837,Add option `enable_peg_parser`,open,Dtenwolde,2026-02-06T13:19:56Z,2026-02-12T08:44:53Z,,,False,0,0,[]
+duckdb/duckdb,20836,Fix CI variegata,closed,c-herrewijn,2026-02-06T12:29:52Z,2026-02-10T09:55:13Z,2026-02-06T20:57:25Z,2026-02-06T20:57:25Z,False,0,0,[]
+duckdb/duckdb,20835,Start CLI search with what is already in buffer [Retarget to v1.5-variegata],closed,Dtenwolde,2026-02-06T11:59:51Z,2026-02-06T21:11:30Z,2026-02-06T21:11:27Z,2026-02-06T21:11:27Z,False,0,0,[]
+duckdb/duckdb,20834,Start CLI search with what is already in buffer,closed,Dtenwolde,2026-02-06T11:43:06Z,2026-02-06T11:53:09Z,2026-02-06T11:53:08Z,,False,0,0,[]
+duckdb/duckdb,20832,Internal #7335: Join Condition Statistics,closed,hawkfish,2026-02-06T05:35:50Z,2026-02-08T00:25:34Z,2026-02-07T11:00:27Z,2026-02-07T11:00:27Z,False,0,0,"[""Ready For Review""]"

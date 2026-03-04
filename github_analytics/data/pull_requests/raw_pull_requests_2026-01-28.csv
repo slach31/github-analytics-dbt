@@ -1,0 +1,58 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35654,[tests] Fix ReactDOMAttribute-test,closed,rickhanlonii,2026-01-28T20:39:21Z,2026-01-28T21:00:40Z,2026-01-28T21:00:40Z,2026-01-28T21:00:40Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35653,Bump next from 15.5.9 to 16.1.5 in /compiler/apps/playground,open,dependabot[bot],2026-01-28T19:10:58Z,2026-01-28T19:11:05Z,,,False,0,0,"[""CLA Signed"", ""dependencies"", ""javascript""]"
+facebook/react,35650,"[Flight] Restore original function name in dev, server callstacks served with `unsafe-eval`",closed,eps1lon,2026-01-28T14:43:49Z,2026-01-28T17:41:27Z,2026-01-28T17:41:08Z,2026-01-28T17:41:08Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35649,[Perf Tracks] Use minus (`-`) instead of en dash for removed props,closed,eps1lon,2026-01-28T10:09:09Z,2026-01-28T11:15:02Z,2026-01-28T11:14:59Z,2026-01-28T11:14:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35648,[Perf Tracks] Handle arrays with bigints in deep objects,closed,eps1lon,2026-01-28T09:55:57Z,2026-02-04T10:16:10Z,2026-01-28T10:54:51Z,2026-01-28T10:54:51Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+golang/go,77348,quoted: applying TestComments in tests,open,manuelarte,2026-01-28T13:13:56Z,2026-01-28T14:12:51Z,,,False,0,0,[]
+golang/go,77347,hash/fnv: add doc-links to package doc,open,thaJeztah,2026-01-28T12:06:52Z,2026-01-28T12:17:25Z,,,False,0,0,[]
+apache/spark,54046,[SPARK-41398][SQL][FOLLOWUP] Update runtime filtering javadoc to reflect relaxed partition constraints,closed,yyanyy,2026-01-28T22:42:18Z,2026-01-29T02:54:33Z,2026-01-29T02:54:33Z,,False,0,0,"[""SQL""]"
+apache/spark,54045,[SPARK-55265][INFRA] Increase timeout to 150 mins in GitHub Actions,closed,HyukjinKwon,2026-01-28T22:15:40Z,2026-01-29T00:21:46Z,2026-01-28T22:19:46Z,,False,0,0,"[""INFRA""]"
+apache/spark,54044,[SPARK-46168][PS] Add axis argument for idxmax,open,devin-petersohn,2026-01-28T22:14:32Z,2026-02-10T01:24:07Z,,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54043,[SPARK-42025][SHUFFLE] Improve logs level in removeBlocks,open,varun-lakhyani,2026-01-28T20:13:12Z,2026-01-30T16:21:41Z,,,False,0,0,"[""CORE""]"
+apache/spark,54042,[SPARK-55263][PYTHON][INFRA] Upgrade Python linter from 3.11 to 3.12 in CI,closed,Yicong-Huang,2026-01-28T19:32:35Z,2026-01-30T00:36:01Z,2026-01-30T00:36:01Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54041,[SPARK-54179][SQL][FOLLOW-UP] Add Dataframe API support for Tuple sketches,closed,cboumalh,2026-01-28T18:16:18Z,2026-02-11T21:34:45Z,2026-02-11T21:34:18Z,,False,0,0,"[""SQL"", ""DOCS"", ""PYTHON"", ""CONNECT""]"
+apache/spark,54040,[SPARK-55261][Geo][SQL] Implement Parquet read support for Geo types,open,uros-db,2026-01-28T18:08:22Z,2026-02-12T09:13:35Z,,,False,0,0,"[""SQL""]"
+apache/spark,54039,[SPARK-55260][Geo][SQL] Implement Parquet write support for Geo types,closed,uros-db,2026-01-28T18:08:16Z,2026-02-02T12:10:48Z,2026-02-02T12:10:48Z,,False,0,0,"[""SQL""]"
+apache/spark,54038,[SPARK-55262][Geo][SQL] Block Geo types in all file based data sources except Parquet,closed,uros-db,2026-01-28T18:07:19Z,2026-01-29T15:19:34Z,2026-01-29T15:19:34Z,,False,0,0,"[""SQL"", ""AVRO""]"
+apache/spark,54037,[SPARK-55259][Geo][SQL] Implement Parquet schema conversion for Geo types,closed,uros-db,2026-01-28T18:06:57Z,2026-01-29T14:50:50Z,2026-01-29T14:50:50Z,,False,0,0,"[""SQL""]"
+apache/spark,54036,[MINOR] Raise exception if no active Spark context,open,amarvin,2026-01-28T16:29:07Z,2026-02-03T17:23:16Z,,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54035,[SPARK-55258][DOCS] Document CLI parameters in declarative pipelines programming guide,closed,sryza,2026-01-28T15:37:56Z,2026-02-03T16:26:30Z,2026-02-03T16:06:02Z,,False,0,0,"[""DOCS""]"
+apache/spark,54034,[SPARK-55256][SQL] Support IGNORE NULLS / RESPECT NULLS for array_agg and collect_list,closed,yaooqinn,2026-01-28T12:20:18Z,2026-01-30T14:41:34Z,2026-01-30T14:34:58Z,,False,0,0,"[""SQL""]"
+apache/spark,54033,[SPARK-54830][TESTS][FOLLOWUP] Disable shuffle checksum for the test case of SPARK-48037 to avoid memory issues,closed,ivoson,2026-01-28T10:26:39Z,2026-01-29T02:52:43Z,2026-01-29T02:38:02Z,,False,0,0,"[""SQL"", ""BUILD""]"
+apache/spark,54032,[SPARK-55255][BUILD] Upgrade `objenesis` to 3.5,closed,dongjoon-hyun,2026-01-28T10:12:07Z,2026-01-28T13:21:10Z,2026-01-28T13:20:26Z,,False,0,0,"[""BUILD""]"
+apache/spark,54031,[SPARK-55254][BUILD] Upgrade `analyticsaccelerator-s3` to 1.3.1,closed,dongjoon-hyun,2026-01-28T09:37:23Z,2026-01-28T11:41:34Z,2026-01-28T11:41:17Z,,False,0,0,"[""BUILD""]"
+apache/spark,54030,[SPARK-55253][Geo][SQL][TESTS] Remove nonansi golden files for ST functions,closed,uros-db,2026-01-28T09:28:18Z,2026-01-28T12:38:21Z,2026-01-28T12:38:21Z,,False,0,0,"[""SQL""]"
+apache/spark,54029,[WIP][SPARK-54276][BUILD] Bump Hadoop 3.4.3 RC0,open,pan3793,2026-01-28T07:46:56Z,2026-02-10T00:12:18Z,,,True,0,0,"[""SQL"", ""KUBERNETES"", ""BUILD"", ""DOCS"", ""CORE""]"
+apache/spark,54028,[SPARK-55252][CORE] Improve `HttpSecurityFilter` to add `Content-Security-Policy` header,closed,dongjoon-hyun,2026-01-28T07:01:37Z,2026-01-28T11:40:11Z,2026-01-28T11:39:56Z,,False,0,0,"[""WEB UI""]"
+apache/spark,54027,[SPARK-55251][INFRA] Make `Python Coverage` test with Python 3.12,closed,LuciferYang,2026-01-28T05:28:57Z,2026-01-28T09:02:37Z,2026-01-28T07:38:37Z,,False,0,0,"[""INFRA""]"
+apache/spark,54026,[SPARK-55250][SQL] Reduce Hive client calls on CREATE NAMESPACE,closed,pan3793,2026-01-28T05:19:04Z,2026-01-28T12:43:52Z,2026-01-28T12:43:52Z,,False,0,0,"[""SQL""]"
+apache/spark,54025,[SPARK-55249][PYTHON] Make DataFrame.toJSON able to return dataframe,closed,zhengruifeng,2026-01-28T03:58:55Z,2026-01-29T00:20:41Z,2026-01-28T22:17:48Z,,False,0,0,"[""SQL"", ""PYTHON"", ""CONNECT""]"
+apache/spark,54024,[SPARK-55248][SS] Clean up Jackson deprecated API usage in `streaming.checkpointing.Checksum`,closed,LuciferYang,2026-01-28T03:25:53Z,2026-01-28T07:26:48Z,2026-01-28T06:22:29Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING""]"
+apache/spark,54023,[SPARK-55247][CONNECT] Clean up deprecated API usage related to `o.a.c.io.input.BoundedInputStream`,closed,LuciferYang,2026-01-28T02:59:26Z,2026-01-28T07:26:35Z,2026-01-28T06:21:25Z,,False,0,0,"[""SQL"", ""CONNECT""]"
+apache/spark,54022,"[SPARK-55241][SQL]. Fix SQL Streaming idempotency broken, with PropagateEmptyRelation and InferFiltersFromConstraint run as part of Fixed Number of iterations",open,ahshahid,2026-01-28T02:37:47Z,2026-01-29T08:31:18Z,,,False,0,0,"[""SQL""]"
+apache/spark,54021,[SPARK-55038][SQL] Fix wrong results for array_agg(DISTINCT) with AQE…,open,anirudh83,2026-01-28T01:49:01Z,2026-01-30T02:33:54Z,,,False,0,0,"[""SQL""]"
+apache/spark,54020,[SPARK-54906][PYTHON][TESTS][FOLLOWUP] Try to use a real module name instead of `__main__`,closed,ueshin,2026-01-28T01:14:46Z,2026-01-28T01:58:56Z,2026-01-28T01:58:41Z,,False,0,0,"[""PYTHON""]"
+apache/spark,54019,[SPARK-55246][SS] Add Test for Pyspark TWS and TWSInPandas and Fix StatePartitionAllColumnFamiliesWriter Bug,closed,zifeif2,2026-01-28T00:37:55Z,2026-01-31T01:14:25Z,2026-01-31T01:14:25Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON""]"
+apache/spark,54018,[SPARK-55245][PYTHON][PS][TESTS] Fix all timestamp freq usage from M to ME,closed,gaogaotiantian,2026-01-28T00:22:13Z,2026-01-29T01:39:51Z,2026-01-28T02:36:25Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54017,[SPARK-55225][PYTHON][PS] Restore to the original dtype for Datetime,closed,gaogaotiantian,2026-01-28T00:02:50Z,2026-01-29T01:39:31Z,2026-01-29T01:31:50Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+langchain-ai/langchain,34916,fix(core): narrow exception handling in AIMessage tool call parsing,closed,katoue,2026-01-28T20:22:50Z,2026-01-28T20:33:07Z,2026-01-28T20:33:07Z,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,34914,docs(core): nit,closed,mdrxy,2026-01-28T18:51:58Z,2026-01-28T18:54:55Z,2026-01-28T18:54:53Z,2026-01-28T18:54:53Z,False,0,0,"[""documentation"", ""core"", ""internal""]"
+langchain-ai/langchain,34913,feat(infra): related issues for bug report template,closed,mdrxy,2026-01-28T18:51:23Z,2026-01-28T18:54:17Z,2026-01-28T18:54:14Z,2026-01-28T18:54:14Z,False,0,0,"[""feature"", ""internal""]"
+langchain-ai/langchain,34912,fix(core): convert None content to empty string in ToolMessage,closed,katoue,2026-01-28T17:39:52Z,2026-01-30T18:43:10Z,2026-01-30T18:43:10Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,34911,docs(chroma): Add RAG example with metadata filtering,closed,upendra-manike,2026-01-28T17:24:23Z,2026-01-28T18:14:50Z,2026-01-28T18:14:50Z,,False,0,0,"[""documentation"", ""integration"", ""chroma"", ""external""]"
+langchain-ai/langchain,34905,docs: Fix typo in Runnable description of async variants,closed,zvibo,2026-01-28T02:25:51Z,2026-01-30T18:52:38Z,2026-01-30T18:52:38Z,2026-01-30T18:52:38Z,False,0,0,"[""documentation"", ""core"", ""external""]"
+docker/compose,13562,fix panic,closed,ndeloof,2026-01-28T16:49:46Z,2026-01-29T08:57:49Z,2026-01-29T08:57:49Z,2026-01-29T08:57:49Z,False,0,0,[]
+docker/compose,13560,docs: fix docker compose down usage syntax,closed,TheJ10,2026-01-28T15:18:10Z,2026-01-28T15:26:22Z,2026-01-28T15:23:03Z,,False,0,0,[]
+duckdb/duckdb,20722,Internal #7262: IEJoin Block Pinning,closed,hawkfish,2026-01-28T22:39:09Z,2026-01-29T20:26:29Z,2026-01-29T08:09:27Z,2026-01-29T08:09:27Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20721,`GEOMETRY` Rework: Part 7 - More Coordinate Reference System Support,closed,Maxxen,2026-01-28T18:39:32Z,2026-02-09T08:08:30Z,2026-02-04T21:36:23Z,2026-02-04T21:36:23Z,False,0,0,[]
+duckdb/duckdb,20720,[WAL] wal_autocheckpoint_entries setting,closed,artjomPlaunov,2026-01-28T15:27:47Z,2026-02-03T15:23:47Z,2026-02-02T14:48:04Z,2026-02-02T14:48:04Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20719,Relax platform check for windows_amd64_mingw,open,staticlibs,2026-01-28T13:49:15Z,2026-01-28T14:10:57Z,,,False,0,0,[]
+duckdb/duckdb,20718,remove outdated delta patch,closed,benfleis,2026-01-28T12:18:54Z,2026-02-03T10:31:40Z,2026-02-03T10:31:40Z,2026-02-03T10:31:40Z,False,0,0,[]
+duckdb/duckdb,20717,[Encryption] Default nonce/IV len to 12 + refactor api,closed,ccfelius,2026-01-28T12:05:01Z,2026-02-11T08:00:08Z,2026-02-05T12:45:09Z,,False,0,0,[]
+duckdb/duckdb,20716,Optimize `ExportAggregateFinalize` for SIMD loop transformation,closed,EtgarDev,2026-01-28T12:02:37Z,2026-02-11T14:20:13Z,2026-02-11T14:20:13Z,2026-02-11T14:20:13Z,False,0,0,[]
+duckdb/duckdb,20714,Add support for PlannerExtension with a post_bind_function hook,closed,JelteF,2026-01-28T10:04:11Z,2026-01-29T10:34:47Z,2026-01-29T10:34:45Z,2026-01-29T10:34:45Z,False,0,0,[]
+duckdb/duckdb,20712,rename uc_catalog to unity_catalog,closed,benfleis,2026-01-28T09:47:09Z,2026-01-29T09:13:07Z,2026-01-29T09:13:05Z,2026-01-29T09:13:05Z,False,0,0,[]
+duckdb/duckdb,20711,avro.cmake: don't DONT_LINK,closed,carlopi,2026-01-28T09:34:06Z,2026-01-29T09:12:52Z,2026-01-29T09:12:26Z,2026-01-29T09:12:26Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20710,Merge v1.4 into v1.5,closed,Mytherin,2026-01-28T09:15:24Z,2026-01-28T15:33:52Z,2026-01-28T15:33:52Z,2026-01-28T15:33:52Z,False,0,0,[]
+duckdb/duckdb,20707,Choose your semantics: `RECURRING` for all recursive CTEs,closed,kryonix,2026-01-28T07:34:09Z,2026-01-29T09:29:40Z,2026-01-29T09:29:36Z,2026-01-29T09:29:36Z,False,0,0,[]

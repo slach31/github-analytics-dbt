@@ -1,0 +1,62 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35660,[compiler] fix source location for return statements,closed,nathanmarks,2026-01-29T19:51:18Z,2026-01-30T17:32:52Z,2026-01-30T16:37:19Z,0,"[""CLA Signed""]",True
+facebook/react,35659,[Perf Tracks] Handle function names that aren't strings,closed,eps1lon,2026-01-29T16:54:39Z,2026-01-29T17:32:22Z,2026-01-29T17:32:19Z,1,"[""CLA Signed"", ""React Core Team""]",True
+facebook/react,35658,Bump eslint from 7.32.0 to 9.26.0,open,dependabot[bot],2026-01-29T15:11:23Z,2026-01-30T10:53:04Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35657,Bug: React logComponentRender breaks existing functionalities that utilise proxy (trpc client),open,bimusiek,2026-01-29T12:23:54Z,2026-02-04T11:19:55Z,,3,"[""Status: Unconfirmed""]",False
+facebook/react,35656,Bug: Anchor tags do not support autoFocus,open,0099FF,2026-01-29T03:29:03Z,2026-02-03T03:25:03Z,,4,"[""Status: Unconfirmed""]",False
+facebook/react,35655,Bug: ,closed,HIJO790401,2026-01-29T03:28:25Z,2026-02-02T20:51:25Z,2026-02-02T18:35:43Z,2,"[""Status: Unconfirmed""]",False
+golang/go,77372,cmd/link: relocation addend overflow,closed,randall77,2026-01-29T21:24:28Z,2026-01-29T23:16:27Z,2026-01-29T23:16:27Z,3,"[""Soon"", ""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77371,cmd/go: repository URL resolution behavior doesn't match documentation,open,jasonphi,2026-01-29T20:09:48Z,2026-01-29T21:28:58Z,,2,"[""NeedsInvestigation"", ""GoCommand"", ""BugReport""]",False
+golang/go,77370,net/http: drain response body after close,open,nicholashusin,2026-01-29T19:22:27Z,2026-02-10T21:21:59Z,,5,"[""Implementation""]",False
+golang/go,77369,x/tools/go/analysis/passes: fix buf.WriteString(x + y) to the more efficient buf.WriteString(x); buf.WriteString(y),open,TomOnTime,2026-01-29T19:20:16Z,2026-02-11T20:58:09Z,,5,"[""Performance"", ""NeedsInvestigation"", ""FeatureRequest"", ""Tools"", ""gopls/performance""]",False
+golang/go,77368,Merge new 1.25,closed,ylzz1997,2026-01-29T18:00:14Z,2026-01-29T18:01:56Z,2026-01-29T18:00:25Z,2,[],True
+golang/go,77367,x/pkgsite: 500 internal error on cuelang.org/go/cue@master,closed,mvdan,2026-01-29T16:14:59Z,2026-02-09T23:26:24Z,2026-02-03T18:10:54Z,13,"[""pkgsite"", ""BugReport""]",False
+golang/go,77366,x/tools/gopls/internal/test/integration/workspace: TestDirectoryFilters_Wildcard/default failures,closed,gopherbot,2026-01-29T08:09:58Z,2026-02-09T19:23:34Z,2026-02-09T19:23:34Z,2,"[""NeedsInvestigation"", ""gopls"", ""Tools""]",False
+golang/go,77365,cmd/link: runtime crash on AIX,closed,ayappanec,2026-01-29T07:29:11Z,2026-01-29T21:17:52Z,2026-01-29T21:17:52Z,2,"[""OS-AIX"", ""compiler/runtime"", ""FixPending"", ""BugReport""]",False
+golang/go,77364,internal/stringslite: remove duplicate code in function `Index()`,closed,Guest-615695028,2026-01-29T03:13:23Z,2026-02-04T20:20:13Z,2026-02-04T20:20:13Z,4,"[""Suggested"", ""Performance"", ""NeedsFix"", ""Implementation""]",False
+apache/spark,54064,[SPARK-54812][SQL][4.1] Make executable commands not execute on resultDf.cache(),closed,szehon-ho,2026-01-29T22:50:53Z,2026-02-03T21:06:19Z,2026-02-03T10:14:35Z,3,"[""SQL"", ""CONNECT""]",True
+apache/spark,54063,[SPARK-55281][PYTHON] Add ipykernel and IPython to mypy optional package list,closed,gaogaotiantian,2026-01-29T22:05:28Z,2026-02-02T18:49:08Z,2026-01-30T00:37:14Z,2,"[""PYTHON""]",True
+apache/spark,54062,[SPARK-55280][CONNECT] Add GetStatus proto to support execution status monitoring,closed,terana,2026-01-29T14:04:33Z,2026-02-03T21:33:49Z,2026-02-03T21:33:49Z,2,"[""SQL"", ""PYTHON"", ""CONNECT""]",True
+apache/spark,54061,[SPARK-55279][SQL] Add `sketch_funcs` group for DataSketches SQL functions,closed,yaooqinn,2026-01-29T13:03:40Z,2026-02-11T21:12:13Z,2026-01-30T18:22:26Z,3,"[""SQL""]",True
+apache/spark,54060,[SPARK-55086][PYTHON] Add DataSourceReader.pushFilters to Python Data Source API docs,closed,yamayuki-hub,2026-01-29T11:55:49Z,2026-02-05T00:46:11Z,2026-02-05T00:46:10Z,2,"[""DOCS"", ""PYTHON""]",True
+apache/spark,54059,[SPARK-55277][SQL] Add `protobuf_funcs` group for Protobuf SQL functions,closed,yaooqinn,2026-01-29T11:28:08Z,2026-01-30T13:57:09Z,2026-01-30T13:55:43Z,5,"[""SQL""]",True
+apache/spark,54058,"[SPARK-55271][SS] The error originates in KafkaMicroBatchStream.metrics() at line 520, where the code attempts to call .get() on a Scala Option that contains null, then immediately invokes .map() on the null result",open,dipeshmr1,2026-01-29T11:26:30Z,2026-02-05T00:46:36Z,,1,"[""SQL"", ""STRUCTURED STREAMING""]",True
+apache/spark,54057,[SPARK-55276][BUILD] Upgrade `scala-maven-plugin` to 4.9.9,closed,dongjoon-hyun,2026-01-29T11:22:46Z,2026-01-30T06:11:12Z,2026-01-30T00:40:15Z,3,"[""BUILD""]",True
+apache/spark,54056,[SPARK-55275] SQL State Coverage: IllegalStateException AND InvalidPlanInput,open,garlandz-db,2026-01-29T10:55:45Z,2026-02-11T19:50:31Z,,2,"[""SQL"", ""CONNECT""]",True
+apache/spark,54055,[SPARK-55273][SQL] Replace `ParquetFileReader.open().getFooter()` with `readFooter()` to avoid unnecessary operations in `ParquetFooterReader`,closed,LuciferYang,2026-01-29T08:52:35Z,2026-01-30T03:11:17Z,2026-01-30T03:10:27Z,3,"[""SQL""]",True
+apache/spark,54054,[SPARK-55272][BUILD] Upgrade SBT to 1.12.1,closed,LuciferYang,2026-01-29T08:17:51Z,2026-02-02T06:56:59Z,2026-01-30T03:07:58Z,3,"[""BUILD""]",True
+apache/spark,54053,[SPARK-55114][PYTHON][TESTS][FOLLOW-UP] Update the result format to be more friendly to markdown,closed,zhengruifeng,2026-01-29T07:35:34Z,2026-01-29T12:45:57Z,2026-01-29T12:45:37Z,2,"[""SQL"", ""PYTHON""]",True
+apache/spark,54052,[SPARK-55267][INFRA] Make sbt less verbose in github actions,open,gaogaotiantian,2026-01-29T03:07:42Z,2026-02-01T21:55:33Z,,16,"[""BUILD""]",True
+apache/spark,54051,[SPARK-54943][PYTHON][TESTS][FOLLOW-UP] Disable `test_pyarrow_array_cast` for now,closed,zhengruifeng,2026-01-29T03:00:48Z,2026-01-29T03:02:09Z,2026-01-29T03:01:55Z,2,"[""CORE"", ""PYTHON""]",True
+apache/spark,54050,"Revert ""[SPARK-54943][PYTHON][TESTS][FOLLOW-UP] Mistake Commit""",closed,zhengruifeng,2026-01-29T02:58:26Z,2026-01-29T02:59:35Z,2026-01-29T02:59:12Z,1,"[""SQL"", ""BUILD"", ""INFRA"", ""PYTHON""]",True
+apache/spark,54049,[SPARK-54943][PYTHON][TESTS][FOLLOW-UP] Disable `test_pyarrow_array_cast`,closed,zhengruifeng,2026-01-29T02:54:25Z,2026-01-29T03:04:14Z,2026-01-29T02:55:19Z,2,"[""SQL"", ""BUILD"", ""INFRA"", ""PYTHON""]",True
+apache/spark,54048,[SPARK-55266][INFRA] Add pre-commit hooks for format/lint,closed,gaogaotiantian,2026-01-29T01:36:18Z,2026-02-02T18:49:28Z,2026-01-30T00:38:02Z,9,[],True
+apache/spark,54047,[SPARK-54943][PYTHON][TESTS] Add test coverage for pa.Array.cast with safe=False,closed,Yicong-Huang,2026-01-29T00:00:31Z,2026-01-29T03:02:36Z,2026-01-29T00:05:53Z,3,"[""CORE"", ""PYTHON""]",True
+langchain-ai/langchain,34925,AIMessage.tool_calls lost during serialization in InMemoryChatMessageHistory,closed,Momo-Not-Emo,2026-01-29T23:13:11Z,2026-02-04T02:24:33Z,2026-02-04T02:24:24Z,1,"[""bug"", ""langchain"", ""external""]",False
+langchain-ai/langchain,34924,Support OpenAI responses/compact endpoint,open,VMinB12,2026-01-29T22:26:16Z,2026-01-29T22:26:27Z,,0,"[""feature request"", ""openai"", ""external""]",False
+langchain-ai/langchain,34923,fix(core): raise outputparserexception for unknown tools,closed,reinexworldc,2026-01-29T11:49:39Z,2026-01-30T17:35:32Z,2026-01-30T17:35:32Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34922,fix(ollama): handle empty streaming responses without raising,open,GJR-HRL,2026-01-29T11:12:55Z,2026-02-02T09:49:58Z,,2,"[""integration"", ""fix"", ""ollama"", ""external""]",True
+langchain-ai/langchain,34921,test(deepseek): skip integration tests if API key is missing,closed,hafeez-exe,2026-01-29T10:28:28Z,2026-01-30T17:51:14Z,2026-01-30T17:34:00Z,1,"[""integration"", ""tests"", ""deepseek"", ""external""]",True
+langchain-ai/langchain,34920,# `cache_control` inside `ToolMessage.content[]` blocks causes Anthropic `invalid_cache` error,closed,vikram-typeset,2026-01-29T09:57:02Z,2026-02-11T15:55:03Z,2026-02-11T15:55:03Z,2,"[""bug"", ""anthropic"", ""external""]",False
+langchain-ai/langchain,34919,fix(xai): Live search deprecation,closed,RohanDisa,2026-01-29T05:04:00Z,2026-01-30T18:01:21Z,2026-01-30T18:01:20Z,1,"[""integration"", ""fix"", ""xai"", ""external""]",True
+langchain-ai/langchain,34918,`No data received from Ollama stream.` exception,open,khteh,2026-01-29T04:38:15Z,2026-02-07T09:15:11Z,,6,"[""bug"", ""core"", ""langchain"", ""ollama"", ""external""]",False
+langchain-ai/langchain,34917,fix(core): handle unregistered tools gracefully in PydanticToolsParser when partial=True,closed,hashwnath,2026-01-29T02:53:52Z,2026-01-30T18:15:56Z,2026-01-30T18:15:56Z,1,"[""core"", ""fix""]",True
+docker/compose,13563,pkg/compose: remove dependency on github.com/docker/buildx/driver,closed,thaJeztah,2026-01-29T12:55:00Z,2026-01-29T15:41:48Z,2026-01-29T14:59:03Z,2,[],True
+duckdb/duckdb,20741,chore: add extension_name to duckdb_functions,closed,hello-world-bfree,2026-01-29T22:15:31Z,2026-01-30T12:20:33Z,2026-01-30T12:20:33Z,3,[],True
+duckdb/duckdb,20740,Upgrade ducklake,closed,pdet,2026-01-29T21:14:06Z,2026-01-30T10:27:07Z,2026-01-30T10:27:04Z,2,[],True
+duckdb/duckdb,20739,COPY...TO FILE_EXTENSION Option Does Not Work With FORMAT JSON,closed,JMGbaum,2026-01-29T19:20:20Z,2026-02-03T07:47:04Z,2026-02-03T07:47:04Z,1,"[""under review""]",False
+duckdb/duckdb,20738,Reintroduce debug code for UnalignedScan,closed,artjomPlaunov,2026-01-29T18:40:12Z,2026-02-10T16:00:04Z,2026-02-07T11:03:17Z,2,"[""Ready To Merge""]",True
+duckdb/duckdb,20737,duckdb gets stuck when writing csv with empty escape character,closed,gishor,2026-01-29T17:58:44Z,2026-02-02T11:53:54Z,2026-02-02T11:53:54Z,2,"[""reproduced""]",False
+duckdb/duckdb,20736,V1.4 -> v1.5,closed,Mytherin,2026-01-29T16:30:18Z,2026-01-30T10:12:16Z,2026-01-30T10:12:16Z,0,[],True
+duckdb/duckdb,20735,Bump httpfs: now with support for bulk deletes,closed,carlopi,2026-01-29T16:12:11Z,2026-01-30T10:24:41Z,2026-01-30T10:24:38Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20734,"Add back spatial to V1.5, patch ducklake",closed,Maxxen,2026-01-29T15:46:27Z,2026-02-01T12:04:02Z,2026-02-01T12:04:00Z,7,[],True
+duckdb/duckdb,20733,Use std::function for progress_bar_display_create_func_t,closed,thijs-motherduck,2026-01-29T15:44:20Z,2026-02-03T14:59:26Z,2026-02-03T14:59:23Z,1,[],True
+duckdb/duckdb,20731,Avoid triggering optimistic writes during WAL replay in read-only mode,closed,Mytherin,2026-01-29T13:25:36Z,2026-01-30T11:55:42Z,2026-01-30T11:55:42Z,0,[],True
+duckdb/duckdb,20730,Report error location on ambiguous column reference error,closed,Mytherin,2026-01-29T13:07:24Z,2026-01-30T11:55:54Z,2026-01-30T11:55:54Z,0,[],True
+duckdb/duckdb,20729,Merge V1.5 -> Main,closed,pdet,2026-01-29T11:55:07Z,2026-01-31T15:55:06Z,2026-01-31T15:55:04Z,1,[],True
+duckdb/duckdb,20728,"Support Partitioned by, Sorted by, and With  in CTAS statements",closed,Tmonster,2026-01-29T11:36:53Z,2026-02-05T14:43:50Z,2026-02-05T14:43:47Z,4,"[""Needs Documentation"", ""Ready To Merge""]",True
+duckdb/duckdb,20727,Use FileSystem APIs in QueryProfiler::Write,closed,Mytherin,2026-01-29T10:23:00Z,2026-01-29T16:29:59Z,2026-01-29T16:29:59Z,0,[],True
+duckdb/duckdb,20726,Unify path canonicalization and perform full path canonicalization,closed,Mytherin,2026-01-29T10:18:36Z,2026-01-31T21:34:56Z,2026-01-31T21:34:56Z,0,[],True
+duckdb/duckdb,20725,Change directory to temp_dir to avoid creating files during testing,closed,Dtenwolde,2026-01-29T09:39:45Z,2026-01-31T07:41:03Z,2026-01-30T13:20:50Z,5,"[""Ready For Review""]",True
+duckdb/duckdb,20724,Block handle refactor to support eviction queue operations while detaching,closed,taniabogatsch,2026-01-29T09:27:12Z,2026-02-03T22:23:25Z,2026-02-03T17:09:37Z,3,"[""Ready To Merge""]",True
+duckdb/duckdb,20723,"Bump httpfs, remove patches, fix Main.yml",closed,carlopi,2026-01-29T09:09:32Z,2026-01-29T15:40:19Z,2026-01-29T15:39:45Z,1,"[""Ready To Merge""]",True

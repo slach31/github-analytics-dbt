@@ -1,0 +1,9 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35440,chore(deps): bump babel core to resolve CI inconsistencies,open,RinZ27,2026-01-03T14:47:00Z,2026-01-12T09:05:12Z,,1,"[""CLA Signed""]",True
+facebook/react,35439,Fix typos in the documentation,open,rahul24salunke,2026-01-03T14:21:14Z,2026-01-28T08:20:17Z,,2,"[""CLA Signed""]",True
+pallets/flask,5877,Minor documentation,closed,harshitasurana,2026-01-03T16:43:37Z,2026-01-18T00:11:01Z,2026-01-03T18:30:25Z,1,[],True
+duckdb/duckdb,20373,ResultSet row access performance,open,iliasaz,2026-01-03T22:50:48Z,2026-01-06T14:40:53Z,,0,[],True
+duckdb/duckdb,20372,Fix missing profiling metrics in EXPLAIN ANALYZE JSON output,closed,2jungkook,2026-01-03T19:40:20Z,2026-02-09T08:50:16Z,2026-02-09T08:50:16Z,5,"[""Ready To Merge""]",True
+duckdb/duckdb,20371,INTERNAL Error with enable_verification: NULL appears in vector marked as non-nullable,closed,CR7-source,2026-01-03T10:42:14Z,2026-01-26T19:48:17Z,2026-01-26T19:48:17Z,0,"[""reproduced""]",False
+duckdb/duckdb,20369,feat(adbc): support the experimental `adbc.ingest.target_catalog` option and improve ingest name resolution,closed,eitsupi,2026-01-03T04:40:41Z,2026-01-07T13:54:08Z,2026-01-07T13:52:27Z,3,"[""Changes Requested""]",True
+duckdb/duckdb,20368,Fix correlated scalar subqueries involving CTEs and derived tables,closed,2jungkook,2026-01-03T04:31:45Z,2026-02-09T04:02:15Z,2026-01-29T08:32:27Z,10,"[""Ready To Merge""]",True

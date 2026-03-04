@@ -1,0 +1,42 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35475,Bug: React 19.2 component performance track causes side-effects in mobx -> add way to disable?,open,ahoisl,2026-01-09T16:11:33Z,2026-01-27T15:57:51Z,,1,"[""Status: Unconfirmed""]",False
+facebook/react,35474,Fix: Attach custom element event listeners during hydration,open,Omcodes23,2026-01-09T15:40:54Z,2026-01-22T10:45:30Z,,9,"[""CLA Signed""]",True
+facebook/react,35473,Implement react-server-dom-rspack,open,SyMind,2026-01-09T12:23:57Z,2026-02-04T03:25:13Z,,3,"[""CLA Signed""]",True
+facebook/react,35472,docs(reconciler): document removal of flushSync for custom renderers,open,pranamya123,2026-01-09T04:25:34Z,2026-01-09T05:18:20Z,,2,"[""CLA Signed""]",True
+golang/go,77141,proposal: all: add wasip3/wasm port,open,dicej,2026-01-09T23:00:18Z,2026-01-30T16:28:07Z,,20,"[""Proposal"", ""ToolProposal""]",False
+golang/go,77140,x/go/packages: loadPackage doesn't forward GOPACKAGESDRIVER's GoVersion to typechecker config,closed,podtserkovskiy,2026-01-09T16:31:51Z,2026-01-13T15:26:53Z,2026-01-13T15:26:50Z,4,"[""BugReport""]",False
+golang/go,77139,cmd/go/internal/work: doc comment and minor cleanup,open,jjpinto,2026-01-09T16:24:22Z,2026-01-09T16:33:02Z,,1,[],True
+golang/go,77138,cmd/link/internal/loadpe: fix error message for symbol index validation,open,jjpinto,2026-01-09T15:29:59Z,2026-01-21T04:58:58Z,,3,[],True
+golang/go,77137,access: approvers,closed,sophie-zhao,2026-01-09T10:22:30Z,2026-01-13T15:47:16Z,2026-01-13T15:47:16Z,2,"[""NeedsDecision"", ""Access"", ""AccessRequest""]",False
+golang/go,77136,"x/mobile: When compiling the mobile SDK using the gomobile library, a conformance conflict occurred in the client application. An app cannot have multiple SDKs compiled by gomobile.",open,SucceedGetRich,2026-01-09T06:42:18Z,2026-01-13T07:53:46Z,,7,"[""NeedsInvestigation"", ""FeatureRequest"", ""mobile""]",False
+golang/go,77135,x/pkgsite: package removal request for github.com/2754github/ccfw,closed,2754github,2026-01-09T01:01:46Z,2026-01-12T23:13:44Z,2026-01-09T16:22:13Z,11,"[""pkgsite"", ""pkgsite/package-removal""]",False
+golang/go,77134,"crypto/cipher:gofips140: TestGCMAEAD/AES-128/GCMWithRandomNonce/InputNotModified/Plaintext-Length=8208,AddData-Length=8208 failures",open,gopherbot,2026-01-09T00:07:38Z,2026-01-09T00:07:39Z,,1,"[""NeedsInvestigation""]",False
+langchain-ai/langchain,34692,feat(langchain): add `state` to `_ModelRequestOverrides`,closed,mdrxy,2026-01-09T23:25:47Z,2026-01-22T21:15:26Z,2026-01-09T23:28:24Z,0,"[""langchain"", ""feature"", ""internal""]",True
+langchain-ai/langchain,34691,chore: ban relative imports on all packages,closed,mdrxy,2026-01-09T21:29:31Z,2026-01-22T21:15:27Z,2026-01-09T22:02:25Z,1,"[""integration"", ""infra"", ""text-splitters"", ""dependencies"", ""cli"", ""langchain-classic"", ""model-profiles"", ""anthropic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""prompty"", ""qdrant"", ""xai"", ""internal""]",True
+langchain-ai/langchain,34689,Deprecation Notice: LangSmith Tracing Changes,closed,mdrxy,2026-01-09T20:17:30Z,2026-01-22T20:42:20Z,2026-01-09T20:25:09Z,0,"[""breaking"", ""internal""]",False
+langchain-ai/langchain,34688,release(core): 0.3.82,closed,mdrxy,2026-01-09T18:18:35Z,2026-01-22T21:15:29Z,2026-01-09T18:30:14Z,1,"[""core"", ""release"", ""dependencies"", ""internal""]",True
+langchain-ai/langchain,34687,fix(core): defer persisting traces for iterator inputs,closed,mdrxy,2026-01-09T18:10:12Z,2026-01-22T21:15:31Z,2026-01-09T18:17:28Z,1,"[""core"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34686,feat(core): add `usage_metadata` to metadata in `LangChainTracer`,closed,mdrxy,2026-01-09T18:03:09Z,2026-01-22T21:15:32Z,2026-01-09T18:08:52Z,1,"[""core"", ""internal""]",True
+langchain-ai/langchain,34685,fix: disable int tests on release temporarily,closed,sydney-runkle,2026-01-09T17:41:59Z,2026-01-22T21:15:34Z,2026-01-09T17:42:25Z,0,"[""infra"", ""github_actions"", ""fix"", ""internal""]",True
+langchain-ai/langchain,34684,fix: rm anth test,closed,sydney-runkle,2026-01-09T17:37:05Z,2026-01-22T21:15:35Z,2026-01-09T17:37:34Z,0,"[""infra"", ""github_actions"", ""internal""]",True
+langchain-ai/langchain,34683,fix(core): improve error message for missing title in JSON schema functions,closed,Bhavesh007Sharma,2026-01-09T17:35:12Z,2026-01-22T21:15:38Z,2026-01-10T04:10:09Z,1,"[""core"", ""fix"", ""external""]",True
+langchain-ai/langchain,34682,chore(openai): delete outdated test,closed,ccurme,2026-01-09T16:27:12Z,2026-01-22T21:15:40Z,2026-01-09T17:37:45Z,1,"[""integration"", ""infra"", ""openai"", ""internal""]",True
+langchain-ai/langchain,34681,chore: dropping openai from release matrix,closed,sydney-runkle,2026-01-09T16:15:41Z,2026-01-22T21:15:42Z,2026-01-09T16:22:49Z,0,"[""infra"", ""github_actions"", ""internal""]",True
+langchain-ai/langchain,34680,fix: remove relative imports,closed,sydney-runkle,2026-01-09T16:14:43Z,2026-01-22T21:15:44Z,2026-01-09T18:00:52Z,1,"[""integration"", ""core"", ""langchain"", ""standard-tests"", ""dependencies"", ""fix"", ""prompty"", ""internal""]",True
+docker/compose,13502,build(deps): bump golang.org/x/sys from 0.39.0 to 0.40.0,closed,dependabot[bot],2026-01-09T09:07:46Z,2026-01-09T09:22:50Z,2026-01-09T09:22:48Z,0,"[""dependencies"", ""go""]",True
+docker/compose,13501,Specify Context in compose.yaml,open,ijustworkhereshrug,2026-01-09T05:43:34Z,2026-01-15T07:21:12Z,,4,"[""kind/feature""]",False
+duckdb/duckdb,20474,rewrite unaligned scan,closed,artjomPlaunov,2026-01-09T21:16:20Z,2026-01-16T13:14:02Z,2026-01-13T09:36:14Z,2,"[""Ready For Review"", ""Ready To Merge""]",True
+duckdb/duckdb,20473,Internal #6976: Window Self-Join Predicate,closed,hawkfish,2026-01-09T21:02:59Z,2026-01-12T17:42:03Z,2026-01-12T08:21:32Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20472,[WIP] UnalignedScan rewrite,closed,artjomPlaunov,2026-01-09T20:41:30Z,2026-01-09T21:47:40Z,2026-01-09T21:09:16Z,1,[],True
+duckdb/duckdb,20471,Skip concurrent_encrypted_attach due to race in autoloading httpfs,closed,carlopi,2026-01-09T19:44:27Z,2026-01-12T11:22:31Z,2026-01-12T11:22:31Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20470,Casting between date and timestamptz should be disallowed,closed,jakkes,2026-01-09T16:37:21Z,2026-01-14T21:06:20Z,2026-01-13T14:38:10Z,5,"[""reproduced""]",False
+duckdb/duckdb,20469,Chore: merge back main into v1.5-variegata,closed,carlopi,2026-01-09T16:11:33Z,2026-01-12T20:17:40Z,2026-01-12T20:17:40Z,6,"[""Ready To Merge""]",True
+duckdb/duckdb,20468,Fix segfault in hive partitioning with NULL values,closed,Schwarf,2026-01-09T15:13:01Z,2026-01-12T08:29:25Z,2026-01-12T08:29:25Z,1,"[""Ready To Merge""]",True
+duckdb/duckdb,20467,[C API] Expose safe string assign function,closed,taniabogatsch,2026-01-09T14:11:11Z,2026-01-12T10:01:45Z,2026-01-12T08:19:17Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20466,Wrap ccache in own action,closed,carlopi,2026-01-09T11:43:41Z,2026-01-12T07:27:03Z,2026-01-12T07:27:03Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20465,[Chore] Add `ORDER BY` to `AS OF` test,closed,taniabogatsch,2026-01-09T10:26:49Z,2026-01-12T09:54:51Z,2026-01-12T08:28:41Z,1,"[""Ready For Review""]",True
+duckdb/duckdb,20464,CI fixup: Comparisons needs to be done via strings (since input via workflow_call is a string),closed,carlopi,2026-01-09T10:14:09Z,2026-01-12T11:24:31Z,2026-01-12T11:24:30Z,0,"[""Ready For Review""]",True
+duckdb/duckdb,20463,Fix v1.5.0 value in Version Map ,closed,maiadegraaf,2026-01-09T09:38:12Z,2026-01-13T10:11:53Z,2026-01-13T10:11:52Z,1,[],True
+duckdb/duckdb,20462,Nightly tests fixes (round 2),closed,lnkuiper,2026-01-09T08:09:25Z,2026-01-28T13:38:17Z,2026-01-16T15:49:43Z,1,[],True
+duckdb/duckdb,20461,Nightly test encryption fixes,closed,ccfelius,2026-01-09T07:52:19Z,2026-01-14T07:31:33Z,2026-01-12T08:32:09Z,1,[],True
+duckdb/duckdb,20460,Increase httplib header max length from 8KB to 16KB,open,onnimonni,2026-01-09T05:14:23Z,2026-01-09T11:38:27Z,,1,[],True

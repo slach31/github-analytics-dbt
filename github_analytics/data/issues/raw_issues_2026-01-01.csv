@@ -1,0 +1,8 @@
+repo_full_name,issue_number,title,state,user_login,created_at,updated_at,closed_at,comments,labels,is_pull_request
+facebook/react,35435,Bump qs from 6.14.0 to 6.14.1 in /compiler,open,dependabot[bot],2026-01-01T19:19:44Z,2026-01-01T19:19:50Z,,0,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+facebook/react,35434,Leave me alone,closed,sueannioanis,2026-01-01T14:41:07Z,2026-01-02T17:59:38Z,2026-01-02T17:59:38Z,0,"[""Status: Unconfirmed""]",False
+facebook/react,35433,[Compiler] Fix 'use no memo' to apply recursively to nested functions,open,sahiee-dev,2026-01-01T12:19:36Z,2026-01-01T15:16:40Z,,2,"[""CLA Signed""]",True
+facebook/react,35432,Bump qs from 6.4.0 to 6.4.1 in /fixtures/packaging/webpack/prod,open,dependabot[bot],2026-01-01T10:37:07Z,2026-01-01T10:40:29Z,,1,"[""CLA Signed"", ""dependencies"", ""javascript""]",True
+pallets/flask,5876,docs: Upgrade HTTP links to HTTPS,closed,Aman071106,2026-01-01T15:37:55Z,2026-01-16T00:09:58Z,2026-01-01T16:35:18Z,0,[],True
+pallets/flask,5875,docs: clarify 415 error when receiving JSON requests,closed,AnupojuRohit,2026-01-01T10:24:01Z,2026-01-16T00:09:58Z,2026-01-01T13:21:12Z,0,[],True
+docker/compose,13489,Add unit test for upOptions.OnExit method,closed,htoyoda18,2026-01-01T13:00:33Z,2026-01-05T14:16:53Z,2026-01-05T07:15:03Z,0,[],True
