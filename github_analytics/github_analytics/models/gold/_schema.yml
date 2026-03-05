@@ -1,0 +1,66 @@
+version: 2
+
+models:
+  - name: dim_repository
+    description: "Dimension table des repositories GitHub (grain : repo_id)"
+    columns:
+      - name: repo_id
+        description: "Clé primaire business (owner/repo)"
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_date
+    description: "Dimension date (surrogate key en YYYYMMDD)"
+    columns:
+      - name: date_id
+        description: "Clé primaire surrogate (integer YYYYMMDD)"
+        tests:
+          - unique
+          - not_null
+      - name: day_of_week
+        description: "Jour de la semaine (0 = dimanche)"
+        tests:
+          - accepted_values:
+              values: [0, 1, 2, 3, 4, 5, 6]
+      - name: quarter
+        description: "Trimestre de l'année"
+        tests:
+          - accepted_values:
+              values: [1, 2, 3, 4]
+      - name: is_weekend
+        description: "Booléen weekend (true si samedi ou dimanche)"
+        tests:
+          - accepted_values:
+              values: [true, false]
+
+  - name: dim_contributor
+    description: "Dimension des contributeurs GitHub"
+    columns:
+      - name: contributor_id
+        description: "Clé primaire unique du contributeur"
+        tests:
+          - unique
+          - not_null
+      - name: login
+        description: "Login GitHub (identifiant naturel)"
+        tests:
+          - not_null
+
+  - name: fact_repo_activity
+    description: "Fact table d'activité quotidienne par repository (grain : repo_id + date_id)"
+    columns:
+      - name: repo_id
+        description: "Clé étrangère vers dim_repository"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_repository')
+              field: repo_id
+      - name: date_id
+        description: "Clé étrangère vers dim_date (YYYYMMDD)"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_id

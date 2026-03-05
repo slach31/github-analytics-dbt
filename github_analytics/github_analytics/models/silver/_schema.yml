@@ -1,0 +1,53 @@
+version: 2
+
+models:
+  - name: stg_repositories
+    description: "Staging model for GitHub repositories (silver layer)"
+    columns:
+      - name: repo_id
+        description: "Business key (full_name renommé)"
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_commits
+    description: "Staging model for GitHub commits (silver layer)"
+    columns:
+      - name: commit_sha
+        description: "Business key (sha renommé)"
+        tests:
+          - unique
+          - not_null
+      - name: day_of_week
+        description: "Jour de la semaine extrait de author_date (0 = dimanche)"
+        tests:
+          - accepted_values:
+              values: [0, 1, 2, 3, 4, 5, 6]
+
+  - name: stg_pull_requests
+    description: "Staging model for GitHub pull requests (silver layer)"
+    columns:
+      - name: pr_number
+        description: "Numéro de la PR (cast en INTEGER)"
+        tests:
+          - unique
+          - not_null
+      - name: pr_state
+        description: "État de la PR (open/closed)"
+        tests:
+          - accepted_values:
+              values: [open, closed]
+
+  - name: stg_issues
+    description: "Staging model for GitHub issues (silver layer - uniquement les vrais issues)"
+    columns:
+      - name: issue_number
+        description: "Numéro de l'issue (cast en INTEGER - logique identique aux autres modèles)"
+        tests:
+          - unique
+          - not_null
+      # Si le modèle contient aussi une colonne state (comme pour les PR), tu peux ajouter :
+      # - name: state
+      #   tests:
+      #     - accepted_values:
+      #         values: [open, closed]
