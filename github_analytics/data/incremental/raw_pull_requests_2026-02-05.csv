@@ -1,0 +1,169 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35709,Disable parallel transitions in canary,closed,rickhanlonii,2026-02-05T18:26:35Z,2026-02-05T18:34:57Z,2026-02-05T18:34:23Z,2026-02-05T18:34:23Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35708,[flags] Cleanup `enableHalt`,closed,eps1lon,2026-02-05T17:51:03Z,2026-02-06T09:34:19Z,2026-02-06T09:33:52Z,2026-02-06T09:33:52Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35707,Fix grammar error in OVERVIEW.md,open,danielabrahamx,2026-02-05T17:29:40Z,2026-02-05T19:00:20Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35706,Bump semver from 5.4.1 to 5.7.2 in /fixtures/packaging/webpack/dev,open,dependabot[bot],2026-02-05T17:15:02Z,2026-02-05T17:18:45Z,,,False,0,0,"[""CLA Signed"", ""dependencies"", ""javascript""]"
+facebook/react,35705,[DevTools] Separate breadcrumbs with `»`,closed,eps1lon,2026-02-05T17:08:40Z,2026-02-06T09:32:37Z,2026-02-05T23:40:31Z,2026-02-05T23:40:31Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35704,Fix checkbox onChange not firing in certain click ordering cases,open,KashviYadav09,2026-02-05T17:07:20Z,2026-02-05T17:07:26Z,,,False,0,0,[]
+facebook/react,35703,Fix onChange firing when click default is prevented,open,KashviYadav09,2026-02-05T16:56:50Z,2026-02-05T16:56:57Z,,,False,0,0,[]
+facebook/react,35702,[DevTools] Throw an error when attempting to clone non-existent node,closed,hoxyq,2026-02-05T16:02:06Z,2026-02-05T17:49:21Z,2026-02-05T17:49:18Z,2026-02-05T17:49:18Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35701,Fix typos in comments,open,pavan-sh,2026-02-05T15:36:07Z,2026-02-05T16:08:21Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35700,[DevTools] Avoid scrollbars in Suspense breadcrumbs,closed,eps1lon,2026-02-05T14:00:22Z,2026-02-05T22:28:08Z,2026-02-05T22:27:58Z,2026-02-05T22:27:58Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35697,Dev,closed,jbSL1m,2026-02-05T02:39:02Z,2026-02-05T02:39:36Z,2026-02-05T02:39:36Z,,False,0,0,[]
+tensorflow/tensorflow,109827,PR #37411: [tsl:concurrency] Fix JoinFutures<T>() when futures finish with errors,closed,copybara-service[bot],2026-02-05T23:52:49Z,2026-02-06T01:41:36Z,2026-02-06T01:41:35Z,2026-02-06T01:41:35Z,True,0,0,[]
+tensorflow/tensorflow,109826,"When a called computation has multiple caller instructions, sort the callers by unique ID before selecting an operand for constant propagation. This ensures deterministic compilation results.",closed,copybara-service[bot],2026-02-05T23:35:26Z,2026-02-06T03:47:01Z,2026-02-06T03:47:01Z,2026-02-06T03:47:01Z,True,0,0,[]
+tensorflow/tensorflow,109825,[gpu] Remove redundant ConvertToDeviceBuffers overload,closed,copybara-service[bot],2026-02-05T23:30:10Z,2026-02-06T00:56:02Z,2026-02-06T00:56:02Z,2026-02-06T00:56:02Z,True,0,0,[]
+tensorflow/tensorflow,109824,Support for i2 embedding lookup via tflite model builder,closed,copybara-service[bot],2026-02-05T23:14:15Z,2026-02-11T19:49:09Z,2026-02-11T19:49:08Z,2026-02-11T19:49:08Z,True,0,0,[]
+tensorflow/tensorflow,109823,Updating buildozer rule.,open,copybara-service[bot],2026-02-05T23:09:16Z,2026-02-05T23:32:11Z,,,True,0,0,[]
+tensorflow/tensorflow,109822,"Replace py_library, py_binary, py_test macros with wrappers from XLA.",closed,copybara-service[bot],2026-02-05T22:33:41Z,2026-02-06T18:34:01Z,2026-02-06T18:34:01Z,2026-02-06T18:34:01Z,True,0,0,[]
+tensorflow/tensorflow,109821,Make `tsl::Env::StartThread` respect NUMA affinity in `tsl::ThreadOptions`,closed,copybara-service[bot],2026-02-05T22:25:02Z,2026-02-06T00:07:43Z,2026-02-06T00:07:43Z,2026-02-06T00:07:42Z,True,0,0,[]
+tensorflow/tensorflow,109820,Remove redundant HloRunner dependencies.,closed,copybara-service[bot],2026-02-05T22:19:17Z,2026-02-05T23:00:42Z,2026-02-05T23:00:42Z,2026-02-05T23:00:42Z,True,0,0,[]
+tensorflow/tensorflow,109819,Add HloLegacyGpuTestBase wrapper around HloTestBase.,closed,copybara-service[bot],2026-02-05T22:14:52Z,2026-02-05T23:37:19Z,2026-02-05T23:37:18Z,2026-02-05T23:37:18Z,True,0,0,[]
+tensorflow/tensorflow,109818,Remove explicit fill value in TensorDescriptor::DownloadData resize.,closed,copybara-service[bot],2026-02-05T22:11:20Z,2026-02-05T23:20:19Z,2026-02-05T23:20:19Z,2026-02-05T23:20:19Z,True,0,0,[]
+tensorflow/tensorflow,109817,Improve flatbuffer_import performance with less buffer copies,closed,copybara-service[bot],2026-02-05T21:22:37Z,2026-02-09T22:46:11Z,2026-02-09T22:46:11Z,2026-02-09T22:46:11Z,True,0,0,[]
+tensorflow/tensorflow,109816,Pin per-device threads owned by `LocalDeviceState` to the NUMA node associated with each device,closed,copybara-service[bot],2026-02-05T21:18:07Z,2026-02-05T21:50:36Z,2026-02-05T21:50:35Z,2026-02-05T21:50:35Z,True,0,0,[]
+tensorflow/tensorflow,109815,Add initial bits to support offloading ReduceWindow.,closed,copybara-service[bot],2026-02-05T21:17:48Z,2026-02-06T23:57:07Z,2026-02-06T23:57:06Z,2026-02-06T23:57:06Z,True,0,0,[]
+tensorflow/tensorflow,109814,PR #37064: [ROCm] Fix paralle gpu execute script to support running tests on a machine …,closed,copybara-service[bot],2026-02-05T21:11:56Z,2026-02-05T21:29:54Z,2026-02-05T21:29:54Z,2026-02-05T21:29:54Z,True,0,0,[]
+tensorflow/tensorflow,109813,Add an overload to allow moving thread context instead of copying,open,copybara-service[bot],2026-02-05T20:40:23Z,2026-02-12T02:03:31Z,,,True,0,0,[]
+tensorflow/tensorflow,109812,[StableHLO TypeInference] Add interface for shape component inference to dot ops ,closed,copybara-service[bot],2026-02-05T20:31:35Z,2026-02-06T05:47:51Z,2026-02-06T05:47:49Z,,True,0,0,[]
+tensorflow/tensorflow,109811,This change introduces a cache for the FindKernelRegistration function to reduce overhead from repeatedly looking up kernel registrations.,closed,copybara-service[bot],2026-02-05T20:24:34Z,2026-02-06T02:47:05Z,2026-02-06T02:47:05Z,2026-02-06T02:47:05Z,True,0,0,[]
+tensorflow/tensorflow,109810,Create wrapper rules for rules_python.,closed,copybara-service[bot],2026-02-05T20:09:16Z,2026-02-05T22:03:42Z,2026-02-05T22:03:42Z,2026-02-05T22:03:41Z,True,0,0,[]
+tensorflow/tensorflow,109809,PR #37179: [xla:gpu] Add multicast memory to CollectiveMemory,closed,copybara-service[bot],2026-02-05T20:01:38Z,2026-02-05T20:56:00Z,2026-02-05T20:55:59Z,2026-02-05T20:55:59Z,True,0,0,[]
+tensorflow/tensorflow,109808,Update requirements.in and setup.py.tpl and generate lock files,closed,rtg0795,2026-02-05T19:50:31Z,2026-02-06T19:26:05Z,2026-02-06T19:26:05Z,2026-02-06T19:26:05Z,False,0,0,[]
+tensorflow/tensorflow,109807,Support float32 tensors when DataType is FLOAT16 in OpenCL sync.,open,copybara-service[bot],2026-02-05T19:35:06Z,2026-02-05T21:42:40Z,,,True,0,0,[]
+tensorflow/tensorflow,109806,PR #37300: Patch brotlin and riegel to make layyering check work in OSS,closed,copybara-service[bot],2026-02-05T19:19:50Z,2026-02-05T20:42:18Z,2026-02-05T20:42:18Z,2026-02-05T20:42:18Z,True,0,0,[]
+tensorflow/tensorflow,109805,Update RuntimeUnexpectedCoreHalt error code to match documentation.,open,copybara-service[bot],2026-02-05T19:17:18Z,2026-02-10T22:00:14Z,,,True,0,0,[]
+tensorflow/tensorflow,109804,Simplified recoverable options in coordination service,closed,copybara-service[bot],2026-02-05T19:01:14Z,2026-02-09T21:11:57Z,2026-02-09T21:11:57Z,2026-02-09T21:11:57Z,True,0,0,[]
+tensorflow/tensorflow,109803,[XLA:GPU] Move service/gpu/model to backends/gpu/cost_model.,open,copybara-service[bot],2026-02-05T18:49:46Z,2026-02-06T22:17:31Z,,,True,0,0,[]
+tensorflow/tensorflow,109802,Add a test for PjRtCApiClient callback registration and invocation.,closed,copybara-service[bot],2026-02-05T18:26:10Z,2026-02-11T01:31:47Z,2026-02-11T01:31:46Z,2026-02-11T01:31:46Z,True,0,0,[]
+microsoft/vscode,293241,Fixes `button.secondaryBorder` theme token discarded for secondary buttons,open,EmrecanKaracayir,2026-02-05T23:46:42Z,2026-02-06T08:21:26Z,,,False,0,0,[]
+microsoft/vscode,293237,chat: polish queue/steering menu button,closed,connor4312,2026-02-05T23:34:29Z,2026-02-06T03:32:17Z,2026-02-06T03:32:16Z,2026-02-06T03:32:16Z,False,0,0,[]
+microsoft/vscode,293231,"add first repo skill, comprehensive accessibility guidelines for VS Code features",closed,meganrogge,2026-02-05T22:46:35Z,2026-02-05T23:18:21Z,2026-02-05T23:18:19Z,2026-02-05T23:18:19Z,False,0,0,[]
+microsoft/vscode,293227,add accessibility instructions,closed,meganrogge,2026-02-05T22:10:33Z,2026-02-05T22:58:44Z,2026-02-05T22:58:42Z,2026-02-05T22:58:42Z,False,0,0,[]
+microsoft/vscode,293224,Fixes inconsistent coloring for agent status badge,closed,EmrecanKaracayir,2026-02-05T22:03:55Z,2026-02-09T07:48:20Z,2026-02-09T07:48:20Z,2026-02-09T07:48:20Z,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293220,moves share button to the left of command palette,closed,eli-w-king,2026-02-05T21:49:31Z,2026-02-05T22:12:40Z,2026-02-05T22:12:37Z,2026-02-05T22:12:37Z,False,0,0,"[""ux"", ""command-center""]"
+microsoft/vscode,293218,Polish integrated browser UI,closed,daviddossett,2026-02-05T21:21:54Z,2026-02-06T23:51:11Z,2026-02-06T23:51:11Z,2026-02-06T23:51:11Z,False,0,0,[]
+microsoft/vscode,293215,fix: allows to run apps that leverage Apple's CoreAudio Tap api,closed,deepak1556,2026-02-05T20:55:55Z,2026-02-05T21:31:15Z,2026-02-05T21:31:13Z,2026-02-05T21:31:13Z,False,0,0,[]
+microsoft/vscode,293212,debt: cleanup leaks,closed,connor4312,2026-02-05T20:41:32Z,2026-02-06T05:47:01Z,2026-02-06T05:47:00Z,2026-02-06T05:47:00Z,False,0,0,[]
+microsoft/vscode,293211,Render update action button in release notes webview,closed,dmitrivMS,2026-02-05T20:40:51Z,2026-02-06T13:33:48Z,2026-02-06T13:33:45Z,2026-02-06T13:33:45Z,False,0,0,"[""install-update""]"
+microsoft/vscode,293210,Bump webpack from 5.100.0 to 5.105.0,closed,dependabot[bot],2026-02-05T20:32:53Z,2026-02-06T18:28:15Z,2026-02-06T18:28:09Z,2026-02-06T18:28:09Z,False,0,0,"[""javascript"", ""dependencies""]"
+microsoft/vscode,293209,mcp: initial data flow for MCP gateway,closed,connor4312,2026-02-05T20:27:12Z,2026-02-05T20:46:11Z,2026-02-05T20:46:10Z,2026-02-05T20:46:10Z,False,0,0,[]
+microsoft/vscode,293208,modal editor - copilot feedback addressed,closed,bpasero,2026-02-05T20:23:26Z,2026-02-05T20:45:04Z,2026-02-05T20:45:02Z,2026-02-05T20:45:02Z,False,0,0,[]
+microsoft/vscode,293206,Polish modal editor UI,open,daviddossett,2026-02-05T20:18:32Z,2026-02-06T17:56:44Z,,,False,0,0,[]
+microsoft/vscode,293205,modal editor - introduce real menu and actions for title toolbar,closed,bpasero,2026-02-05T20:16:58Z,2026-02-05T20:45:49Z,2026-02-05T20:45:48Z,2026-02-05T20:45:48Z,False,0,0,[]
+microsoft/vscode,293199,Remove inline action buttons from update status bar entry tooltip.,closed,dmitrivMS,2026-02-05T19:42:16Z,2026-02-05T20:53:02Z,2026-02-05T20:53:01Z,2026-02-05T20:53:01Z,False,0,0,"[""install-update""]"
+microsoft/vscode,293197,Add my name for sanity tests in CODENOTIFY,closed,dmitrivMS,2026-02-05T19:32:42Z,2026-02-05T19:53:26Z,2026-02-05T19:53:25Z,2026-02-05T19:53:25Z,False,0,0,[]
+microsoft/vscode,293193,modal editor - style and size tweaks,closed,bpasero,2026-02-05T19:19:18Z,2026-02-05T19:48:32Z,2026-02-05T19:48:30Z,2026-02-05T19:48:30Z,True,0,0,[]
+microsoft/vscode,293189,editors - open MCP server modal as well,closed,bpasero,2026-02-05T18:55:41Z,2026-02-05T19:19:28Z,2026-02-05T19:19:27Z,2026-02-05T19:19:27Z,False,0,0,[]
+microsoft/vscode,293187,fix: filter interaction with settings search regressed,closed,rzhao271,2026-02-05T18:49:37Z,2026-02-05T19:11:40Z,2026-02-05T19:11:38Z,2026-02-05T19:11:38Z,False,0,0,[]
+microsoft/vscode,293186,Update input validation colors in 2026 theme files,closed,mrleemurray,2026-02-05T18:47:29Z,2026-02-06T11:04:38Z,2026-02-05T19:06:34Z,2026-02-05T19:06:34Z,False,0,0,[]
+microsoft/vscode,293178,agent sessions - enable sessions view,closed,bpasero,2026-02-05T18:13:36Z,2026-02-05T18:46:15Z,2026-02-05T18:40:15Z,,True,0,0,[]
+microsoft/vscode,293173,Add skill frontmatter fields for slash command support,closed,pwang347,2026-02-05T18:05:45Z,2026-02-06T01:36:25Z,2026-02-06T01:36:24Z,2026-02-06T01:36:24Z,False,0,0,[]
+microsoft/vscode,293163,Fix F7 keybinding conflict for accessible diff view,closed,Copilot,2026-02-05T17:23:11Z,2026-02-05T21:32:13Z,2026-02-05T21:32:12Z,2026-02-05T21:32:12Z,False,0,0,[]
+microsoft/vscode,293161,Switch over to command for PR chat response type,closed,alexr00,2026-02-05T17:15:57Z,2026-02-06T09:51:11Z,2026-02-06T09:51:09Z,2026-02-06T09:51:09Z,False,0,0,[]
+microsoft/vscode,293158,Fix for missing terminal suggest symbol icon css mappings,open,EmrecanKaracayir,2026-02-05T16:39:48Z,2026-02-05T17:46:01Z,,,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293156,Improve OpenPlanModeAction with error handling and Shift+Tab keybinding,closed,Copilot,2026-02-05T16:34:27Z,2026-02-05T21:45:45Z,2026-02-05T21:45:43Z,2026-02-05T21:45:43Z,False,0,0,[]
+microsoft/vscode,293155,fix leaking disposables ,closed,jrieken,2026-02-05T16:32:10Z,2026-02-06T16:06:32Z,2026-02-06T16:06:29Z,2026-02-06T16:06:29Z,False,0,0,[]
+microsoft/vscode,293152,"Revert ""chore: replace legacy watcher with @parcel/watcher for build file watching (#292803)""",closed,bpasero,2026-02-05T16:26:40Z,2026-02-05T16:49:19Z,2026-02-05T16:49:18Z,2026-02-05T16:49:18Z,False,0,0,[]
+microsoft/vscode,293144,fix: associate extHost lifecycle to window,closed,deepak1556,2026-02-05T15:58:06Z,2026-02-05T20:31:22Z,2026-02-05T20:31:19Z,2026-02-05T20:31:19Z,False,0,0,[]
+microsoft/vscode,293141,Bump distro,closed,chrmarti,2026-02-05T15:48:54Z,2026-02-05T16:12:33Z,2026-02-05T16:12:31Z,2026-02-05T16:12:31Z,False,0,0,[]
+microsoft/vscode,293140,Update selection and highlight background colors in 2026 Dark theme,closed,mrleemurray,2026-02-05T15:41:54Z,2026-02-05T16:07:15Z,2026-02-05T16:07:14Z,2026-02-05T16:07:14Z,False,0,0,[]
+microsoft/vscode,293137,fix: remove transparent quickInput.background in Dark Modern theme (fix #293097),open,murataslan1,2026-02-05T15:33:03Z,2026-02-05T16:22:52Z,,,False,0,0,[]
+microsoft/vscode,293135,Mark these as ExP controllable,closed,alexdima,2026-02-05T15:29:04Z,2026-02-05T15:54:35Z,2026-02-05T15:54:33Z,2026-02-05T15:54:33Z,False,0,0,[]
+microsoft/vscode,293133,Update theme colors for command center and editor widgets,closed,mrleemurray,2026-02-05T15:27:26Z,2026-02-05T15:50:56Z,2026-02-05T15:50:54Z,2026-02-05T15:50:54Z,False,0,0,[]
+microsoft/vscode,293130,Allow disabling AuthenticationProvider extension for workspace if not yet activated,open,gjsjohnmurray,2026-02-05T15:24:24Z,2026-02-06T00:30:14Z,,,False,0,0,[]
+microsoft/vscode,293129,Add switchToPreviousModel command,open,pedrocostadev,2026-02-05T15:23:23Z,2026-02-05T18:07:14Z,,,False,0,0,[]
+microsoft/vscode,293126,modal editor - more lightweight title area,closed,bpasero,2026-02-05T15:19:53Z,2026-02-08T06:34:11Z,2026-02-05T20:19:23Z,,True,0,0,[]
+microsoft/vscode,293124,Move distro and extension validation to separate non-blocking stage,closed,Copilot,2026-02-05T15:18:30Z,2026-02-05T17:42:00Z,2026-02-05T17:41:39Z,2026-02-05T17:41:39Z,False,0,0,[]
+microsoft/vscode,293121,Plan mode keybinding,closed,osortega,2026-02-05T15:15:50Z,2026-02-06T13:38:49Z,2026-02-06T13:38:49Z,,False,0,0,[]
+microsoft/vscode,293120,Fix for extension button separator wrong color precedence,open,EmrecanKaracayir,2026-02-05T15:13:50Z,2026-02-06T10:48:42Z,,,False,0,0,[]
+microsoft/vscode,293119,toasts - fix leaks,closed,bpasero,2026-02-05T15:12:51Z,2026-02-05T15:35:27Z,2026-02-05T15:35:25Z,2026-02-05T15:35:25Z,False,0,0,[]
+microsoft/vscode,293116,Use inlineChat.border in terminal inline chat,closed,EmrecanKaracayir,2026-02-05T14:58:36Z,2026-02-05T16:06:56Z,2026-02-05T15:44:42Z,2026-02-05T15:44:42Z,False,0,0,[]
+microsoft/vscode,293111,Skip `install and enable vscode-smoketest-check extension`,closed,alexr00,2026-02-05T14:33:49Z,2026-02-05T14:53:57Z,2026-02-05T14:53:55Z,2026-02-05T14:53:55Z,False,0,0,[]
+microsoft/vscode,293105,Fix/resource leak osreleaseinfo,open,aturzone,2026-02-05T14:12:29Z,2026-02-05T14:26:46Z,,,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293104,Warn about distro commit and compat check early,closed,alexr00,2026-02-05T14:08:44Z,2026-02-05T18:00:35Z,2026-02-05T18:00:33Z,2026-02-05T18:00:33Z,False,0,0,[]
+microsoft/vscode,293100,version-control: respect push remotes with 'sync changes',open,HaraldNordgren,2026-02-05T13:39:24Z,2026-02-08T21:03:04Z,,,False,0,0,[]
+microsoft/vscode,293094,Bump distro,closed,alexr00,2026-02-05T13:06:36Z,2026-02-05T13:29:23Z,2026-02-05T13:29:21Z,2026-02-05T13:29:21Z,False,0,0,[]
+microsoft/vscode,293082,Add markup syntax highlighting for various elements,closed,mrleemurray,2026-02-05T11:56:44Z,2026-02-11T14:04:32Z,2026-02-11T14:04:30Z,2026-02-11T14:04:30Z,False,0,0,"[""candidate""]"
+microsoft/vscode,293079,Surface power API,closed,chrmarti,2026-02-05T11:46:47Z,2026-02-05T15:57:43Z,2026-02-05T15:57:41Z,2026-02-05T15:57:41Z,False,0,0,[]
+microsoft/vscode,293074,agent sessions - remove border when sessions show stacked,closed,bpasero,2026-02-05T11:01:28Z,2026-02-05T11:23:26Z,2026-02-05T11:23:25Z,2026-02-05T11:23:25Z,False,0,0,[]
+microsoft/vscode,293072,"Skip flaky test "" setTextDocumentLanguage for notebook cells""",closed,alexr00,2026-02-05T10:42:10Z,2026-02-05T11:04:17Z,2026-02-05T11:04:16Z,2026-02-05T11:04:16Z,False,0,0,[]
+microsoft/vscode,293070,"Support begin and end tool calls for progress indicators without real tools in Chat (for background, cloud, etc)",closed,DonJayamanne,2026-02-05T10:36:06Z,2026-02-09T06:53:55Z,2026-02-09T06:53:55Z,,False,0,0,[]
+microsoft/vscode,293069,Add agent sessions layout actions for panel title,open,Copilot,2026-02-05T10:32:34Z,2026-02-05T11:22:59Z,,,True,0,0,[]
+microsoft/vscode,293065,Normalize Windows drive letter when comparing cwd and userHome (fix #293049),closed,gjsjohnmurray,2026-02-05T09:54:45Z,2026-02-06T09:12:33Z,2026-02-05T19:59:17Z,2026-02-05T19:59:17Z,False,0,0,[]
+microsoft/vscode,293054,Start background update in Windows-less mode to avoid stealing focus,closed,dmitrivMS,2026-02-05T09:09:11Z,2026-02-12T08:20:39Z,2026-02-12T08:20:38Z,,True,0,0,"[""install-update"", ""windows""]"
+microsoft/vscode,293053,"BUILD: Revert ""fix: associate extHost lifecycle to window""",closed,alexr00,2026-02-05T09:03:56Z,2026-02-05T09:22:23Z,2026-02-05T09:22:21Z,2026-02-05T09:22:21Z,False,0,0,[]
+microsoft/vscode,293043,Fix flaky tests by freezing time,closed,dmitrivMS,2026-02-05T08:28:43Z,2026-02-05T08:51:40Z,2026-02-05T08:51:38Z,2026-02-05T08:51:38Z,False,0,0,[]
+microsoft/vscode,293042,Enable VSCode To Run `CoreAudio Tap API` Apps [MacOS],closed,Bug-Reaper,2026-02-05T08:26:37Z,2026-02-05T20:57:25Z,2026-02-05T20:57:25Z,,False,0,0,[]
+microsoft/vscode,293041,feat(git) : Add fetch button to remote branches in checkout picker,open,sam-shubham,2026-02-05T08:23:20Z,2026-02-09T05:18:01Z,,,False,0,0,[]
+microsoft/vscode,293037,Update icons for ipynb and code-workspace file associations on Windows,closed,dmitrivMS,2026-02-05T07:58:49Z,2026-02-05T09:54:51Z,2026-02-05T09:54:49Z,2026-02-05T09:54:49Z,False,0,0,"[""install-update"", ""windows""]"
+microsoft/vscode,293033,Register supported file types under Applications and Capabilities reg keys on Windows,open,dmitrivMS,2026-02-05T07:50:13Z,2026-02-10T23:57:44Z,,,False,0,0,"[""install-update"", ""windows""]"
+microsoft/vscode,293027,Fix/resource leak osreleaseinfo,closed,aturzone,2026-02-05T06:43:34Z,2026-02-05T10:10:53Z,2026-02-05T10:10:52Z,2026-02-05T10:10:52Z,False,0,0,[]
+microsoft/vscode,293026,chat: wire up yieldrequested for steering messages,closed,connor4312,2026-02-05T06:41:33Z,2026-02-05T15:54:03Z,2026-02-05T15:54:01Z,2026-02-05T15:54:01Z,False,0,0,[]
+microsoft/vscode,293020,editors - introduce `MODAL_GROUP` for a modal editor part,closed,bpasero,2026-02-05T06:20:29Z,2026-02-05T11:33:38Z,2026-02-05T11:33:37Z,2026-02-05T11:33:36Z,False,0,0,[]
+microsoft/vscode,293014,"Add ""Copy Stash Name"" option to Stashes view",open,busorgin,2026-02-05T04:30:06Z,2026-02-09T01:02:24Z,,,False,0,0,[]
+microsoft/vscode,293012,Fix agent session divider border gap in header area,open,Copilot,2026-02-05T04:09:36Z,2026-02-05T04:17:33Z,,,True,0,0,[]
+microsoft/vscode,293009,Register App Path for VS Code on Windows,closed,dmitrivMS,2026-02-05T04:05:18Z,2026-02-05T09:51:20Z,2026-02-05T09:51:19Z,2026-02-05T09:51:19Z,False,0,0,"[""install-update"", ""windows""]"
+microsoft/vscode,293003,"Quick access: ignore leading ""<"" shortcut for Sessions filter and ""Send to agent""",open,erezak,2026-02-05T03:24:14Z,2026-02-05T16:10:17Z,,,False,0,0,[]
+microsoft/vscode,293000,Fix/unified quick access strip shortcut,closed,erezak,2026-02-05T03:13:24Z,2026-02-05T03:25:24Z,2026-02-05T03:13:48Z,,False,0,0,[]
+microsoft/vscode,292997,Enable copilotTrackingId as assignment unit in vscode core,closed,vijayupadya,2026-02-05T02:36:30Z,2026-02-05T15:08:13Z,2026-02-05T14:58:46Z,2026-02-05T14:58:46Z,False,0,0,"[""telemetry""]"
+microsoft/vscode,292991,Updates for chat extension hooks,closed,pwang347,2026-02-05T01:40:11Z,2026-02-05T03:00:20Z,2026-02-05T03:00:18Z,2026-02-05T03:00:18Z,False,0,0,[]
+microsoft/vscode,292990,move questions carousel above input part + many ux fixes,closed,justschen,2026-02-05T01:36:21Z,2026-02-05T21:18:21Z,2026-02-05T21:17:42Z,2026-02-05T21:17:42Z,False,0,0,[]
+microsoft/vscode,292989,feat: move core chat settings to top-level ToC entry,closed,rzhao271,2026-02-05T01:17:21Z,2026-02-05T18:15:21Z,2026-02-05T18:15:19Z,2026-02-05T18:15:19Z,False,0,0,[]
+microsoft/vscode,292983,Fix opening chat editors,closed,mjbvz,2026-02-05T00:55:41Z,2026-02-05T01:15:59Z,2026-02-05T01:15:59Z,2026-02-05T01:15:59Z,False,0,0,[]
+microsoft/vscode,292981,Remove unreachable type check in createToolSchemaUri,open,Copilot,2026-02-05T00:51:47Z,2026-02-05T00:59:02Z,,,True,0,0,[]
+microsoft/vscode,292979,Rename and clarify internal vs external chat hook types,closed,roblourens,2026-02-05T00:45:08Z,2026-02-05T01:31:44Z,2026-02-05T01:31:42Z,2026-02-05T01:31:42Z,False,0,0,[]
+microsoft/vscode,292975,Remove visual borders between chat containers,open,Copilot,2026-02-05T00:31:38Z,2026-02-05T06:01:16Z,,,True,0,0,[]
+microsoft/vscode,292970,Show installation progress in update status bar entry on Windows,open,dmitrivMS,2026-02-05T00:16:25Z,2026-02-12T10:04:08Z,,,False,0,0,"[""install-update"", ""windows""]"
+microsoft/vscode,292968,Fix extHostHooks for web,closed,pwang347,2026-02-05T00:12:03Z,2026-02-05T00:30:46Z,2026-02-05T00:30:45Z,2026-02-05T00:30:45Z,False,0,0,[]
+apache/spark,54164,[SPARK-55379][PS][TESTS] Add some ops tests back and their parity tests,closed,ueshin,2026-02-05T23:43:26Z,2026-02-06T09:25:29Z,2026-02-06T09:25:13Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK"", ""CONNECT""]"
+apache/spark,54163,[SPARK-55377][K8S] Improve `labelDecommissioningExecs` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-05T21:30:27Z,2026-02-06T01:41:55Z,2026-02-06T01:33:33Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,54162,[SPARK-55376][PS] Make numeric_only argument in groupby functions accept only boolean with pandas 3,closed,ueshin,2026-02-05T21:27:27Z,2026-02-06T05:16:42Z,2026-02-06T05:16:19Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54161,[SPARK-55175][PYTHON] Extract `to_pandas` transformer from serializers,closed,Yicong-Huang,2026-02-05T19:44:13Z,2026-02-05T23:53:33Z,2026-02-05T23:53:13Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54160,[SPARK-55373][CONNECT] Improve noHandlerFoundForExtension error message,closed,khakhlyuk,2026-02-05T12:08:44Z,2026-02-05T14:46:04Z,2026-02-05T14:46:04Z,,False,0,0,"[""SQL"", ""CONNECT""]"
+apache/spark,54159,[SPARK-55372][SQL] Fix `SHOW CREATE TABLE` for tables / views with default collation,open,ilicmarkodb,2026-02-05T11:35:48Z,2026-02-11T20:43:23Z,,,False,0,0,"[""SQL""]"
+apache/spark,54158,[SPARK-55370][K8S] Improve `annotateExecutorDeletionCost` to use `patch` instead of `edit` API,closed,dongjoon-hyun,2026-02-05T10:24:36Z,2026-02-05T19:02:55Z,2026-02-05T19:02:39Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,54157,[SPARK-55334][PYTHON] Enable `TimestampType` and `TimestampNTZType` in `convert_numpy`,closed,zhengruifeng,2026-02-05T09:31:25Z,2026-02-06T09:41:05Z,2026-02-06T09:40:41Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54156,[SPARK-55369][SPARK-55332][PYTHON][INFRA] Setup ASV benchmark,closed,fangchenli,2026-02-05T08:46:26Z,2026-02-10T00:10:14Z,2026-02-10T00:09:21Z,,False,0,0,"[""INFRA"", ""PYTHON""]"
+apache/spark,54155,"Revert ""[SPARK-55175][PYTHON] Extract `to_pandas` transformer from serializers""",closed,zhengruifeng,2026-02-05T08:14:43Z,2026-02-05T08:16:01Z,2026-02-05T08:15:45Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54154,[SPARK-55367][PYTHON] Use venv for run-pip-tests,closed,gaogaotiantian,2026-02-05T05:19:10Z,2026-02-12T08:22:13Z,2026-02-11T01:20:42Z,,False,0,0,"[""BUILD"", ""INFRA""]"
+apache/spark,54153,[SPARK-55366][SQL][PYTHON] Remove `errorOnDuplicatedFieldNames` from Python UDFs,closed,zhengruifeng,2026-02-05T05:14:04Z,2026-02-05T23:49:44Z,2026-02-05T22:34:36Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING"", ""PYTHON""]"
+apache/spark,54152,[SPARK-55365][PYTHON] Generalize the utils for arrow array conversion,closed,zhengruifeng,2026-02-05T04:59:28Z,2026-02-05T08:50:22Z,2026-02-05T08:49:59Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54151,"Revert ""[SPARK-55313][PYTHON][FOLLOW-UP] Only add condabin to PATH for pip tests""",closed,gaogaotiantian,2026-02-05T04:54:37Z,2026-02-05T05:19:42Z,2026-02-05T05:05:53Z,,False,0,0,"[""INFRA""]"
+apache/spark,54150,Locker free addMapOutput implementation,open,ChuckLin2025,2026-02-05T03:30:55Z,2026-02-05T03:31:06Z,,,False,0,0,"[""CORE""]"
+apache/spark,54149,[SPARK-55313][PYTHON][FOLLOW-UP] Only add condabin to PATH for pip tests,closed,gaogaotiantian,2026-02-05T01:21:11Z,2026-02-05T04:52:53Z,2026-02-05T02:59:32Z,,False,0,0,"[""INFRA""]"
+langchain-ai/langchain,35038,chore(infra): inline code docs guidelines for `AGENTS.md`,closed,mdrxy,2026-02-05T23:28:12Z,2026-02-05T23:30:52Z,2026-02-05T23:30:50Z,2026-02-05T23:30:50Z,False,0,0,"[""infra"", ""internal""]"
+langchain-ai/langchain,35037,fix(openai): exclude empty tools list from API payload,closed,saakshigupta2002,2026-02-05T23:02:02Z,2026-02-11T21:43:03Z,2026-02-11T21:43:03Z,,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,35036,fix(anthropic): support output_config,closed,ccurme,2026-02-05T22:05:51Z,2026-02-06T16:11:04Z,2026-02-06T16:11:02Z,2026-02-06T16:11:02Z,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""internal""]"
+langchain-ai/langchain,35035,release(anthropic): 1.3.2,closed,ccurme,2026-02-05T21:44:04Z,2026-02-05T21:45:50Z,2026-02-05T21:45:48Z,2026-02-05T21:45:48Z,False,0,0,"[""integration"", ""release"", ""dependencies"", ""anthropic"", ""internal""]"
+langchain-ai/langchain,35034,fix(anthropic): support automatic compaction (Opus 4.6),closed,ccurme,2026-02-05T21:12:27Z,2026-02-05T21:41:27Z,2026-02-05T21:41:25Z,2026-02-05T21:41:25Z,False,0,0,"[""integration"", ""dependencies"", ""fix"", ""anthropic""]"
+langchain-ai/langchain,35033,feat: support state updates from `wrap_model_call` with command(s),closed,sydney-runkle,2026-02-05T18:48:31Z,2026-02-06T21:29:43Z,2026-02-06T12:28:05Z,2026-02-06T12:28:05Z,False,0,0,"[""langchain"", ""dependencies"", ""feature"", ""langchain-classic"", ""internal""]"
+langchain-ai/langchain,35032,release(standard-tests): 1.1.4,closed,eyurtsev,2026-02-05T17:44:56Z,2026-02-05T20:25:41Z,2026-02-05T17:49:11Z,2026-02-05T17:49:11Z,False,0,0,"[""standard-tests"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,35031,fix(core): handle None content in ToolMessageChunk merge,closed,Mr-Neutr0n,2026-02-05T17:25:12Z,2026-02-08T16:02:35Z,2026-02-08T16:02:35Z,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,35030,fix(openai): openai sdk validation error not surfaced in `with_structured_output`,open,LouisAuneau,2026-02-05T15:19:18Z,2026-02-05T22:18:17Z,,,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,35029,feat(groq): Strict Mode for Groq,open,keenborder786,2026-02-05T14:51:20Z,2026-02-11T20:54:50Z,,,False,0,0,"[""integration"", ""feature"", ""groq"", ""external""]"
+langchain-ai/langchain,35027,fix(openai): preserve reasoning_content for DeepSeek models,open,jackjin1997,2026-02-05T14:45:57Z,2026-02-11T11:07:11Z,,,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""openai"", ""external""]"
+langchain-ai/langchain,35026,fix(langchain): bump min core version and improve approximate token counting,closed,ccurme,2026-02-05T14:32:08Z,2026-02-05T14:37:28Z,2026-02-05T14:37:26Z,2026-02-05T14:37:26Z,False,0,0,"[""langchain"", ""dependencies"", ""fix"", ""internal""]"
+langchain-ai/langchain,35025,release(core): 1.2.9,closed,ccurme,2026-02-05T14:07:47Z,2026-02-05T14:17:57Z,2026-02-05T14:17:55Z,2026-02-05T14:17:55Z,False,0,0,"[""core"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,35024,feat: support state updates from `wrap_model_call`,closed,sydney-runkle,2026-02-05T14:06:24Z,2026-02-06T12:39:40Z,2026-02-06T12:39:40Z,,False,0,0,"[""langchain"", ""dependencies"", ""feature"", ""internal""]"
+langchain-ai/langchain,35023,release: langchain 1.2.9,closed,sydney-runkle,2026-02-05T12:46:04Z,2026-02-05T14:06:02Z,2026-02-05T14:05:59Z,2026-02-05T14:05:59Z,False,0,0,"[""langchain"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,35022,fix(core): handle non-string BaseMessage content in pretty_repr,open,GJR-HRL,2026-02-05T09:53:52Z,2026-02-05T10:05:31Z,,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,35021,refactor(core): delete unused static tool definitions of TodoListMiddleware,open,yuzilog,2026-02-05T08:48:54Z,2026-02-05T08:49:07Z,,,True,0,0,"[""langchain"", ""refactor"", ""external""]"
+langchain-ai/langchain,35020,refactor: delete unused static tool definitions of TodoListMiddleware,closed,yuzilog,2026-02-05T08:46:50Z,2026-02-05T08:48:25Z,2026-02-05T08:48:25Z,,False,0,0,"[""langchain"", ""refactor"", ""external""]"
+langchain-ai/langchain,35019,fix(langchain): normalize raw schemas in middleware response_format override,closed,T1mn,2026-02-05T06:47:53Z,2026-02-06T12:32:27Z,2026-02-06T12:32:27Z,2026-02-06T12:32:27Z,False,0,0,"[""langchain"", ""fix"", ""external""]"
+langchain-ai/langchain,35018,feat(standard-tests): add standard tests for sandbox providers,closed,eyurtsev,2026-02-05T03:28:17Z,2026-02-05T17:48:12Z,2026-02-05T17:44:02Z,2026-02-05T17:44:01Z,False,0,0,"[""standard-tests"", ""dependencies"", ""feature""]"
+docker/compose,13574,Fix invalid path error when using OCI artifacts on Windows,closed,mikesir87,2026-02-05T16:00:11Z,2026-02-09T08:15:37Z,2026-02-09T08:15:37Z,2026-02-09T08:15:37Z,False,0,0,[]
+docker/compose,13573,update to go1.25.7,closed,thaJeztah,2026-02-05T11:48:08Z,2026-02-09T10:48:27Z,2026-02-09T08:21:33Z,2026-02-09T08:21:33Z,False,0,0,[]
+duckdb/duckdb,20830,Add stats propagation for variant -> primitive casts,closed,Mytherin,2026-02-05T20:25:52Z,2026-02-07T12:29:37Z,2026-02-07T12:29:36Z,2026-02-07T12:29:36Z,False,0,0,[]
+duckdb/duckdb,20829,The checkpoint WAL is written for the NEXT checkpoint iteration - we need to take that into account for the WAL version check when recovering from it,closed,Mytherin,2026-02-05T20:23:06Z,2026-02-06T07:30:06Z,2026-02-06T07:30:06Z,2026-02-06T07:30:06Z,False,0,0,[]
+duckdb/duckdb,20828,Make compression availability checks complete,open,matthijskooijman,2026-02-05T17:26:07Z,2026-02-11T10:01:15Z,,,True,0,0,[]
+duckdb/duckdb,20827,Remove index list assertion,closed,Maxxen,2026-02-05T17:03:09Z,2026-02-06T07:30:25Z,2026-02-06T07:30:22Z,2026-02-06T07:30:22Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20826,Respect affinity mask of main process when pinning,closed,krenzland,2026-02-05T15:32:45Z,2026-02-10T08:20:26Z,2026-02-10T08:20:26Z,2026-02-10T08:20:26Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20825,Avoid throwing internal exception when writing variant with UINT128 to Parquet,closed,Mytherin,2026-02-05T15:03:48Z,2026-02-05T20:22:32Z,2026-02-05T20:22:32Z,2026-02-05T20:22:32Z,False,0,0,[]
+duckdb/duckdb,20823,Make row group pruner deal correctly with all-null row groups,closed,Mytherin,2026-02-05T14:41:08Z,2026-02-05T20:19:55Z,2026-02-05T20:19:55Z,2026-02-05T20:19:55Z,False,0,0,[]
+duckdb/duckdb,20822,Add `-h` alias for `-help` command line option,open,maiadegraaf,2026-02-05T14:37:16Z,2026-02-10T08:03:36Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20820,[Encryption] Finalize default nonce/IV len to 12 + refactor api,closed,taniabogatsch,2026-02-05T12:44:17Z,2026-02-06T10:09:07Z,2026-02-06T10:06:11Z,2026-02-06T10:06:11Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20819,Use WHOLE_ARCHIVE instead of relying on link ordering for duckdb_generated_extension_loader,open,evertlammerts,2026-02-05T10:30:07Z,2026-02-10T21:58:06Z,,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20818,Fix #20761: avoid leaking encryption key into duckdb_databases,closed,Mytherin,2026-02-05T10:14:43Z,2026-02-05T17:51:31Z,2026-02-05T17:51:30Z,2026-02-05T17:51:30Z,False,0,0,[]
+duckdb/duckdb,20817,Bring back 'cli' as duckdb_api for shell/CLI,closed,carlopi,2026-02-05T09:18:02Z,2026-02-05T17:52:24Z,2026-02-05T17:52:21Z,2026-02-05T17:52:21Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20816,LateMaterialize LHS missing table filters,closed,timbess,2026-02-05T05:10:11Z,2026-02-12T02:25:34Z,2026-02-12T01:01:16Z,,False,0,0,"[""Changes Requested""]"

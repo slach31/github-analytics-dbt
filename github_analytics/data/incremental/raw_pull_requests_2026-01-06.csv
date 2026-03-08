@@ -1,0 +1,24 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35456,[DevTools] Attach async info in filtered fallback to parent of Suspense,closed,eps1lon,2026-01-06T17:02:56Z,2026-01-10T10:33:52Z,2026-01-10T10:33:48Z,2026-01-10T10:33:48Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35450,[compiler] Validate ref reads in render via improved impure value validation,closed,josephsavona,2026-01-06T02:19:38Z,2026-01-16T16:55:23Z,2026-01-16T16:55:23Z,,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+golang/go,77092,internal/trace: fix recorder.Write return value for header-only buffers,closed,jjpinto,2026-01-06T22:35:24Z,2026-01-07T20:29:58Z,2026-01-07T20:29:58Z,,False,0,0,[]
+langchain-ai/langchain,34620,chore(groq): document vision support,closed,AaravDugar123,2026-01-06T21:39:25Z,2026-01-22T21:17:11Z,2026-01-07T16:37:06Z,2026-01-07T16:37:05Z,False,0,0,"[""integration"", ""infra"", ""groq"", ""external""]"
+langchain-ai/langchain,34619,fix(openai): raise proper exception `OpenAIRefusalError` on structured output refusal,closed,shengbo-ma,2026-01-06T19:11:28Z,2026-01-22T21:17:12Z,2026-01-07T19:34:03Z,2026-01-07T19:34:03Z,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,34618,chore(langchain): add admonition around redaction_rules,closed,ccurme,2026-01-06T17:58:46Z,2026-01-22T21:17:14Z,2026-01-06T18:01:09Z,2026-01-06T18:01:09Z,False,0,0,"[""langchain"", ""infra"", ""internal""]"
+langchain-ai/langchain,34617,chore(langchain): fix types in test_pii,closed,cbornet,2026-01-06T17:35:34Z,2026-01-22T21:17:15Z,2026-01-06T18:06:26Z,2026-01-06T18:06:26Z,False,0,0,"[""langchain"", ""infra"", ""external""]"
+langchain-ai/langchain,34615,chore(langchain): fix types in test_model_fallback,closed,cbornet,2026-01-06T17:03:32Z,2026-01-22T21:17:17Z,2026-01-06T18:07:18Z,2026-01-06T18:07:18Z,False,0,0,"[""langchain"", ""infra"", ""dependencies"", ""external""]"
+langchain-ai/langchain,34614,fix: warn when Chain.run returns structured output (dict),closed,rashidiff,2026-01-06T15:38:22Z,2026-01-22T21:17:19Z,2026-01-06T18:12:17Z,,False,0,0,"[""fix"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,34612,fix(ollama): support `response_format` in `ChatOllama`,open,mohankumar27,2026-01-06T06:52:28Z,2026-01-22T21:17:20Z,,,False,0,0,"[""integration"", ""fix"", ""ollama"", ""external""]"
+langchain-ai/langchain,34611,fix(ollama): handle `response_format` in `ChatOllama`,closed,AB7-cpu,2026-01-06T06:49:02Z,2026-01-22T21:17:22Z,2026-01-10T07:46:50Z,,False,0,0,"[""integration"", ""fix"", ""ollama"", ""external""]"
+docker/compose,13496,use standard TARGETARCH for architecture suffix,open,ndeloof,2026-01-06T13:40:16Z,2026-01-08T08:39:10Z,,,False,0,0,[]
+duckdb/duckdb,20414,Fix file opener propagation,closed,dentiny,2026-01-06T23:47:27Z,2026-01-07T15:01:16Z,2026-01-07T15:01:16Z,2026-01-07T15:01:16Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20412,"Fixup on top of #20330, by providing Opener",closed,carlopi,2026-01-06T20:24:24Z,2026-01-07T20:50:39Z,2026-01-07T07:07:40Z,,True,0,0,"[""CI Failure""]"
+duckdb/duckdb,20411,"Fixup BRANCHES_TO_BE_CACHED, vars are not available on PRs, so env it is",closed,carlopi,2026-01-06T19:13:37Z,2026-01-07T09:27:21Z,2026-01-07T09:27:21Z,2026-01-07T09:27:21Z,False,0,0,[]
+duckdb/duckdb,20409,No catalog found Nightly test fix,closed,ccfelius,2026-01-06T16:11:55Z,2026-01-14T07:31:44Z,2026-01-07T08:59:34Z,2026-01-07T08:59:34Z,False,0,0,[]
+duckdb/duckdb,20408,NightlyTests fixes,closed,lnkuiper,2026-01-06T14:03:59Z,2026-01-07T01:13:01Z,2026-01-07T01:13:01Z,2026-01-07T01:13:01Z,False,0,0,[]
+duckdb/duckdb,20407,Storage cleanup: remove unused headers and fix transitive includes,closed,Schwarf,2026-01-06T11:48:07Z,2026-01-07T06:37:54Z,2026-01-07T06:37:50Z,2026-01-07T06:37:50Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20405,"Parquet Reader: Ignore invalid UTF8 in string stats, instead of throwing an error",closed,Mytherin,2026-01-06T11:20:49Z,2026-01-07T06:37:23Z,2026-01-07T06:37:23Z,2026-01-07T06:37:23Z,False,0,0,[]
+duckdb/duckdb,20404,Add v1.4.4 to Storage Version,closed,maiadegraaf,2026-01-06T10:34:30Z,2026-01-07T08:33:22Z,2026-01-07T06:37:11Z,2026-01-07T06:37:11Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20403,Backport client data cleanup,closed,taniabogatsch,2026-01-06T10:09:12Z,2026-01-07T10:54:13Z,2026-01-07T06:37:01Z,2026-01-07T06:37:00Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20402,feat: reduce access invalid file,closed,fanvanzh,2026-01-06T09:54:29Z,2026-02-05T06:18:45Z,2026-01-14T07:49:25Z,2026-01-14T07:49:25Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20401,Don't add a semicolon to final query when splitting statements,closed,Dtenwolde,2026-01-06T08:28:53Z,2026-01-07T08:38:33Z,2026-01-07T08:38:29Z,2026-01-07T08:38:29Z,False,0,0,[]

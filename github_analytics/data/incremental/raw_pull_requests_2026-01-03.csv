@@ -1,0 +1,14 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35440,chore(deps): bump babel core to resolve CI inconsistencies,open,RinZ27,2026-01-03T14:47:00Z,2026-01-12T09:05:12Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35439,Fix typos in the documentation,open,rahul24salunke,2026-01-03T14:21:14Z,2026-01-28T08:20:17Z,,,False,0,0,"[""CLA Signed""]"
+golang/go,77054,docs: Add docstrings to goreposum and golookup functions,closed,Ricky512227,2026-01-03T08:28:42Z,2026-01-03T11:29:47Z,2026-01-03T11:29:47Z,,True,0,0,[]
+langchain-ai/langchain,34593,community[patch]: Add Hour.IT Agent Hub tool for crypto payments,closed,SVG-campus,2026-01-03T20:21:36Z,2026-01-22T21:17:47Z,2026-01-04T03:47:03Z,,False,0,0,"[""infra"", ""external""]"
+langchain-ai/langchain,34592,chore(langchain): fix types in `test_tools`,closed,cbornet,2026-01-03T18:43:14Z,2026-01-22T21:17:48Z,2026-01-09T23:05:29Z,2026-01-09T23:05:29Z,False,0,0,"[""langchain"", ""infra"", ""dependencies"", ""typing"", ""external""]"
+langchain-ai/langchain,34591,chore(langchain): fix types in test_diagram and test_sync_async_wrappers,closed,cbornet,2026-01-03T18:11:20Z,2026-01-22T21:17:50Z,2026-01-05T14:05:24Z,2026-01-05T14:05:24Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34588,refactor(core): select chunk_id via ranking and remove extra allocation,closed,AndreRoelofs,2026-01-03T07:36:35Z,2026-01-22T21:17:52Z,2026-01-05T14:13:05Z,2026-01-05T14:13:05Z,False,0,0,"[""core"", ""refactor"", ""external""]"
+langchain-ai/langchain,34587,fix(text-splitters): HTMLSemanticPreservingSplitter nested preserved …,closed,TheClassicTechno,2026-01-03T06:27:30Z,2026-01-22T21:17:53Z,2026-01-05T15:28:27Z,2026-01-05T15:28:27Z,False,0,0,"[""text-splitters"", ""fix"", ""external""]"
+pallets/flask,5877,Minor documentation,closed,harshitasurana,2026-01-03T16:43:37Z,2026-01-18T00:11:01Z,2026-01-03T18:30:25Z,,False,0,0,[]
+duckdb/duckdb,20373,ResultSet row access performance,open,iliasaz,2026-01-03T22:50:48Z,2026-01-06T14:40:53Z,,,False,0,0,[]
+duckdb/duckdb,20372,Fix missing profiling metrics in EXPLAIN ANALYZE JSON output,closed,2jungkook,2026-01-03T19:40:20Z,2026-02-09T08:50:16Z,2026-02-09T08:50:16Z,,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20369,feat(adbc): support the experimental `adbc.ingest.target_catalog` option and improve ingest name resolution,closed,eitsupi,2026-01-03T04:40:41Z,2026-01-07T13:54:08Z,2026-01-07T13:52:27Z,2026-01-07T13:52:27Z,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20368,Fix correlated scalar subqueries involving CTEs and derived tables,closed,2jungkook,2026-01-03T04:31:45Z,2026-02-09T04:02:15Z,2026-01-29T08:32:27Z,2026-01-29T08:32:27Z,False,0,0,"[""Ready To Merge""]"

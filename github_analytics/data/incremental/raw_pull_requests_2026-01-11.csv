@@ -1,0 +1,10 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35482,"Playground: Refactor messages types and parsing (string enums, readonly)",open,monokkai,2026-01-11T11:27:32Z,2026-01-11T11:30:50Z,,,False,0,0,"[""CLA Signed""]"
+golang/go,77145,runtime: report errno and heap stats on Windows VirtualAlloc failure,closed,awmorgan,2026-01-11T00:46:51Z,2026-02-07T00:54:15Z,2026-02-07T00:53:59Z,,False,0,0,[]
+langchain-ai/langchain,34702,fixed the gen-ai broken text issue,closed,pranjulkaran,2026-01-11T19:16:12Z,2026-01-22T21:15:11Z,2026-01-11T19:25:49Z,,False,0,0,"[""core"", ""external""]"
+langchain-ai/langchain,34701,docs(core): add SLO-aware routing cookbook + beta-binomial miss-probability helper,closed,rafaellimatecnologia-cloud,2026-01-11T17:50:10Z,2026-01-22T21:15:13Z,2026-01-11T19:45:34Z,,False,0,0,"[""documentation"", ""core"", ""external""]"
+langchain-ai/langchain,34700,fix(langchain): allow user middleware to override auto-injected middleware,closed,TanmayThakur2209,2026-01-11T15:13:23Z,2026-01-22T21:15:15Z,2026-01-11T16:12:18Z,,False,0,0,"[""langchain"", ""fix"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,34699,fix(langchain): allow duplicate middleware names by keeping last instance,open,mohankumar27,2026-01-11T15:00:12Z,2026-01-22T21:15:17Z,,,False,0,0,"[""langchain"", ""fix"", ""external""]"
+duckdb/duckdb,20482,Expose logical state layout for AGGREGATE_STATE,closed,EtgarDev,2026-01-11T15:25:50Z,2026-01-26T09:49:49Z,2026-01-26T09:49:45Z,2026-01-26T09:49:45Z,False,0,0,"[""CI Failure""]"
+duckdb/duckdb,20480,Add hook for extensions to plan lateral joins,open,Maxxen,2026-01-11T11:30:33Z,2026-01-12T13:17:55Z,,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20479,bump spatial for andium,closed,Maxxen,2026-01-11T10:59:10Z,2026-01-12T13:03:49Z,2026-01-12T13:03:48Z,2026-01-12T13:03:48Z,False,0,0,[]

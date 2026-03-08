@@ -1,0 +1,2 @@
+repo_full_name,sha,author_login,author_date,committer_login,committer_date,message
+golang/go,0430fa977573866f93e66aa61a66b37ff0738aba,tmthrgd,2026-01-11T07:00:06Z,cherrymui,2026-02-06T19:40:32Z,"simd/archsimd: correct algorithm name in SHA256 ops documentation  The three SHA256 ops (SHA256Message1, SHA256Message2 and SHA256TwoRounds) all incorrectly referred to the SHA1 algorithm in their documentation rather than SHA256.  Change-Id: Id6c1bfe4fee4517c0e498fb063cc9112464bc1e7 Reviewed-on: ht"

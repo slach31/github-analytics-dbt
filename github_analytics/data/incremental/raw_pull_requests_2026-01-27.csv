@@ -1,0 +1,67 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35646,[flags] make `enableTrustedTypesIntegration` dynamic,closed,hybrist,2026-01-27T23:24:02Z,2026-01-28T18:15:34Z,2026-01-28T18:15:34Z,2026-01-28T18:15:34Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35645,[DevTools] Fix Profiler inaccuracy caused by stale PerformedWork flag on unvisited fibers,closed,yongsk0066,2026-01-27T17:41:53Z,2026-02-12T01:54:33Z,2026-02-12T01:54:33Z,,False,0,0,"[""CLA Signed""]"
+facebook/react,35643,Allow more component types as SuspenseList children,open,jackpope,2026-01-27T16:34:09Z,2026-01-27T18:03:50Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35642,Stabilize reactFragments host node handle,open,jackpope,2026-01-27T15:04:51Z,2026-02-04T20:34:33Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35641,Minor DOM FragmentInstance refactors,closed,jackpope,2026-01-27T15:00:45Z,2026-02-11T15:03:40Z,2026-02-11T15:03:36Z,2026-02-11T15:03:36Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35638,fix(eslint-plugin-react-hooks): allow underscore prefix in component …,open,poetryofcode,2026-01-27T02:43:28Z,2026-02-02T21:07:33Z,,,False,0,0,"[""CLA Signed""]"
+golang/go,77327,cmd/internal/obj/riscv: add Zvkned extension support,open,pitiless0514,2026-01-27T07:29:01Z,2026-01-27T08:44:58Z,,,False,0,0,[]
+golang/go,77326,cmd/internal/obj/riscv: add Zvkned extension support,closed,pitiless0514,2026-01-27T07:14:16Z,2026-01-27T07:25:25Z,2026-01-27T07:25:25Z,,False,0,0,[]
+apache/spark,54016,[SPARK-55243][CONNECT] Allow setting binary headers via the -bin suffix in the Scala Connect client,closed,dillitz,2026-01-27T23:28:50Z,2026-01-29T14:58:04Z,2026-01-29T14:56:50Z,,False,0,0,"[""SQL"", ""CONNECT""]"
+apache/spark,54015,[SPARK-55244][PYTHON][PS] Use np.nan as default value for pandas string types,closed,gaogaotiantian,2026-01-27T22:53:05Z,2026-01-29T01:39:18Z,2026-01-29T01:34:58Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54014,[SPARK-55228][SPARK-55230][SQL][CONNECT] Implement Dataset.zipWithIndex in Scala API,closed,fangchenli,2026-01-27T22:09:19Z,2026-02-05T20:23:24Z,2026-02-05T08:20:34Z,,False,0,0,"[""SQL"", ""BUILD"", ""CONNECT""]"
+apache/spark,54013,Test without join,closed,zifeif2,2026-01-27T21:45:07Z,2026-01-28T22:14:59Z,2026-01-28T22:14:59Z,,True,0,0,"[""SQL"", ""STRUCTURED STREAMING""]"
+apache/spark,54012,Upgrade Spark 4.1 + Affirm Specific Change,open,li-isabella,2026-01-27T21:03:36Z,2026-01-27T21:03:47Z,,,True,0,0,"[""KUBERNETES"", ""BUILD"", ""CORE"", ""PYTHON""]"
+apache/spark,54011,[SPARK-55031][SQL] Add vector avg/sum aggregation function expressions,closed,zhidongqu-db,2026-01-27T20:07:05Z,2026-01-30T03:34:09Z,2026-01-30T03:34:09Z,,False,0,0,"[""SQL""]"
+apache/spark,54010,[SPARK-54943][PYTHON][TESTS] Add test coverage for `pa.Array.cast` with `safe=False`,closed,Yicong-Huang,2026-01-27T18:46:48Z,2026-01-28T02:57:48Z,2026-01-28T02:56:53Z,,False,0,0,"[""CORE"", ""PYTHON""]"
+apache/spark,54009,[SPARK-46167][PS] Add axis implementation to DataFrame.rank,open,devin-petersohn,2026-01-27T15:55:14Z,2026-02-06T14:45:51Z,,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,54008,[SPARK-54887] Add previously removed legacy error class back in,closed,garlandz-db,2026-01-27T14:31:52Z,2026-01-29T18:53:55Z,2026-01-29T18:53:55Z,,False,0,0,"[""SQL"", ""CONNECT""]"
+apache/spark,54007,[SPARK-55240][CORE] Refactor LazyTry stacktrace handling to use wrapper instead of suppressed exception,closed,cloud-fan,2026-01-27T12:46:02Z,2026-01-28T14:37:25Z,2026-01-28T14:37:25Z,,False,0,0,"[""CORE""]"
+apache/spark,54006,[MINOR] Added Variant Implementation in ColumnarBatchRow.java,closed,mohitkundu1213,2026-01-27T12:33:38Z,2026-01-28T04:41:32Z,2026-01-27T15:44:14Z,,False,0,0,"[""SQL""]"
+apache/spark,54005,[SPARK-55240][CORE] Refactor LazyTry stacktrace handling to use wrapper instead of suppressed exception,closed,cloud-fan,2026-01-27T11:51:19Z,2026-01-27T12:47:41Z,2026-01-27T12:45:45Z,,False,0,0,"[""CORE""]"
+apache/spark,54004,[SPARK-55239][CONNECT][YARN] Allow to launch SparkConnectServer in YARN cluster mode,closed,sarutak,2026-01-27T11:25:02Z,2026-01-30T17:21:00Z,2026-01-30T17:20:40Z,,False,0,0,"[""CORE""]"
+apache/spark,54003,[SPARK-55238][Geo][SQL] Move Geo SRS mapping logic from `main/scala` to `main/java`,closed,uros-db,2026-01-27T08:59:02Z,2026-01-28T03:38:32Z,2026-01-28T03:38:32Z,,False,0,0,"[""SQL""]"
+apache/spark,54002,[SPARK-55237][SQL] Suppress annoying messages when looking up nonexistent DBs,closed,pan3793,2026-01-27T08:11:16Z,2026-01-30T03:32:43Z,2026-01-30T03:32:43Z,,False,0,0,[]
+apache/spark,54001,[SPARK-55236][CORE] Address unexpected exception in some CoarseGrainedExecutorBackendSuite test cases,closed,ChuckLin2025,2026-01-27T08:08:49Z,2026-01-30T04:04:52Z,2026-01-30T03:52:44Z,,False,0,0,"[""CORE""]"
+apache/spark,54000,[SPARK-47996][PS] support cross merge in pandas API,closed,fangchenli,2026-01-27T07:58:03Z,2026-01-29T03:22:23Z,2026-01-29T03:21:46Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,53999,[SPARK-55235][PYTHON][TESTS] Refactor tests for pandas udf input type coercion,closed,zhengruifeng,2026-01-27T07:22:40Z,2026-01-28T07:34:37Z,2026-01-28T05:10:39Z,,False,0,0,"[""SQL"", ""BUILD"", ""DOCS"", ""PYTHON""]"
+apache/spark,53998,[SPARK-55234][PYTHON][INFRA] Remove unused packages from remaining pyspark test images,closed,zhengruifeng,2026-01-27T07:17:18Z,2026-01-28T00:22:09Z,2026-01-28T00:21:20Z,,False,0,0,"[""BUILD""]"
+apache/spark,53997,[SPARK-55233][BUILD] Upgrade ASM to 9.9.1,closed,dongjoon-hyun,2026-01-27T03:48:25Z,2026-01-29T00:21:20Z,2026-01-29T00:20:59Z,,False,0,0,"[""BUILD""]"
+apache/spark,53996,[SPARK-55232][BUILD][TESTS] Upgrade `bytebuddy` to 1.18.4,closed,dongjoon-hyun,2026-01-27T03:30:57Z,2026-01-27T06:08:26Z,2026-01-27T06:08:16Z,,False,0,0,"[""BUILD""]"
+apache/spark,53995,[SPARK-48455][DOCS][MINOR] Remove unused DECLARE statement from IF statement example in Docs,closed,miland-db,2026-01-27T02:08:23Z,2026-01-27T11:51:57Z,2026-01-27T11:51:57Z,,False,0,0,"[""DOCS""]"
+apache/spark,53994,[SPARK-54942][PYTHON][TESTS][FOLLOWUP] Fix struct cast tests for PyArrow < 21 compatibility,closed,Yicong-Huang,2026-01-27T01:51:16Z,2026-01-27T05:02:33Z,2026-01-27T05:02:08Z,,False,0,0,"[""CORE"", ""PYTHON""]"
+apache/spark,53993,[SPARK-55226][PYTHON][PS] Recognize datetime and timedelta with units other than [ns],closed,gaogaotiantian,2026-01-27T00:41:11Z,2026-01-29T01:39:57Z,2026-01-27T02:11:43Z,,False,0,0,"[""PYTHON"", ""PANDAS API ON SPARK""]"
+apache/spark,53992,[SPARK-55224][PYTHON] Use Spark DataType as ground truth in Pandas-Arrow serialization,closed,Yicong-Huang,2026-01-27T00:23:54Z,2026-02-08T22:34:52Z,2026-02-03T03:31:39Z,,False,0,0,"[""SQL"", ""CORE"", ""PYTHON""]"
+langchain-ai/langchain,34904,perf: optimize crawler cursoring to O(n),closed,wixarv,2026-01-27T17:34:11Z,2026-01-30T19:00:39Z,2026-01-30T19:00:39Z,,False,0,0,"[""langchain-classic"", ""performance"", ""external""]"
+langchain-ai/langchain,34903,refactor: replace print with logger.info in llm_summarization_checker,closed,wixarv,2026-01-27T17:28:33Z,2026-01-30T19:12:55Z,2026-01-30T19:12:54Z,2026-01-30T19:12:54Z,False,0,0,"[""refactor"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,34902,Fix/replace print with logging,closed,wixarv,2026-01-27T17:13:01Z,2026-01-30T22:18:30Z,2026-01-30T22:18:30Z,,False,0,0,"[""langchain-classic"", ""external""]"
+langchain-ai/langchain,34901,docs: add CONTRIBUTING.md pointing to online guide,closed,wixarv,2026-01-27T17:06:16Z,2026-01-30T19:47:11Z,2026-01-30T19:47:11Z,2026-01-30T19:47:11Z,False,0,0,"[""documentation"", ""external""]"
+langchain-ai/langchain,34899,fix(openai): handle proxy responses with incorrect finish_reason,closed,Dhupmaps,2026-01-27T06:23:26Z,2026-02-01T02:08:49Z,2026-02-01T02:08:49Z,,False,0,0,"[""integration"", ""openai"", ""external""]"
+langchain-ai/langchain,34898,test(core): add tests for approximate token counting with multimodal messages,closed,lewisjwhitehill,2026-01-27T04:45:16Z,2026-02-03T00:10:19Z,2026-01-30T20:35:16Z,2026-01-30T20:35:16Z,False,0,0,"[""core"", ""tests"", ""external""]"
+langchain-ai/langchain,34897,chore(core): nits,closed,mdrxy,2026-01-27T00:53:34Z,2026-01-27T02:05:40Z,2026-01-27T02:05:38Z,2026-01-27T02:05:38Z,False,0,0,"[""core"", ""infra"", ""internal""]"
+pallets/flask,5904,Clarify data correctness explanation in quickstart,closed,ANU5565,2026-01-27T13:46:08Z,2026-02-11T00:17:34Z,2026-01-27T14:51:51Z,,False,0,0,[]
+pallets/flask,5903,Abort if the instance folder cannot be created,closed,marcows,2026-01-27T08:24:02Z,2026-02-12T00:12:40Z,2026-01-28T15:43:01Z,2026-01-28T15:43:01Z,False,0,0,"[""docs""]"
+duckdb/duckdb,20706,Fix union type casting rules,open,JAicewizard,2026-01-27T22:18:41Z,2026-02-10T09:50:56Z,,,True,0,0,[]
+duckdb/duckdb,20705,CLI: Lock configuration in safe mode,closed,Mytherin,2026-01-27T21:32:13Z,2026-01-28T07:46:21Z,2026-01-28T07:46:21Z,2026-01-28T07:46:21Z,False,0,0,[]
+duckdb/duckdb,20704,CLI: Assume black terminal color on Windows,closed,Mytherin,2026-01-27T21:29:45Z,2026-01-28T07:46:11Z,2026-01-28T07:46:11Z,2026-01-28T07:46:11Z,False,0,0,[]
+duckdb/duckdb,20703,Disable pushdown for arrow tables that contain view columns,closed,evertlammerts,2026-01-27T21:05:34Z,2026-02-06T09:10:52Z,2026-02-03T10:57:02Z,2026-02-03T10:57:02Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20701,bump iceberg to latest v1.5,closed,Tmonster,2026-01-27T19:31:02Z,2026-01-28T08:40:09Z,2026-01-28T08:40:06Z,2026-01-28T08:40:06Z,False,0,0,[]
+duckdb/duckdb,20700,Recheck result types after optimizers run,closed,hrl20,2026-01-27T18:44:31Z,2026-01-29T10:51:29Z,2026-01-29T10:51:29Z,,False,0,0,[]
+duckdb/duckdb,20699,Missed commit in #20327,open,EslamAhmed171,2026-01-27T16:34:46Z,2026-01-28T12:02:35Z,,,False,0,0,"[""CI Failure""]"
+duckdb/duckdb,20698,Fixup duckdb_generated_extension_loader linking,closed,carlopi,2026-01-27T16:26:54Z,2026-02-05T08:14:43Z,2026-01-28T07:47:20Z,2026-01-28T07:47:20Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20697,PEGTransformerFactory::TransformMergeIntoStatement: Fixup via move,closed,carlopi,2026-01-27T16:21:20Z,2026-01-28T07:47:02Z,2026-01-28T07:47:00Z,2026-01-28T07:47:00Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20696,"Allow lazy binding of views, and no longer require views to rigidly have the same schema (return types / names)",closed,Mytherin,2026-01-27T15:17:55Z,2026-01-29T10:31:16Z,2026-01-29T10:31:16Z,2026-01-29T10:31:16Z,False,0,0,[]
+duckdb/duckdb,20695,Make `ORDER BY [column_name]` work if we have a single qualified column with that name in the projection list,closed,Mytherin,2026-01-27T15:11:36Z,2026-01-28T07:45:26Z,2026-01-28T07:45:25Z,2026-01-28T07:45:25Z,False,0,0,[]
+duckdb/duckdb,20694,Add back `UnregisterSubSystem` and make `ExtractSubSystem` work with `OpenerFileSystem`,closed,Mytherin,2026-01-27T15:08:01Z,2026-01-28T07:45:13Z,2026-01-28T07:45:13Z,2026-01-28T07:45:13Z,False,0,0,[]
+duckdb/duckdb,20693,Rewrite many older concurrent tests to SQLLogicTests,closed,Mytherin,2026-01-27T15:05:55Z,2026-01-28T07:45:06Z,2026-01-28T07:45:06Z,2026-01-28T07:45:06Z,False,0,0,[]
+duckdb/duckdb,20692,"[C API] unsafe utf8 string functions, valid_ut8_check, and tests",closed,artjomPlaunov,2026-01-27T13:31:07Z,2026-02-03T15:23:46Z,2026-01-29T09:28:11Z,2026-01-29T09:28:11Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20691,Initialize `set_scan_order` in all TableFunction constructors,closed,philippmd,2026-01-27T13:24:27Z,2026-01-28T09:16:00Z,2026-01-28T09:15:57Z,2026-01-28T09:15:57Z,False,0,0,[]
+duckdb/duckdb,20690,PEGTransformerFactory::TransformMergeIntoStatement: Fixup via unique_ptr_cast,closed,carlopi,2026-01-27T12:59:45Z,2026-01-27T16:21:44Z,2026-01-27T16:21:44Z,,False,0,0,[]
+duckdb/duckdb,20689,Deprecate `UNION` syntax in `USING KEY` CTEs,closed,timfi,2026-01-27T12:44:18Z,2026-02-11T17:31:51Z,2026-02-11T17:31:49Z,2026-02-11T17:31:49Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20687,Fix compiler warnings on `main`,closed,lnkuiper,2026-01-27T12:30:54Z,2026-01-28T13:37:22Z,2026-01-28T08:55:16Z,2026-01-28T08:55:16Z,False,0,0,[]
+duckdb/duckdb,20686,Secret Manager: Ensure secrets are created exactly once,closed,Mytherin,2026-01-27T11:46:45Z,2026-01-28T07:44:49Z,2026-01-28T07:44:49Z,2026-01-28T07:44:48Z,False,0,0,[]
+duckdb/duckdb,20685,Fix `ParquetCopy` deserialization,closed,Y--,2026-01-27T10:16:00Z,2026-01-28T08:55:57Z,2026-01-28T08:55:49Z,2026-01-28T08:55:49Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20682,Optimize DELETE by scanning indexed columns at bind time,closed,krleonid,2026-01-27T08:09:19Z,2026-01-29T11:01:43Z,2026-01-29T11:01:43Z,2026-01-29T11:01:42Z,False,0,0,[]
+duckdb/duckdb,20681,Add EXPORT_STATE handling in PEG Transformer,closed,EtgarDev,2026-01-27T07:37:09Z,2026-02-09T08:37:30Z,2026-02-09T08:37:30Z,2026-02-09T08:37:30Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20680,"[chore] Skip test currently failing, to be reverted",closed,carlopi,2026-01-27T06:40:42Z,2026-01-27T09:46:17Z,2026-01-27T09:45:47Z,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20679,Internal #7236: FILL Ordering Optimization,closed,hawkfish,2026-01-27T05:10:35Z,2026-01-28T22:09:28Z,2026-01-28T13:11:35Z,2026-01-28T13:11:35Z,False,0,0,"[""Ready For Review""]"

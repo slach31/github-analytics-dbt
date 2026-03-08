@@ -1,0 +1,10 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35479,"SECURITY.md::؛'''':::''""'""""'':'':'""''''''Rename SECURITY.md to SECURITY.md::؛'''':::''""'""""'':'':'""''''''",closed,hghghghuhhihhhihhju-beep,2026-01-10T00:53:37Z,2026-01-10T01:18:09Z,2026-01-10T01:18:08Z,,False,0,0,[]
+golang/go,77144,Feature/panic on call,closed,kevin-valerio,2026-01-10T18:09:48Z,2026-01-10T18:12:19Z,2026-01-10T18:09:54Z,,False,0,0,[]
+langchain-ai/langchain,34696,fix(standard-tests): add type ignore,closed,mdrxy,2026-01-10T04:02:07Z,2026-01-22T21:15:19Z,2026-01-10T04:07:05Z,2026-01-10T04:07:05Z,False,0,0,"[""standard-tests"", ""fix"", ""internal""]"
+langchain-ai/langchain,34695,chore(core): bump lock,closed,mdrxy,2026-01-10T02:42:08Z,2026-01-22T21:15:20Z,2026-01-10T02:42:42Z,2026-01-10T02:42:42Z,False,0,0,"[""core"", ""infra"", ""internal""]"
+langchain-ai/langchain,34694,fix(chroma): forward `filter`/`where_document` in `_similarity_search_with_relevance_scores`,open,devffex,2026-01-10T01:20:12Z,2026-01-22T21:15:22Z,,,False,0,0,"[""integration"", ""fix"", ""chroma"", ""external""]"
+langchain-ai/langchain,34693,fix(langchain): tag messages generated from summarization,closed,ccurme,2026-01-10T00:10:16Z,2026-01-22T21:15:24Z,2026-01-12T14:26:09Z,2026-01-12T14:26:09Z,False,0,0,"[""langchain"", ""fix"", ""internal""]"
+pallets/flask,5885,clarify async view incompatibility with gevent monkey patching,closed,vizahat36,2026-01-10T20:02:42Z,2026-01-25T00:11:17Z,2026-01-10T21:58:48Z,,False,0,0,[]
+docker/compose,13503,refactor: extract API version constants to dedicated file,closed,htoyoda18,2026-01-10T16:23:20Z,2026-01-12T09:10:49Z,2026-01-11T16:04:40Z,2026-01-11T16:04:40Z,False,0,0,[]
+duckdb/duckdb,20477,Add `invoke` function,closed,Maxxen,2026-01-10T11:11:15Z,2026-01-16T07:52:10Z,2026-01-16T07:52:09Z,2026-01-16T07:52:09Z,False,0,0,"[""Ready For Review""]"

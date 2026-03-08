@@ -1,0 +1,32 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35449,[RFC] useStore/createStore APIs,open,captbaritone,2026-01-05T21:26:46Z,2026-01-31T05:47:34Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35448,PullCreate npm-publish-github-packages.yml.,closed,Dustin4444,2026-01-05T16:35:23Z,2026-01-05T18:26:19Z,2026-01-05T18:26:05Z,,False,0,0,[]
+golang/go,77082,runtime/trace: fix documentation comment ,closed,jjpinto,2026-01-05T22:55:51Z,2026-01-08T18:55:42Z,2026-01-08T18:55:42Z,,False,0,0,[]
+golang/go,77081,cmd/dist: fix goroot typo in panic message,closed,jjpinto,2026-01-05T22:05:41Z,2026-01-09T20:50:38Z,2026-01-09T20:50:38Z,,False,0,0,[]
+golang/go,77069,crypto/internal/fips140/nistec/fiat: optimize P256mul on riscv64,open,newborn22,2026-01-05T08:56:44Z,2026-01-08T02:08:20Z,,,False,0,0,[]
+langchain-ai/langchain,34609,fix(langchain): keep tool call / `AIMessage` pairings when summarizing,closed,mdrxy,2026-01-05T23:20:16Z,2026-01-22T21:17:24Z,2026-01-08T15:07:56Z,2026-01-08T15:07:56Z,False,0,0,"[""core"", ""langchain"", ""fix"", ""internal""]"
+langchain-ai/langchain,34608,fix(langchain): correct typo 'langchain experiment' to 'langchain_experimental' in error messages,closed,ademicho123,2026-01-05T22:11:08Z,2026-01-22T21:17:25Z,2026-01-05T23:10:07Z,2026-01-05T23:10:06Z,False,0,0,"[""langchain-classic"", ""external""]"
+langchain-ai/langchain,34607,fix(langchain): use `get_buffer_string` for message summarization,closed,mdrxy,2026-01-05T21:05:20Z,2026-01-22T21:17:27Z,2026-01-07T00:05:03Z,2026-01-07T00:05:03Z,False,0,0,"[""core"", ""langchain"", ""fix"", ""internal""]"
+langchain-ai/langchain,34606,fix(anthropic): fix version,closed,ccurme,2026-01-05T20:59:30Z,2026-01-22T21:17:29Z,2026-01-05T21:03:21Z,2026-01-05T21:03:21Z,False,0,0,"[""integration"", ""dependencies"", ""fix"", ""anthropic"", ""internal""]"
+langchain-ai/langchain,34605,release(anthropic): 1.3.1,closed,ccurme,2026-01-05T20:50:38Z,2026-01-22T21:17:30Z,2026-01-05T20:55:15Z,2026-01-05T20:55:15Z,False,0,0,"[""integration"", ""dependencies"", ""anthropic"", ""internal""]"
+langchain-ai/langchain,34604,release(xai): 1.2.1,closed,ccurme,2026-01-05T18:27:43Z,2026-01-22T21:17:32Z,2026-01-05T18:55:39Z,2026-01-05T18:55:39Z,False,0,0,"[""integration"", ""release"", ""dependencies"", ""xai"", ""internal""]"
+langchain-ai/langchain,34603,fix(xai): count reasoning tokens in output total,closed,ccurme,2026-01-05T18:17:07Z,2026-01-22T21:17:33Z,2026-01-05T18:25:30Z,2026-01-05T18:25:30Z,False,0,0,"[""integration"", ""fix"", ""xai"", ""internal""]"
+langchain-ai/langchain,34602,chore(langchain): fix types in test_file_search and test_human_in_the_loop,closed,cbornet,2026-01-05T18:02:14Z,2026-01-22T21:17:35Z,2026-01-05T19:34:36Z,2026-01-05T19:34:36Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34601,chore(langchain): fix types in test_model_call_limit_types,closed,cbornet,2026-01-05T17:01:51Z,2026-01-22T21:17:36Z,2026-01-05T19:37:04Z,2026-01-05T19:37:04Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34600,chore(langchain): fix types in test_wrap_tool_call,closed,cbornet,2026-01-05T16:24:48Z,2026-01-22T21:17:38Z,2026-01-05T19:38:32Z,2026-01-05T19:38:31Z,False,0,0,"[""langchain"", ""infra"", ""typing"", ""external""]"
+langchain-ai/langchain,34599,fix(core): fix strict schema generation for functions with optional args,closed,keenborder786,2026-01-05T14:26:11Z,2026-01-22T21:17:40Z,2026-01-07T20:13:18Z,2026-01-07T20:13:18Z,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,34597,docs: add LangChain Academy link to Additional resources,closed,repeat-Q,2026-01-05T04:39:21Z,2026-01-22T21:17:41Z,2026-01-05T13:55:46Z,2026-01-05T13:55:46Z,False,0,0,"[""documentation"", ""external""]"
+pallets/flask,5879,Add GitHub Actions CI workflow,closed,vedika-zangoh,2026-01-05T09:51:59Z,2026-01-20T00:09:46Z,2026-01-05T10:44:17Z,,False,0,0,[]
+pallets/flask,5878,Add hello.py for testing,closed,vedika-zangoh,2026-01-05T09:45:16Z,2026-01-20T00:09:47Z,2026-01-05T10:43:55Z,,False,0,0,[]
+docker/compose,13494,handle healthcheck.disable true in isServiceHealthy,closed,stavros-k,2026-01-05T09:40:20Z,2026-01-19T09:19:31Z,2026-01-19T09:18:35Z,2026-01-19T09:18:35Z,False,0,0,[]
+docker/compose,13493,Removed build warning when no explicit build has been requested.,closed,ndeloof,2026-01-05T07:36:19Z,2026-01-05T12:17:21Z,2026-01-05T12:17:21Z,2026-01-05T12:17:21Z,False,0,0,[]
+duckdb/duckdb,20398,Improve format script compatibility on Windows,closed,xuboying,2026-01-05T17:56:16Z,2026-01-07T10:41:55Z,2026-01-06T14:29:06Z,2026-01-06T14:29:06Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20396,Give preference do variables set in config,closed,pdet,2026-01-05T15:22:44Z,2026-01-06T07:55:42Z,2026-01-06T07:55:41Z,2026-01-06T07:55:41Z,False,0,0,[]
+duckdb/duckdb,20395,Use forward-compatible std::shuffle,closed,philippmd,2026-01-05T14:50:05Z,2026-01-06T07:55:13Z,2026-01-06T07:55:11Z,2026-01-06T07:55:10Z,False,0,0,[]
+duckdb/duckdb,20394,[Optimizer] Support NOT elimination,closed,doublefish5106,2026-01-05T13:56:18Z,2026-01-08T21:26:38Z,2026-01-08T07:39:20Z,2026-01-08T07:39:19Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20393,"Add QueryContext also to Write(void *buffer, idx_t nr_bytes), so that BytesWritten are updated also there",closed,carlopi,2026-01-05T13:56:15Z,2026-01-06T14:34:49Z,2026-01-06T14:34:49Z,2026-01-06T14:34:49Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20388,Add way to skip version checks in scripts/format.py,closed,carlopi,2026-01-05T10:26:35Z,2026-01-06T14:43:38Z,2026-01-06T14:43:38Z,2026-01-06T14:43:38Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20387,fix compilation with FORCE_QUERY_LOG=1,closed,zhanglei1949,2026-01-05T10:10:14Z,2026-01-06T08:08:44Z,2026-01-06T08:08:44Z,2026-01-06T08:08:44Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20385,[minor] Fix a few compilation warnings,closed,dentiny,2026-01-05T09:57:54Z,2026-01-06T08:09:15Z,2026-01-06T08:09:13Z,2026-01-06T08:09:13Z,False,0,0,[]
+duckdb/duckdb,20383,Out of core tests,closed,lnkuiper,2026-01-05T08:26:24Z,2026-01-28T13:37:40Z,2026-01-05T12:47:41Z,2026-01-05T12:47:41Z,False,0,0,[]
+duckdb/duckdb,20382,Manage object cache under buffer pool,closed,dentiny,2026-01-05T04:20:29Z,2026-01-20T08:25:16Z,2026-01-20T08:25:16Z,2026-01-20T08:25:16Z,False,0,0,"[""Ready To Merge""]"

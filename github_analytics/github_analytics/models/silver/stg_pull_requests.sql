@@ -1,15 +1,27 @@
-{{ config(materialized='view') }}
+{{ 
+config(
+    materialized='incremental',
+    schema='silver',
+    unique_key=['repo_full_name','pr_number'],
+    incremental_strategy='merge'
+) 
+}}
 
 {% set rel = source('bronze', 'raw_pull_requests') %}
 {% set cols = adapter.get_columns_in_relation(rel) %}
 {% set colnames = cols | map(attribute='name') | map('lower') | list %}
 
 with source as (
-    select * from {{ rel }}
+
+    select *
+    from {{ rel }}
+
 ),
 
 cleaned as (
+
     select
+
         cast(pr_number as integer) as pr_number,
 
         cast(created_at as timestamp) as created_at,
@@ -52,6 +64,18 @@ cleaned as (
 
     from source
     where pr_number is not null
+
 )
 
-select * from cleaned
+select *
+from cleaned
+
+{% if is_incremental() %}
+
+where created_at >
+(
+    select max(created_at)
+    from {{ this }}
+)
+
+{% endif %}

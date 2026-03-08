@@ -1,0 +1,52 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35511,Defer useDeferredValue updates in Gestures,closed,sebmarkbage,2026-01-14T23:35:33Z,2026-01-16T01:46:12Z,2026-01-16T01:46:12Z,2026-01-16T01:46:11Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35510,Optimize gesture by allowing the original work in progress tree to be a suspended commit,closed,sebmarkbage,2026-01-14T20:18:07Z,2026-01-16T01:51:36Z,2026-01-16T01:51:36Z,2026-01-16T01:51:36Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35509,[DevTools] Fix ReDoS vulnerability in Firefox stack trace parser,open,yujiteshima,2026-01-14T16:06:08Z,2026-01-20T17:23:36Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35508,Cleanup enableEagerAlternateStateNodeCleanup feature flag,open,javache,2026-01-14T13:44:01Z,2026-01-14T13:50:53Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35507,docs: improve README installation section clarity,open,manjot-dhaliwal,2026-01-14T05:40:12Z,2026-01-14T06:13:44Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35506,[Flight] Forward early debug info for lazy chunks,open,lubieowoce,2026-01-14T04:35:13Z,2026-02-03T12:38:06Z,,,True,0,0,"[""CLA Signed""]"
+apache/spark,53806,[SPARK-55018][PYTHON][TESTS][FOLLOWUP] Revert the interval for test_convergence,closed,gaogaotiantian,2026-01-14T21:54:51Z,2026-01-15T02:35:25Z,2026-01-15T02:35:12Z,,False,0,0,"[""MLLIB"", ""PYTHON""]"
+apache/spark,53805,[SPARK-55039][SS][SQL] Add IDENTIFIED BY syntax for naming streaming sources,closed,ericm-db,2026-01-14T21:41:28Z,2026-01-15T19:38:23Z,2026-01-15T19:38:23Z,,False,0,0,"[""SQL"", ""DOCS"", ""CONNECT""]"
+apache/spark,53804,[SPARK-54559] Use runnerConf to pass profiler option,closed,gaogaotiantian,2026-01-14T19:56:23Z,2026-01-15T02:41:00Z,2026-01-15T02:40:11Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING"", ""CORE"", ""PYTHON""]"
+apache/spark,53803,[SPARK-54921][CORE] Add parentIds in StageData,open,callmepandey,2026-01-14T19:53:11Z,2026-01-14T20:42:23Z,,,False,0,0,"[""WEB UI"", ""CORE""]"
+apache/spark,53802,[SPARK-55153][SS][PYTHON][DOC] Add documentation for TwsTester,closed,fedimser,2026-01-14T19:31:46Z,2026-02-05T04:15:42Z,2026-02-05T04:15:42Z,,False,0,0,"[""DOCS""]"
+apache/spark,53801,[SPARK-55037][CONNECT][SQL] Re-implement Observation Without Using the QueryExecutionListener,closed,heyihong,2026-01-14T16:58:13Z,2026-01-22T22:29:33Z,2026-01-22T17:54:05Z,,False,0,0,"[""SQL"", ""CONNECT""]"
+apache/spark,53800,[SPARK-55036][PYTHON] Add `ArrowTimestampConversion` for arrow timezone handling,closed,zhengruifeng,2026-01-14T13:18:10Z,2026-01-20T04:14:49Z,2026-01-20T04:14:27Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,53799,[SPARK-55035] Perform shuffle cleanup in child executions,closed,bozhang2820,2026-01-14T12:00:58Z,2026-01-19T12:35:13Z,2026-01-19T12:35:13Z,,False,0,0,"[""SQL"", ""STRUCTURED STREAMING"", ""CONNECT""]"
+apache/spark,53798,[SPARK-54870][SQL][FOLLOWUP] Remove dead code and fix typo,closed,cloud-fan,2026-01-14T11:28:02Z,2026-01-14T16:39:34Z,2026-01-14T16:39:34Z,,False,0,0,"[""SQL""]"
+apache/spark,53797,[SPARK-54987][PYTHON][DOCS][FOLLOW-UP] Update the docstring of `to_arrow_type`,closed,zhengruifeng,2026-01-14T11:18:09Z,2026-01-19T01:12:21Z,2026-01-19T01:11:58Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,53796,[SPARK-55034][PYTHON][TESTS] Test `test_arrow_udf_output_timestamps_ltz` without timezone conversion to UTC,closed,zhengruifeng,2026-01-14T11:04:07Z,2026-01-19T01:11:09Z,2026-01-19T01:10:47Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,53795,[SPARK-54870][SQL][FOLLOWUP] Remove dead code and fix typo,closed,cloud-fan,2026-01-14T10:20:13Z,2026-01-14T11:27:29Z,2026-01-14T11:27:24Z,,False,0,0,"[""SQL""]"
+apache/spark,53794,[SPARK-55033][SQL] Fix stringArgs of DSv2 writing commands,closed,pan3793,2026-01-14T06:22:45Z,2026-01-19T13:59:54Z,2026-01-19T09:13:00Z,,False,0,0,"[""SQL""]"
+langchain-ai/langchain,34756,docs(core): enhance docstring for `RunnableConfig` for clarity on `total=False`,closed,mdrxy,2026-01-14T21:07:30Z,2026-01-22T21:13:49Z,2026-01-14T21:38:34Z,2026-01-14T21:38:34Z,False,0,0,"[""documentation"", ""core"", ""internal""]"
+langchain-ai/langchain,34755,release: langchain 1.2.4,closed,sydney-runkle,2026-01-14T18:47:10Z,2026-01-22T21:13:50Z,2026-01-14T19:24:31Z,2026-01-14T19:24:31Z,False,0,0,"[""langchain"", ""release"", ""dependencies"", ""internal""]"
+langchain-ai/langchain,34754,feat(langchain): update summarization prompt,closed,ccurme,2026-01-14T18:13:59Z,2026-01-22T21:13:52Z,2026-01-15T19:17:56Z,2026-01-15T19:17:56Z,False,0,0,"[""langchain"", ""feature"", ""internal""]"
+langchain-ai/langchain,34753,feat(core): Add OutputFixingParser for LCEL chain retry support,open,codeananda,2026-01-14T15:54:15Z,2026-01-23T08:54:56Z,,,False,0,0,"[""core"", ""feature"", ""external""]"
+langchain-ai/langchain,34752,fix(langchain): guard file search regex fallback,open,T1mn,2026-01-14T15:01:11Z,2026-01-22T21:13:57Z,,,False,0,0,"[""langchain"", ""fix"", ""external""]"
+langchain-ai/langchain,34750,fix(openai): handle missing 'role' key in reasoning payload (#34748),open,Aryan-31,2026-01-14T11:59:07Z,2026-01-22T21:13:59Z,,,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,34747,fix(openai): add reasoning_content for stream&astream funciton,open,worship-dog,2026-01-14T07:04:13Z,2026-01-29T03:51:57Z,,,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,34745,fix(langchain-deepseek): Handling reasoning content for multi-round c…,closed,Kowalskix1,2026-01-14T03:22:35Z,2026-01-28T09:29:29Z,2026-01-14T03:26:59Z,,False,0,0,"[""integration"", ""fix"", ""deepseek"", ""external""]"
+docker/compose,13515,Fix docker compose down removing images still in use,closed,Pnkcaht,2026-01-14T23:39:17Z,2026-01-15T17:49:04Z,2026-01-15T17:49:04Z,,False,0,0,[]
+docker/compose,13512,Fix gw priority network order,closed,Pnkcaht,2026-01-14T22:29:28Z,2026-01-19T16:35:55Z,2026-01-19T16:35:55Z,,False,0,0,[]
+docker/compose,13510,fix: expand tilde in --env-file paths to user home directory,closed,tensorworkerr,2026-01-14T03:31:15Z,2026-01-15T11:17:38Z,2026-01-15T07:24:20Z,2026-01-15T07:24:20Z,False,0,0,[]
+docker/compose,13509,fix: expand tilde in --env-file paths to user home directory,closed,tensorworker,2026-01-14T02:49:04Z,2026-01-14T03:11:18Z,2026-01-14T03:11:18Z,,False,0,0,[]
+duckdb/duckdb,20542,Bump VSS,closed,taniabogatsch,2026-01-14T19:32:44Z,2026-01-15T07:47:17Z,2026-01-15T07:43:11Z,2026-01-15T07:43:11Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20541,Issue #20075: Window Self-Join Benchmarks,closed,hawkfish,2026-01-14T19:07:47Z,2026-01-16T15:16:13Z,2026-01-16T08:13:49Z,2026-01-16T08:13:49Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20540,Bump Excel,closed,maiadegraaf,2026-01-14T16:35:01Z,2026-01-15T09:40:05Z,2026-01-15T07:43:25Z,2026-01-15T07:43:25Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20539,[Fix] Add the new extension loader symbol to the bundled / gathered libraries,closed,taniabogatsch,2026-01-14T16:23:32Z,2026-01-16T09:25:44Z,2026-01-16T08:11:49Z,2026-01-16T08:11:49Z,False,0,0,"[""Ready For Review"", ""Ready To Merge""]"
+duckdb/duckdb,20538,Re-enable in-memory zstd,open,yan-alex,2026-01-14T15:31:57Z,2026-02-11T16:34:04Z,,,True,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20537,Add Linux releases for musl libc,closed,staticlibs,2026-01-14T15:11:33Z,2026-02-03T16:01:16Z,2026-02-03T15:51:55Z,2026-02-03T15:51:55Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20536,Rephrase enable_external_access error message more intentionally,closed,yan-alex,2026-01-14T14:43:15Z,2026-01-17T08:23:49Z,2026-01-16T08:21:47Z,2026-01-16T08:21:47Z,False,0,0,[]
+duckdb/duckdb,20535,Rephrase enable_external_access  error message more intentionally,closed,yan-alex,2026-01-14T13:59:42Z,2026-01-14T14:44:20Z,2026-01-14T14:39:04Z,,False,0,0,[]
+duckdb/duckdb,20534,[Variant] Comparison operation fixes,closed,Tishj,2026-01-14T13:47:16Z,2026-01-19T13:31:04Z,2026-01-19T13:28:43Z,2026-01-19T13:28:43Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20532,Fix Issue #20233: Fix function chain in having and merge to v1.4,closed,ArNine,2026-01-14T12:53:12Z,2026-01-15T09:19:08Z,2026-01-15T09:19:08Z,2026-01-15T09:19:08Z,False,0,0,[]
+duckdb/duckdb,20529,[ART] Art index key scan + Refactor MergeCheckpointDeltas,closed,artjomPlaunov,2026-01-14T10:21:28Z,2026-02-03T15:21:26Z,2026-02-02T13:34:25Z,2026-02-02T13:34:25Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20528,Bump: excel,closed,maiadegraaf,2026-01-14T10:19:07Z,2026-01-15T09:40:05Z,2026-01-14T16:33:58Z,,False,0,0,[]
+duckdb/duckdb,20527,Revert vortex bump for v1.4.4,closed,taniabogatsch,2026-01-14T10:19:00Z,2026-01-15T07:28:17Z,2026-01-14T21:37:03Z,2026-01-14T21:37:03Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20526,"Bump: excel, vss",closed,maiadegraaf,2026-01-14T10:16:09Z,2026-01-14T10:17:01Z,2026-01-14T10:16:55Z,,False,0,0,[]
+duckdb/duckdb,20525,Bump: excel,closed,maiadegraaf,2026-01-14T10:12:26Z,2026-01-14T10:14:36Z,2026-01-14T10:13:05Z,,False,0,0,[]
+duckdb/duckdb,20524,Set correct serialialization version in `SetOperationNode::SerializeChildList`,closed,lnkuiper,2026-01-14T09:31:53Z,2026-01-28T13:38:16Z,2026-01-15T06:45:31Z,2026-01-15T06:45:31Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20523,Support alter table set/reset options,closed,Tmonster,2026-01-14T09:27:07Z,2026-01-27T20:04:15Z,2026-01-27T20:04:12Z,2026-01-27T20:04:12Z,False,0,0,"[""Needs Documentation"", ""Ready For Review""]"
+duckdb/duckdb,20521,TryRemoveFile should be robust to file being removed out of band,open,carlopi,2026-01-14T07:51:28Z,2026-02-11T13:26:15Z,,,True,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20520,Bump openssl,closed,ccfelius,2026-01-14T06:57:38Z,2026-01-15T09:30:00Z,2026-01-15T09:30:00Z,2026-01-15T09:30:00Z,False,0,0,[]
+duckdb/duckdb,20519,"Move generic settings to dedicated GlobalUserSettings struct, and optimize access to them",closed,Mytherin,2026-01-14T06:39:02Z,2026-01-15T07:55:46Z,2026-01-15T07:55:46Z,2026-01-15T07:55:46Z,False,0,0,[]

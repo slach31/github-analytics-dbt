@@ -1,0 +1,83 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35726,fix: initialize transition start time with performance.now(),open,subhamkumarr,2026-02-08T21:59:43Z,2026-02-10T11:52:37Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35724,[Flight] Fix debug channel flag in Node.js server renderToPipeableStream,closed,feedthejim,2026-02-08T18:26:56Z,2026-02-08T19:14:16Z,2026-02-08T19:14:15Z,2026-02-08T19:14:15Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35723,[DevTools] Fix false-positive re-render reports for filtered nodes,closed,hoxyq,2026-02-08T15:44:08Z,2026-02-09T23:19:32Z,2026-02-09T20:39:34Z,2026-02-09T20:39:34Z,False,0,0,"[""CLA Signed""]"
+facebook/react,35720,[eslint-plugin-react-hooks] Add ESLint v10 support,open,azat-io,2026-02-08T06:40:52Z,2026-02-08T06:48:57Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35719,fix: detect autofilled values on focus for controlled inputs,open,DukeDeSouth,2026-02-08T01:01:14Z,2026-02-08T17:04:04Z,,,False,0,0,"[""CLA Signed""]"
+tensorflow/tensorflow,109990,Automated Code Change,open,copybara-service[bot],2026-02-08T21:46:56Z,2026-02-09T01:47:49Z,,,True,0,0,[]
+tensorflow/tensorflow,109989,Automated Code Change,open,copybara-service[bot],2026-02-08T18:55:52Z,2026-02-08T18:55:52Z,,,True,0,0,[]
+tensorflow/tensorflow,109988,Automated Code Change,open,copybara-service[bot],2026-02-08T18:51:43Z,2026-02-08T18:51:43Z,,,True,0,0,[]
+tensorflow/tensorflow,109987,Automated Code Change,open,copybara-service[bot],2026-02-08T18:51:42Z,2026-02-08T18:51:42Z,,,True,0,0,[]
+tensorflow/tensorflow,109986,Automated Code Change,open,copybara-service[bot],2026-02-08T18:51:20Z,2026-02-08T18:51:20Z,,,True,0,0,[]
+tensorflow/tensorflow,109985,Automated Code Change,open,copybara-service[bot],2026-02-08T18:51:13Z,2026-02-08T18:51:13Z,,,True,0,0,[]
+tensorflow/tensorflow,109984,Automated Code Change,open,copybara-service[bot],2026-02-08T18:51:02Z,2026-02-08T18:51:02Z,,,True,0,0,[]
+tensorflow/tensorflow,109983,Automated Code Change,open,copybara-service[bot],2026-02-08T18:50:43Z,2026-02-08T18:50:43Z,,,True,0,0,[]
+tensorflow/tensorflow,109982,Automated Code Change,closed,copybara-service[bot],2026-02-08T18:50:34Z,2026-02-08T20:25:48Z,2026-02-08T20:25:47Z,2026-02-08T20:25:48Z,True,0,0,[]
+tensorflow/tensorflow,109981,Automated Code Change,open,copybara-service[bot],2026-02-08T18:37:02Z,2026-02-08T18:37:02Z,,,True,0,0,[]
+tensorflow/tensorflow,109980,Automated Code Change,open,copybara-service[bot],2026-02-08T18:34:01Z,2026-02-08T18:34:01Z,,,True,0,0,[]
+tensorflow/tensorflow,109979,Fix broken test from run_id reuse across different executables.,closed,copybara-service[bot],2026-02-08T17:49:47Z,2026-02-08T21:46:23Z,2026-02-08T21:46:22Z,2026-02-08T21:46:22Z,True,0,0,[]
+tensorflow/tensorflow,109978,Automated Code Change,open,copybara-service[bot],2026-02-08T16:47:37Z,2026-02-10T01:13:31Z,,,True,0,0,[]
+tensorflow/tensorflow,109977,Automated Code Change,open,copybara-service[bot],2026-02-08T16:08:32Z,2026-02-08T16:08:32Z,,,True,0,0,[]
+tensorflow/tensorflow,109976,Automated Code Change,open,copybara-service[bot],2026-02-08T16:04:19Z,2026-02-08T16:04:19Z,,,True,0,0,[]
+tensorflow/tensorflow,109975,Automated Code Change,open,copybara-service[bot],2026-02-08T15:26:18Z,2026-02-08T15:26:18Z,,,True,0,0,[]
+tensorflow/tensorflow,109974,Add type annotations and comprehensive docstrings to tensorflow/python/types/core.py,open,aryannzzz,2026-02-08T12:58:58Z,2026-02-09T07:48:29Z,,,False,0,0,"[""awaiting review"", ""size:M"", ""python""]"
+tensorflow/tensorflow,109973,Add type annotations and comprehensive docstrings to tensorflow/python/types/core.py,closed,aryannzzz,2026-02-08T12:55:41Z,2026-02-08T12:58:11Z,2026-02-08T12:58:11Z,,False,0,0,"[""size:M""]"
+tensorflow/tensorflow,109972,Automated Code Change,open,copybara-service[bot],2026-02-08T09:59:04Z,2026-02-08T09:59:04Z,,,True,0,0,[]
+tensorflow/tensorflow,109971,Automated Code Change,open,copybara-service[bot],2026-02-08T09:54:09Z,2026-02-08T09:54:09Z,,,True,0,0,[]
+tensorflow/tensorflow,109970,Automated Code Change,open,copybara-service[bot],2026-02-08T09:51:59Z,2026-02-08T09:51:59Z,,,True,0,0,[]
+tensorflow/tensorflow,109969,Automated Code Change,open,copybara-service[bot],2026-02-08T09:49:32Z,2026-02-08T09:49:32Z,,,True,0,0,[]
+tensorflow/tensorflow,109968,Automated Code Change,open,copybara-service[bot],2026-02-08T09:49:05Z,2026-02-08T09:49:05Z,,,True,0,0,[]
+tensorflow/tensorflow,109967,Automated Code Change,open,copybara-service[bot],2026-02-08T09:45:56Z,2026-02-08T09:45:56Z,,,True,0,0,[]
+tensorflow/tensorflow,109966,Automated Code Change,open,copybara-service[bot],2026-02-08T09:45:39Z,2026-02-08T09:45:39Z,,,True,0,0,[]
+tensorflow/tensorflow,109965,Automated Code Change,open,copybara-service[bot],2026-02-08T09:39:33Z,2026-02-08T09:39:33Z,,,True,0,0,[]
+tensorflow/tensorflow,109964,Automated Code Change,open,copybara-service[bot],2026-02-08T09:38:02Z,2026-02-08T09:38:02Z,,,True,0,0,[]
+tensorflow/tensorflow,109963,Automated Code Change,open,copybara-service[bot],2026-02-08T09:26:12Z,2026-02-08T09:26:12Z,,,True,0,0,[]
+tensorflow/tensorflow,109962,Automated Code Change,open,copybara-service[bot],2026-02-08T08:01:07Z,2026-02-08T08:01:07Z,,,True,0,0,[]
+tensorflow/tensorflow,109961,Automated Code Change,open,copybara-service[bot],2026-02-08T07:56:17Z,2026-02-08T07:56:17Z,,,True,0,0,[]
+tensorflow/tensorflow,109960,Automated Code Change,open,copybara-service[bot],2026-02-08T07:54:12Z,2026-02-08T07:54:12Z,,,True,0,0,[]
+tensorflow/tensorflow,109959,Automated Code Change,open,copybara-service[bot],2026-02-08T07:53:47Z,2026-02-08T07:53:47Z,,,True,0,0,[]
+tensorflow/tensorflow,109958,Automated Code Change,open,copybara-service[bot],2026-02-08T07:52:53Z,2026-02-08T07:52:53Z,,,True,0,0,[]
+tensorflow/tensorflow,109957,Automated Code Change,open,copybara-service[bot],2026-02-08T07:52:51Z,2026-02-08T07:52:51Z,,,True,0,0,[]
+tensorflow/tensorflow,109956,Automated Code Change,open,copybara-service[bot],2026-02-08T07:51:09Z,2026-02-08T07:51:09Z,,,True,0,0,[]
+tensorflow/tensorflow,109955,[XLA:GPU] Stop emitting llvm constants into LLVM module.,open,copybara-service[bot],2026-02-08T06:22:19Z,2026-02-08T06:22:20Z,,,True,0,0,[]
+tensorflow/tensorflow,109954,Automated Code Change,closed,copybara-service[bot],2026-02-08T05:39:58Z,2026-02-08T15:46:48Z,2026-02-08T15:46:47Z,2026-02-08T15:46:47Z,True,0,0,[]
+tensorflow/tensorflow,109953,Automated Code Change,open,copybara-service[bot],2026-02-08T05:09:59Z,2026-02-08T05:09:59Z,,,True,0,0,[]
+tensorflow/tensorflow,109952,Automated Code Change,closed,copybara-service[bot],2026-02-08T05:03:03Z,2026-02-10T10:54:50Z,2026-02-10T10:54:50Z,2026-02-10T10:54:50Z,True,0,0,[]
+tensorflow/tensorflow,109951,Automated Code Change,open,copybara-service[bot],2026-02-08T05:01:05Z,2026-02-08T05:01:05Z,,,True,0,0,[]
+microsoft/vscode,293749,Use context for line breaks computation,open,aiday-mar,2026-02-08T11:43:09Z,2026-02-09T08:55:14Z,,,False,0,0,[]
+microsoft/vscode,293746,Fix final answer detection in markdown rendering logic,open,tamuratak,2026-02-08T10:46:57Z,2026-02-09T19:48:22Z,,,False,0,0,[]
+microsoft/vscode,293743,Recognize `ssh://` protocol URLs for GitHub remotes,open,mizdra,2026-02-08T09:21:14Z,2026-02-10T11:26:15Z,,,False,0,0,[]
+microsoft/vscode,293733,Fix line navigation when opening files with line fragments,open,MrToph,2026-02-08T07:01:30Z,2026-02-08T07:23:30Z,,,False,0,0,[]
+microsoft/vscode,293731,debt - fix some leaks found by copilot,closed,bpasero,2026-02-08T06:31:54Z,2026-02-09T06:13:08Z,2026-02-09T06:13:06Z,2026-02-09T06:13:06Z,False,0,0,[]
+microsoft/vscode,293719,Issue #283316 - Add support for formatting config options to apply to…,open,HenryHYeary,2026-02-08T00:35:20Z,2026-02-11T20:06:02Z,,,False,0,0,"[""triage-needed""]"
+golang/go,77497,slices: add Map,closed,cornejong,2026-02-08T15:05:50Z,2026-02-08T15:44:07Z,2026-02-08T15:44:07Z,,False,0,0,[]
+apache/spark,54217,[SPARK-55434][INFRA] Add username and password at svn with rm at finalize step,closed,HyukjinKwon,2026-02-08T23:58:31Z,2026-02-09T00:44:15Z,2026-02-09T00:01:33Z,,False,0,0,[]
+apache/spark,54216,[SPARK-55433][INFRA] Remove labeler in GitHub Actions,closed,HyukjinKwon,2026-02-08T23:47:19Z,2026-02-08T23:48:43Z,2026-02-08T23:48:43Z,,False,0,0,[]
+apache/spark,54215,[SPARK-55432][K8S] Support built-in K8s `ExecutorResizePlugin`,closed,dongjoon-hyun,2026-02-08T23:39:37Z,2026-02-09T15:54:51Z,2026-02-09T11:04:53Z,,False,0,0,[]
+apache/spark,54214,[SPARK-55431][K8S] Set `resizePolicy` to `NotRequired` explicitly for executor pods,closed,dongjoon-hyun,2026-02-08T22:55:17Z,2026-02-09T00:43:56Z,2026-02-09T00:42:38Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,54213,[SPARK-54860][INFRA] Followup of the revert to set the permission correctly,closed,HyukjinKwon,2026-02-08T22:51:50Z,2026-02-08T23:45:15Z,2026-02-08T22:58:43Z,,False,0,0,"[""INFRA""]"
+apache/spark,54212,[SPARK-55224][PYTHON][FOLLOWUP] Remove redundant `use_legacy_pandas_udf_conversion` condition in serializer setup,closed,Yicong-Huang,2026-02-08T22:32:52Z,2026-02-09T00:20:27Z,2026-02-09T00:20:11Z,,False,0,0,"[""CORE"", ""PYTHON""]"
+apache/spark,54211,[SPARK-55020][PYTHON][FOLLOW-UP] Skip ML cache cleanup when GC is disabled to prevent gRPC deadlock,closed,yaooqinn,2026-02-08T16:37:30Z,2026-02-09T15:53:27Z,2026-02-09T15:31:24Z,,False,0,0,"[""ML"", ""PYTHON""]"
+apache/spark,54210,[SPARK-55429][K8S][TESTS] Improve `VolcanoTestsSuite` to use `Server-Side Apply` pattern,closed,dongjoon-hyun,2026-02-08T15:36:22Z,2026-02-08T22:58:07Z,2026-02-08T22:23:18Z,,False,0,0,"[""KUBERNETES""]"
+apache/spark,54209,[SPARK-55428][BUILD] Sync Netty Java options everywhere,closed,pan3793,2026-02-08T15:01:25Z,2026-02-08T20:35:09Z,2026-02-08T20:34:52Z,,False,0,0,"[""SQL"", ""BUILD"", ""R"", ""CONNECT""]"
+apache/spark,54208,[SPARK-55427][SQL][DOCS] Add docs for temporal clause,open,huangxiaopingRD,2026-02-08T09:18:09Z,2026-02-08T09:29:34Z,,,False,0,0,"[""DOCS""]"
+apache/spark,54207,[SPARK-55424][PYTHON] Explicitly pass the series name in `convert_numpy`,closed,zhengruifeng,2026-02-08T04:09:32Z,2026-02-09T00:15:20Z,2026-02-08T22:22:34Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54206,[SPARK-55175][PYTHON][FOLLOW-UP] Remove unused `arrow_to_pandas` method,closed,zhengruifeng,2026-02-08T03:45:05Z,2026-02-09T00:15:05Z,2026-02-08T22:22:03Z,,False,0,0,"[""SQL"", ""PYTHON""]"
+apache/spark,54205,[SPARK-55366][SQL][PYTHON][FOLLOW-UP] Relax the duplicated field name check,closed,zhengruifeng,2026-02-08T03:38:25Z,2026-02-09T01:08:11Z,2026-02-09T01:07:52Z,,False,0,0,"[""SQL""]"
+apache/spark,54204,[SPARK-55423][INFRA] Set `strategy.max-parrallel` to 20 for all GitHub Action jobs,closed,dongjoon-hyun,2026-02-08T03:29:20Z,2026-02-08T06:45:00Z,2026-02-08T05:55:37Z,,False,0,0,"[""INFRA""]"
+apache/spark,54203,[SPARK-55420][BUILD] Upgrade Netty to `4.2.10.Final`,closed,dongjoon-hyun,2026-02-08T00:45:16Z,2026-02-08T15:14:49Z,2026-02-08T15:14:26Z,,False,0,0,"[""BUILD""]"
+langchain-ai/langchain,35078,fix(langchain-classic): validate ensemble retriever weights,closed,MohammedYaseenAhmedKhan,2026-02-08T23:41:27Z,2026-02-11T19:47:54Z,2026-02-11T19:47:54Z,2026-02-11T19:47:54Z,False,0,0,"[""fix"", ""langchain-classic"", ""external""]"
+langchain-ai/langchain,35077,feat(text-splitters): add model_kwargs to SentenceTransformersTokenTextSplitter,closed,jiaming2li,2026-02-08T22:07:22Z,2026-02-09T12:29:58Z,2026-02-09T00:22:48Z,,False,0,0,"[""text-splitters"", ""feature"", ""external""]"
+langchain-ai/langchain,35075,fix(core): file content block conversion to OpenAI format,closed,ademicho123,2026-02-08T17:56:32Z,2026-02-11T19:44:51Z,2026-02-11T19:44:51Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,35074,core: warn when tools accept AgentState,closed,VisionExpo,2026-02-08T16:19:47Z,2026-02-11T21:04:36Z,2026-02-11T21:04:36Z,,False,0,0,"[""core""]"
+langchain-ai/langchain,35073,fix: strip trailing whitespace from ChatAnthropic final assistant message,closed,jackjin1997,2026-02-08T08:23:45Z,2026-02-08T16:08:30Z,2026-02-08T16:08:30Z,,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""openai"", ""external""]"
+langchain-ai/langchain,35072,fix(anthropic): strip trailing whitespace from final assistant message,closed,mohankumar27,2026-02-08T07:53:26Z,2026-02-08T16:09:00Z,2026-02-08T16:09:00Z,2026-02-08T16:09:00Z,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""external""]"
+langchain-ai/langchain,35070,feat(langchain): add Auto Model Selector middleware,closed,Sikandar1310291,2026-02-08T05:04:13Z,2026-02-08T15:48:04Z,2026-02-08T15:48:04Z,,False,0,0,"[""langchain"", ""feature""]"
+langchain-ai/langchain,35069,fix(core): prevent tool call fields from concatenating in merge_dicts,closed,veeceey,2026-02-08T01:14:31Z,2026-02-08T15:53:54Z,2026-02-08T15:53:53Z,,False,0,0,"[""core"", ""fix""]"
+langchain-ai/langchain,35068,"fix(core): prevent none content from becoming ""nonenone"" in toolmessagechunk",closed,veeceey,2026-02-08T01:11:19Z,2026-02-08T16:02:52Z,2026-02-08T16:02:52Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+pallets/flask,5913,Fix Config.from_file() silent mode not handling ENOTDIR,closed,veeceey,2026-02-08T23:04:19Z,2026-02-08T23:27:49Z,2026-02-08T23:27:49Z,,False,0,0,[]
+docker/compose,13577,PRIVATE_PORT optional for `docker compose port`,open,maxproske,2026-02-08T06:44:38Z,2026-02-08T16:27:54Z,,,False,0,0,[]
+duckdb/duckdb,20862,Peg secrets wip,closed,carlopi,2026-02-08T20:46:08Z,2026-02-10T14:23:33Z,2026-02-10T14:23:32Z,,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20861,Internal #7360: ICU 74-2 Update,closed,hawkfish,2026-02-08T18:31:42Z,2026-02-09T16:47:56Z,2026-02-09T13:43:09Z,2026-02-09T13:43:09Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20859,Support SYSTEM sampling with row counts (USING SAMPLE N ROWS (system)),open,redox,2026-02-08T13:10:06Z,2026-02-08T19:24:46Z,,,False,0,0,[]
+duckdb/duckdb,20858,"Turn stats into a variant, and return variant from `stats` and as part of `pragma_storage_info`",closed,Mytherin,2026-02-08T07:29:13Z,2026-02-09T08:14:33Z,2026-02-09T08:14:33Z,2026-02-09T08:14:33Z,False,0,0,[]

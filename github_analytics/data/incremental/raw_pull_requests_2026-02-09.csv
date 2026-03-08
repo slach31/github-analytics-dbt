@@ -1,0 +1,209 @@
+repo_full_name,pr_number,title,state,user_login,created_at,updated_at,closed_at,merged_at,draft,comments,review_comments,labels
+facebook/react,35738,Fix typos across documentation markdown files,open,him2him2,2026-02-09T23:42:01Z,2026-02-09T23:45:23Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35737,[DevTools] Only block child Suspense boundaries if the parent has all shared suspenders removed,closed,eps1lon,2026-02-09T23:20:28Z,2026-02-10T17:49:23Z,2026-02-10T16:52:35Z,2026-02-10T16:52:35Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35736,[test] Include `uniqueSuspenders` in Suspense tree snapshots,closed,eps1lon,2026-02-09T23:05:44Z,2026-02-10T11:56:54Z,2026-02-10T11:51:59Z,2026-02-10T11:51:59Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35735,[DevTools] Allow renaming Host Component props,closed,eps1lon,2026-02-09T21:59:11Z,2026-02-09T23:18:36Z,2026-02-09T22:14:46Z,2026-02-09T22:14:46Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35734,"[DevTools] Fix crash when revealing stable, filtered `<Activity>` children",closed,eps1lon,2026-02-09T20:44:10Z,2026-02-09T21:59:46Z,2026-02-09T21:52:25Z,2026-02-09T21:52:25Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35733,[Fiber] Avoid duplicate debug info for array children,closed,eps1lon,2026-02-09T18:22:53Z,2026-02-09T20:39:01Z,2026-02-09T19:36:56Z,2026-02-09T19:36:56Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35732,[Compiler] Fix false positive for setState after await in useEffect,open,basitqayoom,2026-02-09T18:20:36Z,2026-02-11T11:03:56Z,,,False,0,0,"[""CLA Signed""]"
+facebook/react,35731,[Flight] Add `unstable_allowPartialStream` option to Flight Client,closed,unstubbable,2026-02-09T15:45:51Z,2026-02-09T18:19:39Z,2026-02-09T18:19:32Z,2026-02-09T18:19:32Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+facebook/react,35730,[Flight] Fix `encodeReply` for JSX with temporary references,closed,unstubbable,2026-02-09T13:34:14Z,2026-02-09T15:18:03Z,2026-02-09T15:17:53Z,2026-02-09T15:17:53Z,False,0,0,"[""CLA Signed"", ""React Core Team""]"
+tensorflow/tensorflow,110057,Add concat unreduced rule and split reduced rule,closed,copybara-service[bot],2026-02-09T23:55:12Z,2026-02-10T00:22:29Z,2026-02-10T00:22:29Z,2026-02-10T00:22:29Z,True,0,0,[]
+tensorflow/tensorflow,110056,Refactor H2DTransferExecutor to use xla::HloSharding directly.,closed,copybara-service[bot],2026-02-09T23:45:49Z,2026-02-10T18:43:57Z,2026-02-10T18:33:51Z,2026-02-10T18:33:51Z,True,0,0,[]
+tensorflow/tensorflow,110055,Update `rules_ml_toolchain` to integrate hermetic CUDA repo features in bzlmod.,open,copybara-service[bot],2026-02-09T23:24:17Z,2026-02-10T00:14:08Z,,,True,0,0,[]
+tensorflow/tensorflow,110054,Move `experimental_compile_mpmd` from pathways to jaxlib.,open,copybara-service[bot],2026-02-09T23:14:19Z,2026-02-12T00:58:07Z,,,True,0,0,[]
+tensorflow/tensorflow,110053,Prepare XLA build rules for full gpu and mig slice capabilities. ,open,copybara-service[bot],2026-02-09T23:13:48Z,2026-02-09T23:13:48Z,,,True,0,0,[]
+tensorflow/tensorflow,110052,Refine layout update logic in SpmdPartitioner.,closed,copybara-service[bot],2026-02-09T22:41:57Z,2026-02-11T00:37:00Z,2026-02-11T00:37:00Z,2026-02-11T00:37:00Z,True,0,0,[]
+tensorflow/tensorflow,110051,Check that the frontend attribute is initialized before accessing FUSE_LIMIT,open,copybara-service[bot],2026-02-09T22:36:32Z,2026-02-09T22:36:32Z,,,True,0,0,[]
+tensorflow/tensorflow,110050,Update RuntimeUnexpectedCoreHalt error code to match documentation.,closed,copybara-service[bot],2026-02-09T22:35:21Z,2026-02-10T21:52:07Z,2026-02-10T21:52:06Z,2026-02-10T21:52:06Z,True,0,0,[]
+tensorflow/tensorflow,110049,Exclude Unreduced shardings from `IsTiled` and `IsTiledLeaf`.,closed,copybara-service[bot],2026-02-09T22:17:03Z,2026-02-09T23:14:54Z,2026-02-09T23:14:53Z,2026-02-09T23:14:53Z,True,0,0,[]
+tensorflow/tensorflow,110048,Remove checks for deprecated AST node types.,closed,copybara-service[bot],2026-02-09T22:16:13Z,2026-02-10T10:26:04Z,2026-02-10T10:26:04Z,2026-02-10T10:26:04Z,True,0,0,[]
+tensorflow/tensorflow,110047,Integrate LLVM at llvm/llvm-project@c0c42c4e3964,open,copybara-service[bot],2026-02-09T22:03:01Z,2026-02-09T22:03:01Z,,,True,0,0,[]
+tensorflow/tensorflow,110046,Integrate LLVM at llvm/llvm-project@17eac111712b,closed,copybara-service[bot],2026-02-09T22:02:00Z,2026-02-10T05:42:18Z,2026-02-10T05:42:17Z,2026-02-10T05:42:17Z,True,0,0,[]
+tensorflow/tensorflow,110045,"PR #37395: [xla:pjrt] Switch PjRt to xla/runtime ids: ProcessId, DeviceId, ChipId",open,copybara-service[bot],2026-02-09T21:52:22Z,2026-02-10T09:16:09Z,,,True,0,0,[]
+tensorflow/tensorflow,110044,PR #37541: [xla:ffi] Split ffi_api.h into: ffi/ffi_interop and ffi/invoke libraries,open,copybara-service[bot],2026-02-09T21:46:28Z,2026-02-10T10:59:56Z,,,True,0,0,[]
+tensorflow/tensorflow,110043,Use the default `strict_shape_checking` value in PjRt C API for consistency,closed,copybara-service[bot],2026-02-09T21:36:59Z,2026-02-09T22:18:53Z,2026-02-09T22:18:53Z,2026-02-09T22:18:52Z,True,0,0,[]
+tensorflow/tensorflow,110042,Update PjRtCpuLoadedExecutable to inherit from CommonPjRtLoadedExecutable.,closed,copybara-service[bot],2026-02-09T21:09:21Z,2026-02-11T01:14:22Z,2026-02-11T01:14:21Z,2026-02-11T01:14:21Z,True,0,0,[]
+tensorflow/tensorflow,110041,Re-land: Make the dependence on the hostname less brittle.,closed,copybara-service[bot],2026-02-09T20:28:15Z,2026-02-10T20:01:39Z,2026-02-10T20:01:38Z,2026-02-10T20:01:38Z,True,0,0,[]
+tensorflow/tensorflow,110040,Enable `strict_shape_checking` for `HloRunnerPjRt` to help catch shape/layout inconsistency bugs,closed,copybara-service[bot],2026-02-09T20:22:03Z,2026-02-09T21:23:18Z,2026-02-09T21:23:18Z,2026-02-09T21:23:17Z,True,0,0,[]
+tensorflow/tensorflow,110039,switch to use shape provided by BufferUse,closed,copybara-service[bot],2026-02-09T20:01:37Z,2026-02-10T18:21:11Z,2026-02-10T18:21:11Z,2026-02-10T18:21:10Z,True,0,0,[]
+tensorflow/tensorflow,110037,Cache HloSharding for arguments and return values in IfrtServingExecutable.,closed,copybara-service[bot],2026-02-09T19:25:05Z,2026-02-09T19:59:33Z,2026-02-09T19:59:33Z,2026-02-09T19:59:33Z,True,0,0,[]
+tensorflow/tensorflow,110036,"Move AddFusionAutotuningPass implementation to GpuCompiler, to remove duplication.",closed,copybara-service[bot],2026-02-09T19:24:40Z,2026-02-10T11:37:21Z,2026-02-10T11:37:20Z,2026-02-10T11:37:20Z,True,0,0,[]
+tensorflow/tensorflow,110035,Prevent must-fuse attribute from being propagated indiscriminately when new instructions are being created as a part of algebraic simplification. This approach is similar to how sharding information is not always propagated in algebraic simplifier.,closed,copybara-service[bot],2026-02-09T18:50:49Z,2026-02-11T01:41:42Z,2026-02-11T01:41:41Z,2026-02-11T01:41:41Z,True,0,0,[]
+tensorflow/tensorflow,110034,Add profiler metadata for GPU tracer event limits and dropped events.,open,copybara-service[bot],2026-02-09T18:36:39Z,2026-02-09T18:36:39Z,,,True,0,0,[]
+tensorflow/tensorflow,110033,This change allows users to register a callback function that will be executed,closed,copybara-service[bot],2026-02-09T18:30:28Z,2026-02-11T01:23:02Z,2026-02-11T01:23:02Z,2026-02-11T01:23:01Z,True,0,0,[]
+tensorflow/tensorflow,110032,Allow filtering to autotuner backend factory functions.,closed,copybara-service[bot],2026-02-09T18:15:56Z,2026-02-11T14:01:35Z,2026-02-11T14:01:35Z,2026-02-11T14:01:35Z,True,0,0,[]
+tensorflow/tensorflow,110031,Allow reading peak memory usage from an active monitor.,open,copybara-service[bot],2026-02-09T17:44:34Z,2026-02-12T03:08:39Z,,,True,0,0,[]
+tensorflow/tensorflow,110030,Upgrade Abseil to LTS 20260107.0,open,copybara-service[bot],2026-02-09T16:00:16Z,2026-02-09T17:30:48Z,,,True,0,0,[]
+tensorflow/tensorflow,110029,Add tensorflow_text to the repo,closed,gasanov-netizen,2026-02-09T15:47:07Z,2026-02-11T15:14:55Z,2026-02-11T15:14:51Z,,False,0,0,"[""size:XL"", ""comp:core""]"
+tensorflow/tensorflow,110028,"Add operator*(int64_t, SymbolicExpr) overload",closed,copybara-service[bot],2026-02-09T15:16:52Z,2026-02-11T13:30:20Z,2026-02-11T13:30:20Z,2026-02-11T13:30:19Z,True,0,0,[]
+tensorflow/tensorflow,110027,Avoid shardy logspam,closed,copybara-service[bot],2026-02-09T15:10:54Z,2026-02-09T18:06:07Z,2026-02-09T18:06:07Z,2026-02-09T18:06:07Z,True,0,0,[]
+tensorflow/tensorflow,110026,Automated Code Change,open,copybara-service[bot],2026-02-09T13:56:51Z,2026-02-09T13:56:51Z,,,True,0,0,[]
+tensorflow/tensorflow,110025,[XLA:GPU] Improve OneHotGatherRewriter pattern matching,open,copybara-service[bot],2026-02-09T13:51:47Z,2026-02-09T14:06:58Z,,,True,0,0,[]
+tensorflow/tensorflow,110024,[XLA:GPU] Add VLOG statements to OneHotRewriter for better debugging.,closed,copybara-service[bot],2026-02-09T13:50:45Z,2026-02-11T11:48:05Z,2026-02-11T11:48:05Z,2026-02-11T11:48:04Z,True,0,0,[]
+tensorflow/tensorflow,110023,Allow config override flags and restrict them to Triton.,closed,copybara-service[bot],2026-02-09T13:39:15Z,2026-02-09T18:39:22Z,2026-02-09T18:39:21Z,2026-02-09T18:39:21Z,True,0,0,[]
+tensorflow/tensorflow,110022,Automated Code Change,open,copybara-service[bot],2026-02-09T13:20:21Z,2026-02-10T06:05:42Z,,,True,0,0,[]
+tensorflow/tensorflow,110021,[CublasLt] Make gput/tests/dot_bf16.hlo compatible for both Cublas and CublasLt.,closed,copybara-service[bot],2026-02-09T12:35:04Z,2026-02-10T09:52:04Z,2026-02-10T09:52:04Z,2026-02-10T09:52:03Z,True,0,0,[]
+tensorflow/tensorflow,110020,[CublasLt] Prepare gpu_compiler_tests for CublasLt migration.,closed,copybara-service[bot],2026-02-09T12:29:22Z,2026-02-09T18:33:46Z,2026-02-09T18:33:46Z,2026-02-09T18:33:46Z,True,0,0,[]
+tensorflow/tensorflow,110019,[CublasLt] Prepare xla/backends/gpu/codegen/triton/dot_algorithms_test.cc for CublasLt migration.,closed,copybara-service[bot],2026-02-09T12:28:36Z,2026-02-10T11:23:49Z,2026-02-10T11:23:49Z,2026-02-10T11:23:49Z,True,0,0,[]
+tensorflow/tensorflow,110018,PR #37235: [XLA:GPU][oneAPI] Fix platform error in stream executor tests with SYCL backend,open,copybara-service[bot],2026-02-09T11:58:00Z,2026-02-09T15:49:27Z,,,True,0,0,[]
+tensorflow/tensorflow,110017,Automated Code Change,open,copybara-service[bot],2026-02-09T11:09:51Z,2026-02-10T06:34:14Z,,,True,0,0,[]
+tensorflow/tensorflow,110016,Automated Code Change,open,copybara-service[bot],2026-02-09T11:07:22Z,2026-02-09T11:07:22Z,,,True,0,0,[]
+tensorflow/tensorflow,110015,Automated Code Change,open,copybara-service[bot],2026-02-09T11:06:21Z,2026-02-09T11:06:21Z,,,True,0,0,[]
+tensorflow/tensorflow,110014,Legalize chlo.scan to stablehlo.while.,open,copybara-service[bot],2026-02-09T11:06:09Z,2026-02-09T11:06:11Z,,,True,0,0,[]
+tensorflow/tensorflow,110013,Automated Code Change,open,copybara-service[bot],2026-02-09T11:03:06Z,2026-02-09T11:03:06Z,,,True,0,0,[]
+tensorflow/tensorflow,110012,Automated Code Change,open,copybara-service[bot],2026-02-09T11:01:36Z,2026-02-09T11:01:36Z,,,True,0,0,[]
+tensorflow/tensorflow,110011,Automated Code Change,open,copybara-service[bot],2026-02-09T10:59:22Z,2026-02-09T10:59:22Z,,,True,0,0,[]
+tensorflow/tensorflow,110010,Automated Code Change,open,copybara-service[bot],2026-02-09T10:50:46Z,2026-02-09T10:50:46Z,,,True,0,0,[]
+tensorflow/tensorflow,110009,Automated Code Change,open,copybara-service[bot],2026-02-09T10:48:01Z,2026-02-10T04:00:05Z,,,True,0,0,[]
+tensorflow/tensorflow,110008,[NFC] Add `Ffi::BindExecute()` as a convenience alias.,closed,copybara-service[bot],2026-02-09T10:34:05Z,2026-02-09T12:29:40Z,2026-02-09T12:29:39Z,2026-02-09T12:29:39Z,True,0,0,[]
+tensorflow/tensorflow,110007,Fix potential dangling reference in conv_utils_test.,closed,copybara-service[bot],2026-02-09T10:25:14Z,2026-02-09T11:43:31Z,2026-02-09T11:43:31Z,2026-02-09T11:43:31Z,True,0,0,[]
+tensorflow/tensorflow,110006,Automated Code Change,open,copybara-service[bot],2026-02-09T10:22:24Z,2026-02-09T10:22:24Z,,,True,0,0,[]
+tensorflow/tensorflow,110005,[NFC] Add missing includes in custom_call_status files.,closed,copybara-service[bot],2026-02-09T10:08:31Z,2026-02-09T11:31:07Z,2026-02-09T11:31:07Z,2026-02-09T11:31:07Z,True,0,0,[]
+tensorflow/tensorflow,110004,PR #37309: [GPU][NFC] Rename H100 and B200 test data for clarity.,closed,copybara-service[bot],2026-02-09T09:53:00Z,2026-02-09T10:54:33Z,2026-02-09T10:54:32Z,2026-02-09T10:54:32Z,True,0,0,[]
+tensorflow/tensorflow,110003,PR #37473: [tsl:concurrency] Add Future::Flatten() API,closed,copybara-service[bot],2026-02-09T09:46:33Z,2026-02-09T12:03:50Z,2026-02-09T12:03:50Z,2026-02-09T12:03:50Z,True,0,0,[]
+tensorflow/tensorflow,110002,Avoid undefined behavior when reading a bool element from a Literal.,closed,copybara-service[bot],2026-02-09T09:21:45Z,2026-02-10T09:44:03Z,2026-02-10T09:44:02Z,2026-02-10T09:44:02Z,True,0,0,[]
+tensorflow/tensorflow,110001,Add `Run` overload with `ThreadPoolOptions` to `WrappedSession`.,closed,copybara-service[bot],2026-02-09T09:11:03Z,2026-02-09T10:00:43Z,2026-02-09T10:00:42Z,2026-02-09T10:00:42Z,True,0,0,[]
+tensorflow/tensorflow,110000,Automated Code Change,closed,copybara-service[bot],2026-02-09T08:12:54Z,2026-02-11T12:52:04Z,2026-02-11T12:52:04Z,2026-02-11T12:52:03Z,True,0,0,[]
+tensorflow/tensorflow,109999,Upgrade RE2 to Release 2025-11-05,closed,copybara-service[bot],2026-02-09T07:42:42Z,2026-02-09T13:22:29Z,2026-02-09T13:22:29Z,2026-02-09T13:22:28Z,True,0,0,[]
+tensorflow/tensorflow,109998,Update Mesh validation logic to disallow integer axis names,closed,copybara-service[bot],2026-02-09T07:08:01Z,2026-02-09T23:28:36Z,2026-02-09T23:28:35Z,2026-02-09T23:28:35Z,True,0,0,[]
+tensorflow/tensorflow,109997,"Add ctor for fully `Unreduced`, `Manual` NamedSharding",closed,copybara-service[bot],2026-02-09T07:05:27Z,2026-02-10T10:46:01Z,2026-02-10T10:46:01Z,2026-02-10T10:46:01Z,True,0,0,[]
+tensorflow/tensorflow,109996,[XLA:GPU] Make multicast buffer pointer per-parameter in GPU collective metadata.,closed,copybara-service[bot],2026-02-09T06:29:48Z,2026-02-10T14:21:04Z,2026-02-10T14:21:02Z,2026-02-10T14:21:02Z,True,0,0,[]
+tensorflow/tensorflow,109995,Automated Code Change,open,copybara-service[bot],2026-02-09T06:09:26Z,2026-02-09T06:09:26Z,,,True,0,0,[]
+tensorflow/tensorflow,109994,Automated Code Change,open,copybara-service[bot],2026-02-09T05:37:28Z,2026-02-10T08:01:40Z,,,True,0,0,[]
+tensorflow/tensorflow,109993,Automated Code Change,open,copybara-service[bot],2026-02-09T05:22:48Z,2026-02-09T05:22:48Z,,,True,0,0,[]
+tensorflow/tensorflow,109992,Automated Code Change,closed,copybara-service[bot],2026-02-09T05:02:58Z,2026-02-09T12:43:04Z,2026-02-09T12:43:04Z,2026-02-09T12:43:04Z,True,0,0,[]
+tensorflow/tensorflow,109991,Automated Code Change,open,copybara-service[bot],2026-02-09T04:56:07Z,2026-02-09T04:56:07Z,,,True,0,0,[]
+microsoft/vscode,294035,Add terminal-only mode and UI adjustments,open,darylcecile,2026-02-09T23:23:09Z,2026-02-10T17:44:52Z,,,True,0,0,[]
+microsoft/vscode,294032,Extracts generateColorThemeCSS to enable reuse,closed,hediet,2026-02-09T23:01:13Z,2026-02-09T23:58:22Z,2026-02-09T23:58:20Z,2026-02-09T23:58:20Z,False,0,0,[]
+microsoft/vscode,294030,Start moving core to use a push based chat sessions model,closed,mjbvz,2026-02-09T22:40:23Z,2026-02-09T23:20:17Z,2026-02-09T23:20:17Z,2026-02-09T23:20:17Z,False,0,0,[]
+microsoft/vscode,294028,[WIP] Execute Prompt,closed,jruales,2026-02-09T22:23:56Z,2026-02-10T06:23:07Z,2026-02-10T06:23:07Z,,True,0,0,[]
+microsoft/vscode,294026,fix action list not scrolling,closed,meganrogge,2026-02-09T22:20:55Z,2026-02-10T18:18:39Z,2026-02-09T22:52:48Z,2026-02-09T22:52:48Z,False,0,0,[]
+microsoft/vscode,294025,Listen to active session changes to update title bar,open,Copilot,2026-02-09T22:18:32Z,2026-02-09T22:27:36Z,,,True,0,0,[]
+microsoft/vscode,294023,send images in folders as attachments,closed,justschen,2026-02-09T22:14:33Z,2026-02-10T17:48:46Z,2026-02-10T17:48:44Z,2026-02-10T17:48:44Z,False,0,0,[]
+microsoft/vscode,294022,[WIP] Fix model picker not speaking selections via arrow keys,closed,Copilot,2026-02-09T22:13:37Z,2026-02-09T22:20:11Z,2026-02-09T22:19:46Z,,True,0,0,[]
+microsoft/vscode,294021,side and bottom panel motion,closed,eli-w-king,2026-02-09T22:04:05Z,2026-02-12T01:47:48Z,2026-02-12T01:47:47Z,2026-02-12T01:47:47Z,False,0,0,"[""ux""]"
+microsoft/vscode,294020,fix: add error handling to PowerShell shell integration to prevent terminal stuttering,open,DukeDeSouth,2026-02-09T22:01:00Z,2026-02-09T22:17:56Z,,,False,0,0,[]
+microsoft/vscode,294019,Browser: DevTools protocol support,open,kycutler,2026-02-09T21:57:57Z,2026-02-12T08:48:57Z,,,False,0,0,[]
+microsoft/vscode,294016,"Add support for continue, stopReason and systemMessage for tool hooks",closed,pwang347,2026-02-09T21:45:04Z,2026-02-10T00:29:09Z,2026-02-10T00:29:07Z,2026-02-10T00:29:07Z,False,0,0,[]
+microsoft/vscode,294013,fix(git): detect shallow clones and warn on publish,open,murataslan1,2026-02-09T21:08:15Z,2026-02-09T21:18:41Z,,,False,0,0,[]
+microsoft/vscode,294008,Make tips contextual,closed,meganrogge,2026-02-09T20:46:03Z,2026-02-09T23:50:11Z,2026-02-09T23:50:09Z,2026-02-09T23:50:09Z,False,0,0,[]
+microsoft/vscode,294005,fix: memory leak in utilityProcessWorkerMainService,open,SimonSiefke,2026-02-09T20:26:43Z,2026-02-09T21:45:41Z,,,False,0,0,[]
+microsoft/vscode,294002,add context menu actions to tips,closed,meganrogge,2026-02-09T20:12:37Z,2026-02-10T00:54:48Z,2026-02-10T00:54:47Z,2026-02-10T00:54:47Z,False,0,0,[]
+microsoft/vscode,294001,Fix URI scheme error in LoggerChannelClient.deregisterLogger,closed,bryanchen-d,2026-02-09T20:10:50Z,2026-02-10T17:07:57Z,2026-02-10T17:07:53Z,2026-02-10T17:07:53Z,False,0,0,[]
+microsoft/vscode,293996,do not fetch policy data if already fetched,closed,sandy081,2026-02-09T19:31:35Z,2026-02-10T20:08:29Z,2026-02-10T20:08:28Z,2026-02-10T20:08:27Z,False,0,0,[]
+microsoft/vscode,293995,do not fetch policy data if already fetched,closed,sandy081,2026-02-09T19:27:48Z,2026-02-09T23:03:55Z,2026-02-09T23:03:54Z,2026-02-09T23:03:53Z,False,0,0,[]
+microsoft/vscode,293981,Improve URI error handling and validation in logger IPC,closed,bryanchen-d,2026-02-09T19:08:45Z,2026-02-11T16:56:20Z,2026-02-11T16:56:20Z,,True,0,0,[]
+microsoft/vscode,293938,use proper role,closed,meganrogge,2026-02-09T18:31:06Z,2026-02-09T19:47:52Z,2026-02-09T19:47:51Z,2026-02-09T19:47:51Z,False,0,0,[]
+microsoft/vscode,293937,fix: memory leak in policy ipc,open,SimonSiefke,2026-02-09T18:18:35Z,2026-02-10T23:02:16Z,,,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293936,Maintain chat accessible view on queued requests,closed,Copilot,2026-02-09T18:15:34Z,2026-02-11T17:50:21Z,2026-02-11T17:50:19Z,2026-02-11T17:50:19Z,False,0,0,[]
+microsoft/vscode,293935,Fix chat accessibility progress sound for queued and non-queued requests,closed,meganrogge,2026-02-09T18:13:48Z,2026-02-09T19:08:34Z,2026-02-09T19:08:26Z,2026-02-09T19:08:25Z,False,0,0,[]
+microsoft/vscode,293932,Refine ESLint configuration to specify target files for TypeScript definitions,closed,jrieken,2026-02-09T17:57:41Z,2026-02-09T18:07:39Z,2026-02-09T18:03:11Z,,False,0,0,[]
+microsoft/vscode,293931,Make chatHooks proposal self contained,closed,mjbvz,2026-02-09T17:55:57Z,2026-02-09T18:25:48Z,2026-02-09T18:25:47Z,2026-02-09T18:25:47Z,False,0,0,[]
+microsoft/vscode,293928,Cleanup  tsgo compile,closed,mjbvz,2026-02-09T17:35:11Z,2026-02-09T18:25:22Z,2026-02-09T18:25:22Z,2026-02-09T18:25:22Z,False,0,0,[]
+microsoft/vscode,293927,Use regular foreground for agent session list titles,closed,daviddossett,2026-02-09T17:31:27Z,2026-02-09T20:08:31Z,2026-02-09T20:08:28Z,2026-02-09T20:08:28Z,False,0,0,[]
+microsoft/vscode,293924,rerender sticky scroll only on line number change not on column change,closed,aiday-mar,2026-02-09T17:27:06Z,2026-02-09T18:19:43Z,2026-02-09T18:19:39Z,2026-02-09T18:19:39Z,False,0,0,[]
+microsoft/vscode,293923,Fix build error when using tsgo,closed,mjbvz,2026-02-09T17:25:34Z,2026-02-09T17:44:36Z,2026-02-09T17:44:34Z,2026-02-09T17:44:34Z,False,0,0,[]
+microsoft/vscode,293920,Force local window for debug renderer actions,closed,Copilot,2026-02-09T17:07:02Z,2026-02-09T17:44:26Z,2026-02-09T17:44:24Z,2026-02-09T17:44:24Z,False,0,0,[]
+microsoft/vscode,293917,[Fix] MCP servers installed from registry disabled on reload,open,mpchenette,2026-02-09T16:49:09Z,2026-02-11T11:08:06Z,,,True,0,0,[]
+microsoft/vscode,293913,fix: memory leak in ipc,open,SimonSiefke,2026-02-09T16:32:59Z,2026-02-09T17:28:34Z,,,False,0,0,"[""triage-needed""]"
+microsoft/vscode,293912,Ask Question does not show that the session requires input from the user. (fix #293858),closed,bpasero,2026-02-09T16:29:45Z,2026-02-09T21:54:25Z,2026-02-09T21:54:23Z,2026-02-09T21:54:23Z,False,0,0,[]
+microsoft/vscode,293906,Update 2026 Light theme colors and enhance agent status badge styles,closed,mrleemurray,2026-02-09T15:33:21Z,2026-02-09T16:53:46Z,2026-02-09T16:53:45Z,2026-02-09T16:53:44Z,False,0,0,[]
+microsoft/vscode,293889,Fix action runner event listener registration,closed,sbatten,2026-02-09T14:38:12Z,2026-02-09T15:04:37Z,2026-02-09T15:04:35Z,2026-02-09T15:04:35Z,False,0,0,[]
+microsoft/vscode,293885,"Fix chat session showing ""In Progress"" instead of ""Needs Input"" when awaiting user response",closed,Copilot,2026-02-09T14:02:43Z,2026-02-09T16:33:11Z,2026-02-09T16:33:11Z,,True,0,0,[]
+microsoft/vscode,293867,"Fix IDisposable leaks in logsDataCleaner, serverServices, and standaloneServices",closed,sandy081,2026-02-09T12:59:53Z,2026-02-09T15:01:52Z,2026-02-09T15:01:51Z,2026-02-09T15:01:50Z,False,0,0,[]
+microsoft/vscode,293865,Fix backdrop-filter issue in quick chat widget,closed,mrleemurray,2026-02-09T12:43:50Z,2026-02-09T15:04:07Z,2026-02-09T15:04:05Z,2026-02-09T15:04:05Z,False,0,0,[]
+microsoft/vscode,293861,Add support for restart required extensions in the extensions view,open,mrleemurray,2026-02-09T12:18:15Z,2026-02-10T11:08:25Z,,,False,0,0,[]
+microsoft/vscode,293857,adding prompt completions,open,aiday-mar,2026-02-09T12:05:38Z,2026-02-09T12:16:04Z,,,True,0,0,"[""exploration""]"
+microsoft/vscode,293845,Try harder to ignore user data files,closed,alexr00,2026-02-09T10:50:44Z,2026-02-09T15:02:43Z,2026-02-09T15:02:41Z,2026-02-09T15:02:41Z,False,0,0,[]
+microsoft/vscode,293837,fix: cancel debug launch when ESC is pressed on input variable dialog,open,na3shkw,2026-02-09T10:12:43Z,2026-02-11T13:26:21Z,,,False,0,0,[]
+microsoft/vscode,293833,Support rendering links in ChatCollapsibleInputOutputContentPart,closed,DonJayamanne,2026-02-09T10:03:10Z,2026-02-09T10:33:30Z,2026-02-09T10:33:03Z,2026-02-09T10:33:03Z,False,0,0,[]
+microsoft/vscode,293832,fix: restrict internal tool bypass to explicitly non-referenceable infrastructure tools,closed,Copilot,2026-02-09T09:37:44Z,2026-02-09T15:26:29Z,2026-02-09T15:26:27Z,2026-02-09T15:26:27Z,False,0,0,[]
+microsoft/vscode,293829,support claude rules,closed,aeschli,2026-02-09T09:01:04Z,2026-02-10T23:14:54Z,2026-02-09T21:40:29Z,2026-02-09T21:40:29Z,False,0,0,[]
+microsoft/vscode,293825,Add `offWhenInlineCompletions` value and string shorthand for `editor.quickSuggestions`,closed,Copilot,2026-02-09T07:56:12Z,2026-02-10T09:37:19Z,2026-02-10T09:37:16Z,2026-02-10T09:37:16Z,False,0,0,[]
+microsoft/vscode,293824,"Revert ""Bump tar and dmg-builder in /build (#293531)""",closed,deepak1556,2026-02-09T07:51:05Z,2026-02-09T08:27:03Z,2026-02-09T08:27:01Z,2026-02-09T08:27:01Z,False,0,0,[]
+microsoft/vscode,293822,Fix vertical alignment of text and icons in status bar,open,ramanverse,2026-02-09T07:42:27Z,2026-02-11T10:52:27Z,,,False,0,0,[]
+microsoft/vscode,293819,fix: stop unbounded websocket inflate-byte recording,closed,SongXiaoXi,2026-02-09T07:37:26Z,2026-02-11T20:07:40Z,2026-02-11T20:07:40Z,2026-02-11T20:07:40Z,False,0,0,[]
+microsoft/vscode,293814,debt - fix some leaks found by copilot,closed,bpasero,2026-02-09T06:20:14Z,2026-02-09T07:24:20Z,2026-02-09T07:24:19Z,2026-02-09T07:24:19Z,False,0,0,[]
+microsoft/vscode,293811,Don't fail hooks when missing token,closed,roblourens,2026-02-09T05:28:58Z,2026-02-09T05:56:06Z,2026-02-09T05:56:05Z,2026-02-09T05:56:05Z,False,0,0,[]
+microsoft/vscode,293794,fix: #206121,open,RedCMD,2026-02-09T01:17:30Z,2026-02-09T01:41:28Z,,,False,0,0,[]
+microsoft/vscode,293793,chat hook rendering for pre/post tool hooks,closed,justschen,2026-02-09T01:14:49Z,2026-02-11T20:59:52Z,2026-02-11T20:59:52Z,,False,0,0,[]
+microsoft/vscode,293790,fix: Extension contributes snippets defaultSnippets,open,RedCMD,2026-02-09T00:43:00Z,2026-02-09T18:49:43Z,,,False,0,0,"[""triage-needed""]"
+golang/go,77514,context: fix outdated documentation,open,adeel26in,2026-02-09T17:52:09Z,2026-02-11T14:14:44Z,,,False,0,0,[]
+golang/go,77512,context: fix documentation,closed,adeel26in,2026-02-09T17:46:41Z,2026-02-09T17:55:35Z,2026-02-09T17:49:46Z,,False,0,0,[]
+golang/go,77505,net/smtp: replace localhostCert and localhostKey,open,toddy15,2026-02-09T10:20:14Z,2026-02-09T10:20:27Z,,,False,0,0,[]
+golang/go,77501,crypto/tls: gate resumption expiry checks on verification mode,open,ThanhNguyxn,2026-02-09T05:42:03Z,2026-02-09T06:44:07Z,,,False,0,0,[]
+golang/go,77500,cmd/go/internal/bug: sync go bug headings with GitHub form,open,ThanhNguyxn,2026-02-09T04:45:29Z,2026-02-09T23:43:57Z,,,False,0,0,[]
+apache/spark,54240,[SPARK-55460][PYTHON] Remove E203 from ruff's ignore list,closed,gaogaotiantian,2026-02-09T23:54:45Z,2026-02-10T21:53:55Z,2026-02-10T07:37:24Z,,False,0,0,[]
+apache/spark,54239,[SPARK-55459][PYTHON] Fix 3x performance regression in applyInPandas for large groups,closed,Yicong-Huang,2026-02-09T23:23:52Z,2026-02-10T02:45:54Z,2026-02-10T02:45:36Z,,False,0,0,[]
+apache/spark,54238,[SPARK-55458][PYTHON][TESTS] Apply the new test pattern for newly added tests,closed,gaogaotiantian,2026-02-09T22:58:53Z,2026-02-10T21:54:07Z,2026-02-10T07:38:33Z,,False,0,0,[]
+apache/spark,54237,[SPARK-55416][SS][PYTHON] Streaming Python Data Source memory leak when end-offset is not updated,open,vinodkc,2026-02-09T22:48:33Z,2026-02-12T05:01:59Z,,,False,0,0,[]
+apache/spark,54236,[SPARK-55471] Add optimizer support for SequentialStreamingUnion,open,ericm-db,2026-02-09T22:21:51Z,2026-02-10T18:41:31Z,,,False,0,0,[]
+apache/spark,54235,[SPARK-55457][INFRA] Add `logging.warning` check in ruff,closed,gaogaotiantian,2026-02-09T22:21:50Z,2026-02-10T21:54:20Z,2026-02-10T03:51:20Z,,False,0,0,[]
+apache/spark,54234, [RocksDB] Add tests for supported compression types in RocksDB.,closed,fedimser,2026-02-09T21:56:45Z,2026-02-11T00:02:08Z,2026-02-10T23:19:48Z,,False,0,0,[]
+apache/spark,54233,[SPARK-55456][BUILD] Upgrade `zstd-jni` to 1.5.7-7,closed,dongjoon-hyun,2026-02-09T21:31:40Z,2026-02-10T00:15:38Z,2026-02-10T00:14:55Z,,False,0,0,[]
+apache/spark,54232,[SPARK-55455][BUILD] Upgrade `RoaringBitmap` to 1.6.0,closed,dongjoon-hyun,2026-02-09T21:04:58Z,2026-02-09T22:49:34Z,2026-02-09T22:48:03Z,,False,0,0,[]
+apache/spark,54231,[SPARK-55279][SQL][FOLLOW-UP] Add sketch_funcs and Datasketch grouping for SQL functions,open,cboumalh,2026-02-09T20:46:38Z,2026-02-12T00:00:41Z,,,False,0,0,[]
+apache/spark,54230,"[SPARK-55451][SQL] Cursors must start collecting results on OPEN, not first FETCH",closed,srielau,2026-02-09T18:59:00Z,2026-02-10T22:06:28Z,2026-02-10T22:06:28Z,,False,0,0,[]
+apache/spark,54229,[SPARK-55405][PYTHON][TESTS][FOLLOWUP] Add safe=False tests for PyArrow Array.cast(),closed,Yicong-Huang,2026-02-09T16:26:33Z,2026-02-10T02:47:33Z,2026-02-10T02:47:16Z,,False,0,0,[]
+apache/spark,54228,[SPARK-55405][PYTHON][TESTS][FOLLOWUP] Skip PyArrow array cast tests when numpy < 2.0,closed,Yicong-Huang,2026-02-09T15:14:04Z,2026-02-11T01:23:46Z,2026-02-11T01:23:33Z,,False,0,0,[]
+apache/spark,54227,[SPARK-55449][Geo][SQL] Enable WKB parsing and writing for Geography,open,uros-db,2026-02-09T14:59:18Z,2026-02-12T09:33:17Z,,,False,0,0,[]
+apache/spark,54226,[SPARK-55385][CORE][SQL][FOLLOWUP] Rename preservesDistribution to preservesPartitionSizes,closed,cloud-fan,2026-02-09T12:55:38Z,2026-02-10T00:05:38Z,2026-02-10T00:05:22Z,,False,0,0,[]
+apache/spark,54225,[SPARK-55448][CONNECT] Fix query events loss when session closes during query execution,open,biruktesf-db,2026-02-09T12:38:56Z,2026-02-09T12:39:08Z,,,False,0,0,[]
+apache/spark,54224,[SPARK-55447][CORE] Fix spark.cleaner.referenceTracking.blocking.timeout config,closed,EnricoMi,2026-02-09T10:33:10Z,2026-02-12T10:00:18Z,2026-02-11T15:38:19Z,,False,0,0,[]
+apache/spark,54223,[SPARK-55440][SQL] Types Framework - Phase 1a - Core Type System Foundation,open,davidm-db,2026-02-09T09:20:14Z,2026-02-09T09:25:12Z,,,False,0,0,[]
+apache/spark,54222,[SPARK-55446][PYTHON][INFRA] Upgrade python to 3.12 in UDS/noANSI/RockDB tests,closed,zhengruifeng,2026-02-09T08:55:11Z,2026-02-09T09:56:28Z,2026-02-09T09:56:07Z,,False,0,0,[]
+apache/spark,54221,[SPARK-55437][INFRA][R] Upgrade SparkR test image to Ubuntu 24.04,closed,zhengruifeng,2026-02-09T07:47:28Z,2026-02-09T08:33:09Z,2026-02-09T08:32:24Z,,False,0,0,[]
+apache/spark,54220,[SPARK-55436][INFRA] Upgrade lint and doc test images to Ubuntu 24.04,closed,zhengruifeng,2026-02-09T03:43:23Z,2026-02-09T07:44:19Z,2026-02-09T06:42:51Z,,False,0,0,[]
+apache/spark,54219,[MINOR][INFRA] Use `lsb_release -a` to display the container os version,closed,zhengruifeng,2026-02-09T02:43:27Z,2026-02-09T04:33:50Z,2026-02-09T04:33:36Z,,False,0,0,[]
+apache/spark,54218,[SPARK-55435][CORE][SQL] Use `StringBuilder` instead of `StringBuffer`,closed,LuciferYang,2026-02-09T02:43:19Z,2026-02-09T07:04:42Z,2026-02-09T07:04:05Z,,False,0,0,[]
+langchain-ai/langchain,35115,fix: handle self kwarg in StructuredTool inputs,closed,DEVELOPER-DEEVEN,2026-02-09T23:50:13Z,2026-02-11T15:27:35Z,2026-02-11T15:27:35Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,35114,fix: filter duplicates in BaseChatMemory list_messages,closed,DEVELOPER-DEEVEN,2026-02-09T23:49:33Z,2026-02-11T17:25:25Z,2026-02-11T17:25:25Z,,False,0,0,"[""core"", ""fix"", ""external""]"
+langchain-ai/langchain,35113,feat(text-splitters): add model_kwargs to SentenceTransformersTokenTextSplitter,closed,kela4,2026-02-09T22:45:58Z,2026-02-11T17:26:58Z,2026-02-11T17:26:58Z,2026-02-11T17:26:58Z,False,0,0,"[""text-splitters"", ""feature"", ""external""]"
+langchain-ai/langchain,35112,fix: handle empty input in MultiPromptChain,closed,DEVELOPER-DEEVEN,2026-02-09T22:41:16Z,2026-02-11T17:28:50Z,2026-02-11T17:28:50Z,,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""openai"", ""external""]"
+langchain-ai/langchain,35111,chore(standard-tests): test suite for sandbox only,closed,eyurtsev,2026-02-09T21:47:59Z,2026-02-10T03:14:07Z,2026-02-10T03:14:06Z,2026-02-10T03:14:06Z,False,0,0,"[""standard-tests"", ""infra"", ""internal""]"
+langchain-ai/langchain,35110,Validate Anthropic messages before request,closed,DEVELOPER-DEEVEN,2026-02-09T21:46:51Z,2026-02-11T15:11:48Z,2026-02-11T15:11:48Z,,False,0,0,"[""integration"", ""anthropic"", ""external""]"
+langchain-ai/langchain,35109,fix: separating groups of directories,closed,jkennedyvz,2026-02-09T21:11:45Z,2026-02-10T05:36:20Z,2026-02-10T05:36:18Z,2026-02-10T05:36:18Z,False,0,0,"[""fix"", ""internal""]"
+langchain-ai/langchain,35108,chore(deps): bump the uv group across 20 directories with 1 update,closed,dependabot[bot],2026-02-09T20:46:53Z,2026-02-10T05:37:47Z,2026-02-10T05:37:38Z,,False,0,0,"[""integration"", ""core"", ""langchain"", ""standard-tests"", ""infra"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""anthropic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]"
+langchain-ai/langchain,35107,chore(deps): bump the uv group across 19 directories with 1 update,closed,dependabot[bot],2026-02-09T20:46:13Z,2026-02-09T20:53:20Z,2026-02-09T20:46:58Z,,False,0,0,"[""integration"", ""langchain"", ""standard-tests"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""anthropic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]"
+langchain-ai/langchain,35106,chore(deps): bump the uv group across 17 directories with 1 update,closed,dependabot[bot],2026-02-09T20:45:09Z,2026-02-09T20:52:22Z,2026-02-09T20:46:19Z,,False,0,0,"[""integration"", ""langchain"", ""infra"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""model-profiles"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]"
+langchain-ai/langchain,35105,Fix Blob MIME guessing defaults and align mustache render docs,closed,DEVELOPER-DEEVEN,2026-02-09T20:44:47Z,2026-02-11T17:34:46Z,2026-02-11T17:34:46Z,,False,0,0,"[""core"", ""external""]"
+langchain-ai/langchain,35104,chore(deps): bump the uv group across 15 directories with 1 update,closed,dependabot[bot],2026-02-09T20:44:22Z,2026-02-09T20:51:52Z,2026-02-09T20:45:15Z,,False,0,0,"[""integration"", ""infra"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""openai"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]"
+langchain-ai/langchain,35103,chore(deps): bump the uv group across 14 directories with 1 update,closed,dependabot[bot],2026-02-09T20:43:38Z,2026-02-09T20:50:48Z,2026-02-09T20:44:27Z,,False,0,0,"[""integration"", ""infra"", ""text-splitters"", ""dependencies"", ""langchain-classic"", ""chroma"", ""deepseek"", ""exa"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""nomic"", ""ollama"", ""perplexity"", ""qdrant"", ""xai"", ""python:uv"", ""external""]"
+langchain-ai/langchain,35102,FixedHuman In the Loop Middleware throws error,closed,Nitin75408,2026-02-09T20:30:40Z,2026-02-10T17:21:08Z,2026-02-10T17:21:08Z,,False,0,0,"[""langchain""]"
+langchain-ai/langchain,35101,fix(langchain): fix token counting on partial message sequences,closed,ccurme,2026-02-09T20:25:15Z,2026-02-09T20:27:19Z,2026-02-09T20:27:17Z,2026-02-09T20:27:17Z,False,0,0,"[""langchain"", ""fix"", ""internal""]"
+langchain-ai/langchain,35100,refactor(langchain): rename `_SUPPORTED_PROVIDERS` -> `_BUILTIN_PROVIDERS`,closed,mdrxy,2026-02-09T20:14:35Z,2026-02-09T20:26:03Z,2026-02-09T20:26:01Z,2026-02-09T20:26:01Z,False,0,0,"[""langchain"", ""refactor"", ""internal""]"
+langchain-ai/langchain,35099,"feat(core): add ContextOverflowError, raise in anthropic and openai",closed,ccurme,2026-02-09T17:12:30Z,2026-02-09T20:15:36Z,2026-02-09T20:15:34Z,2026-02-09T20:15:34Z,False,0,0,"[""integration"", ""core"", ""feature"", ""anthropic"", ""openai"", ""internal""]"
+langchain-ai/langchain,35098,feat(core): count tokens from tool schemas in `count_tokens_approximately`,closed,ccurme,2026-02-09T15:20:24Z,2026-02-09T19:11:02Z,2026-02-09T19:10:44Z,2026-02-09T19:10:44Z,False,0,0,"[""core""]"
+langchain-ai/langchain,35097,release(openai): 1.1.8,closed,ccurme,2026-02-09T15:12:58Z,2026-02-09T15:22:00Z,2026-02-09T15:21:57Z,2026-02-09T15:21:57Z,False,0,0,"[""integration"", ""release"", ""dependencies"", ""openai"", ""internal""]"
+langchain-ai/langchain,35095,Fixed bug HuggingFacePipeline lacks,open,Nitin75408,2026-02-09T11:08:05Z,2026-02-10T17:42:10Z,,,True,0,0,"[""integration"", ""core"", ""huggingface"", ""external""]"
+langchain-ai/langchain,35094,fix(deepseek): include reasoning_content in assistant tool-call,open,Leeaoyin,2026-02-09T10:06:26Z,2026-02-11T17:42:23Z,,,False,0,0,"[""integration"", ""fix"", ""deepseek"", ""external""]"
+langchain-ai/langchain,35093,fix(deepseek): include reasoning_content in assistant tool-call ,closed,Leeaoyin,2026-02-09T09:29:49Z,2026-02-09T09:35:07Z,2026-02-09T09:34:53Z,,False,0,0,"[""integration"", ""fix"", ""deepseek"", ""external""]"
+langchain-ai/langchain,35092,feat(langchain): add Noma guardrails middleware and tests,closed,TomAlon,2026-02-09T09:21:31Z,2026-02-10T17:27:54Z,2026-02-10T17:27:53Z,,False,0,0,"[""langchain"", ""feature"", ""external""]"
+langchain-ai/langchain,35091,Added ChatAnthropicBedrock wrapper,open,Nitin75408,2026-02-09T08:57:28Z,2026-02-10T17:42:22Z,,,True,0,0,"[""integration"", ""core"", ""anthropic"", ""external""]"
+langchain-ai/langchain,35090,feat(text-splitters): add parameters to SentenceTransformersTokenTextSplitter,closed,jasiecky,2026-02-09T08:42:06Z,2026-02-11T17:43:52Z,2026-02-11T17:43:52Z,,True,0,0,"[""text-splitters"", ""feature"", ""external""]"
+langchain-ai/langchain,35089,feat(langchain): allow callbacks to interrupt agent execution (circui…,closed,justin55afdfdsf5ds45f4ds5f45ds4,2026-02-09T08:28:00Z,2026-02-11T17:45:46Z,2026-02-11T17:45:46Z,,False,0,0,"[""core"", ""feature"", ""langchain-classic""]"
+langchain-ai/langchain,35088,docs(core): add missing `name` docstring for `RunnableSerializable`,closed,mdrxy,2026-02-09T06:54:36Z,2026-02-09T06:59:47Z,2026-02-09T06:59:45Z,2026-02-09T06:59:45Z,False,0,0,"[""documentation"", ""core"", ""internal""]"
+langchain-ai/langchain,35087,fix(openai): promote client caching to all Azure and standard OpenAI classes,closed,VintLin,2026-02-09T06:17:05Z,2026-02-11T14:29:30Z,2026-02-11T14:29:30Z,,False,0,0,"[""integration"", ""fix"", ""openai"", ""external""]"
+langchain-ai/langchain,35086,Fixed ChatAnthropic fails,closed,Nitin75408,2026-02-09T04:52:10Z,2026-02-11T17:51:25Z,2026-02-11T17:51:25Z,,True,0,0,"[""integration"", ""core"", ""anthropic"", ""external""]"
+langchain-ai/langchain,35085,feat(langchain): attach inference metadata to `init_chat_model` models,closed,mdrxy,2026-02-09T04:31:06Z,2026-02-10T08:48:34Z,2026-02-10T08:48:34Z,,False,0,0,"[""langchain"", ""feature"", ""internal""]"
+langchain-ai/langchain,35084,feat(model-profiles): add `text_inputs` and `text_outputs`,closed,mdrxy,2026-02-09T04:14:40Z,2026-02-09T19:50:12Z,2026-02-09T19:50:09Z,2026-02-09T19:50:09Z,False,0,0,"[""integration"", ""core"", ""feature"", ""model-profiles"", ""anthropic"", ""deepseek"", ""fireworks"", ""groq"", ""huggingface"", ""mistralai"", ""openai"", ""perplexity"", ""xai"", ""internal""]"
+langchain-ai/langchain,35083,fix(anthropic): fix AttributeError in AnthropicPromptCachingMiddleware,closed,ChamaruAmasara,2026-02-09T03:02:35Z,2026-02-09T03:32:34Z,2026-02-09T03:32:34Z,,False,0,0,"[""integration"", ""fix"", ""anthropic"", ""external""]"
+langchain-ai/langchain,35080,chore(openai): response.output_item.added update,open,keenborder786,2026-02-09T01:02:31Z,2026-02-11T20:36:56Z,,,False,0,0,"[""integration"", ""infra"", ""openai"", ""external""]"
+langchain-ai/langchain,35079,fix(text-splitters): prevent silent data loss for empty dict values in RecursiveJsonSplitter,open,keenborder786,2026-02-09T00:35:11Z,2026-02-11T20:51:08Z,,,False,0,0,"[""text-splitters"", ""fix"", ""external""]"
+pallets/flask,5914,add ENOTDIR to from_file silent error handling,closed,abdullahmujahidali,2026-02-09T02:34:33Z,2026-02-09T03:59:06Z,2026-02-09T03:59:06Z,,False,0,0,[]
+docker/compose,13578,build(deps): bump golang.org/x/sys from 0.40.0 to 0.41.0,closed,dependabot[bot],2026-02-09T09:20:53Z,2026-02-09T09:32:00Z,2026-02-09T09:31:59Z,2026-02-09T09:31:59Z,False,0,0,"[""dependencies"", ""go""]"
+duckdb/duckdb,20881,Settings::Get should handle also the case of a setting being NULL,closed,carlopi,2026-02-09T20:43:59Z,2026-02-10T06:50:46Z,2026-02-10T06:50:24Z,2026-02-10T06:50:24Z,False,0,0,[]
+duckdb/duckdb,20879,Internal #7360: ICU ARM Patch,closed,hawkfish,2026-02-09T19:31:31Z,2026-02-10T17:01:06Z,2026-02-10T08:00:56Z,2026-02-10T08:00:56Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20878,Avoid writing tag for CTR in WAL,closed,ccfelius,2026-02-09T16:51:47Z,2026-02-10T19:27:39Z,2026-02-10T08:09:08Z,2026-02-10T08:09:08Z,False,0,0,[]
+duckdb/duckdb,20877,When httpfs do https,closed,carlopi,2026-02-09T16:05:19Z,2026-02-10T14:49:14Z,2026-02-10T14:24:48Z,2026-02-10T14:24:48Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20876,Fix test issue with `approx_count_distinct` in `USING KEY`,closed,cryoEncryp,2026-02-09T14:30:47Z,2026-02-10T21:05:46Z,2026-02-10T21:05:45Z,2026-02-10T21:05:45Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20874,Add back `PurgeAgedBlocks`,closed,jeewonhh,2026-02-09T13:10:29Z,2026-02-10T13:21:59Z,2026-02-10T08:01:14Z,2026-02-10T08:01:14Z,False,0,0,"[""CI Failure""]"
+duckdb/duckdb,20873,Add -h flag to CLI to display help message,closed,hannes,2026-02-09T12:56:40Z,2026-02-10T08:01:28Z,2026-02-10T08:01:25Z,2026-02-10T08:01:25Z,False,0,0,[]
+duckdb/duckdb,20872,Print a warning when running on Rosetta,closed,hannes,2026-02-09T12:40:52Z,2026-02-10T08:05:07Z,2026-02-10T08:05:04Z,2026-02-10T08:05:04Z,False,0,0,[]
+duckdb/duckdb,20871,Fix deadlock in `BlockManager::BlockIsRegistered`,closed,Mytherin,2026-02-09T11:49:38Z,2026-02-10T08:05:20Z,2026-02-10T08:05:20Z,2026-02-10T08:05:20Z,False,0,0,[]
+duckdb/duckdb,20870,Fix PEG parser not handling `CREATE SECRET` properly,open,Dtenwolde,2026-02-09T10:28:47Z,2026-02-12T09:47:04Z,,,False,0,0,[]
+duckdb/duckdb,20869,Add VERIFY_SSL as optional parameter for HTTP and S3 secrets,closed,carlopi,2026-02-09T09:59:18Z,2026-02-10T20:01:47Z,2026-02-10T17:21:10Z,2026-02-10T17:21:10Z,False,0,0,"[""Ready For Review""]"
+duckdb/duckdb,20868,Decrement evicted memory size when reading back temp buffer,closed,Maxxen,2026-02-09T09:13:31Z,2026-02-12T08:54:43Z,2026-02-12T08:54:43Z,2026-02-12T08:54:43Z,False,0,0,"[""Ready To Merge""]"
+duckdb/duckdb,20864,Fix correlated CTE binding order and dependent-join propagation,open,2jungkook,2026-02-09T03:18:55Z,2026-02-09T08:53:08Z,,,False,0,0,"[""Changes Requested""]"
+duckdb/duckdb,20863,Bump odbc_scanner,closed,staticlibs,2026-02-09T00:07:25Z,2026-02-10T08:21:11Z,2026-02-10T08:21:11Z,2026-02-10T08:21:11Z,False,0,0,"[""Ready To Merge""]"
